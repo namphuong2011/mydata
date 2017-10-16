@@ -1,10 +1,10 @@
- [{
-  "firstName": "John",
-  "score": "302"
-  }, {
-  "firstName": "Anna",
-  "score": "288"
-  }, {
-  "firstName": "Peter",
-  "score": "243"
-  }]
+[{
+    "firstName": "John",
+    "score": "302"
+}, {
+    "firstName": "Anna",
+    "score": "288"
+}, {
+    "firstName": "Peter",
+    "score": "243"
+}]
