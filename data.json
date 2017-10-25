@@ -1,4 +1,6 @@
-[{
+{"bannner":"1",
+ "inter":"1",
+ "tabs":[{
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
     "header": "Gần đây",
@@ -64,3 +66,4 @@
               {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&order=date&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs&channelId=UCbpnKBLXllcDhkACf0Z0ASQ"}
               ]
 }]
+}
