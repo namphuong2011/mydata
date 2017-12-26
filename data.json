@@ -29,30 +29,30 @@
     "bgcolor":"0x9575cd",
     "txtcolor":"0xe1bee7",
     "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&order=date&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs&list=PLnP9G2faQtXKJZJdAwbtBhkCJfZq9Begp"},
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&order=date&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs&list=PLnP9G2faQtXKJZJdAwbtBhkCJfZq9Begp"},
               
               ]
 },
 {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Phương Anh",
+    "header": "Trữ tình ngọt ngào",
     "bgcolor":"0x9575cd",
     "txtcolor":"0xe1bee7",
     "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&order=date&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs&channelId=UCQ7DYBMi_Lb9uEgfZ_NLF2g"},
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&order=date&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs&channelId=UCbpnKBLXllcDhkACf0Z0ASQ"}
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&order=date&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs&channelId=UCChpfu0HI8HA5PeBOUut1cg"},
+             
               ]
 },
 {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Yêu Thích",
+    "header": "Nhạc chọn lọc",
     "bgcolor":"0x9575cd",
     "txtcolor":"0xe1bee7",
     "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&order=date&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs&channelId=UCQ7DYBMi_Lb9uEgfZ_NLF2g"},
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&order=date&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs&channelId=UCbpnKBLXllcDhkACf0Z0ASQ"}
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&order=date&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs&channelId=UCQAoa_pb8vdxDO0SW_a3QZw"},
+              
               ]
 }
 ,
