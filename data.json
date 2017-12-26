@@ -14,11 +14,11 @@
 },{
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Trữ Tình",
+    "header": "Liên khúc trữ tình",
     "bgcolor":"0x9575cd",
     "txtcolor":"0xe1bee7",
     "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&order=date&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs&channelId=UCBZjBKNMZoFih4ubdiIDWLw"},
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&order=date&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs&channelId=UCLOY3XMrUjUJtJDtkXPE8zQ"},
              
               ]
 },
