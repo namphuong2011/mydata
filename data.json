@@ -29,7 +29,7 @@
     "bgcolor":"0x9575cd",
     "txtcolor":"0xe1bee7",
     "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&order=date&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs&channelId=UCkY3WDvhLWJ9Tv3CjVHD4RA"},
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs&channelId=UCkY3WDvhLWJ9Tv3CjVHD4RA"},
               
               ]
 },
