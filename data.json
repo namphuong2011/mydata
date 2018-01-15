@@ -9,7 +9,7 @@
     "txtcolor":"0xe1bee7",
     "items": [
               
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=xuann&maxResults=25&order=date&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs&channelId=UCBZGP9UDDe9kVnLWTeBZu6w"}
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=xuann&maxResults=25&order=date&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs"}
               ]
 },{
     "id":"recent",
