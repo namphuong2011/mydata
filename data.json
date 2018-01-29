@@ -4,6 +4,16 @@
  "tabs":[{
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Xuân Thuý Nga",
+    "bgcolor":"0xab47bc",
+    "txtcolor":"0xfafafa",
+    "items": [
+              
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=xu%C3%A2n&order=date&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs&channelId=UC7nMrW3baKp0dA5Tz9ulVYQ"}
+              ]
+},{
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
     "header": "Trữ Tình Ngọt Ngào",
     "bgcolor":"0xab47bc",
     "txtcolor":"0xfafafa",
