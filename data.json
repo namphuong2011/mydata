@@ -8,7 +8,7 @@
     "bgcolor":"0x33691e",
     "txtcolor":"0xfafafa",
     "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=truy%E1%BB%87n+c%C6%B0%E1%BB%9Di+nguy%E1%BB%85n+ng%E1%BB%8Dc+ng%E1%BA%A1n&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs"},
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=150&q=truy%E1%BB%87n+c%C6%B0%E1%BB%9Di+nguy%E1%BB%85n+ng%E1%BB%8Dc+ng%E1%BA%A1n&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs"},
               ]
 },{
     "id":"recent",
