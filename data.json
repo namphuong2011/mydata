@@ -8,7 +8,7 @@
     "bgcolor":"0x33691e",
     "txtcolor":"0xfafafa",
     "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=karaoke+bolero&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs"}
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=100&q=karaoke+bolero&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs"}
               ]
 },{
     "id":"recent",
