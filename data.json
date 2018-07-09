@@ -18,7 +18,7 @@
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
     "header": "Hồ Hoàng Yến",
-    "bgcolor":"0xff1744",
+    "bgcolor":"0xe91e63",
     "txtcolor":"0xfafafa",
     "items": [
               {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=h%E1%BB%93+ho%C3%A0ng+y%E1%BA%BFn+asia+live+show&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs"},
@@ -29,7 +29,7 @@
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
     "header": "Ngọc Anh Vi",
-    "bgcolor":"0xff1744",
+    "bgcolor":"0xe91e63",
     "txtcolor":"0xfafafa",
     "items": [
               {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=ng%E1%BB%8Dc+anh+vi+asia&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs"},
@@ -39,7 +39,7 @@
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
     "header": "Hà Thanh Xuân",
-    "bgcolor":"0xff1744",
+    "bgcolor":"0xff4081",
     "txtcolor":"0xfafafa",
     "items": [
               {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=h%C3%A0+thanh+xu%C3%A2n+asia&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs"},
@@ -49,7 +49,7 @@
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
     "header": "Hoàng Thục Linh",
-    "bgcolor":"0xff1744",
+    "bgcolor":"0xff4081",
     "txtcolor":"0xfafafa",
     "items": [
               {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=ho%C3%A0ng+th%E1%BB%A5c+linh+asia&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs"},
