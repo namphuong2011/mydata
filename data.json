@@ -14,6 +14,28 @@
               ]
 }],
  "tabs":[
+          {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Làm việc tập trung",
+    "bgcolor":"0xff3d00",
+    "txtcolor":"0xfafafa",
+    "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+nh%E1%BA%B9+nghe+d%E1%BB%85+ng%E1%BB%A7&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs"}
+
+              ]
+},
+        {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Đêm khuya",
+    "bgcolor":"0x757575",
+    "txtcolor":"0xfafafa",
+    "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+nh%E1%BA%B9+nghe+d%E1%BB%85+ng%E1%BB%A7&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs"}
+
+              ]
+},
       {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
