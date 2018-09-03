@@ -18,7 +18,7 @@
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
     "header": "Nhạc xưa",
-    "bgcolor":"0xffcdd2",
+    "bgcolor":"0x6a1b9a",
     "txtcolor":"0xfafafa",
     "items": [
               {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+x%C6%B0a+b%E1%BA%A5t+h%E1%BB%A7&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
