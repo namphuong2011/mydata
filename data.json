@@ -10,7 +10,7 @@
    "function":"rate",
     "txtcolor":"0xfafafa",
     "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=karaoke+bolero&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs"}
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=karaoke+bolero&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
               ]
 }],
  "tabs":[
@@ -21,7 +21,7 @@
     "bgcolor":"0x9c27b0",
     "txtcolor":"0xfafafa",
     "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+x%C6%B0a+b%E1%BA%A5t+h%E1%BB%A7&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs"}
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+x%C6%B0a+b%E1%BA%A5t+h%E1%BB%A7&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
 
               ]
 },
@@ -32,7 +32,7 @@
     "bgcolor":"0xff5722",
     "txtcolor":"0xfafafa",
     "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+t%E1%BA%ADp+gym&key=AIzaSyDJA2UzTIn6py0Zf4U_88h73e4h-L9gLzs"}
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+t%E1%BA%ADp+gym&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
 
               ]
 },
