@@ -261,8 +261,8 @@
     "bgcolor":"0xf44336",
     "txtcolor":"0xfafafa",
     "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=Paris+By+Night+-+Xu%C3%A2n&order=date&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=xu%C3%A2n&order=date&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+xu%C3%A2n+thu%C3%BD+nga+paris+by+night&order=date&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+th%C3%BAy+nga+paris+by+night+m%E1%BB%9Bi+nh%E1%BA%A5t+xu%C3%A2n&order=date&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
               ]
 },{
     "id":"recent",
@@ -282,7 +282,7 @@
     "txtcolor":"0xfafafa",
     "items": [
               
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&order=date&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&order=date&q=t%E1%BB%95ng+h%E1%BB%A3p+karik+orange&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
               ]
 },{
     "id":"recent",
