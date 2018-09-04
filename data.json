@@ -14,6 +14,17 @@
               ]
 }],
  "tabs":[
+                        {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Mùa Hè",
+    "bgcolor":"0xf44336",
+    "txtcolor":"0xfafafa",
+    "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+m%C3%B9a+h%C3%A8+tu%E1%BB%95i+h%E1%BB%8Dc+tr%C3%B2&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+
+              ]
+},
                       {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
