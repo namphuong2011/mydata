@@ -303,7 +303,7 @@
     "txtcolor":"0xe1bee7",
     "items": [
               
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&order=date&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&order=date&q=m%E1%BB%9Bi+nh%E1%BA%A5t+li%C3%AAn+kh%C3%BAc+tr%E1%BB%AF+t%C3%ACnh&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
               ]
 },{
     "id":"recent",
@@ -312,7 +312,7 @@
     "bgcolor":"0x9575cd",
     "txtcolor":"0xe1bee7",
     "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=li%C3%AAn+kh%C3%BAc+tr%E1%BB%AF+t%C3%ACnh&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
              
               ]
 },
@@ -323,7 +323,7 @@
     "bgcolor":"0x9575cd",
     "txtcolor":"0xe1bee7",
     "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=qu%E1%BB%B3nh+trang+ph%C6%B0%C6%A1ng+anh&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
               
               ]
 },
@@ -334,7 +334,7 @@
     "bgcolor":"0x9575cd",
     "txtcolor":"0xe1bee7",
     "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&order=date&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&order=date&q=tr%E1%BB%AF+t%C3%ACnh+ng%E1%BB%8Dt+ng%C3%A0o&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
              
               ]
 },
@@ -345,7 +345,7 @@
     "bgcolor":"0x9575cd",
     "txtcolor":"0xe1bee7",
     "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&order=date&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&order=date&q=nh%E1%BA%A1c+ch%E1%BB%8Dn+l%E1%BB%8Dc&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
               
               ]
 }
@@ -357,8 +357,8 @@
     "bgcolor":"0x9575cd",
     "txtcolor":"0xe1bee7",
     "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&order=date&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&order=date&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&order=date&q=tr%E1%BB%AF+t%C3%ACnh+ph%C6%B0%C6%A1ng+anh+qu%E1%BB%B3nh+trang&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&order=date&q=tr%E1%BB%AF+t%C3%ACnh+ca+s%C4%A9+tr%E1%BA%BB+h%C3%A1t+bolero&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
               ]
 }]
 }
