@@ -267,12 +267,12 @@
 },{
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Trữ Tình Ngọt Ngào",
+    "header": "Không lời",
     "bgcolor":"0xab47bc",
     "txtcolor":"0xfafafa",
     "items": [
               
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&order=date&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&order=date&q=nh%E1%BA%A1c+kh%C3%B4ng+l%E1%BB%9Di&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
               ]
 },{
     "id":"recent",
@@ -346,7 +346,12 @@
     "txtcolor":"0xe1bee7",
     "items": [
               {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&order=date&q=nh%E1%BA%A1c+ch%E1%BB%8Dn+l%E1%BB%8Dc&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
-              
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=giang+t%E1%BB%AD&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=giao+linh&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=ch%E1%BA%BF+linh&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=ho%E1%BA%A1+mi+h%E1%BA%A3i+ngo%E1%BA%A1i&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=ph%C6%B0%C6%A1ng+dung&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
+
               ]
 }
 ,
