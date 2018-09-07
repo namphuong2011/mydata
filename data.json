@@ -14,6 +14,16 @@
               ]
 }],
  "tabs":[
+                 {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Tuý ca",
+    "bgcolor":"0xab47bc",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=40&q=nh%E1%BA%A1c+Ch%C3%A2u+K%E1%BB%B3+b%C3%A0i+h%C3%A1t+hay+nh%E1%BA%A5t&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
+    ]
+},
                {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
