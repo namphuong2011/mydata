@@ -14,6 +14,16 @@
               ]
 }],
  "tabs":[
+                     {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Thiền",
+    "bgcolor":"0x2196f3",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=b%C3%A0i+gi%E1%BA%A3ng+th%C3%ADch+nh%E1%BA%A5t+h%E1%BA%A1nh+thi%E1%BB%81n&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"},
+    ]
+},
                    {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
