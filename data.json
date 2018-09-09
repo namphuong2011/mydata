@@ -14,6 +14,16 @@
               ]
 }],
  "tabs":[
+                         {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Ca sĩ trẻ hát",
+    "bgcolor":"0xf44336",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=ca+s%C4%A9+tr%E1%BA%BB+h%C3%A1t+bolero+hay+nh%E1%BA%A5t&key=AIzaSyBZAnRUx-5582A7Pl3nuDXivM5fR-rl1H0"},
+    ]
+},
                        {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
