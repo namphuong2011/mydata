@@ -14,6 +14,16 @@
               ]
 }],
  "tabs":[
+                           {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Bolero nhí",
+    "bgcolor":"0xef6c00",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=th%E1%BA%A7n+%C4%91%E1%BB%93ng+h%C3%A1t+nh%E1%BA%A1c+bolero+nh%C3%AD&key=AIzaSyBZAnRUx-5582A7Pl3nuDXivM5fR-rl1H0"},
+    ]
+},
                          {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
