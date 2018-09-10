@@ -14,6 +14,26 @@
               ]
 }],
  "tabs":[
+    {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Trưa nhẹ nhàng",
+    "bgcolor":"0xef6c00",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+ph%C3%B2ng+tr%C3%A0+hay&key=AIzaSyA2D0I6gCLyd3uYQnOvkDW9CZdqVYhuDBs"},
+    ]
+},
+                             {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Sáng khởi đầu",
+    "bgcolor":"0xef6c00",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+nghe+bu%E1%BB%95i+s%C3%A1ng+kh%E1%BB%9Fi+%C4%91%E1%BA%A7u+ng%C3%A0y+m%E1%BB%9Bi&key=AIzaSyA_kGCqC7ERN6p81zhGnMyczVxL394onAI"},
+    ]
+},
                            {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
