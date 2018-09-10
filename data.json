@@ -31,8 +31,7 @@
     "bgcolor":"0x4caf50",
     "txtcolor":"0xfafafa",
     "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=nh%E1%BA%A1c+t%E1%BA%ADp+gym&key=AIzaSyA_kGCqC7ERN6p81zhGnMyczVxL394onAI"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&q=nh%E1%BA%A1c+s%C3%B4i+%C4%91%E1%BB%99ng&key=AIzaSyA_kGCqC7ERN6p81zhGnMyczVxL394onAI"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=15&q=nh%E1%BA%A1c+t%E1%BA%ADp+gym&key=AIzaSyA_kGCqC7ERN6p81zhGnMyczVxL394onAI"},
     ]
 },
     {
