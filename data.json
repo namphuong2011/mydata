@@ -14,6 +14,16 @@
               ]
 }],
  "tabs":[
+      {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Nhạc khiêu vũ",
+    "bgcolor":"0x8d6e63",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+khi%C3%AAu+v%C5%A9&key=AIzaSyA2D0I6gCLyd3uYQnOvkDW9CZdqVYhuDBs"},
+    ]
+},
     {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
