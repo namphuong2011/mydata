@@ -14,6 +14,16 @@
               ]
 }],
  "tabs":[
+                {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Em hãy ngủ đi",
+    "bgcolor":"0x757575",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=ca+s%C4%A9+kh%C3%A1nh+ly+tuy%E1%BB%83n+ch%E1%BB%8Dn&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+    ]
+},
               {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
