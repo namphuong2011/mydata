@@ -14,6 +14,16 @@
               ]
 }],
  "tabs":[
+          {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Nhạc hội song ca",
+    "bgcolor":"0xf06292",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nhac+bolero+song+ca+paris&key=AIzaSyA2D0I6gCLyd3uYQnOvkDW9CZdqVYhuDBs"},
+    ]
+},
         {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
