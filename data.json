@@ -14,11 +14,21 @@
               ]
 }],
  "tabs":[
+           {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Trữ tình ngọt ngào",
+    "bgcolor":"0xdce775",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=s%C3%A0i+g%C3%B2n+bolero&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+    ]
+},
          {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
     "header": "Dễ nghe dễ ngủ",
-    "bgcolor":"0x8e24aa",
+    "bgcolor":"0xc0ca33",
     "txtcolor":"0xfafafa",
     "items": [
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=d%E1%BB%85+nghe+d%E1%BB%85+ng%E1%BB%A7+nh%E1%BA%A1c+bolero&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
