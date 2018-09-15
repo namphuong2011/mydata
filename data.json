@@ -32,7 +32,8 @@
     "bgcolor":"0xf4511e",
     "txtcolor":"0xfafafa",
     "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=%22m%C6%B0a+%C4%91%C3%AAm+ngo%E1%BA%A1i+%C3%B4%22+%7C+%22ch%E1%BB%A7+nh%E1%BA%ADt+bu%E1%BB%93n%22+%7C+%22B%C6%B0%E1%BB%9Bc+ch%C3%A2n+chi%E1%BB%81u+Ch%E1%BB%A7+Nh%E1%BA%ADt%22+%7C+%22S%C6%B0%C6%A1ng+%C4%91%C3%AAm%22&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&q=%22m%C6%B0a+%C4%91%C3%AAm+ngo%E1%BA%A1i+%C3%B4%22+%7C+%22ch%E1%BB%A7+nh%E1%BA%ADt+bu%E1%BB%93n%22+%7C+%22B%C6%B0%E1%BB%9Bc+ch%C3%A2n+chi%E1%BB%81u+Ch%E1%BB%A7+Nh%E1%BA%ADt%22+%7C+%22S%C6%B0%C6%A1ng+%C4%91%C3%AAm%22&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=nh%E1%BA%A1c+s%C4%A9+anh+vi%E1%BB%87t+thu&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
 
     ]
 },
