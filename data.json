@@ -14,6 +14,18 @@
               ]
 }],
  "tabs":[
+                   {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Người yêu cô đơn",
+    "bgcolor":"0x673ab7",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=nh%E1%BA%A1c+s%C4%A9+%C4%91%C3%A0i+ph%C6%B0%C6%A1ng+trang&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&q=ca+nh%E1%BA%A1c+ng%C6%B0%E1%BB%9Di+y%C3%AAu+c%C3%B4+%C4%91%C6%A1n&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+
+    ]
+},
                  {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
