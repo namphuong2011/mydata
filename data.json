@@ -26,19 +26,7 @@
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+bolero+giao+linh&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
-       {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Giọng ca dĩ vãng 2",
-    "bgcolor":"0x673ab7",
-    "txtcolor":"0xfafafa",
-    "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+bolero+giang+t%E1%BB%AD&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+bolero+ph%C6%B0%C6%A1ng+h%E1%BB%93ng+qu%E1%BA%BF&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+bolero+thanh+tuy%E1%BB%81n&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-    ]
-},
-     {
+      {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
     "header": "Tam đại Mỹ Nhân",
@@ -49,6 +37,18 @@
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=ca+s%C4%A9+ch%C3%A2u+vi+bolero&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=ca+s%C4%A9+qu%E1%BB%B3nh+trang+bolero&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
 
+    ]
+},
+       {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Giọng ca dĩ vãng 2",
+    "bgcolor":"0x673ab7",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+bolero+giang+t%E1%BB%AD&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+bolero+ph%C6%B0%C6%A1ng+h%E1%BB%93ng+qu%E1%BA%BF&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+bolero+thanh+tuy%E1%BB%81n&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
    {
