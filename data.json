@@ -785,12 +785,11 @@
 },{
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Người Lạ Ơi",
+    "header": "Top hits",
     "bgcolor":"0xf4511e",
     "txtcolor":"0xfafafa",
-    "items": [
-              
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&order=date&q=t%E1%BB%95ng+h%E1%BB%A3p+karik+orange&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+    "items": [              
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=top+b%C3%A0i+h%C3%A1t+hit%7Chits%7Cvi%E1%BB%87t+nam%7Chay+nh%E1%BA%A5t&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
               ]
 },{
     "id":"recent",
@@ -798,8 +797,7 @@
     "header": "Xuân 2018",
     "bgcolor":"0x9575cd",
     "txtcolor":"0xe1bee7",
-    "items": [
-              
+    "items": [              
               {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=nh%E1%BA%A1c+xu%C3%A2n+2018&maxResults=25&order=date&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}         
      ,{"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=nh%E1%BA%A1c+t%E1%BA%BFt+2018&maxResults=25&order=date&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
     ]
