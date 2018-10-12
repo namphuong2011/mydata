@@ -65,11 +65,11 @@
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
     "header": "Giọng ca dĩ vãng 3",
-    "bgcolor":"0xe1bee7",
+    "bgcolor":"0xab47bc",
     "txtcolor":"0xfafafa",
     "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&type=video&videoEmbeddable=true&videoSyndicated=true&q=ca+s%C4%A9+h%E1%BA%A3i+ngo%E1%BA%A1i+ph%C6%B0%C6%A1ng+dung&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&type=video&videoEmbeddable=true&videoSyndicated=true&q=ca+s%C4%A9+h%E1%BA%A3i+ngo%E1%BA%A1i+bolero+tu%E1%BA%A5n+v%C5%A9&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&type=video&videoEmbeddable=true&videoSyndicated=true&videoLicense=youtube&q=ca+s%C4%A9+h%E1%BA%A3i+ngo%E1%BA%A1i+ph%C6%B0%C6%A1ng+dung&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&type=video&videoEmbeddable=true&videoSyndicated=true&videoLicense=youtube&q=ca+s%C4%A9+h%E1%BA%A3i+ngo%E1%BA%A1i+bolero+tu%E1%BA%A5n+v%C5%A9&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&type=video&videoEmbeddable=true&videoSyndicated=true&q=ca+s%C4%A9+h%E1%BA%A3i+ngo%E1%BA%A1i+bolero+m%E1%BB%B9+huy%E1%BB%81n&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
