@@ -15,19 +15,7 @@
               ]
 }],
  "tabs":[
-                             {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Tứ đại thiên vương",
-    "bgcolor":"0x651fff",
-    "txtcolor":"0xfafafa",
-    "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&type=video&q=%E5%BC%B5%E5%AD%B8%E5%8F%8B&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&type=video&q=%E5%8A%89%E5%BE%B7%E8%8F%AF%E7%B6%93%E5%85%B8%E7%B2%B5%E8%AA%9E%E6%AD%8C%E6%9B%B2&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&type=video&q=%E9%83%AD%E5%AF%8C%E5%9F%8E&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-    ]
-},
-                           {
+  {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
     "header": "Paris By Night",
