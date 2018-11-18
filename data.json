@@ -22,7 +22,7 @@
     "bgcolor":"0x651fff",
     "txtcolor":"0xfafafa",
     "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=h%E1%BB%93ng+quy%C3%AAn+bolero+b%E1%BA%A3n+t%C3%ACnh+ca+n%C4%83m+th%C3%A1ng&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&videoEmbeddable=true&videoSyndicated=true&q=h%E1%BB%93ng+quy%C3%AAn+bolero+b%E1%BA%A3n+t%C3%ACnh+ca+n%C4%83m+th%C3%A1ng&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=MASHUP+h%E1%BB%93ng+quy%C3%AAn+bolero&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
