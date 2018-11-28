@@ -22,7 +22,7 @@
     "bgcolor":"0xb71685",
     "txtcolor":"0xfafafa",
     "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&videoEmbeddable=true&videoSyndicated=true&q=li%C3%AAn+kh%C3%BAc+h%E1%BA%A3i+ngo%E1%BA%A1i+ng%E1%BB%8Dc+lan&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&videoLicense=youtube&maxResults=50&videoEmbeddable=true&videoSyndicated=true&q=li%C3%AAn+kh%C3%BAc+h%E1%BA%A3i+ngo%E1%BA%A1i+ng%E1%BB%8Dc+lan&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
       {
