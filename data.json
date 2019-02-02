@@ -24,7 +24,7 @@
     "bgcolor":"0xe91e63",
     "txtcolor":"0xfafafa",
     "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=xu%C3%A2n+n%C3%A0y+con+kh%C3%B4ng+v%E1%BB%81+%C4%91an+nguy%C3%AAn+duy+kh%C3%A1nh&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=xu%C3%A2n+n%C3%A0y+con+kh%C3%B4ng+v%E1%BB%81+%C4%91an+nguy%C3%AAn&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
                    {
