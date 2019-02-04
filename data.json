@@ -16,21 +16,11 @@
               ]
 }],
  "tabs":[
-                      {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Xuân này con không về",
-    "urlComment":"https://www.facebook.com/nhacvangmuonthuo.ios/posts/307457393241091",                 
-    "bgcolor":"0xe91e63",
-    "txtcolor":"0xfafafa",
-    "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=xu%C3%A2n+n%C3%A0y+con+kh%C3%B4ng+v%E1%BB%81+%C4%91an+nguy%C3%AAn&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-    ]
-},
+
                    {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Nhạc kích động",
+    "header": "Hùng Cường Mai Lệ Huyền",
     "urlComment":"https://www.facebook.com/nhacvangmuonthuo.ios/posts/305516480101849",                 
     "bgcolor":"0xe91e63",
     "txtcolor":"0xfafafa",
@@ -117,16 +107,6 @@
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&type=video&q=%22tr%C6%B0%E1%BB%9Dng+v%C5%A9+nh%E1%BA%A1c+cd+asia%22&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
-                       {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Đoạn tuyệt",
-    "bgcolor":"0xff4081",
-    "txtcolor":"0xfafafa",
-    "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&type=video&q=Bolero+X%C6%B0a+S%E1%BA%BFn+Nghe+M%C3%A0+Kh%C3%B3c+-+Tuy%E1%BB%83n+T%E1%BA%ADp+Tr%E1%BB%AF+T%C3%ACnh+Bu%E1%BB%93n+Nh%E1%BA%A5t&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-    ]
-},
                    {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
@@ -145,16 +125,6 @@
     "txtcolor":"0xfafafa",
     "items": [
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=L%C3%AA+Sang%2C+L%C6%B0u+%C3%81nh+Loan%2C+Randy%2C+Gi%C3%A1ng+Ti%C3%AAn+-+Tuy%E1%BB%83n+T%E1%BA%ADp+Nh%E1%BA%A1c+Song+Ca+Tr%E1%BB%AF+T%C3%ACnh+Bolero+M%E1%BB%9Bi+V%C3%A0+Hay+Nh%E1%BA%A5t&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-    ]
-},
-                         {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Bôn ba xứ người",
-    "bgcolor":"0xff4081",
-    "txtcolor":"0xfafafa",
-    "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&type=video&q=nh%E1%BA%A1c+qu%C3%AA+h%C6%B0%C6%A1ng&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
                {
@@ -181,16 +151,6 @@
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=8&q=nhac+bolero+tr%E1%BA%BB+tr%C6%B0%C6%A1ng+nh%C6%B0+%C3%BD&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&q=nhac+bolero+tr%E1%BA%BB+%C3%9D+nh%C6%B0&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nhac+bolero+tr%E1%BA%BB+ng%E1%BB%8Dc+di%E1%BB%87u&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-    ]
-},
-           {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Giọng ca dĩ vãng 3",
-    "bgcolor":"0xab47bc",
-    "txtcolor":"0xfafafa",
-    "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&type=video&videoEmbeddable=true&videoSyndicated=true&videoLicense=youtube&q=ca+s%C4%A9+h%E1%BA%A3i+ngo%E1%BA%A1i+ph%C6%B0%C6%A1ng+dung&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
 
