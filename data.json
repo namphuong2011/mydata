@@ -735,7 +735,7 @@
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
     "header": "Tango hay nhất",
-    "bgcolor":"0x#ff3d00",
+    "bgcolor":"0xff3d00",
     "txtcolor":"0xfafafa",
     "items": [
               {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=tuy%E1%BB%83n+t%E1%BA%ADp+tango+hay+nh%E1%BA%A5t&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
