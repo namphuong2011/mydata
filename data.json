@@ -26,28 +26,7 @@
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nhac+linh+bolero+song+ca&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}
     ]
 },
-                {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Liên khúc xuân 2019 kỷ hợi",
-    "bgcolor":"0xe53935",
-    "txtcolor":"0xfafafa",
-    "urlComment":"https://www.facebook.com/nhacvangmuonthuo.ios/posts/261386361181528",
-    "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-    ]
-},
-             {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Tuyển chọn nhạc xuân 2019 kỷ hợi",
-    "bgcolor":"0xe53935",
-    "txtcolor":"0xfafafa",
-    "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+tuy%E1%BB%83n+ch%E1%BB%8Dn+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=xu%C3%A2n+collection+thu%C3%BD+nga+paris+by+night&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-    ]
-},
+
           {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
@@ -117,6 +96,28 @@
     "txtcolor":"0xfafafa",
     "items": [
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=L%C3%AA+Sang%2C+L%C6%B0u+%C3%81nh+Loan%2C+Randy%2C+Gi%C3%A1ng+Ti%C3%AAn+-+Tuy%E1%BB%83n+T%E1%BA%ADp+Nh%E1%BA%A1c+Song+Ca+Tr%E1%BB%AF+T%C3%ACnh+Bolero+M%E1%BB%9Bi+V%C3%A0+Hay+Nh%E1%BA%A5t&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+    ]
+},
+                   {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Liên khúc xuân 2019 kỷ hợi",
+    "bgcolor":"0xe53935",
+    "txtcolor":"0xfafafa",
+    "urlComment":"https://www.facebook.com/nhacvangmuonthuo.ios/posts/261386361181528",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+    ]
+},
+             {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Tuyển chọn nhạc xuân 2019 kỷ hợi",
+    "bgcolor":"0xe53935",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+tuy%E1%BB%83n+ch%E1%BB%8Dn+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=xu%C3%A2n+collection+thu%C3%BD+nga+paris+by+night&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
       {
