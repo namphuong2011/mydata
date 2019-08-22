@@ -66,6 +66,7 @@
     "bgcolor":"0x33691e",
     "txtcolor":"0xfafafa",
     "items": [
+                          {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&channelId=UCbQFf_LKQcgCZW1LoVICnZg&q=nguy%E1%BB%85n+ng%E1%BB%8Dc+ng%E1%BA%A1n&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
               {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=truy%E1%BB%87n+c%C6%B0%E1%BB%9Di+nguy%E1%BB%85n+ng%E1%BB%8Dc+ng%E1%BA%A1n&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
               ]
 },
