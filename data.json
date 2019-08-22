@@ -16,6 +16,28 @@
               ]
 }],
  "tabs":[
+                          {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Mr Đàm",
+    "bgcolor":"0x673ab7",
+    "txtcolor":"0xfafafa",
+    "items": [
+      {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=%C4%91%C3%A0m%20v%C4%A9nh%20h%C6%B0ng%20tuy%E1%BB%83n%20t%E1%BA%ADp%20nh%E1%BB%AFng%20b%C3%A0i%20h%C3%A1t%20hay%20nh%E1%BA%A5t&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=%C4%91%C3%A0m%20v%C4%A9nh%20h%C6%B0ng&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+    {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=%C4%91%C3%A0m%20v%C4%A9nh%20h%C6%B0ng%20live%20show%20bolero&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}
+    ]
+},
+    {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Lệ Quyên hay nhất",
+    "bgcolor":"0xe64a19",
+    "txtcolor":"0xfafafa",
+    "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=l%E1%BB%87+quy%C3%AAn+hay+nh%E1%BA%A5t&type=video&videoDuration=long&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+              ]
+},
                 {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
@@ -26,7 +48,37 @@
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nhac+linh+bolero+song+ca&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}
     ]
 },
-
+          {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Đan Nguyên",
+    "bgcolor":"0xffca28",
+    "txtcolor":"0xfafafa",
+    "items": [
+                   {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=%C4%91an+nguy%C3%AAn+bolero&type=video&videoDuration=long&videoDefinition=high&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+                   {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=%C4%91an+nguy%C3%AAn+song+ca+b%C4%83ng+t%C3%A2m&type=video&videoDuration=long&videoDefinition=high&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}
+    ]
+},
+{
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Nguyễn Ngọc Ngạn",
+    "bgcolor":"0x33691e",
+    "txtcolor":"0xfafafa",
+    "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=truy%E1%BB%87n+c%C6%B0%E1%BB%9Di+nguy%E1%BB%85n+ng%E1%BB%8Dc+ng%E1%BA%A1n&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+              ]
+},
+        {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Liveshow phòng trà",
+    "bgcolor":"0x8e24aa",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=live+show+ph%C3%B2ng+tr%C3%A0&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+    ]
+},
           {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
@@ -38,19 +90,18 @@
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&videoEmbeddable=true&videoSyndicated=true&q=cd+nh%E1%BA%A1c+x%C6%B0a+asia+lossless+bolero+vi%E1%BB%87t+nam&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
-      {
+         {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Nhạc Thính Phòng",
-    "urlComment":"https://www.facebook.com/nhacvangmuonthuo.ios/posts/300783263908504",
-    "bgcolor":"0xb71685",
+    "header": "Hồ Hoàng Yến",
+    "bgcolor":"0xe91e63",
     "txtcolor":"0xfafafa",
     "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=8&videoEmbeddable=true&videoSyndicated=true&q=nh%E1%BA%A1c+s%C4%A9+tu%E1%BA%A5n+khanh+paris+by+night&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&videoEmbeddable=true&videoSyndicated=true&q=nh%E1%BA%A1c+s%C4%A9+t%E1%BB%AB+c%C3%B4ng+ph%E1%BB%A5ng+tuy%E1%BB%83n+ch%E1%BB%8Dn+paris+by+night&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},        
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&videoEmbeddable=true&videoSyndicated=true&q=nh%E1%BA%A1c+s%C4%A9+v%C5%A9+th%C3%A0nh+an+paris+by+night+s%C3%A1ng+t%C3%A1c+%C4%91%E1%BB%83+%C4%91%E1%BB%9Di&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-    ]
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=h%E1%BB%93+ho%C3%A0ng+y%E1%BA%BFn+asia+live+show&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=h%E1%BB%93+ho%C3%A0ng+y%E1%BA%BFn&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+              ]
 },
+
                 {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
@@ -96,6 +147,19 @@
     "txtcolor":"0xfafafa",
     "items": [
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=L%C3%AA+Sang%2C+L%C6%B0u+%C3%81nh+Loan%2C+Randy%2C+Gi%C3%A1ng+Ti%C3%AAn+-+Tuy%E1%BB%83n+T%E1%BA%ADp+Nh%E1%BA%A1c+Song+Ca+Tr%E1%BB%AF+T%C3%ACnh+Bolero+M%E1%BB%9Bi+V%C3%A0+Hay+Nh%E1%BA%A5t&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+    ]
+},
+         {
+    "id":"recent",
+    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+    "header": "Nhạc Thính Phòng",
+    "urlComment":"https://www.facebook.com/nhacvangmuonthuo.ios/posts/300783263908504",
+    "bgcolor":"0xb71685",
+    "txtcolor":"0xfafafa",
+    "items": [
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=8&videoEmbeddable=true&videoSyndicated=true&q=nh%E1%BA%A1c+s%C4%A9+tu%E1%BA%A5n+khanh+paris+by+night&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&videoEmbeddable=true&videoSyndicated=true&q=nh%E1%BA%A1c+s%C4%A9+t%E1%BB%AB+c%C3%B4ng+ph%E1%BB%A5ng+tuy%E1%BB%83n+ch%E1%BB%8Dn+paris+by+night&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},        
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&videoEmbeddable=true&videoSyndicated=true&q=nh%E1%BA%A1c+s%C4%A9+v%C5%A9+th%C3%A0nh+an+paris+by+night+s%C3%A1ng+t%C3%A1c+%C4%91%E1%BB%83+%C4%91%E1%BB%9Di&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
                    {
@@ -275,16 +339,7 @@
              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=live+show+h%C3%A0i+k%E1%BB%8Bch&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
     ]
 },
-     {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Liveshow phòng trà",
-    "bgcolor":"0x8e24aa",
-    "txtcolor":"0xfafafa",
-    "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=live+show+ph%C3%B2ng+tr%C3%A0&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-    ]
-},
+
    {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
@@ -731,17 +786,7 @@
               {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=tuy%E1%BB%83n+t%E1%BA%ADp+bolero&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
               ]
 },
-      {
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Hồ Hoàng Yến",
-    "bgcolor":"0xe91e63",
-    "txtcolor":"0xfafafa",
-    "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=h%E1%BB%93+ho%C3%A0ng+y%E1%BA%BFn+asia+live+show&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=h%E1%BB%93+ho%C3%A0ng+y%E1%BA%BFn&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
-              ]
-},
+
         {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
@@ -862,16 +907,8 @@
     "items": [
               {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=karaoke+bolero&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
               ]
-},{
-    "id":"recent",
-    "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
-    "header": "Nguyễn Ngọc Ngạn",
-    "bgcolor":"0x33691e",
-    "txtcolor":"0xfafafa",
-    "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=truy%E1%BB%87n+c%C6%B0%E1%BB%9Di+nguy%E1%BB%85n+ng%E1%BB%8Dc+ng%E1%BA%A1n&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
-              ]
-},{
+},
+   {
     "id":"recent",
     "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
     "header": "Xuân Thuý Nga",
