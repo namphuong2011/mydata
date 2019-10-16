@@ -3,18 +3,18 @@
     {
       "title": "Animal",
       "details":[
-        {"title":"",
+        {"title":"dog",
           "detail":"https://raw.githubusercontent.com/namphuong2011/mydata/test/dog.svg"},
-        {"title":"",
+        {"title":"dog1",
           "detail":"https://raw.githubusercontent.com/namphuong2011/mydata/test/dog.svg"}
       ]
     },
     {
       "title": "Pet",
       "details":[
-        {"title":"",
+        {"title":"dog2",
           "detail":"https://raw.githubusercontent.com/namphuong2011/mydata/test/dog.svg"},
-        {"title":"",
+        {"title":"dog3",
           "detail":"https://raw.githubusercontent.com/namphuong2011/mydata/test/dog.svg"}
       ]
     }
