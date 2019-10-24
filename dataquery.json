@@ -6,28 +6,28 @@
         {"title":"dog",
           "detail":"https://raw.githubusercontent.com/namphuong2011/mydata/test/dog.svg"},
         {"title":"princess1",
-          "detail":"https://raw.githubusercontent.com/namphuong2011/mydata/test/princess1.svg"}
+          "detail":"https://raw.githubusercontent.com/namphuong2011/mydata/test/princess1"}
         ,
         {"title":"princess2",
-          "detail":"https://raw.githubusercontent.com/namphuong2011/mydata/test/princess2.svg"}
+          "detail":"https://raw.githubusercontent.com/namphuong2011/mydata/test/princess2"}
          ,
         {"title":"princess3",
-          "detail":"https://raw.githubusercontent.com/namphuong2011/mydata/test/princess3.svg"}
+          "detail":"https://raw.githubusercontent.com/namphuong2011/mydata/test/princess3"}
          ,
         {"title":"princess4",
-          "detail":"https://raw.githubusercontent.com/namphuong2011/mydata/test/princess4.svg"}
+          "detail":"https://raw.githubusercontent.com/namphuong2011/mydata/test/princess4"}
          ,
         {"title":"princess5",
-          "detail":"https://raw.githubusercontent.com/namphuong2011/mydata/test/princess5.svg"}
+          "detail":"https://raw.githubusercontent.com/namphuong2011/mydata/test/princess5"}
       ]
     },
     {
-      "title": "Pet",
+      "title": "Medieval",
       "details":[
-        {"title":"dog2",
-          "detail":"https://raw.githubusercontent.com/namphuong2011/mydata/test/dog.svg"},
-        {"title":"dog3",
-          "detail":"https://raw.githubusercontent.com/namphuong2011/mydata/test/dog.svg"}
+        {"title":"medieval1",
+          "detail":"https://raw.githubusercontent.com/namphuong2011/mydata/test/medieval1"},
+        {"title":"medieval2",
+          "detail":"https://raw.githubusercontent.com/namphuong2011/mydata/test/medieval1"}
       ]
     }
 
