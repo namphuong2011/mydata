@@ -23,8 +23,7 @@
     "bgcolor":"0x673ab7",
     "txtcolor":"0xfafafa",
     "items": [
-      {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=tuy%E1%BB%83n%20t%E1%BA%ADp%20h%E1%BA%A3i%20ngo%E1%BA%A1i%20anh%20t%C3%BA%20kh%C3%A1nh%20h%C3%A0&type=video&videoDuration=long&key=AIzaSyB0fnQzK5IlX1RyJv4-pWhIOuaNIFDGdTI"},
-      {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=tuy%E1%BB%83n%20t%E1%BA%ADp%20kh%C3%A1nh%20h%C3%A0%20h%E1%BA%A3i%20ngo%E1%BA%A1i&type=video&videoDuration=long&key=AIzaSyCiz0X7_4yTVhPOJZVogiOzBA1KSKTOsDo"}
+      {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=tuy%E1%BB%83n%20t%E1%BA%ADp%20h%E1%BA%A3i%20ngo%E1%BA%A1i%20anh%20t%C3%BA%20kh%C3%A1nh%20h%C3%A0&type=video&videoDuration=long&key=AIzaSyB0fnQzK5IlX1RyJv4-pWhIOuaNIFDGdTI"}
 
     ]
 },
@@ -35,9 +34,8 @@
     "bgcolor":"0x673ab7",
     "txtcolor":"0xfafafa",
     "items": [
-      {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=%C4%91%C3%A0m%20v%C4%A9nh%20h%C6%B0ng%20tuy%E1%BB%83n%20t%E1%BA%ADp%20nh%E1%BB%AFng%20b%C3%A0i%20h%C3%A1t%20hay%20nh%E1%BA%A5t&type=video&videoDuration=long&key=AIzaSyB0fnQzK5IlX1RyJv4-pWhIOuaNIFDGdTI"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=%C4%91%C3%A0m%20v%C4%A9nh%20h%C6%B0ng&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-    {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=%C4%91%C3%A0m%20v%C4%A9nh%20h%C6%B0ng%20live%20show%20bolero&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}
+      {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=%C4%91%C3%A0m%20v%C4%A9nh%20h%C6%B0ng%20tuy%E1%BB%83n%20t%E1%BA%ADp%20nh%E1%BB%AFng%20b%C3%A0i%20h%C3%A1t%20hay%20nh%E1%BA%A5t&type=video&videoDuration=long&key=AIzaSyCwdEl__fuQQEV-IhGjLXgKup65q5m3NJM"}
+
     ]
 },
     {
