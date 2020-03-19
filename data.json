@@ -85,7 +85,7 @@
     "bgcolor":"0x8e24aa",
     "txtcolor":"0xfafafa",
     "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=live+show+ph%C3%B2ng+tr%C3%A0&key=AIzaSyD4rLpdk2sE4Z9NNgYuVbaZSp-tJSRX69w"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=live+show+ph%C3%B2ng+tr%C3%A0&key=AIzaSyD4rLpdk2sE4Z9NNgYuVbaZSp-tJSRX69w"}
     ]
 },
           {
