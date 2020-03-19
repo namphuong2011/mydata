@@ -65,8 +65,7 @@
     "bgcolor":"0xffca28",
     "txtcolor":"0xfafafa",
     "items": [
-                   {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=%C4%91an+nguy%C3%AAn+bolero&type=video&videoDuration=long&videoDefinition=high&key=AIzaSyB0fnQzK5IlX1RyJv4-pWhIOuaNIFDGdTI"},
-                   {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=%C4%91an+nguy%C3%AAn+song+ca+b%C4%83ng+t%C3%A2m&type=video&videoDuration=long&videoDefinition=high&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}
+                   {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=%C4%91an+nguy%C3%AAn+bolero&type=video&videoDuration=long&videoDefinition=high&key=AIzaSyB0fnQzK5IlX1RyJv4-pWhIOuaNIFDGdTI"}
     ]
 },
 {
@@ -76,8 +75,7 @@
     "bgcolor":"0x33691e",
     "txtcolor":"0xfafafa",
     "items": [
-                          {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&channelId=UCbQFf_LKQcgCZW1LoVICnZg&q=nguy%E1%BB%85n+ng%E1%BB%8Dc+ng%E1%BA%A1n&key=AIzaSyB0fnQzK5IlX1RyJv4-pWhIOuaNIFDGdTI"},
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=truy%E1%BB%87n+c%C6%B0%E1%BB%9Di+nguy%E1%BB%85n+ng%E1%BB%8Dc+ng%E1%BA%A1n&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+                          {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&channelId=UCbQFf_LKQcgCZW1LoVICnZg&q=nguy%E1%BB%85n+ng%E1%BB%8Dc+ng%E1%BA%A1n&key=AIzaSyD4rLpdk2sE4Z9NNgYuVbaZSp-tJSRX69w"}
               ]
 },
         {
@@ -87,7 +85,7 @@
     "bgcolor":"0x8e24aa",
     "txtcolor":"0xfafafa",
     "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=live+show+ph%C3%B2ng+tr%C3%A0&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=live+show+ph%C3%B2ng+tr%C3%A0&key=AIzaSyD4rLpdk2sE4Z9NNgYuVbaZSp-tJSRX69w"},
     ]
 },
           {
@@ -108,8 +106,7 @@
     "bgcolor":"0xe91e63",
     "txtcolor":"0xfafafa",
     "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=h%E1%BB%93+ho%C3%A0ng+y%E1%BA%BFn+asia+live+show&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=h%E1%BB%93+ho%C3%A0ng+y%E1%BA%BFn&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=h%E1%BB%93+ho%C3%A0ng+y%E1%BA%BFn+asia+live+show&key=AIzaSyD4rLpdk2sE4Z9NNgYuVbaZSp-tJSRX69w"}
               ]
 },
 
@@ -120,9 +117,7 @@
     "bgcolor":"0x673ab7",
     "txtcolor":"0xfafafa",
     "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=8&q=nhac+bolero+tr%E1%BA%BB+tr%C6%B0%C6%A1ng+nh%C6%B0+%C3%BD&key=AIzaSyB0fnQzK5IlX1RyJv4-pWhIOuaNIFDGdTI"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&q=nhac+bolero+tr%E1%BA%BB+%C3%9D+nh%C6%B0&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nhac+bolero+tr%E1%BA%BB+ng%E1%BB%8Dc+di%E1%BB%87u&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nhac+bolero+tr%E1%BA%BB+tr%C6%B0%C6%A1ng+nh%C6%B0+%C3%BD&key=AIzaSyB0fnQzK5IlX1RyJv4-pWhIOuaNIFDGdTI"}
     ]
 },
      {
@@ -132,8 +127,7 @@
     "bgcolor":"0x651fff",
     "txtcolor":"0xfafafa",
     "items": [
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=h%C3%A0nh+tr%C3%ACnh+35+n%C4%83m+c%C3%B9ng+thu%C3%BD+nga+paris+by+night&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&type=video&q=nh%E1%BA%A1c+paris+by+night&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+             {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=h%C3%A0nh+tr%C3%ACnh+35+n%C4%83m+c%C3%B9ng+thu%C3%BD+nga+paris+by+night&type=video&videoDuration=long&key=AIzaSyD4rLpdk2sE4Z9NNgYuVbaZSp-tJSRX69w"}
 
     ]
 },
