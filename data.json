@@ -46,8 +46,10 @@
     "bgcolor":"0xe64a19",
     "txtcolor":"0xfafafa",
     "items": [
-              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=l%E1%BB%87+quy%C3%AAn+hay+nh%E1%BA%A5t&type=video&videoDuration=long&key=AIzaSyDTxncdtB5fcgTz1nq2P-J6VIqy5Vyv1ws"}
-              ]
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=l%E1%BB%87+quy%C3%AAn+hay+nh%E1%BA%A5t&type=video&videoDuration=long&key=AIzaSyDTxncdtB5fcgTz1nq2P-J6VIqy5Vyv1ws"},
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=tuy%E1%BB%83n%20ch%E1%BB%8Dn%20l%E1%BB%87%20quy%C3%AAn%20bolero&type=video&videoDuration=long&key=AIzaSyCcov2m-cMIeuR1REO4oUcmipAmIAnDS1U"}
+        
+    ]
 },
                 {
     "id":"recent",
