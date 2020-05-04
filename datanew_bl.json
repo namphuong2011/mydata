@@ -4,7 +4,7 @@
     "inter":"1",
     "functions":[
         {
-            "id":"recent",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/recent",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Góp ý",
             "bgcolor":"0x33691e",
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "id":"mrdam",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/mrdam.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Mr Đàm",
             "bgcolor":"0x673ab7",
@@ -40,7 +40,7 @@
             ]
         },
         {
-            "id":"lequyen",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/lequyen.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Lệ Quyên hay nhất",
             "bgcolor":"0xe64a19",
@@ -52,7 +52,7 @@
             ]
         },
         {
-            "id":"nhaclinhbolero",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/nhaclinhbolero.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Nhạc lính bolero song ca",
             "bgcolor":"0x004d40",
@@ -62,7 +62,7 @@
             ]
         },
         {
-            "id":"dannguyen",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/dannguyen.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Đan Nguyên",
             "bgcolor":"0xffca28",
@@ -72,7 +72,7 @@
             ]
         },
         {
-            "id":"nguyenngocngan",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/nguyenngocngan.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Nguyễn Ngọc Ngạn",
             "bgcolor":"0x33691e",
@@ -82,7 +82,7 @@
             ]
         },
         {
-            "id":"liveshowphontra",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/liveshowphontra.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Liveshow phòng trà",
             "bgcolor":"0x8e24aa",
@@ -92,7 +92,7 @@
             ]
         },
         {
-            "id":"cdnhacxua",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/cdnhacxua.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "CD Nhạc xưa",
             "bgcolor":"0xAA8739",
@@ -103,7 +103,7 @@
             ]
         },
         {
-            "id":"hohoangyen",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/hohoangyen.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Hồ Hoàng Yến",
             "bgcolor":"0xe91e63",
@@ -114,7 +114,7 @@
         },
         
         {
-            "id":"casitrebolero1",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/casitrebolero1.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Ca sĩ trẻ bolero 1",
             "bgcolor":"0x673ab7",
@@ -124,7 +124,7 @@
             ]
         },
         {
-            "id":"parisbyn-ight",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/parisbyn-ight.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Paris By Night",
             "bgcolor":"0x651fff",
@@ -135,7 +135,7 @@
             ]
         },
         {
-            "id":"tinhcanamthang",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/tinhcanamthang.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Tình ca năm tháng",
             "bgcolor":"0x651fff",
@@ -146,7 +146,7 @@
         },
         
         {
-            "id":"tuyenchonsongca",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/tuyenchonsongca.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Tuyển song ca",
             "bgcolor":"0x03a9f4",
@@ -156,7 +156,7 @@
             ]
         },
         {
-            "id":"nhacthinhphong",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/nhacthinhphong.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Nhạc Thính Phòng",
             "urlComment":"https://www.facebook.com/nhacvangmuonthuo.ios/posts/300783263908504",
@@ -167,7 +167,7 @@
             ]
         },
         {
-            "id":"lienkhucxuan2020",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/lienkhucxuan2020.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Liên khúc xuân 2019 kỷ hợi",
             "bgcolor":"0xe53935",
@@ -178,7 +178,7 @@
             ]
         },
         {
-            "id":"giangtu",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/giangtu.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Giọng ca dĩ vãng 2",
             "bgcolor":"0x673ab7",
@@ -188,7 +188,7 @@
             ]
         },
         {
-            "id":"casitrehattanco",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/casitrehattanco.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Ca sĩ trẻ tân cổ",
             "bgcolor":"0xec407a",
@@ -198,7 +198,7 @@
             ]
         },
         {
-            "id":"tinhca",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/tinhca.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Tình ca",
             "bgcolor":"0xffca28",
@@ -208,7 +208,7 @@
             ]
         },
         {
-            "id":"daiphuongtrang",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/daiphuongtrang.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Nỗi buồn gác trọ",
             "bgcolor":"0xf4511e",
@@ -218,7 +218,7 @@
             ]
         },
         {
-            "id":"thanhthuy",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/thanhthuy.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Tiếng hát liêu trai",
             "bgcolor":"0x00897b",
@@ -228,7 +228,7 @@
             ]
         },
         {
-            "id":"anhvietthu",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/anhvietthu.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Đa Tạ",
             "bgcolor":"0xf4511e",
@@ -238,7 +238,7 @@
             ]
         },
         {
-            "id":"hungcuongmailequyen",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/hungcuongmailequyen.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Hùng Cường Mai Lệ Huyền",
             "bgcolor":"0xe91e63",
@@ -248,7 +248,7 @@
             ]
         },
         {
-            "id":"trucphuong",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/trucphuong.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Trúc phương",
             "bgcolor":"0x9575cd",
@@ -259,7 +259,7 @@
             ]
         },
         {
-            "id":"muadong",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/muadong.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Mùa Đông",
             "bgcolor":"0x8d6e63",
@@ -270,7 +270,7 @@
             ]
         },
         {
-            "id":"lienkhucchacha",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/lienkhucchacha.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Lk Cha cha cha",
             "bgcolor":"0xab47bc",
@@ -281,7 +281,7 @@
             ]
         },
         {
-            "id":"nhactapgym",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/nhactapgym.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Nhạc Tập Gym",
             "bgcolor":"0xff5722",
@@ -292,7 +292,7 @@
             ]
         },
         {
-            "id":"lamviectaptrung",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/lamviectaptrung.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Làm việc tập trung",
             "bgcolor":"0xff3d00",
@@ -303,7 +303,7 @@
             ]
         },
         {
-            "id":"karaokenhacsong",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/karaokenhacsong.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Karaoke Trữ Tình",
             "bgcolor":"0x4caf50",
@@ -315,7 +315,7 @@
             ]
         },
         {
-            "id":"vuthanhan",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/vuthanhan.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Vũ Thành An",
             "bgcolor":"0x7c4dff",
@@ -325,7 +325,7 @@
             ]
         },
         {
-            "id":"tango",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/tango.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Tango hay nhất",
             "bgcolor":"0xff3d00",
