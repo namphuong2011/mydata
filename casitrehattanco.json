@@ -1,0 +1,1664 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_HBHjn5GBpQUiDWg1VdTYnz9MTY\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+     "totalResults": 428489,
+     "resultsPerPage": 50
+    },
+    "items": [
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/p0zqqZ0ouf5xP__Crz0-CRHxFMc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Lm2p8GR-4Hk"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-06T11:31:16.000Z",
+       "channelId": "UCaY8uB4q9OVMVAPmibPMlpw",
+       "title": "Tân Cổ Hiện Đại - Nghệ Sĩ Trẻ Xinh Đẹp Hát Ca Cổ Hay Nhất Hiện Nay | Nhã Thy, Minh Trường",
+       "description": "Tân Cổ Hiện Đại - Nghệ Sĩ Trẻ Xinh Đẹp Hát Ca Cổ Hay Nhất Hiện Nay | Nhã Thy, Minh Trường ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ Xúm Zô Coi Ca...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Lm2p8GR-4Hk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Lm2p8GR-4Hk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Lm2p8GR-4Hk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Xúm Zô Coi Ca Cổ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ukJGxyIjkVFBVtWYNCs4LnwF3a0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "VPBoN1bRUIk"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-17T11:00:04.000Z",
+       "channelId": "UCaY8uB4q9OVMVAPmibPMlpw",
+       "title": "Ca Cổ Hơi Dài Mới Hay Nhất Hiện Nay - Nghệ Sĩ Trẻ Hát Tân Cổ Hơi Dài Gây Nghiện",
+       "description": "Ca Cổ Hơi Dài Mới Hay Nhất Hiện Nay - Nghệ Sĩ Trẻ Hát Tân Cổ Hơi Dài Gây Nghiện ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ Xúm Zô Coi Ca Cổ là kênh...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/VPBoN1bRUIk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/VPBoN1bRUIk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/VPBoN1bRUIk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Xúm Zô Coi Ca Cổ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/HZAyWqvM6GNc0XBrDTp1TiM5zCA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "5Xcm7tpFSRc"
+      },
+      "snippet": {
+       "publishedAt": "2018-02-26T02:06:53.000Z",
+       "channelId": "UCddGOcCVTtjY240yyEG2p_g",
+       "title": "Nghe Nghệ Sĩ Trẻ Hát Ca Cổ Cực Hay | Tân Cổ Giao Duyên - Tân Cổ Cải Lương - Trích Đoạn Cải Lương Hay",
+       "description": "Nghe Nghệ Sĩ Trẻ Hát Ca Cổ Cực Hay | Tân Cổ Giao Duyên - Tân Cổ Cải Lương - Trích Đoạn Cải Lương Hay ♫Hãy Subscribe kênh Sky Music Bolero: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/5Xcm7tpFSRc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/5Xcm7tpFSRc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/5Xcm7tpFSRc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "SKY Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/JU-7GYbTTav-T022uCscmU54oEo\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "TPwGl-FPJgY"
+      },
+      "snippet": {
+       "publishedAt": "2018-09-06T05:46:56.000Z",
+       "channelId": "UCaY8uB4q9OVMVAPmibPMlpw",
+       "title": "Tân Cổ Hiện Đại - Ca Cổ Hơi Dài Miền Tây Nghệ Sĩ Trẻ Hay Nhất Hiện Nay | Tân Cổ Giao Duyên Hay Nhất",
+       "description": "Tân Cổ Hiện Đại - Ca Cổ Hơi Dài Miền Tây Nghệ Sĩ Trẻ Hay Nhất Hiện Nay | Tân Cổ Giao Duyên Hay Nhất ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ Xúm...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/TPwGl-FPJgY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/TPwGl-FPJgY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/TPwGl-FPJgY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Xúm Zô Coi Ca Cổ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/MaCTBR3AJBMUwmlkzOyMwYlSl-4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "NoershphLHA"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-10T11:00:02.000Z",
+       "channelId": "UCaY8uB4q9OVMVAPmibPMlpw",
+       "title": "Nghệ Sĩ Trẻ Hát Ca Cổ Hay Nhất Hiện Nay - Tân Cổ Hiện Đại Nhiều Nghệ Sĩ Mới Nhất 2018",
+       "description": "Nghệ Sĩ Trẻ Hát Ca Cổ Hay Nhất Hiện Nay - Tân Cổ Hiện Đại Nhiều Nghệ Sĩ Mới Nhất 2018 ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ Xúm Zô Coi Ca...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/NoershphLHA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/NoershphLHA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/NoershphLHA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Xúm Zô Coi Ca Cổ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/TZSn9NIYLMYYM1H9IbtHydQaG1M\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "4WvydsNLbdA"
+      },
+      "snippet": {
+       "publishedAt": "2019-02-17T04:00:47.000Z",
+       "channelId": "UCaY8uB4q9OVMVAPmibPMlpw",
+       "title": "Em Gái Xinh Đẹp Hát Ca Cổ Hơi Dài Nhất Hành Tinh, Vọng Cổ Hơi Dài Miền Tây Hay Ngất Ngây",
+       "description": "Em Gái Xinh Đẹp Hát Ca Cổ Hơi Dài Nhất Hành Tinh, Vọng Cổ Hơi Dài Miền Tây Hay Ngất Ngây ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ #XZCcaco, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/4WvydsNLbdA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/4WvydsNLbdA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/4WvydsNLbdA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Xúm Zô Coi Ca Cổ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/NeRzpMxQSf5rHsnspr-a1NtjSUc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Mlxd_O686IU"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-24T12:00:03.000Z",
+       "channelId": "UCaY8uB4q9OVMVAPmibPMlpw",
+       "title": "10 Vọng Cổ Hay Nhất Miền Tây Hay Nhức Nhói | Tân Cổ Giao Duyên Hơi Dài Nghe Hoài Không Chán",
+       "description": "10 Vọng Cổ Hay Nhất Miền Tây Hay Nhức Nhói | Tân Cổ Giao Duyên Hơi Dài Nghe Hoài Không Chán ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ #XZCcaco, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Mlxd_O686IU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Mlxd_O686IU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Mlxd_O686IU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Xúm Zô Coi Ca Cổ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/cm417ag-tD4mDDrNcy6Dqkz0bXs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "i6xKiiS5nL0"
+      },
+      "snippet": {
+       "publishedAt": "2018-03-16T11:00:04.000Z",
+       "channelId": "UCddGOcCVTtjY240yyEG2p_g",
+       "title": "Ca Sĩ Trẻ Hát Tân Cổ Hay Nhất 2018 | Tuyển Chọn Ca Khúc Ca Cổ Mới Nhất Hiện Nay - Nghe Là Nghiện",
+       "description": "Ca Sĩ Trẻ Hát Tân Cổ Hay Nhất 2018 | Tuyển Chọn Ca Khúc Ca Cổ Mới Nhất Hiện Nay - Nghe Là Nghiện ♫Hãy Subscribe kênh Sky Music Bolero: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/i6xKiiS5nL0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/i6xKiiS5nL0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/i6xKiiS5nL0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "SKY Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/FcuPWV8vKGnbf4sX9wsb6LxZ_5o\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "0i17zTles4M"
+      },
+      "snippet": {
+       "publishedAt": "2019-09-06T12:00:13.000Z",
+       "channelId": "UCXhTqFgTMhDESK2Ut8KJO0A",
+       "title": "Ca Sĩ Trẻ Mà Hát Vọng Cổ Như Thế Này Ai Mà Chịu Nỗi VỤ ÁN MÃ NGƯU | Vọng Cổ Hơi Dài Hay Nhất 2019",
+       "description": "Ca Sĩ Trẻ Mà Hát Vọng Cổ Như Thế Này Ai Mà Chịu Nỗi VỤ ÁN MÃ NGƯU | Vọng Cổ Hơi Dài Hay Nhất 2019(#VAMN) Kênh Tân Cổ Giao Duyên là nơi hội tụ ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/0i17zTles4M/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/0i17zTles4M/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/0i17zTles4M/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Tân Cổ Giao Duyên",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Y6PuBPeODu3lUjB1-hz3yM7Yb3s\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "2k2mTagKeu4"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-01T12:00:03.000Z",
+       "channelId": "UCRbmS76FyG35XAJif9j-0eA",
+       "title": "Không Quảng Cáo - Ca Sĩ Trẻ Xinh Đẹp Hát Tân Cổ Giao Duyên Nghe Mãi Không Chán",
+       "description": "Vọng Cổ Hơi Dài : https://bit.ly/2XgndDM - Ca Cổ Hơi Dài : https://bit.ly/2XgndDM - Tân Cổ Giao Duyên : https://bit.ly/2XgndDM ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/2k2mTagKeu4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/2k2mTagKeu4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/2k2mTagKeu4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vọng Cổ Tình Quê",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/KV-JSu0PKb4HWNuxpqhmsmIu2TI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "hELJJ1NSYcM"
+      },
+      "snippet": {
+       "publishedAt": "2018-01-04T09:27:30.000Z",
+       "channelId": "UCemEbhIN-4itlXW3S9s54Pw",
+       "title": "Tân Cổ Lê Sang 2018 | Ca Sĩ Trẻ Hát Tân Cổ Ngọt Ngào Làm Say Đắm Hàng Triệu Trái Tim",
+       "description": "Tân Cổ Lê Sang 2018 | Ca Sĩ Trẻ Hát Tân Cổ Ngọt Ngào Làm Say Đắm Hàng Triệu Trái Tim #lesang #tanco ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/hELJJ1NSYcM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/hELJJ1NSYcM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/hELJJ1NSYcM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Ca Sĩ Lê Sang",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/6k5VDMeXi-bacM9IDa8TcyUJZxE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "N8wG28UlPnA"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-09T03:00:00.000Z",
+       "channelId": "UC_fHRYP5pfZeS5ry5e7k5-g",
+       "title": "Em Gái hát Tân Cổ Mùi Mẫn Nức Nở Cõi Tâm - Ca Cổ Hiện Đại Mới Đặc Sặc Nhất 2019",
+       "description": "Em Gái hát Tân Cổ Mùi Mẫn Nức Nở Cõi Tâm - Ca Cổ Hiện Đại Mới Đặc Sặc Nhất 2019 Tân Cổ Mới Nhất 2019: http://bit.ly/2vi0CqF Ca Cổ Dài Hơi Hay Nhất:...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/N8wG28UlPnA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/N8wG28UlPnA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/N8wG28UlPnA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vọng Cổ Quê Hương",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/PwWnMQOmm1f_r7osqCrJgTu1ClU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ZAWHZy8ksV8"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-05T12:00:11.000Z",
+       "channelId": "UCaY8uB4q9OVMVAPmibPMlpw",
+       "title": "Bất Ngờ Với Những Câu Hát Ca Cổ Hơi Dài Nhiều Nghệ Sĩ Trẻ Hay Mê Say | Vọng Cổ Hơi Dài Miền Tây",
+       "description": "Bất Ngờ Với Những Câu Hát Ca Cổ Hơi Dài Nhiều Nghệ Sĩ Trẻ Hay Mê Say | Vọng Cổ Hơi Dài Miền Tây ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ #XZCcaco,.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ZAWHZy8ksV8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ZAWHZy8ksV8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ZAWHZy8ksV8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Xúm Zô Coi Ca Cổ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/F3OcBXU94ds7ZjUDKyKKhxcHQcI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "cr-IxOfvE-U"
+      },
+      "snippet": {
+       "publishedAt": "2018-04-04T15:43:23.000Z",
+       "channelId": "UCywtT1ttnLsbqUkhGZ3KcOg",
+       "title": "Nghệ Sĩ Trẻ Hát Ca Cổ Hay Quá | Những Bài Tân Cổ Giao Duyên Nghe Là Ghiền",
+       "description": "Nghệ Sĩ Trẻ Hát Ca Cổ Hay Quá | Những Bài Tân Cổ Giao Duyên Nghe Là Ghiền ================================================ Cám Ơn Mọi ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/cr-IxOfvE-U/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/cr-IxOfvE-U/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/cr-IxOfvE-U/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "XZC Karaoke",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/pgMlO6bPwSCJgnL8Ufgfakwezq8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "taaVLbB5nzE"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-24T12:00:21.000Z",
+       "channelId": "UCRbmS76FyG35XAJif9j-0eA",
+       "title": "Hotboy hát Tân Cổ Đốn Tim Triệu Cô Gái - Tân Cổ Giao Duyên Hay Tê Tái",
+       "description": "Vọng Cổ Hơi Dài : https://bit.ly/2XgndDM - Ca Cổ Hơi Dài : https://bit.ly/2XgndDM - Tân Cổ Giao Duyên : https://bit.ly/2XgndDM ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/taaVLbB5nzE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/taaVLbB5nzE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/taaVLbB5nzE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vọng Cổ Tình Quê",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jUPmSLX3JJPaeoMG2kuKaZDIPx4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "TPM0mEfm5tU"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-21T12:00:16.000Z",
+       "channelId": "UCRbmS76FyG35XAJif9j-0eA",
+       "title": "Trai Tài Gái Sắc Hát Tân Cổ Làm Xao Xuyến Lòng Người - Ca Sĩ Trẻ Hát Tân Cổ Hay Nhất 2020",
+       "description": "Vọng Cổ Hơi Dài : https://bit.ly/2XgndDM - Ca Cổ Hơi Dài : https://bit.ly/2XgndDM - Tân Cổ Giao Duyên : https://bit.ly/2XgndDM ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/TPM0mEfm5tU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/TPM0mEfm5tU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/TPM0mEfm5tU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vọng Cổ Tình Quê",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/uWvtH-sepWltFIOEvO-jQF0ol7Q\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "wBDigGYIZ0M"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-19T05:57:44.000Z",
+       "channelId": "UCPpTm1J7XaIjh2Wn2OkXA7Q",
+       "title": "Ca cổ Miệt Vườn - Những làn hơi dài hát hay và ngọt khủng khiếp✔",
+       "description": "Ca cổ Miệt Vườn - Những làn hơi dài hát hay và ngọt khủng khiếp✓ Chương trình Ca cổ miệt vườn được tổ chức vào lúc 18h00 -22h00 ngày thứ Bảy hàng...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/wBDigGYIZ0M/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/wBDigGYIZ0M/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/wBDigGYIZ0M/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "CA CỔ MIỆT VƯỜN",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/AqkIRjUxhX66LUmOlFiLJvkV0rg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "NZOXBQKV0A8"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-29T22:43:33.000Z",
+       "channelId": "UCywtT1ttnLsbqUkhGZ3KcOg",
+       "title": "Tân Cổ Hiện Đại : Nghệ Sĩ Trẻ Hát Ca Cổ Hơi Dài Hay Nhất 2019 | Tân Cổ Giao Duyên Hay Mê Say",
+       "description": "Tân Cổ Hiện Đại : Nghệ Sĩ Trẻ Hát Ca Cổ Hơi Dài Hay Nhất 2019 | Tân Cổ Giao Duyên Hay Mê Say ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/NZOXBQKV0A8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/NZOXBQKV0A8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/NZOXBQKV0A8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "XZC Karaoke",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/y2cP-kIY4i5Ou2JLa6OpsLiM36Y\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "p9ue05ypXK4"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-22T11:00:08.000Z",
+       "channelId": "UC_fHRYP5pfZeS5ry5e7k5-g",
+       "title": "Ngọc Châu - Ngọc Nữ Tân Cổ Đẹp từ ngoại hình đến giọng hát - Tân cổ Hay Nhất Ngọc Châu 2019",
+       "description": "Ngọc Châu - Ngọc Nữ Tân Cổ Đẹp từ ngoại hình đến giọng hát - Tân cổ Hay Nhất Ngọc Châu 2019 Tân Cổ Mới Nhất 2019: http://bit.ly/2vi0CqF Ca Cổ Dài Hơi...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/p9ue05ypXK4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/p9ue05ypXK4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/p9ue05ypXK4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vọng Cổ Quê Hương",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nkp6ixkNe6ex9Xk38nfshsf6fKw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "i-32vb2Kfbs"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-05T12:00:10.000Z",
+       "channelId": "UCaY8uB4q9OVMVAPmibPMlpw",
+       "title": "Em Gái Xinh Đẹp Hát Ca 10 Bài Cổ Hơi Dài Nhất Hành Tinh - Vọng Cổ Hơi Dài Miền Tây Hay Ngất Ngây",
+       "description": "Em Gái Xinh Đẹp Hát Ca 10 Bài Cổ Hơi Dài Nhất Hành Tinh - Vọng Cổ Hơi Dài Miền Tây Hay Ngất Ngây ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ #XZCcaco,.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/i-32vb2Kfbs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/i-32vb2Kfbs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/i-32vb2Kfbs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Xúm Zô Coi Ca Cổ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wdNYJ5I6LqzNk43gGJIfOQDWvSw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "n356kG9bxYI"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-10T12:00:14.000Z",
+       "channelId": "UCVWMP4gT_uzezyl2JPiLTLA",
+       "title": "Cặp Đôi Trời Phú Minh Trường &amp; Nhã Thy Hát Vọng Cổ Hơi Dài Nghe Nhức Nhói | Làm Rung Động Trái Tim",
+       "description": "Cặp Đôi Trời Phú Minh Trường & Nhã Thy Hát Vọng Cổ Hơi Dài Nghe Nhức Nhói | Làm Rung Động Trái Tim.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/n356kG9bxYI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/n356kG9bxYI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/n356kG9bxYI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Minh Trường Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/U3jKxV7sSR8dMQwvgzbO8SYucyc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "x56MdTgYs5w"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-25T22:45:00.000Z",
+       "channelId": "UCywtT1ttnLsbqUkhGZ3KcOg",
+       "title": "Tân Cổ Hiện Đại: Nghệ Sĩ Trẻ Hát Ca Cổ Hơi Dài Hay Nhất Hiện Nay | Tân Cổ Giao Duyên Nhiều Ca Sĩ Trẻ",
+       "description": "Tân Cổ Hiện Đại: Nghệ Sĩ Trẻ Hát Ca Cổ Hơi Dài Hay Nhất Hiện Nay | Tân Cổ Giao Duyên Nhiều Ca Sĩ Trẻ ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/x56MdTgYs5w/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/x56MdTgYs5w/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/x56MdTgYs5w/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "XZC Karaoke",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/-HG9q28nTdaGtnQfb1ttcnua6b0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "M1VUPJzj6n0"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-25T23:00:16.000Z",
+       "channelId": "UCkqfWch178tb0mZ94lDwk6w",
+       "title": "Cặp Đôi Triệu View Hát Tân Cổ Đành Lòng Sao Anh Lấy Đi Nước Mắt Triệu Người Nghe",
+       "description": "Cặp Đôi Triệu View Hát Tân Cổ Đành Lòng Sao Anh Lấy Đi Nước Mắt Triệu Người Nghe ▻ Đăng ký ngay để theo dõi nhiều bài hát hay: http://bit.ly/38crzgN...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/M1VUPJzj6n0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/M1VUPJzj6n0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/M1VUPJzj6n0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Phương Thúy - Bông Lúa Vàng",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/mTl83tRj188vEFY6xGl7DQyWFfU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "M0SHP4MvBpc"
+      },
+      "snippet": {
+       "publishedAt": "2019-11-21T11:45:10.000Z",
+       "channelId": "UCkpJfKlmZlNwyTJSojkLIfg",
+       "title": "Em Gái Xinh Đẹp Hát Tân Cổ Hạnh Phúc Quanh Đây Nghe Là Mê Liền | Trịnh Ngọc Huyền ✔",
+       "description": "Em Gái Xinh Đẹp Hát Tân Cổ Hạnh Phúc Quanh Đây Nghe Là Mê Liền | Trịnh Ngọc Huyền ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/M0SHP4MvBpc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/M0SHP4MvBpc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/M0SHP4MvBpc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "TRỊNH NGỌC HUYỀN",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/rcUQGaUfy-Tigjuas9pOvIHVebQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Pgrkvp9bPTo"
+      },
+      "snippet": {
+       "publishedAt": "2017-06-15T03:47:07.000Z",
+       "channelId": "UCwmv31mM3KpC3i6I3ymlcSA",
+       "title": "Má Ơi - Tân Cổ Trữ Tình Hát Về Mẹ Cảm Động Rơi Nước Mắt",
+       "description": "Má Ơi - Tân Cổ Trữ Tình Hát Về Mẹ Cảm Động Rơi Nước Mắt Nhạc Sến Bolero Trữ Tình https://goo.gl/HmGtZf Nhạc Vàng Trữ Tình Chọn Lọc ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Pgrkvp9bPTo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Pgrkvp9bPTo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Pgrkvp9bPTo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Ca Sĩ Diệu Thắm",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/3dEL0m0sz6LSx-6Kp5wzKQAKxZk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "rY2sZ-Qm9DQ"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-29T12:00:11.000Z",
+       "channelId": "UCRbmS76FyG35XAJif9j-0eA",
+       "title": "50 Bài Hát Tân Cổ Giao Duyên Hay Nhất 2020 - Ca Vọng Cổ Nghe Là Nghiền",
+       "description": "Vọng Cổ Hơi Dài : https://bit.ly/2XgndDM - Ca Cổ Hơi Dài : https://bit.ly/2XgndDM - Tân Cổ Giao Duyên : https://bit.ly/2XgndDM ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/rY2sZ-Qm9DQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/rY2sZ-Qm9DQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/rY2sZ-Qm9DQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vọng Cổ Tình Quê",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/WK7GJ2rjypXGaVMNFTT7ZfK5NfA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "tyzNtKxUBA8"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-04T11:41:30.000Z",
+       "channelId": "UC_fHRYP5pfZeS5ry5e7k5-g",
+       "title": "Trẻ Đẹp Hát Hay Nức Lòng Là Có Thật - Tân Cổ Hiện Đại Dài Hơi Hay Mới Nhất 2019",
+       "description": "Trẻ Đẹp Hát Hay Nức Lòng Là Có Thật - Tân Cổ Hiện Đại Dài Hơi Hay Mới Nhất 2019 Tân Cổ Mới Nhất 2019: http://bit.ly/2vi0CqF Ca Cổ Dài Hơi Hay Nhất: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/tyzNtKxUBA8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/tyzNtKxUBA8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/tyzNtKxUBA8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vọng Cổ Quê Hương",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/i-daaI6d7PTnbd_wfmdsuyWk9iU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "STRU8QSBTiA"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-04T03:00:05.000Z",
+       "channelId": "UCRbmS76FyG35XAJif9j-0eA",
+       "title": "Tân Cổ Giao Duyên 2020 Chọn Lọc Ca Sĩ Trẻ Hát Ngọt Như Mía - Vọng Cổ Hơi Dài Miền Tây Đặc Biệt Hay",
+       "description": "Tân Cổ Giao Duyên 2020 Chọn Lọc Ca Sĩ Trẻ Hát Ngọt Như Mía - Vọng Cổ Hơi Dài Miền Tây Đặc Biệt Hay - Vọng Cổ Hơi Dài : https://bit.ly/2XgndDM - Ca Cổ ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/STRU8QSBTiA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/STRU8QSBTiA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/STRU8QSBTiA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vọng Cổ Tình Quê",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/dqYPOldWK3ECy2VGCvZGqKRElTQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ljFHXh4Kr3I"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-25T12:00:31.000Z",
+       "channelId": "UCRbmS76FyG35XAJif9j-0eA",
+       "title": "Ca Sĩ Trẻ Xinh Đẹp Cẩm Loan Hát Tân Cổ Giao Duyên Gây Chấn Động Con Tim - Dễ Nghe Dễ Ngủ",
+       "description": "Vọng Cổ Hơi Dài : https://bit.ly/2XgndDM - Ca Cổ Hơi Dài : https://bit.ly/2XgndDM - Tân Cổ Giao Duyên : https://bit.ly/2XgndDM ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ljFHXh4Kr3I/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ljFHXh4Kr3I/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ljFHXh4Kr3I/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vọng Cổ Tình Quê",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/0t4ta_3KIlIlvEugbQF0_pa58kU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "6ysdTsyKCl4"
+      },
+      "snippet": {
+       "publishedAt": "2019-11-25T11:00:01.000Z",
+       "channelId": "UC_fHRYP5pfZeS5ry5e7k5-g",
+       "title": "Bật khóc nghe Ngọc Nữ Tân cổ hát quá mùi - Những bài Ca cổ về Cha mẹ hay Ý Nghĩanhất",
+       "description": "Bật khóc nghe Ngọc Nữ Tân cổ hát quá mùi - Những bài ca cổ về Cha mẹ hay nhất Tân Cổ Mới Nhất 2019: http://bit.ly/2vi0CqF Ca Cổ Dài Hơi Hay Nhất: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/6ysdTsyKCl4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/6ysdTsyKCl4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/6ysdTsyKCl4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vọng Cổ Quê Hương",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/R181tr7J2YbUAcmcYyjBCPTd0jI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "BjniNqTzMXI"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-11T12:00:03.000Z",
+       "channelId": "UCRbmS76FyG35XAJif9j-0eA",
+       "title": "Nghệ Sĩ Trẻ Xinh Đẹp hát Vọng Cổ Gây Chấn Động Con Tim - Vọng Cổ Hơi Dài Hay Nhất 2020",
+       "description": "Nghệ Sĩ Trẻ Xinh Đẹp hát Vọng Cổ Gây Chấn Động Con Tim - Vọng Cổ Hơi Dài Hay Nhất 2020 - Vọng Cổ Hơi Dài : https://bit.ly/2XgndDM - Ca Cổ Hơi Dài ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/BjniNqTzMXI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/BjniNqTzMXI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/BjniNqTzMXI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vọng Cổ Tình Quê",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Yq56H6OuqHBhKB4AIbgCd1TnVJs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "8VXxC_XxZCM"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-10T12:04:54.000Z",
+       "channelId": "UCRbmS76FyG35XAJif9j-0eA",
+       "title": "Nghệ Sĩ Trẻ Xinh Đẹp Hát Tân Cổ Làm Lay Động Lòng Người - Tân Cổ Giao Duyên Ngọt Lịm Tim",
+       "description": "Vọng Cổ Hơi Dài : https://bit.ly/2XgndDM - Ca Cổ Hơi Dài : https://bit.ly/2XgndDM - Tân Cổ Giao Duyên : https://bit.ly/2XgndDM ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/8VXxC_XxZCM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/8VXxC_XxZCM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/8VXxC_XxZCM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vọng Cổ Tình Quê",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/I9SZfzdCmu4on08SnqUrNsGwm2A\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "dMxu6r985A0"
+      },
+      "snippet": {
+       "publishedAt": "2018-12-17T10:58:49.000Z",
+       "channelId": "UCW7piCHJZ11DAUNCKwHKKHw",
+       "title": "Nghệ Sĩ Trẻ Hát Ca Cổ Hơi Dài Hay Nhất Hiện Nay | Tân Cổ Giao Duyên Hiện Đại | Cực Êm Tai",
+       "description": "Đăng Ký Kênh: https://bit.ly/2JJUr8v 1. ANH ĐÂU CÓ SAY : TRÌNH BÀY . MINH TRƯỜNG - NHÃ THY 2. HÀO HOA : TRÌNH BÀY . MINH TRƯỜNG - NHÃ THY 3.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/dMxu6r985A0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/dMxu6r985A0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/dMxu6r985A0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Ghiền Ca Cổ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/QM1DYNqlANGVi5t6lso_IWEVlBs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "OhDHNwCW68c"
+      },
+      "snippet": {
+       "publishedAt": "2019-10-15T03:30:01.000Z",
+       "channelId": "UCRbmS76FyG35XAJif9j-0eA",
+       "title": "Ca Sĩ Trẻ Hát Tân Cổ Giao Duyên Ngọt Như Mía Lùi - Vọng Cổ Hơi Dài Miền Tây 2019 Vạn Người Mê",
+       "description": "Ca Sĩ Trẻ Hát Tân Cổ Giao Duyên Ngọt Như Mía Lùi - Vọng Cổ Hơi Dài Miền Tây 2019 Vạn Người Mê https://youtu.be/OhDHNwCW68c - Vọng Cổ Hơi Dài ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/OhDHNwCW68c/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/OhDHNwCW68c/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/OhDHNwCW68c/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vọng Cổ Tình Quê",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/kZhZ441rrCRZrZN1arNNnrQlCvU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "i2R7Jn3Wxu0"
+      },
+      "snippet": {
+       "publishedAt": "2017-05-07T00:29:40.000Z",
+       "channelId": "UCddGOcCVTtjY240yyEG2p_g",
+       "title": "Xuất Hiện Thêm Một Nghệ Sĩ Trẻ Hát Ca Cổ, Tân Cổ Cải Lương Nghe Phê Luôn, Ca Cổ Hay Hoàng Việt Trang",
+       "description": "Xuất Hiện Thêm Một Nghệ Sĩ Trẻ Hát Ca Cổ, Tân Cổ Cải Lương Nghe Phê Luôn, Ca Cổ Hay Hoàng Việt Trang ♫Hãy Subscribe kênh Sky Music Bolero: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/i2R7Jn3Wxu0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/i2R7Jn3Wxu0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/i2R7Jn3Wxu0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "SKY Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/krdzjjponIqbXaywfZZvlTe1BYk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "_errmAU5KRA"
+      },
+      "snippet": {
+       "publishedAt": "2019-02-14T11:30:01.000Z",
+       "channelId": "UCaY8uB4q9OVMVAPmibPMlpw",
+       "title": "Em Gái Mưa Xinh Đẹp Hát Ca Cổ Hơi Dài Cực Hay - Phương Cẩm Ngọc, Huỳnh Tiểu Nhi, Nhã Thy",
+       "description": "Em Gái Mưa Xinh Đẹp Hát Ca Cổ Hơi Dài Cực Hay - Phương Cẩm Ngọc, Huỳnh Tiểu Nhi, Nhã Thy ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ #XZCcaco, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/_errmAU5KRA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/_errmAU5KRA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/_errmAU5KRA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Xúm Zô Coi Ca Cổ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/UNOLdpU6RRSXVvqZ5KRiXsh3vr4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ChGUC6LxEQ8"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-29T11:06:12.000Z",
+       "channelId": "UCtIgPnNvlYD2ZjtBGK5UvUw",
+       "title": "Nổi Da Gà Với Giọng Ca Em Gái Cực Duyên Dáng Ngọt Ngào - Tân Cổ Chọn Lọc Mới Nghe Hay Mà Buồn",
+       "description": "Đăng ký kênh: https://bit.ly/2XbLTdZ Kênh Tân Cổ Hiện Đại là kênh Ca Cổ Tổng Hợp giới thiệu đến quý khán giả những bài ca cổ, tân cổ hiện đại,...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ChGUC6LxEQ8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ChGUC6LxEQ8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ChGUC6LxEQ8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Tân Cổ Hiện Đại",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/7DIh0B5CUMwkXJ7drdEvfzrbXbU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "0yyaof-O0oY"
+      },
+      "snippet": {
+       "publishedAt": "2019-02-23T11:30:00.000Z",
+       "channelId": "UCVWMP4gT_uzezyl2JPiLTLA",
+       "title": "Tân Cổ Hiện Đại - Nghệ Sĩ Trẻ Xinh Đẹp Hát Ca Cổ Hay Nhất | Vọng Cổ Hơi Dài Nhã Thy, Minh Trường",
+       "description": "Tân Cổ Hiện Đại - Nghệ Sĩ Trẻ Xinh Đẹp Hát Ca Cổ Hay Nhất | Vọng Cổ Hơi Dài Nhã Thy, Minh Trường.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/0yyaof-O0oY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/0yyaof-O0oY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/0yyaof-O0oY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Minh Trường Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/FUgCTXWRBcXqM6dEyqE7geXW3nY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Kfw43jvAHyo"
+      },
+      "snippet": {
+       "publishedAt": "2019-10-14T11:00:02.000Z",
+       "channelId": "UC_fHRYP5pfZeS5ry5e7k5-g",
+       "title": "Tiếng hát Ru hồn Người - Tân cổ giọng ca Nam chỉ muốn nghe mãi không thôi",
+       "description": "Tiếng hát Ru hồn Người - Tân cổ giọng ca Nam chỉ muốn nghe mãi không thôi Tân Cổ Mới Nhất 2019: http://bit.ly/2vi0CqF Ca Cổ Dài Hơi Hay Nhất: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Kfw43jvAHyo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Kfw43jvAHyo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Kfw43jvAHyo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vọng Cổ Quê Hương",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/iu6miC7aiKBieIBS-P_CLxOcDzo\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "dJCBNSWOBJA"
+      },
+      "snippet": {
+       "publishedAt": "2020-05-01T22:30:14.000Z",
+       "channelId": "UCXhTqFgTMhDESK2Ut8KJO0A",
+       "title": "Ca Cổ Hơi Dài - Tân Cổ Giao Duyên Hơi Dài Nghe Tê Tái Con Tim | Ca Cổ Tân Cổ Miền Tây Hay Nhất 2020",
+       "description": "Ca Cổ Hơi Dài - Tân Cổ Giao Duyên Hơi Dài Nghe Tê Tái Con Tim | Ca Cổ Tân Cổ Miền Tây Hay Nhất 2020 Kênh Tân Cổ Giao Duyên là nơi hội tụ những danh ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/dJCBNSWOBJA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/dJCBNSWOBJA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/dJCBNSWOBJA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Tân Cổ Giao Duyên",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/N-FtJRYVN_iIAfSEYDeCWHQ4Hzs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "MD7yolhbPuM"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-09T11:45:10.000Z",
+       "channelId": "UCkpJfKlmZlNwyTJSojkLIfg",
+       "title": "Giọng Ca Phá Cách Của Em Gái Trịnh Ngọc Huyền Hát Tân Cổ Giao Duyên Nghe Cực Đã | Trịnh Ngọc Huyền ✔",
+       "description": "Giọng Ca Phá Cách Của Em Gái Trịnh Ngọc Huyền Hát Tân Cổ Giao Duyên Nghe Cực Đã | Trịnh Ngọc Huyền ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/MD7yolhbPuM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/MD7yolhbPuM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/MD7yolhbPuM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "TRỊNH NGỌC HUYỀN",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/4ZhVyF--o9h7tBzLJh73X3yT-Kk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "rZTozhTGLjk"
+      },
+      "snippet": {
+       "publishedAt": "2019-08-09T03:14:14.000Z",
+       "channelId": "UC_fHRYP5pfZeS5ry5e7k5-g",
+       "title": "Thanh Nhường - Ca cổ tiếng hát để đời || 100 bài tân cổ hay mới nhất của Thanh Nhường",
+       "description": "Thanh Nhường - Ca cổ tiếng hát để đời || 100 bài tân cổ hay mới nhất của Thanh Nhường Tân Cổ Mới Nhất 2019: http://bit.ly/2vi0CqF Ca Cổ Dài Hơi Hay Nhất:.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/rZTozhTGLjk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/rZTozhTGLjk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/rZTozhTGLjk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vọng Cổ Quê Hương",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jnnqtvNEvrvePq-2qGiOz1FrKds\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "4NDrBDzgnZ4"
+      },
+      "snippet": {
+       "publishedAt": "2019-03-13T04:30:01.000Z",
+       "channelId": "UCywtT1ttnLsbqUkhGZ3KcOg",
+       "title": "Tân Cổ Hiện Đại - Hơi Dài Miền Tây | Nghệ Sĩ Trẻ Hát Ca Cổ Hay Nhất Hiện Nay, Tô Tấn Loan &amp; Kim Luận",
+       "description": "Tân Cổ Hiện Đại - Hơi Dài Miền Tây | Nghệ Sĩ Trẻ Hát Ca Cổ Hay Nhất Hiện Nay, Tô Tấn Loan & Kim Luận ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/4NDrBDzgnZ4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/4NDrBDzgnZ4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/4NDrBDzgnZ4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "XZC Karaoke",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/dShcq84gS-ZyGGBYhGMFYPVVOGY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Xw3yxYy1c-4"
+      },
+      "snippet": {
+       "publishedAt": "2019-01-13T10:22:22.000Z",
+       "channelId": "UCVWMP4gT_uzezyl2JPiLTLA",
+       "title": "Tân Cổ Hiện Đại - Nghệ Sĩ Trẻ Xinh Đẹp Hát Ca Cổ Hay Nhất Hiện Nay | Nhã Thy, Minh &amp;Trường",
+       "description": "Tân Cổ Hiện Đại - Nghệ Sĩ Trẻ Xinh Đẹp Hát Ca Cổ Hay Nhất Hiện Nay | Nhã Thy & Minh Trường.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Xw3yxYy1c-4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Xw3yxYy1c-4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Xw3yxYy1c-4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Minh Trường Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/hDD-mKwzxk9xXjn4XDWSDPAaX0M\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "KZmbyQDu9dA"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-26T12:00:21.000Z",
+       "channelId": "UCRbmS76FyG35XAJif9j-0eA",
+       "title": "Trích Đoạn Cải Lương Xúc Động Nghe  Là Khóc - Vọng Cổ Cải Lương Hay Nhất 2020",
+       "description": "Trích Đoạn Cải Lương Xúc Động Nghe Là Khóc - Vọng Cổ Cải Lương Hay Nhất 2020 - Vọng Cổ Hơi Dài : https://bit.ly/2XgndDM - Ca Cổ Hơi Dài ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/KZmbyQDu9dA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/KZmbyQDu9dA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/KZmbyQDu9dA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vọng Cổ Tình Quê",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/6SV4libLvdFMeGnqXyxCb2WCY-Q\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "sPAFCTbWKXU"
+      },
+      "snippet": {
+       "publishedAt": "2016-10-12T17:34:54.000Z",
+       "channelId": "UC3QDTKVRFv_k0xC-xTHK5jw",
+       "title": "Hồ Minh Đương 2019 | Tuyển Tập Album Tân Cổ Hay Nhất 2019 | TÂN CỔ HỒ MINH ĐƯƠNG",
+       "description": "Hồ Minh Đương 2019 | Tuyển Tập Album Tân Cổ Hay Nhất 2019 | TÂN CỔ HỒ MINH ĐƯƠNG ▻ Ca Sĩ : HỒ MINH ĐƯƠNG ------------------- ▻ Đăng ký để xem ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/sPAFCTbWKXU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/sPAFCTbWKXU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/sPAFCTbWKXU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Dân Ca Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/MHMqxs6rz1NK3W4sWxvFxrS07x4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "XB9n9_kjz84"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-26T13:03:40.000Z",
+       "channelId": "UC_fHRYP5pfZeS5ry5e7k5-g",
+       "title": "Tái Tê Con Tim Với Tuyển Tập Ca Cổ Để Đời - Tân Cổ Hiện Đại Giọng Hát Mùi Mẫn Nhất",
+       "description": "Tái Tê Con Tim Với Tuyển Tập Ca Cổ Để Đời - Tân Cổ Hiện Đại Giọng Hát Mùi Mẫn Nhất Tân Cổ Mới Nhất 2020: http://bit.ly/2PpTeo9 Ca Cổ Dài Hơi Hay Nhất:.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/XB9n9_kjz84/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/XB9n9_kjz84/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/XB9n9_kjz84/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vọng Cổ Quê Hương",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/xk9WJdzENO2R-I4HCaKg6hBG4Ko\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "9UmrSElC5lo"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-29T22:30:57.000Z",
+       "channelId": "UCaY8uB4q9OVMVAPmibPMlpw",
+       "title": "Tân Cổ Hiện Đại - Nghệ Sĩ Trẻ Hát Ca Cổ Hơi Dài Hay Nhất 2018 | Minh Trường &amp; Nhã Thy | XZC Ca Cổ",
+       "description": "Tân Cổ Hiện Đại - Nghệ Sĩ Trẻ Hát Ca Cổ Hơi Dài Hay Nhất 2018 | Minh Trường & Nhã Thy | XZC Ca Cổ ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ Xúm Zô...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/9UmrSElC5lo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/9UmrSElC5lo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/9UmrSElC5lo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Xúm Zô Coi Ca Cổ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/i9PJ3PqzhNx12gNWX9eLsIBd_qo\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "IZEBhdouDyM"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-24T11:00:02.000Z",
+       "channelId": "UCaY8uB4q9OVMVAPmibPMlpw",
+       "title": "Tân Cổ Hiện Đại - Hơi Dài Miền Tây | Nghệ Sĩ Trẻ Hát Ca Cổ Hay Nhất Hiện Nay, Tô Tấn Loan &amp; Kim Luận",
+       "description": "Tân Cổ Hiện Đại - Hơi Dài Miền Tây | Nghệ Sĩ Trẻ Hát Ca Cổ Hay Nhất Hiện Nay, Tô Tấn Loan & Kim Luận ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/IZEBhdouDyM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/IZEBhdouDyM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/IZEBhdouDyM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Xúm Zô Coi Ca Cổ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/7KZViLtSUxPNFq4a-MtpTocWEB4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "hxsxgTO9w-k"
+      },
+      "snippet": {
+       "publishedAt": "2019-02-16T11:28:18.000Z",
+       "channelId": "UCVWMP4gT_uzezyl2JPiLTLA",
+       "title": "Cặp Đôi Hát Tân Cổ Hơi Dài Minh Trường &amp; Nhã Thy Ăn Ý Nhất Hiện Nay | Ca Cổ Hơi Dài Hay Nhất 2019",
+       "description": "Cặp Đôi Hát Tân Cổ Hơi Dài Minh Trường & Nhã Thy Ăn Ý Nhất Hiện Nay | Ca Cổ Hơi Dài Hay Nhất 2019.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/hxsxgTO9w-k/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/hxsxgTO9w-k/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/hxsxgTO9w-k/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Minh Trường Official",
+       "liveBroadcastContent": "none"
+      }
+     }
+    ]
+   }
+   
+   

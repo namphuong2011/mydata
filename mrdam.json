@@ -1,0 +1,1664 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/StfGQfHdTqt64q_9RoSKKLYvg6o\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+     "totalResults": 213340,
+     "resultsPerPage": 50
+    },
+    "items": [
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/fo_IWSCT_E390c0wzav2YdVX5Qk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "QMNTcsOBAIE"
+      },
+      "snippet": {
+       "publishedAt": "2019-10-24T11:00:04.000Z",
+       "channelId": "UC7ZcCX4PLJd6VnNVQ4hn1pA",
+       "title": "Đàm Vĩnh Hưng - Tuyển Tập Những Bản Mashup Bolero Hay Nhất của Đàm Vĩnh Hưng 2020",
+       "description": "Đàm Vĩnh Hưng - Tuyển Tập Những Bản Mashup Bolero Hay Nhất của Đàm Vĩnh Hưng 2020 Trọn bộ Phim Hài mới nhất: https://goo.gl/v7dxN2 Đăng ký xem ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/QMNTcsOBAIE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/QMNTcsOBAIE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/QMNTcsOBAIE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "NỤ CƯỜI VÀNG TV",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/f75LqIKZMRqDIQg7QWEOvN-Oll0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Wj1UMEPZBF8"
+      },
+      "snippet": {
+       "publishedAt": "2019-02-12T06:14:15.000Z",
+       "channelId": "UCNfqb-sEN9dJQypOWCBhO-A",
+       "title": "Những ca khúc nhạc vàng hay nhất của Đàm Vĩnh Hưng",
+       "description": "Những ca khúc nhạc vàng hay nhất của ca sĩ Đàm Vĩnh Hưng.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Wj1UMEPZBF8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Wj1UMEPZBF8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Wj1UMEPZBF8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Hay",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/DkvQEWqrGdo4cCKCgop1xaLJEyQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "vtA9rSBabNU"
+      },
+      "snippet": {
+       "publishedAt": "2018-12-25T01:21:07.000Z",
+       "channelId": "UCuR8ReLm5rmRyy7OAJ3tlXg",
+       "title": "Đàm Vĩnh Hưng Tiếng Hát Xé Lòng - Giọng Ca Để Đời Đặc Biệt Bolero Trữ Tình",
+       "description": "Đàm Vĩnh Hưng Tiếng Hát Xé Lòng - Giọng Ca Để Đời Đặc Biệt Bolero Trữ Tình https://youtu.be/vtA9rSBabNU.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/vtA9rSBabNU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/vtA9rSBabNU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/vtA9rSBabNU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "TRỮ TÌNH VIỆT NAM",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Ju6Ssu8TxDzdcsLuaWPgNLPZBEM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "9k89mZhdRoo"
+      },
+      "snippet": {
+       "publishedAt": "2019-03-16T12:00:04.000Z",
+       "channelId": "UC7ZcCX4PLJd6VnNVQ4hn1pA",
+       "title": "Tuyển Tập Những Ca Khúc Song Ca Hay Nhất của Lệ Quyên Đàm Vĩnh Hưng 2019",
+       "description": "Tuyển Tập Những Ca Khúc Song Ca Hay Nhất của Lệ Quyên Đàm Vĩnh Hưng 2019 Xem Bản Full Tết Vạn Lộc 2019: https://youtu.be/jNN7KbBS21o Đăng ký Nụ ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/9k89mZhdRoo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/9k89mZhdRoo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/9k89mZhdRoo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "NỤ CƯỜI VÀNG TV",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/kVdJm6n0CVnhDPUDkZ0mxkk-8rA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "tHOcTyy97L4"
+      },
+      "snippet": {
+       "publishedAt": "2017-11-11T03:00:04.000Z",
+       "channelId": "UCCokp1i9n_aue7zTjGoBJRQ",
+       "title": "Tuyển Tập Những Ca Khúc Remix Hay Nhất | Đàm Vĩnh Hưng",
+       "description": "Tuyển Tập Những Ca Khúc Remix Hay Nhất | Đàm Vĩnh Hưng Track list: 01. Khoảng Cách 02. Giây Phút Chia Xa 03. Tình Nhạt Phai 04. Góc Khuất 05. Chỉ Còn ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/tHOcTyy97L4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/tHOcTyy97L4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/tHOcTyy97L4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Đàm Vĩnh Hưng",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/f_nsR8oFMCVT-g6T_4t2uAO0aIM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "fuPL4fRlRag"
+      },
+      "snippet": {
+       "publishedAt": "2019-10-05T03:54:48.000Z",
+       "channelId": "UCjPBLHynebqMELV6D6h6DSw",
+       "title": "Đàm Vĩnh Hưng - Những ca khúc trữ tình hay nhất",
+       "description": "Đàm Vĩnh Hưng - Những ca khúc trữ tình hay nhất - Không Quảng Cáo https://youtu.be/fuPL4fRlRag Nhạc trữ tình Bolero 2019: https://youtu.be/zbh28_bSAMk ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/fuPL4fRlRag/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/fuPL4fRlRag/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/fuPL4fRlRag/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Love Songs",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/IsPjZFPtnWzVvcw8nIJ4oFNWGUU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "QHajhjwDTsw"
+      },
+      "snippet": {
+       "publishedAt": "2019-11-19T09:00:04.000Z",
+       "channelId": "UC7ZcCX4PLJd6VnNVQ4hn1pA",
+       "title": "49 Bài Bolero Hay Nhất Của Đàm Vĩnh Hưng KHÔNG QUẢNG CÁO - LK Bolero Trữ Tình Gây Nghiện",
+       "description": "49 Bài Bolero Hay Nhất Của Đàm Vĩnh Hưng KHÔNG QUẢNG CÁO - LK Bolero Trữ Tình Gây Nghiện Trọn bộ Phim Hài mới nhất: https://goo.gl/v7dxN2 Đăng ký ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/QHajhjwDTsw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/QHajhjwDTsw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/QHajhjwDTsw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "NỤ CƯỜI VÀNG TV",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/u7Sjv2qGJfDSLjt8VIp2wjqblIU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "L7vrneTRQKU"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-08T23:00:05.000Z",
+       "channelId": "UCuR8ReLm5rmRyy7OAJ3tlXg",
+       "title": "Đàm Vĩnh Hưng Tiếng Hát Xé Lòng - Giọng Ca Để Đời Đặc Biệt Bolero Trữ Tình 2020",
+       "description": "Đàm Vĩnh Hưng Tiếng Hát Xé Lòng - Giọng Ca Để Đời Đặc Biệt Bolero Trữ Tình 2020.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/L7vrneTRQKU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/L7vrneTRQKU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/L7vrneTRQKU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "TRỮ TÌNH VIỆT NAM",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/gbU-FTuAwI9UVvtUOf83GscwA9M\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "hSDwxEn6gGU"
+      },
+      "snippet": {
+       "publishedAt": "2018-12-03T03:23:06.000Z",
+       "channelId": "UC7ZcCX4PLJd6VnNVQ4hn1pA",
+       "title": "Đàm Vĩnh Hưng 2019 - Tuyển Tập Những Ca Khúc Hay và Tâm Trạng Nhất của Mr Đàm",
+       "description": "Đàm Vĩnh Hưng 2019 - Tuyển Tập Những Ca Khúc Hay và Tâm Trạng Nhất của Mr Đàm Trọn bộ Phim Hài: https://goo.gl/v7dxN2 Đăng ký xem Phim hài Tết ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/hSDwxEn6gGU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/hSDwxEn6gGU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/hSDwxEn6gGU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "NỤ CƯỜI VÀNG TV",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/a-MSvVRCDGfg0n3FuSjDS48tpLI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "27xWBModuBE"
+      },
+      "snippet": {
+       "publishedAt": "2019-09-29T15:48:19.000Z",
+       "channelId": "UCfQcl7VIsZAu7WW3LkduKTQ",
+       "title": "LỆ QUYÊN ĐÀM VĨNH HƯNG  - TUYỂN TẬP NHỮNG CA KHÚC SONG CA HAY NHẤT",
+       "description": "Nếu Bạn thấy hay, hãy Đăng ký kênh miễn phí (Subscribe) https://goo.gl/r9bwYw , like, comment và chia sẻ video này để xem video mới nhất đầu tiên nhé!",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/27xWBModuBE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/27xWBModuBE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/27xWBModuBE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "BOLERO CHỌN LỌC HAY NHẤT",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nXBscKQnefJ9GMqbF2QWj_iTI-0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "laeoNxcd6WM"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-09T04:16:04.000Z",
+       "channelId": "UCvcXMw1LpJZXfGniBq_XACg",
+       "title": "lIÊN KHÚC BOLERO ĐÀM VĨNH HƯNG",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/laeoNxcd6WM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/laeoNxcd6WM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/laeoNxcd6WM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "HuG- Media247",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Kcf6Zo9STfC_Nt6yUUzyny3K8Wc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "j4x8hU_JofM"
+      },
+      "snippet": {
+       "publishedAt": "2014-04-16T08:56:27.000Z",
+       "channelId": "UCbmsr7zWzeileWTZz-9CtmA",
+       "title": "Tuyển Tập Những Ca Khúc Hay Nhất Của Đàm Vĩnh Hưng",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/j4x8hU_JofM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/j4x8hU_JofM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/j4x8hU_JofM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Hai Nam Nguyễn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/4bxNHJUuKFnctdi6s3lQCMIEezE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "E4ftvBTGSMs"
+      },
+      "snippet": {
+       "publishedAt": "2019-10-24T16:24:51.000Z",
+       "channelId": "UCfQcl7VIsZAu7WW3LkduKTQ",
+       "title": "ĐÀM VĨNH HƯNG 2019  - TUYỂN TẬP NHỮNG CA KHÚC HAY VÀ TÂM TRẠNG NHẤT CỦA ĐÀM VĨNH HƯNG",
+       "description": "Nếu Bạn thấy hay, hãy ĐĂNG KÝ kênh miễn phí (Subscribe) https://goo.gl/r9bwYw , like, comment và CHIA SẺ video này để xem video mới nhất đầu tiên nhé!",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/E4ftvBTGSMs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/E4ftvBTGSMs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/E4ftvBTGSMs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "BOLERO CHỌN LỌC HAY NHẤT",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/6l2Wysz9nYH5wbHjeLlYd7rwntM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "pef9qBhv7fE"
+      },
+      "snippet": {
+       "publishedAt": "2020-01-19T23:00:06.000Z",
+       "channelId": "UCuR8ReLm5rmRyy7OAJ3tlXg",
+       "title": "Đàm Vĩnh Hưng Nhạc Xưa Đặc Biệt - Tình Khúc Bolero Dành Cho Mọi Lứa Tuổi Đều Thích",
+       "description": "Đàm Vĩnh Hưng Nhạc Xưa Đặc Biệt - Tình Khúc Bolero Dành Cho Mọi Lứa Tuổi Đều Thích.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/pef9qBhv7fE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/pef9qBhv7fE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/pef9qBhv7fE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "TRỮ TÌNH VIỆT NAM",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/BbnO9dWkMu0zJoPFplC0oSdHEZE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "3fo7PhnivdU"
+      },
+      "snippet": {
+       "publishedAt": "2019-10-05T19:38:12.000Z",
+       "channelId": "UCO1ifNiOuS7hZQ-c-QggYSA",
+       "title": "Đàm Vĩnh Hưng | nhạc tuyển chọn hay nhất | Không Quảng Cáo",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/3fo7PhnivdU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/3fo7PhnivdU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/3fo7PhnivdU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "PMQ Mobi",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/t8mZ6ZCagpPgLuJU3tUte1wtqr8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "OPoIfhroaTY"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-26T23:15:00.000Z",
+       "channelId": "UCuR8ReLm5rmRyy7OAJ3tlXg",
+       "title": "Đàm Vĩnh Hưng Tuyển Tập Còn Mãi Với Thời Gian Say Lòng Người Nghe",
+       "description": "Đàm Vĩnh Hưng Tuyển Tập Còn Mãi Với Thời Gian Say Lòng Người Nghe.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/OPoIfhroaTY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/OPoIfhroaTY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/OPoIfhroaTY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "TRỮ TÌNH VIỆT NAM",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/cIG4h7BLA2Z96vl0QehIQximuJ8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "M9dEiVNMXCM"
+      },
+      "snippet": {
+       "publishedAt": "2020-01-29T23:00:05.000Z",
+       "channelId": "UCuR8ReLm5rmRyy7OAJ3tlXg",
+       "title": "Đàm Vĩnh Hưng Bolero Xưa Rất Hay...Những Ca Khúc Nhạc Vàng Trữ Tình Hay Nhất 2020",
+       "description": "Đàm Vĩnh Hưng Bolero Xưa Rất Hay...Những Ca Khúc Nhạc Vàng Trữ Tình Hay Nhất 2020.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/M9dEiVNMXCM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/M9dEiVNMXCM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/M9dEiVNMXCM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "TRỮ TÌNH VIỆT NAM",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Hlw41QclNGdLjn6j1nT0ySrPkRo\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "HmWsc-94ik0"
+      },
+      "snippet": {
+       "publishedAt": "2018-05-06T15:43:10.000Z",
+       "channelId": "UC3Vhx96nwcsrkRFhsZPOEjQ",
+       "title": "Liên Khúc Đàm Vĩnh Hưng Remix 2019 Tuyển Chọn Những Ca Khúc Remix Hay Nhất Của Mr Đàm 2018",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/HmWsc-94ik0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/HmWsc-94ik0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/HmWsc-94ik0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Antonio Custer",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/SeIp_1qzSVDtNRPIbefzand6v8s\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ZCC2_eY4HQA"
+      },
+      "snippet": {
+       "publishedAt": "2014-07-23T18:09:25.000Z",
+       "channelId": "UCk_DTQxfXJxwQyC5VtN-doA",
+       "title": "Đàm Vĩnh Hưng Những Tình Khúc Xưa Hay Nhất Full HD",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ZCC2_eY4HQA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ZCC2_eY4HQA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ZCC2_eY4HQA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Luffy Nguyen",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/6ipLMVQOLFlYOGqJ8iXpwq_g6qs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "spGX_hEcTkc"
+      },
+      "snippet": {
+       "publishedAt": "2017-11-02T12:23:32.000Z",
+       "channelId": "UC-o1uYPSERvS8Zgq1qOigzw",
+       "title": "Album Đàm Vĩnh Hưng - Nhạc Trữ Tình",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/spGX_hEcTkc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/spGX_hEcTkc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/spGX_hEcTkc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Online",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ns78gra4kx4OSFjIgBMm6hg0vLY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "f2-r5f-k7Xw"
+      },
+      "snippet": {
+       "publishedAt": "2020-01-25T23:00:12.000Z",
+       "channelId": "UCuR8ReLm5rmRyy7OAJ3tlXg",
+       "title": "Đàm Vĩnh Hưng Những Ca Khúc Hay Nhất 2020 - Tuyển Tập Hay Nhất Bolero",
+       "description": "Đàm Vĩnh Hưng Những Ca Khúc Hay Nhất 2020 - Tuyển Tập Hay Nhất Bolero.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/f2-r5f-k7Xw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/f2-r5f-k7Xw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/f2-r5f-k7Xw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "TRỮ TÌNH VIỆT NAM",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/P49qVmsxuMnmfvfpnJm7N_mQoTY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "rs8SiPW2dG4"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-25T05:46:59.000Z",
+       "channelId": "UCVkOugWtYZD3WI4eltCZWSA",
+       "title": "Đàm Vĩnh Hưng những ca khúc hay nhất bolero tình ca bất hủ",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/rs8SiPW2dG4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/rs8SiPW2dG4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/rs8SiPW2dG4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Hot Music",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/EYxJb0h0Y3RWKTkfTRikvZjsGSA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "JptLidQYjzo"
+      },
+      "snippet": {
+       "publishedAt": "2020-01-11T23:00:05.000Z",
+       "channelId": "UCuR8ReLm5rmRyy7OAJ3tlXg",
+       "title": "Đàm Vĩnh Hưng Phòng Trà BOlero Không Tên - Những Ca Khúc Hit Của Mr Đàm",
+       "description": "Đàm Vĩnh Hưng Phòng Trà BOlero Không Tên - Những Ca Khúc Hit Của Mr Đàm.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/JptLidQYjzo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/JptLidQYjzo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/JptLidQYjzo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "TRỮ TÌNH VIỆT NAM",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nmkLrnnwDTOTkTLWE3hIhZ_Zx7g\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "UKtGVYfi_yk"
+      },
+      "snippet": {
+       "publishedAt": "2018-05-06T17:18:55.000Z",
+       "channelId": "UC3Vhx96nwcsrkRFhsZPOEjQ",
+       "title": "Liên Khúc Đàm Vĩnh Hưng Remix 2019 Tuyển Chọn Những Ca Khúc Remix Hay Nhất Của Mr Đàm 2018",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/UKtGVYfi_yk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/UKtGVYfi_yk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/UKtGVYfi_yk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Antonio Custer",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/N3331IT8XjoK2EG2wrXFZWDeZBQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "a-rVWUauEUo"
+      },
+      "snippet": {
+       "publishedAt": "2018-06-30T19:41:27.000Z",
+       "channelId": "UC3Vhx96nwcsrkRFhsZPOEjQ",
+       "title": "Liên Khúc Đàm Vĩnh Hưng Remix 2019 Tuyển Chọn Những Ca Khúc Remix Hay Nhất Của Mr Đàm 2018",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/a-rVWUauEUo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/a-rVWUauEUo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/a-rVWUauEUo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Antonio Custer",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/UDiQke5aCRQTmh0VMm3BXHJ2Xx4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "fjhy8FGqIQE"
+      },
+      "snippet": {
+       "publishedAt": "2018-06-10T22:48:18.000Z",
+       "channelId": "UC2mIzwBDK6I83wxhOljxZhA",
+       "title": "Huyền thoại âm nhạc Việt Nam.Phần 6.Đàm Vĩnh Hưng",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/fjhy8FGqIQE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/fjhy8FGqIQE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/fjhy8FGqIQE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Phật ở trong Tâm",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/XWNPaMfYexD7SjMKDM8ARHvCG1Q\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "vLiM0V7-iLI"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-27T13:41:44.000Z",
+       "channelId": "UCTrQnx7ZAxjlA7dv-D-d-_g",
+       "title": "ĐÀM VĨNH HƯNG. Tuyển Tập 25 Ca Khúc Nhạc Vàng Trữ Tình Hay Nhất Của Đàm Vĩnh Hưng",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/vLiM0V7-iLI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/vLiM0V7-iLI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/vLiM0V7-iLI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thanh Vu",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nCsvI8JMunbys__M7oPTlSmgbrY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "XLrs_sgoRkM"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-27T11:00:07.000Z",
+       "channelId": "UC7ZcCX4PLJd6VnNVQ4hn1pA",
+       "title": "Giã Từ, Người Tình Không Đến - ĐÀM VĨNH HƯNG | LK Trữ Tình Bolero Triệu Người Mê",
+       "description": "Giã Từ, Người Tình Không Đến - ĐÀM VĨNH HƯNG | LK Trữ Tình Bolero Triệu Người Mê Trọn bộ Phim Hài mới nhất: https://goo.gl/v7dxN2 Đăng ký xem Phim ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/XLrs_sgoRkM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/XLrs_sgoRkM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/XLrs_sgoRkM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "NỤ CƯỜI VÀNG TV",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/2hfrHY06PPzvURXDQ9RPmqNkt4Y\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "HT3hZ2jUhQs"
+      },
+      "snippet": {
+       "publishedAt": "2017-02-09T04:41:27.000Z",
+       "channelId": "UCwfgRPcutq5wdIiy4I6x0Hw",
+       "title": "Đàm Vĩnh Hưng, Lệ Quyên, Đan Nguyên   Chọn Lọc Nhạc Bolero Hay và Được Nghe Nhiều Nhất 2016",
+       "description": "Cùng thưởng thức Liên Khúc Nhạc Bolero Hay và Được Nghe Nhiều Nhất 2016 do Đàm Vĩnh Hưng, Lệ Quyên, Đan Nguyên thể hiện Chọn Lọc trong bộ sưu ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/HT3hZ2jUhQs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/HT3hZ2jUhQs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/HT3hZ2jUhQs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Giải Trí TV",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/N5ewQ_UnswT9Wk-LVslkvXU7OaE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "lZUbo9GTt0Y"
+      },
+      "snippet": {
+       "publishedAt": "2019-10-03T16:30:23.000Z",
+       "channelId": "UCngv4YpioU0Dypnxubx1t7A",
+       "title": "Những ca khúc hay nhất của Đàm Vĩnh Hưng",
+       "description": "Nhac trữ tình hay nhất Của Đàm Vĩnh Hưng 2019, Nhạc phòng trà Bolero ▷ Đăng kí kênh để cập nhật video mới nhất: https://cutt.ly/deuTXtS ▷ Nhấn Chuông...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/lZUbo9GTt0Y/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/lZUbo9GTt0Y/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/lZUbo9GTt0Y/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Chọn Lọc - TBQ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/hBxAxCq9q4WeqOw6l_YKGvLaY1Y\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "3xaQVMqp-zE"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-23T03:17:37.000Z",
+       "channelId": "UCuR8ReLm5rmRyy7OAJ3tlXg",
+       "title": "Đàm Vĩnh Hưng Những Ca Khúc Để Đời Hay Nhất Nhạc Vàng Trữ TÌnh Quê Hương BOlero Xé Lòng NGười Nghe",
+       "description": "Đàm Vĩnh Hưng Những Ca Khúc Để Đời Hay Nhất Nhạc Vàng Trữ TÌnh Quê Hương BOlero Xé Lòng NGười Nghe https://youtu.be/3xaQVMqp-zE.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/3xaQVMqp-zE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/3xaQVMqp-zE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/3xaQVMqp-zE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "TRỮ TÌNH VIỆT NAM",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/kqcZbTcpG7Msxmy2FC8uv6rU3GM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "MPN3yxyYMTg"
+      },
+      "snippet": {
+       "publishedAt": "2017-04-27T11:29:47.000Z",
+       "channelId": "UCWIFrdu7Ctn-DWi2o6M9MVA",
+       "title": "Đàm Vĩnh Hưng Nhạc Vàng Hải Ngoại 2017 - Liên Khúc Nhạc Vàng Trữ Tình Hay Nhất 2017",
+       "description": "Đàm Vĩnh Hưng Nhạc Vàng Hải Ngoại 2017 - Liên Khúc Nhạc Vàng Trữ Tình Hay Nhất 2017 ▻ Theo dõi kênh Nhạc Hay Việt Nam: https://goo.gl/u7F19L ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/MPN3yxyYMTg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/MPN3yxyYMTg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/MPN3yxyYMTg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Hay Việt Nam",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/CktsLFF1uG-EK98JkMa1fquG930\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "iAZfXnlcTw4"
+      },
+      "snippet": {
+       "publishedAt": "2018-05-07T18:40:00.000Z",
+       "channelId": "UC8BZarp8tcSWp_LP9_eppUQ",
+       "title": "Đàm Vĩnh Hưng 2018 - Những Ca Khúc Nhạc Vàng Trữ Tình Bolero Hay Nhất Của Đàm Vĩnh Hưng",
+       "description": "Đàm Vĩnh Hưng 2018 - Những Ca Khúc Nhạc Vàng Trữ Tình Bolero Hay Nhất Của Đàm Vĩnh Hưng. Đàm Vĩnh Hưng 2018 - Những Ca Khúc Nhạc Vàng Trữ ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/iAZfXnlcTw4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/iAZfXnlcTw4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/iAZfXnlcTw4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "CRY P",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/lBGr7aflQpTNUOk5AAbVrh8ZIWE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "yO4RoVSpAGQ"
+      },
+      "snippet": {
+       "publishedAt": "2019-10-04T16:34:32.000Z",
+       "channelId": "UCngv4YpioU0Dypnxubx1t7A",
+       "title": "Đàm Vĩnh Hưng Tiếng Hát Bolero huyền thoại",
+       "description": "Các ca khúc hay nhất Của Đàm Vĩnh Hưng, Tuyển tập những ca khúc Bolero hay nhất ▷ Đăng kí kênh để cập nhật video mới nhất: https://cutt.ly/deuTXtS ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/yO4RoVSpAGQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/yO4RoVSpAGQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/yO4RoVSpAGQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Chọn Lọc - TBQ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/fx2RgjWFTsZHmqej-cxU24tbAtU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "0KXZ7CkpuQ4"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-04T23:00:01.000Z",
+       "channelId": "UCuR8ReLm5rmRyy7OAJ3tlXg",
+       "title": "Nhạc Vàng Trữ Tình Đàm Vĩnh Hưng   Bolero Trữ Tình Đặc Sắc Tuyển Chọn",
+       "description": "Nhạc Vàng Trữ Tình Đàm Vĩnh Hưng - Bolero Trữ Tình Đặc Sắc Tuyển Chọn.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/0KXZ7CkpuQ4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/0KXZ7CkpuQ4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/0KXZ7CkpuQ4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "TRỮ TÌNH VIỆT NAM",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/f3OkhDVIYY8-A7lF4z8bBfJdhkI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "sfMvf445r4A"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-26T05:56:39.000Z",
+       "channelId": "UC4JOJ88bs447QoNqkYIW31Q",
+       "title": "ĐÀM VĨNH HƯNG ( Mr Đàm ) - NHẠC BOLERO, TRỮ TÌNH, NHẠC VÀNG HAY NHẤT ( 1 )",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/sfMvf445r4A/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/sfMvf445r4A/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/sfMvf445r4A/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Gấu ANNA",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/5lYTJVhyVDY7gCIlWZgV-LyH-bI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ahRAfoTRNbo"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-01T14:33:17.000Z",
+       "channelId": "UC3Vhx96nwcsrkRFhsZPOEjQ",
+       "title": "Liên Khúc Đàm Vĩnh Hưng Remix 2019 Tuyển Chọn Những Ca Khúc Remix Hay Nhất Của Mr Đàm 2018",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ahRAfoTRNbo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ahRAfoTRNbo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ahRAfoTRNbo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Antonio Custer",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/KWRZAZUvXB3jkH0PkHZuROKAE9g\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "zJL2OUFCjLo"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-16T23:00:29.000Z",
+       "channelId": "UCuR8ReLm5rmRyy7OAJ3tlXg",
+       "title": "Đàm Vĩnh Hưng Nhạc Vàng Bolero Xưa Đặc Biệt - Những Ca Khúc Để Đời Của Đàm Vĩnh Hưng 2",
+       "description": "Đàm Vĩnh Hưng Nhạc Vàng Bolero Xưa Đặc Biệt - Những Ca Khúc Để Đời Của Đàm Vĩnh Hưng.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/zJL2OUFCjLo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/zJL2OUFCjLo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/zJL2OUFCjLo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "TRỮ TÌNH VIỆT NAM",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/grP0bN1pmFlbvhc5NAKJ00lq6po\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "3QfwzNN41cM"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-22T23:00:00.000Z",
+       "channelId": "UCuR8ReLm5rmRyy7OAJ3tlXg",
+       "title": "Lệ Quyên Song Ca Đàm Vĩnh Hưng - Nhạc Bolero Xưa Và Nay Những Ca Khúc Còn Mãi Với Thời Gian",
+       "description": "Lệ Quyên Song Ca Đàm Vĩnh Hưng - Nhạc Bolero Xưa Và Nay Những Ca Khúc Còn Mãi Với Thời Gian.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/3QfwzNN41cM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/3QfwzNN41cM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/3QfwzNN41cM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "TRỮ TÌNH VIỆT NAM",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jO0kyizgq2wkLcGBqu6ttEK6QqI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "hLJlRyP8MO8"
+      },
+      "snippet": {
+       "publishedAt": "2019-10-18T14:42:56.000Z",
+       "channelId": "UCfQcl7VIsZAu7WW3LkduKTQ",
+       "title": "ĐÀM VĨNH HƯNG SONG CA CÙNG LỆ QUYÊN   TUYỆT ĐỈNH BOLERO",
+       "description": "Nếu Bạn thấy hay, hãy Đăng ký kênh miễn phí (Subscribe) https://goo.gl/r9bwYw , like, comment và chia sẻ video này để xem video mới nhất đầu tiên nhé!",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/hLJlRyP8MO8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/hLJlRyP8MO8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/hLJlRyP8MO8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "BOLERO CHỌN LỌC HAY NHẤT",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/dDEslztrcnYpOCkDJFfKwbQ8TQM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "98rfZh9Bp54"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-07T23:00:00.000Z",
+       "channelId": "UCuR8ReLm5rmRyy7OAJ3tlXg",
+       "title": "Đàm Vĩnh Hưng Bolero Làm Chấn Động Hàng Triệu Con Tim - Tuyển Chọn Bolero Hay Nhất 2020",
+       "description": "Đàm Vĩnh Hưng Bolero Làm Chấn Động Hàng Triệu Con Tim - Tuyển Chọn Bolero Hay Nhất 2020.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/98rfZh9Bp54/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/98rfZh9Bp54/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/98rfZh9Bp54/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "TRỮ TÌNH VIỆT NAM",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/xXsjSItLDWTFWcOfBclkJCp5U3Q\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "aQJGUzWXgZ0"
+      },
+      "snippet": {
+       "publishedAt": "2014-06-13T02:13:02.000Z",
+       "channelId": "UCsZSga4wTWp3_qa4GXq-XLg",
+       "title": "Tuyển tập những ca khúc hay nhất của Đàm Vĩnh Hưng 2014.Phần 1",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/aQJGUzWXgZ0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/aQJGUzWXgZ0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/aQJGUzWXgZ0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Cuộc Sống Âm Nhạc",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/G56lTIolJG_DKu8ZKaKKpMDcApI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "dEIhqmrB1eI"
+      },
+      "snippet": {
+       "publishedAt": "2014-09-03T04:09:52.000Z",
+       "channelId": "UCG7FOkm8AtU19c9L3OZotxQ",
+       "title": "Cẩm Ly; Đàm Vĩnh Hưng - SONG CA hay nhất (Dân ca - trữ tình)",
+       "description": "Edit by: vipvipx5 | Dành tặng các bạn yêu mến Cẩm Ly và Đàm Vĩnh Hưng ----------------------------------------------------------------------------------------------------------...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/dEIhqmrB1eI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/dEIhqmrB1eI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/dEIhqmrB1eI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "TƯ MUZIK",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/tgcKechooYzFgXK-D3HZ7_8UwMk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "tcfajX-kgio"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-12T23:00:09.000Z",
+       "channelId": "UCuR8ReLm5rmRyy7OAJ3tlXg",
+       "title": "Lệ Quyên Đàm Vĩnh Hưng Nhạc Vàng Bolero Xưa Hay Ngây Ngất - Tuyển Tập Bolero Trữ Tình",
+       "description": "Lệ Quyên Đàm Vĩnh Hưng Nhạc Vàng Bolero Xưa Hay Ngây Ngất - Tuyển Tập Bolero Trữ Tình.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/tcfajX-kgio/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/tcfajX-kgio/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/tcfajX-kgio/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "TRỮ TÌNH VIỆT NAM",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/bMPERAiFdLOQe_mAFOCJZ_uRRo4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "zoNdjgvdvfM"
+      },
+      "snippet": {
+       "publishedAt": "2018-05-28T07:07:21.000Z",
+       "channelId": "UCuR8ReLm5rmRyy7OAJ3tlXg",
+       "title": "Đàm Vĩnh Hưng Những Ca Khúc Để Đời Hay Nhất Những Năm Tháng Qua",
+       "description": "Đàm Vĩnh Hưng Những Ca Khúc Để Đời Hay Nhất Những Năm Tháng Qua https://youtu.be/zoNdjgvdvfM © Trữ Tình Quê Hương.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/zoNdjgvdvfM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/zoNdjgvdvfM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/zoNdjgvdvfM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "TRỮ TÌNH VIỆT NAM",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/lZly2_oypRt3okfAYuvYDH8M-0w\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "L22rhYQF9C8"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-07T11:00:03.000Z",
+       "channelId": "UC7ZcCX4PLJd6VnNVQ4hn1pA",
+       "title": "Đàm Vĩnh Hưng, Lệ Quyên, Mỹ Tâm | Tam Ca Song Ca Bolero Cực Đỉnh CÀNG NGHE CÀNG GHIỀN",
+       "description": "Đàm Vĩnh Hưng, Lệ Quyên, Mỹ Tâm | Tam Ca Song Ca Bolero Cực Đỉnh CÀNG NGHE CÀNG GHIỀN Trọn bộ Phim Hài mới nhất: https://goo.gl/v7dxN2 Đăng ký ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/L22rhYQF9C8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/L22rhYQF9C8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/L22rhYQF9C8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "NỤ CƯỜI VÀNG TV",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jk2eWVYrCi-FwrH2Zy5TndMnsq8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "iN14bnRjxGQ"
+      },
+      "snippet": {
+       "publishedAt": "2019-10-12T21:16:24.000Z",
+       "channelId": "UCfQcl7VIsZAu7WW3LkduKTQ",
+       "title": "ĐÀM VĨNH HƯNG MỚI NHẤT 2019 – TUYỆT PHẨM NHẠC VÀNG BOLERO TRỮ TÌNH NGHE LÀ MÊ",
+       "description": "Nếu Bạn thấy hay, hãy Đăng ký kênh miễn phí (Subscribe) https://goo.gl/r9bwYw , like, comment và chia sẻ video này để xem video mới nhất đầu tiên nhé!",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/iN14bnRjxGQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/iN14bnRjxGQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/iN14bnRjxGQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "BOLERO CHỌN LỌC HAY NHẤT",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_oUW10eBdc489td58U9PM6M5rtY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "qqZzUr9S40c"
+      },
+      "snippet": {
+       "publishedAt": "2017-10-06T00:52:34.000Z",
+       "channelId": "UCQ7Ceyfvhz9TJh6AJseOIKA",
+       "title": "karaoke Lk bolero remix 2020 | Liên khúc Đàm Vĩnh Hưng | Liên Khúc dj nonstop nhạc vàng cực chất",
+       "description": "kính gửi tới toàn thể các anh, các chị và các bạn yêu nhạc. một liên tình khúc đặc sắc,đc tuyển tập những ca khúc hay nhất của MR: ĐÀM VĨNH HƯNG,...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/qqZzUr9S40c/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/qqZzUr9S40c/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/qqZzUr9S40c/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Văn Hinh Media",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zGT6xBmShULLTOXotsaLKRQkni4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "aGFZYye92bc"
+      },
+      "snippet": {
+       "publishedAt": "2019-09-19T09:12:53.000Z",
+       "channelId": "UCfQcl7VIsZAu7WW3LkduKTQ",
+       "title": "Đàm Vĩnh Hưng Lệ Quyên Tuyệt Phẩm Bolero Vượt Thời Gian",
+       "description": "Nếu Bạn thấy hay, hãy Đăng ký kênh miễn phí (Subscribe) https://goo.gl/r9bwYw , like, comment và chia sẻ video này để xem video mới nhất đầu tiên nhé!",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/aGFZYye92bc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/aGFZYye92bc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/aGFZYye92bc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "BOLERO CHỌN LỌC HAY NHẤT",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/YajEf68wEHoI2rDlRF01nDZzt7A\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "2U4T6P3HaWw"
+      },
+      "snippet": {
+       "publishedAt": "2015-06-23T07:17:57.000Z",
+       "channelId": "UCh7n1KCK8l43axRa0svHVEA",
+       "title": "Đàm Vĩnh Hưng ft Hồng Ngọc II Tuyển Tập những ca khúc hay nhất",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/2U4T6P3HaWw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/2U4T6P3HaWw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/2U4T6P3HaWw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Âm nhạc không quảng cáo",
+       "liveBroadcastContent": "none"
+      }
+     }
+    ]
+   }
+   
+   

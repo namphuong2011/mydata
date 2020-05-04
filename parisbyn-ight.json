@@ -1,0 +1,1714 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "pboSiFHdoMmwjVUM6FhEgyRXTt8",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+      "totalResults": 368277,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Ox6nCNGcALanbAYZ6-FIQr6o4WI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "INTGbbGAiMA"
+        },
+        "snippet": {
+          "publishedAt": "2016-03-01T08:29:21Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Những Tác Phẩm Chọn Lọc Dành Cho Người Tình Từ Paris By Night 105 - Người Tình/The Lovers",
+          "description": "Những Tác Phẩm Chọn Lọc Dành Cho Người Tình Từ Paris By Night 105 Người Tình/The Lovers. Released on June 15, 2012. Thuy Nga Productions.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/INTGbbGAiMA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/INTGbbGAiMA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/INTGbbGAiMA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-03-01T08:29:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ryb7Qr0Iw0oWtYBld1UANaz22OQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3DxOYoD-MWU"
+        },
+        "snippet": {
+          "publishedAt": "2017-11-22T13:06:22Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 119 - Nhạc Vàng Muôn Thuở (Full Program)",
+          "description": "Paris By Night 119 - Nhạc Vàng Muôn Thuở (Full Program) 1. Phần Mở Đầu 2. Xóm Đêm (Phạm Đình Chương) Minh Tuyết 1:05 3. & Những Bước Chân Âm ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3DxOYoD-MWU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3DxOYoD-MWU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3DxOYoD-MWU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-11-22T13:06:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OxKSE1c5I1p9hkFNs4OJ7oVaHOk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1DCVm-AidnI"
+        },
+        "snippet": {
+          "publishedAt": "2018-03-31T00:13:02Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 121 - Song Ca Nhạc Vàng (Full Program)",
+          "description": "Paris By Night 121 - Song Ca Nhạc Vàng (Full Program) 1. Phần Mở Đầu 2. LK Nếu Xuân Này Vắng Anh (Bảo Thu) & Khúc Nhạc Ngày Xuân (Nhật Bằng) (Trình ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1DCVm-AidnI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1DCVm-AidnI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1DCVm-AidnI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-03-31T00:13:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "klCGajuQCdtXvmjuoNU3TvHVYOM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_QUjyp5eaDA"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-21T13:00:12Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 130 in Singapore - Glamour (Full Program)",
+          "description": "Paris By Night 130 in Singapore - Glamour (Full Program) 1. Phần Mở Đầu 0:08 2. Đừng Là Một Thoáng Mê Say © (Nhạc: Tùng Châu, Lời: Thái Thịnh) Như ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_QUjyp5eaDA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_QUjyp5eaDA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_QUjyp5eaDA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-21T13:00:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MbbSBoGNHQ2bDtNwuQlQN4vp0gU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vkCEjuaU2DU"
+        },
+        "snippet": {
+          "publishedAt": "2019-12-31T12:00:11Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 129 - Dynasty (Full Program)",
+          "description": "Paris By Night 129 - Dynasty (Full Program) 1. Phần Mở Đầu :08 2. Không Lạc Loài (Võ Hoài Phúc) Hoàng Mỹ An, Don Hồ, Quỳnh Vi, Thiên Tôn, Ngọc Anh 2:14 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vkCEjuaU2DU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vkCEjuaU2DU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vkCEjuaU2DU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-12-31T12:00:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AndPJnaHAocBXfINPBM7qnL6YJk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2yziL2AHGiw"
+        },
+        "snippet": {
+          "publishedAt": "2018-11-10T01:21:12Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 92 &quot;Nhạc Yêu Cầu&quot; (Full Program - Part 1 of 2)",
+          "description": "Paris By Night 92 \"Nhạc Yêu Cầu\" (Full Program - Part 1 of 2) 1. Trái Tim Lầm Lỡ (Lời Việt: Khúc Lan) & Như là Tình Yêu (Tuấn Khanh) Hồ Lệ Thu, Như Loan, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2yziL2AHGiw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2yziL2AHGiw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2yziL2AHGiw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-11-10T01:21:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "aQCePi6UcmCuccQWCOYMmkqjABg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GRec5Dlo23s"
+        },
+        "snippet": {
+          "publishedAt": "2019-06-13T12:00:05Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 128 - Hành Trình 35 Năm (Phần 3) Full Program",
+          "description": "Paris By Night 128 - Hành Trình 35 Năm (Phần 3) Full Program Đăng ký kênh để nhận được thông tin mới nhất: ☞ http://bit.ly/ThuyNgaParisByNight 1. Phần Mở ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GRec5Dlo23s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GRec5Dlo23s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GRec5Dlo23s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-06-13T12:00:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gu5wjLtxOI-RN918gvjYRpDZ2I8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CRmuyth0Mi8"
+        },
+        "snippet": {
+          "publishedAt": "2019-07-12T12:00:03Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "PBN Collection | Nguyễn Hưng - Nhạc Hải Ngoại Sôi Động",
+          "description": "Nguyễn Hưng - Những Ca Khúc Sôi Động Nhất 1. Hương (Nhật Ngân) PBN43 0:00 2. Chỉ Riêng Mình Ta (Lời Việt: Lê Xuân Trường)PBN45 4:15 3. Trả Hết Cho ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CRmuyth0Mi8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CRmuyth0Mi8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CRmuyth0Mi8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-07-12T12:00:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "w9nfiMsMFln3IEG5IVpyLDU6g98",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1szxuihB8Vc"
+        },
+        "snippet": {
+          "publishedAt": "2018-10-13T00:02:54Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 98 - Fly with Us to Las Vegas (Full Program)",
+          "description": "Paris By Night 98 - Fly with Us to Las Vegas (Full Program) 1. Video clip: \"Welcome Aboard Flight PBN 098\" 2. Chuyến Bay Hạnh Phúc (Hoài An) Lưu Bích, Bảo ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1szxuihB8Vc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1szxuihB8Vc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1szxuihB8Vc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-10-13T00:02:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ND1ct0RcczKomxah7yznDvTnVyg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eojK8HSyZfw"
+        },
+        "snippet": {
+          "publishedAt": "2018-07-13T12:14:04Z",
+          "channelId": "UC9d4ZU4K8G2ObQ95asH-jaA",
+          "title": "Tình Music Entertainment | Liên Khúc Tình Hải Ngoại Sôi Động Modern Talking",
+          "description": "Minh Tuyết Top Hits sẽ là kênh chính thức của các bản HITS của ca sĩ Minh Tuyết do trung tâm Tình Music Productions sản xuất và phát hành. Bấm vào nút ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eojK8HSyZfw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eojK8HSyZfw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eojK8HSyZfw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Minh Tuyet Top Hits",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-07-13T12:14:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "brKREdccywHchXFd-dML0AbVGIc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "q92nAkHSxbQ"
+        },
+        "snippet": {
+          "publishedAt": "2016-12-31T19:48:21Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 52 - Giã Từ Thế Kỷ (Full Program)",
+          "description": "Paris By Night 52 - Giã Từ Thế Kỷ (Full Program) 1. Back to the Past 2. Khổ Vì Yêu Nàng - Nguyễn Hưng (15:06) 3. Tiếng Hát Chim Đa Đa - Như Quỳnh (22:59) ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/q92nAkHSxbQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/q92nAkHSxbQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/q92nAkHSxbQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-12-31T19:48:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "pLARV2cWMAU2hNW-EaWj3EfrYC0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HymM1o0xsro"
+        },
+        "snippet": {
+          "publishedAt": "2018-11-23T00:01:23Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 95 - Cám Ơn Cuộc Đời (25th Anniversary Phần 2 - Full Program)",
+          "description": "Paris By Night 95 - Cám Ơn Cuộc Đời (25th Anniversary Phần 2 - Full Program) 1. Nếu Chỉ Còn Một Ngày Để Sống (Hoài An) Bằng Kiều, Thế Sơn, Don Hồ, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HymM1o0xsro/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HymM1o0xsro/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HymM1o0xsro/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-11-23T00:01:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vMzJxzUN-8Q97WOh_FICHW-UGoA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VfJVfWnRXYg"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-26T13:00:10Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "PBN 130 | Hài Kịch &quot;Tài Khoản Ngân Hàng&quot; - Việt Hương, Chí Tài, Hoài Tâm, Thúy Nga, Hà Thanh Xuân",
+          "description": "Hài Kịch \"Tài Khoản Ngân Hàng\" (Nguyễn Ngọc Ngạn) Việt Hương, Chí Tài, Hoài Tâm, Thúy Nga, Hà Thanh Xuân Paris By Night 130 in Singapore | Glamour ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VfJVfWnRXYg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VfJVfWnRXYg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VfJVfWnRXYg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-26T13:00:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TaGzUBIEcP0ufSQEOoJQp5Hg5lY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eA3orHSa88c"
+        },
+        "snippet": {
+          "publishedAt": "2017-06-12T22:00:56Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night Openings in Las Vegas",
+          "description": "1. PARIS BY NIGHT 98 - FLY WITH US TO LAS VEGAS Chuyến Bay Hạnh Phúc (Hoài An) Lưu Bích, Bảo Hân, Tú Quyên, Thủy Tiên, Nguyệt Anh, Như Quỳnh, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eA3orHSa88c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eA3orHSa88c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eA3orHSa88c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-06-12T22:00:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "b8msYX9XbK2e7zZcuCwwA-M2rwQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wE3_uneU5vU"
+        },
+        "snippet": {
+          "publishedAt": "2019-07-25T12:00:14Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Lưu Bích - Top Hits from Paris By Night",
+          "description": "Lưu Bích - Top Hits from Paris By Night 1. Tình Tuyệt Diệu (Lời Việt: Lữ Liên) PBN 6 2. Hiu Hắt Đời Nhau (Lê Vũ) PBN 67 3. Vì Em Yêu Anh (Đức Trí) PBN 71 4.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wE3_uneU5vU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wE3_uneU5vU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wE3_uneU5vU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-07-25T12:00:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Km8uRpIKRxRe6gb16QzHsf2WGKg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "WdO_nyaItgo"
+        },
+        "snippet": {
+          "publishedAt": "2019-10-15T12:07:05Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Minh Tuyết - Top Hits from Paris By Night (Part 1)",
+          "description": "Minh Tuyết - Top Hits from Paris By Night (Part 1) 1. Trái Tim Lỡ Lầm (Lê Quang) PBN65 :16 Full Song: https://www.youtube.com/watch?v=IoXeK-WDC0E 2.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WdO_nyaItgo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WdO_nyaItgo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WdO_nyaItgo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-10-15T12:07:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rRlE5CAvaqWBlm3VskV7lxLzk18",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HqlmuiKnWlo"
+        },
+        "snippet": {
+          "publishedAt": "2016-01-02T07:45:22Z",
+          "channelId": "UCdx7BFim1EImae9OxGXkZZA",
+          "title": "Thúy Nga Paris By Night-12-13-16 Liên khúc-Như Mai -THe Magic-",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HqlmuiKnWlo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HqlmuiKnWlo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HqlmuiKnWlo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "rong xanh",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-01-02T07:45:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MmvOQDXl5cP2EQEFtvNv0Yuky7s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Q-yma0agQbU"
+        },
+        "snippet": {
+          "publishedAt": "2015-10-06T17:58:12Z",
+          "channelId": "UCdRMIKW6VMnGVyhlJaa0epg",
+          "title": "Nhạc Trẻ Hải Ngoại Thúy Nga Chọn lọc Hay Nhất 2016 - Nhạc Hải Ngoại Sôi Động",
+          "description": "Liên Khúc Nhạc Trẻ Hải Ngoại Thúy Nga Chọn lọc Hay Nhất 2016 ➤➤ Xem thêm tại: https://www.youtube.com/channel/UCdRM... ♪♪ Nhạc Không Lời Hay ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q-yma0agQbU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q-yma0agQbU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q-yma0agQbU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Music TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-10-06T17:58:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Ipn7v-zsmVjr-hVHPZtO7u2FPHU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nLQ-u24_BPA"
+        },
+        "snippet": {
+          "publishedAt": "2018-12-19T22:00:03Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "PBN 127 | Song Ca Bolero Hay Nhất",
+          "description": "Song Ca Bolero Hay Nhất Từ PBN 127 1. Đêm Tâm Sự (Trúc Phương) Đan Nguyên & Băng Tâm 0:06 2. Đừng Phụ Lòng Nhau (Đài Phương Trang) Phi Nhung ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nLQ-u24_BPA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nLQ-u24_BPA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nLQ-u24_BPA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-12-19T22:00:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4k2HyC2VXKCorORg1w2NTRpdJ_M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "i4Tc2L7YNRw"
+        },
+        "snippet": {
+          "publishedAt": "2018-04-06T23:40:55Z",
+          "channelId": "UCQWbMflSCjQZd0u2Agr7FDA",
+          "title": "Paris by night nhạc trữ tình tuyển chọn hay nhất 2018",
+          "description": "Paris by night tuyển chọn.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/i4Tc2L7YNRw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/i4Tc2L7YNRw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/i4Tc2L7YNRw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Aaron Son",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-04-06T23:40:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7CWkpYXD5vC9F4gdFzOnIsuIFcY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oDIb1X0-rPY"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-30T13:00:25Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "PBN Collection | Sàigòn 45 Năm Nhìn Lại",
+          "description": "PBN Collection | Sàigòn 45 Năm Nhìn Lại 1. Video Clip: 30 Tháng 4, Năm 1975 0:00 2. Sàigòn Ơi Vĩnh Biệt (Nam Lộc) Khánh Ly 4:15 3. Quê Hương Bỏ Lại (Tô ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oDIb1X0-rPY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oDIb1X0-rPY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oDIb1X0-rPY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-30T13:00:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RGnRAID9pe5yM5tF6QdlM6kWjFY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VOgDoEIsl8Y"
+        },
+        "snippet": {
+          "publishedAt": "2018-08-04T03:38:17Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 97 - Celebrity Dancing 2 (Full Program)",
+          "description": "Paris By Night 97 - Celebrity Dancing 2 (Full Program) 1. LK Có Nhớ Đêm Nào (Khánh Băng) Mai Tiến Dũng; Xuân Yêu Thương (Lời Việt: Lê Đức Cường) ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VOgDoEIsl8Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VOgDoEIsl8Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VOgDoEIsl8Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-04T03:38:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BAkHMtGEYoKmdvMZTfywJnrCn18",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-Nx3EiCAAPM"
+        },
+        "snippet": {
+          "publishedAt": "2017-07-01T02:39:49Z",
+          "channelId": "UCNBSFNMrKFZZp9aI8xeD_Jw",
+          "title": "Tổng hợp nhạc paris by night hay nhất",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-Nx3EiCAAPM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-Nx3EiCAAPM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-Nx3EiCAAPM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Việt Quốc",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-07-01T02:39:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7p5MuitU7N6ieW_ONhGPIDBteKc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "60vP2hoEf4o"
+        },
+        "snippet": {
+          "publishedAt": "2018-11-08T02:02:17Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "ÁNH MINH - Paris By Night Collection",
+          "description": "ÁNH MINH - Paris By Night Collection 1. Bắt Đầu Một Két Thúc (Phúc Trường) 3:29 PBN 104 - Beginnings 2. Khi Người Yêu Lừa Dối (Phúc Trường) 9:28 PBN ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/60vP2hoEf4o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/60vP2hoEf4o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/60vP2hoEf4o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-11-08T02:02:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yg_WT8rixDaBl-_kI_sDQXxKMW0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YD6634y_2WA"
+        },
+        "snippet": {
+          "publishedAt": "2019-01-25T04:00:02Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 124 - Anh Cho Em Mùa Xuân (Full Program)",
+          "description": "Paris By Night 124 - Anh Cho Em Mùa Xuân (Full Program) 1. Anh Cho Em Mùa Xuân (Nguyễn Hiền, thơ: Kim Tuấn) Minh Tuyết, Hương Thủy, Mai Thiên Vân, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YD6634y_2WA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YD6634y_2WA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YD6634y_2WA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-01-25T04:00:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Dlerhz5MgqCbkpv_85CMCQa48sQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "a4Wt0HaGDCA"
+        },
+        "snippet": {
+          "publishedAt": "2019-01-07T11:00:01Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Xuân Collection | Paris By Night Openings (Vol 1)",
+          "description": "Paris By Night Openings - Xuân Collection 1 1. Anh Cho Em Mùa Xuân (Nguyễn Hiền, thơ: Kim Tuấn) 0:07 2. Xuân Họp Mặt (Văn Phụng) Như Quỳnh, Loan ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/a4Wt0HaGDCA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/a4Wt0HaGDCA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/a4Wt0HaGDCA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-01-07T11:00:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Y-v4JGgrGfGQM5gbMdrBBg2bTzc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6ZPiwZw6dpU"
+        },
+        "snippet": {
+          "publishedAt": "2020-01-15T12:00:00Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Nhạc Xuân Thúy Nga 2020 | Tuyển Tập Nhạc Xuân Sôi Động",
+          "description": "Nhạc Xuân Thúy Nga 2020 | Tuyển Tập Nhạc Xuân Sôi Động 1. Đón Xuân (Phạm Đình Chương) Tóc Tiên PBN113 0:07 2. Khúc Xuân (Võ Thiện Thanh) Mai ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6ZPiwZw6dpU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6ZPiwZw6dpU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6ZPiwZw6dpU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-01-15T12:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5DxVF8ch17Jp1Kr-g_PnaVS9oFA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dinb17ZW7uM"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-13T13:00:30Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "PBN Collection | Best of Tú Quyên from Paris By Night",
+          "description": "PBN Collection | Best of Tú Quyên from Paris By Night 1. Xin Dành Trọn Cho Em (Tùng Châu, Thái Thịnh) PBN72 0:07 2. Khi Xưa Ta Bé (Lời Việt: Phạm Duy) ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dinb17ZW7uM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dinb17ZW7uM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dinb17ZW7uM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-13T13:00:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "n1KcEuVSNKLyFY4a9z_E2TAPKjU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xEe6wFxpLx0"
+        },
+        "snippet": {
+          "publishedAt": "2019-04-18T12:00:06Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 127 - Hành Trình 35 Năm (Phần 2) Full Program",
+          "description": "Paris By Night 127 - Hành Trình 35 Năm (Phần 2) Full Program 1. Phần Mở Đầu / Introduction 0:12 2. Thư Pháp (Nguyễn Duy Hùng) Ngọc Anh 4:30 3. Lời Mở ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xEe6wFxpLx0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xEe6wFxpLx0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xEe6wFxpLx0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-04-18T12:00:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yNwhv_ANbGumb-lGIXIznPcLQpw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "venSBLpRzRQ"
+        },
+        "snippet": {
+          "publishedAt": "2014-07-22T11:12:20Z",
+          "channelId": "UCyGpblsfYZoTMIdGTaT__kA",
+          "title": "Hài Hoài Linh Chí Tài   Paris By Night hay nhất 2014",
+          "description": "Hài Hoài Linh Chí Tài Paris By Night hay nhất 2014 Hài Thúy Nga Paris By Night, clash of clans, phim hài,clash of clans farming cups, clash of clans farming cup ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/venSBLpRzRQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/venSBLpRzRQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/venSBLpRzRQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "gamevideo69",
+          "liveBroadcastContent": "none",
+          "publishTime": "2014-07-22T11:12:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "B2iUlGn_uAwKUf7QVCi9cH22eTg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HFs0tcYquAk"
+        },
+        "snippet": {
+          "publishedAt": "2019-08-22T12:00:05Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 104 - Beginnings (Full Program)",
+          "description": "Paris By Night 104 - Beginnings (Full Program) 1. Gọi Tên Ngày Mới (Võ Hoài Phúc) Như Quỳnh, Minh Tuyết, Tóc Tiên, Kỳ Phương Uyên 0:00 2. Lời Mở Đầu ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HFs0tcYquAk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HFs0tcYquAk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HFs0tcYquAk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-08-22T12:00:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "j2vifsMtqx52rIycdKTvt1e1GC4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HvB6fJtjtaw"
+        },
+        "snippet": {
+          "publishedAt": "2020-02-27T13:00:11Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "PBN 130 | Collection Nhạc Bolero Hay Nhất",
+          "description": "Collection Nhạc Bolero Hay Nhất 1. Đoạn Cuối Tình Yêu (Tú Nhi) Đan Nguyên 0:08 2. Bồng Bềnh Con Nước (Đức Trí) Mai Thiên Vân & Hạ Vy 5:24 3. Em Ơi ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HvB6fJtjtaw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HvB6fJtjtaw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HvB6fJtjtaw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-02-27T13:00:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0l7qk3hWoR3sINhAZmiUeaXe4YI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6SyZoU6FCUA"
+        },
+        "snippet": {
+          "publishedAt": "2017-05-24T18:13:24Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 93 - Celebrity Dancing (Full Program)",
+          "description": "Paris By Night 93: Celebrity Dancing ©2008. Thuy Nga Productions. All Rights Reserved. 1. Samba: Bên Nhau Đêm Nay (Dancing All Night) - Nguyễn Cao Kỳ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6SyZoU6FCUA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6SyZoU6FCUA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6SyZoU6FCUA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-05-24T18:13:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TQHcgmzEaQj6y1-QuPBa0PLuyPE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RRlHV9V4Ip0"
+        },
+        "snippet": {
+          "publishedAt": "2019-10-12T12:00:11Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 67 in San Jose (Full Program)",
+          "description": "Paris By Night 67 in San Jose (Full Program) 1. Phần Mở Đầu 0:00 2. Lãng Du (Đặng Quang Vỹ) Bảo Hân, Như Loan 1:26 3. Đừng Trách Người Ơi! (Lê Hựu ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RRlHV9V4Ip0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RRlHV9V4Ip0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RRlHV9V4Ip0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-10-12T12:00:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0uYArh5e5V3SpCmiDIdShSvZR8s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "d750BFGR1oE"
+        },
+        "snippet": {
+          "publishedAt": "2018-10-26T03:28:40Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Song Ca Nhạc Trẻ - Paris By Night 126",
+          "description": "Những nhạc phẩm Song Ca Nhạc Trẻ trích từ Paris By Night 126 - Hành Trình 35 Năm (Phần 1) 1. Ôm Một Bóng Hình (Dương Khắc Linh) Minh Tuyết & Bằng ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/d750BFGR1oE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/d750BFGR1oE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/d750BFGR1oE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-10-26T03:28:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9GXtBTfL5-uz3sxStHp-Pr0LM8o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dP3IOPSbjuA"
+        },
+        "snippet": {
+          "publishedAt": "2017-09-15T16:24:15Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "The Best of Hoài Lâm from Paris By Night - Collection 1 (PBN 113 - 122)",
+          "description": "The Best of Hoài Lâm from Paris By Night - Collection 1 (PBN 113 - 122) 1. Chiều Xuân Xa Nhà (Nhật Ngân, thơ: Huy Phương) Paris By Night 113 - Mừng Tuổi ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dP3IOPSbjuA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dP3IOPSbjuA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dP3IOPSbjuA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-09-15T16:24:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "s_dwTfq95rVZz3o1AqITCEgesn8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "s5x-cYu-m7Q"
+        },
+        "snippet": {
+          "publishedAt": "2017-01-21T19:27:57Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 101 - Hạnh Phúc Đầu Năm (Full Program)",
+          "description": "Paris By Night 101 - Hạnh Phúc Đầu Năm (Full Program) ©2011. Thuy Nga Productions. All Rights Reserved. 1. Ngày Tết Việt Nam (Hoài An) Tóc Tiên, Quỳnh ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/s5x-cYu-m7Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/s5x-cYu-m7Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/s5x-cYu-m7Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-01-21T19:27:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8idH7aqd2BnkuXhmsj2CBFJxA3I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "789CYTk9K2E"
+        },
+        "snippet": {
+          "publishedAt": "2020-02-07T13:00:01Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 14 (Full Program)",
+          "description": "Paris By Night 14 (Full Program) 1. Phần Mở Đầu 0:07 2. Lời Mở Đầu - MC Ngọc Phu :54 3. Qua Cầu Gió Bay (Dân Ca) Ái Vân & Elvis Phương 4:35 4. Sắc Hoa ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/789CYTk9K2E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/789CYTk9K2E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/789CYTk9K2E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-02-07T13:00:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yeL8reHn7B5k4GpBBUMMFVmgNvk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kL2WxzUjkYo"
+        },
+        "snippet": {
+          "publishedAt": "2017-03-13T02:42:11Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "PBN Divas Live Concert in Las Vegas - FULL SHOW",
+          "description": "PARIS BY NIGHT \"DIVAS\" LIVE IN CONCERT Taped on December 17, 2016 at the Penn & Teller Theater at Rio Las Vegas ©2016. Thuy Nga. All Rights ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kL2WxzUjkYo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kL2WxzUjkYo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kL2WxzUjkYo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-03-13T02:42:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ojXqPzKdQfmjbVnHyzpt5pzW49o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RhcE9z8W5Dk"
+        },
+        "snippet": {
+          "publishedAt": "2016-04-19T00:54:13Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Liên Khúc Top Hits Paris By Night",
+          "description": "01. Liên Khúc Tùng Châu & Lê Hựu Hà -Trương Chi Mỵ Nương -Chuyện Tình Bên Nhánh Sông Gầy -Vị Ngọt Ðôi Môi -Ðường Tình Hai Lối -Ðừng Trách Người.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RhcE9z8W5Dk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RhcE9z8W5Dk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RhcE9z8W5Dk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-04-19T00:54:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sOriXrghXoVM9gq61S6tr-em8so",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "g001kJIkEbk"
+        },
+        "snippet": {
+          "publishedAt": "2018-09-27T01:00:04Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Best of Paris By Night Openings - Hành Trình 35 Năm (Vol. 1)",
+          "description": "Best of Paris By Night Openings - Hành Trình 35 Năm (Vol. 1) 1. Mơ Một Tình Yêu (Tùng Châu, Thái Thịnh) Như Quỳnh & Minh Tuyết 0:00 2. Thiên Đường Là ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/g001kJIkEbk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/g001kJIkEbk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/g001kJIkEbk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-09-27T01:00:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vaPjottNBZzWXDVmhSxM1ZUcRBQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AWJ-sFVzBgs"
+        },
+        "snippet": {
+          "publishedAt": "2019-06-06T12:00:00Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 89 in Korea (Full Program)",
+          "description": "Paris By Night 89 in Korea (Full Program) 1. Đừng Hứa Với Em (Huỳnh Nhật Tân) Minh Tuyết 0:00 2. Bao Giờ Em Mới Hiểu? (Trịnh Lam) Trịnh Lam 8:22 3.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AWJ-sFVzBgs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AWJ-sFVzBgs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AWJ-sFVzBgs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-06-06T12:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4Hr-HkFrNxHdCLW-qPkhCVKyhe4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uC-blUP1ius"
+        },
+        "snippet": {
+          "publishedAt": "2017-05-12T15:58:45Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 99 - Tôi Là Người Việt Nam (Disc 2 Full Program)",
+          "description": "Paris By Night 99 - Tôi Là Người Việt Nam (Disc 1 Full Program) ©2010. Thuy Nga Productions. All Rights Reserved. 1. Giới thiệu sách \"Kỷ Niệm Sân Khấu\" 2.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uC-blUP1ius/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uC-blUP1ius/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uC-blUP1ius/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-05-12T15:58:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "si4NDlWmEH_P9I9tXbf4JdKrPSE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "t5ZCD1DKm4Y"
+        },
+        "snippet": {
+          "publishedAt": "2018-06-13T01:06:44Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 111 - S (Full Program)",
+          "description": "PARIS BY NIGHT 111 “S” 1. Phần Mở Đầu 2. Tình Hoài Hương (Phạm Duy) Thiên Tôn, Trần Thái Hoà, Đình Bảo, Hạ Vy, Tóc Tiên, Mai Thiên Vân, Ngọc Anh, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t5ZCD1DKm4Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t5ZCD1DKm4Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t5ZCD1DKm4Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-06-13T01:06:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ea0zN_MYQo61h7uXWiPPhU6ZznA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "c814kc7t4tU"
+        },
+        "snippet": {
+          "publishedAt": "2019-11-30T12:00:10Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "PBN 129 | Hài Kịch &quot;Một Ngày Ở Tiệm Nail&quot; - Hồng Đào, Việt Hương, Hoài Tâm, Thúy Nga, Hà Thanh Xuân",
+          "description": "Hài Kịch \"Một Ngày Ở Tiệm Nail\" (Nguyễn Ngọc Ngạn) Hồng Đào, Việt Hương, Hoài Tâm, Thúy Nga, Hà Thanh Xuân Paris By Night 129 - Dynasty.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c814kc7t4tU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c814kc7t4tU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c814kc7t4tU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-11-30T12:00:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fWjyf30gZ9RhmZxYeKVjr_rn4dM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KA2rXiUX91g"
+        },
+        "snippet": {
+          "publishedAt": "2020-01-09T12:00:03Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Nhạc Xuân Thúy Nga 2020 | Nhạc Xuân Bolero (Vol 2)",
+          "description": "Nhạc Xuân Thúy Nga 2020 | Nhạc Xuân Bolero (Vol 2) 1. Đám Cưới Đầu Xuân (Trần Thiện Thanh) Tâm Đoan & Thế Sơn PBN85 0:07 2. Hẹn Một Mùa Xuân ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KA2rXiUX91g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KA2rXiUX91g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KA2rXiUX91g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-01-09T12:00:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uEnOrFX4JEbwJSUFTn9pOkrUrKE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ptJsvWjbuDM"
+        },
+        "snippet": {
+          "publishedAt": "2016-06-10T08:26:01Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 100 - Ghi Nhớ Một Chặng Đường (Full Program)",
+          "description": "Paris By Night 100 - Ghi Nhớ Một Chặng Đường (Full Program) 01. Mơ Một Tình Yêu (Tùng Châu & Thái Thịnh) Minh Tuyết & Như Quỳnh 0:00 02. Lời Mở Đầu ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ptJsvWjbuDM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ptJsvWjbuDM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ptJsvWjbuDM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-06-10T08:26:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LRDGM6Vnaat25L7W-bPKVkf552Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LspVyUMSvp8"
+        },
+        "snippet": {
+          "publishedAt": "2018-01-08T01:02:46Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 78 - Tình Khúc CHÂU KỲ",
+          "description": "Paris By Night 78 - Đường Xưa Tình Khúc CHÂU KỲ 1. Túy Ca (Lời: Trương Minh Dũng) Chế Linh 2:20 2. LK Khuya Nay Anh Ði Rồi, Em Không Buồn Nữa Chị ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LspVyUMSvp8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LspVyUMSvp8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LspVyUMSvp8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-01-08T01:02:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_ohPdXr8oEslzA7jWlXohZbsFa8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7B6bxCdiWWM"
+        },
+        "snippet": {
+          "publishedAt": "2018-05-24T00:54:14Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 60 - Thất Tình (Full Program)",
+          "description": "Paris By Night 60 - Thất Tình (Full Program) Paris By Night 60 - Thất Tình 1. Tìm Về Chốn Cũ (Đặng Quang Vỹ) Loan Châu, Trúc Lam, Trúc Linh, Lynda Trang ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7B6bxCdiWWM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7B6bxCdiWWM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7B6bxCdiWWM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-05-24T00:54:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Eccy2Hg5lmzLyCZdlPdEcneI8SE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3b-l3IlWQSY"
+        },
+        "snippet": {
+          "publishedAt": "2018-07-03T00:00:01Z",
+          "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+          "title": "Paris By Night 64 - Tình Khúc Tuấn Khanh",
+          "description": "Paris By Night 64 - Đêm Văn Nghệ Thính Phòng Tình Khúc Tuấn Khanh 1. Hoa Soan Bên Thềm Cũ – Trúc Lam, Trúc Linh & Bảo Hân 2. Chiếc Lá Cuối Cùng ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3b-l3IlWQSY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3b-l3IlWQSY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3b-l3IlWQSY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thuy Nga",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-07-03T00:00:01Z"
+        }
+      }
+    ]
+  }
+  
+  

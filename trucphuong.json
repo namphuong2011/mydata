@@ -1,0 +1,1664 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/YjvinuwSy9HPOgx8C-yr_GMj9gc\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+     "totalResults": 315204,
+     "resultsPerPage": 50
+    },
+    "items": [
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nBv7Y42RnE9JdOYmnvQJMQtbw7g\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "9Fwq0kqn7r0"
+      },
+      "snippet": {
+       "publishedAt": "2018-09-26T09:00:01.000Z",
+       "channelId": "UCagRZ3T9t0C3c735yjvRpIg",
+       "title": "12 Tình khúc Trúc Phương Kinh Điển Mọi Thời Đại - Tiếng Hát Danh Ca Hải Ngoại",
+       "description": "12 Tình khúc Trúc Phương Kinh Điển Mọi Thời Đại - Tiếng Hát Danh Ca Hải Ngoại #trucphuong #nhacvang #haingoai Nhạc vàng hải ngoại xưa ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/9Fwq0kqn7r0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/9Fwq0kqn7r0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/9Fwq0kqn7r0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Giáng Ngọc Productions",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/iwDzUu29jCaYbNQLYgEtrQKWMd0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "xPbo7fwz-3A"
+      },
+      "snippet": {
+       "publishedAt": "2019-02-11T09:15:03.000Z",
+       "channelId": "UCwZ2ZaFfTusqV_MGMHUnEsg",
+       "title": "Trúc Phương ông hoàng dòng nhạc BOLERO và những sáng tác hay nhất để đời",
+       "description": "Trúc Phương ông hoàng dòng nhạc BOLERO và những sáng tác hay nhất để đời ♫ Spotify: https://spoti.fi/2TPSxUo Tổng hợp Album BOLERO các ca sĩ ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/xPbo7fwz-3A/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/xPbo7fwz-3A/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/xPbo7fwz-3A/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Giọng Ca Để Đời",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/7a7XBc3StKWgWSCzCD2VO63zWqw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "uft1ECUDFbQ"
+      },
+      "snippet": {
+       "publishedAt": "2016-04-02T16:28:13.000Z",
+       "channelId": "UCAkVOcvh12JrAGfOvg--r2A",
+       "title": "Những bài hay nhất của Nhạc Sĩ Trúc Phương Ông Hoàng của dòng nhạc Bolero",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/uft1ECUDFbQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/uft1ECUDFbQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/uft1ECUDFbQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "phuocloc tran",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/UvplNITReCxURwoPQcrMt5zMkLg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "3lRH9OsDX1M"
+      },
+      "snippet": {
+       "publishedAt": "2019-03-26T12:00:00.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "PBN Collection | Nhạc Sĩ Trúc Phương - Những Tình Khúc Bolero Bất Hủ (Vol 2)",
+       "description": "PBN Collection | Nhạc Sĩ Trúc Phương - Những Tình Khúc Bolero Bất Hủ (Vol 2) 1. Tàu Đêm Năm Cũ - Hoàng Oanh PBN127 0:00 2. Con Đường Mang Tên Em ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/3lRH9OsDX1M/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/3lRH9OsDX1M/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/3lRH9OsDX1M/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ffur5bQmC7IlTqYPfsClF1AlZhA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "s5ziKV6tvHA"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-22T12:40:17.000Z",
+       "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+       "title": "Nhạc sĩ Trúc Phương - Những bài nhạc vàng bolero hay nhất (Thu âm trước 1975)",
+       "description": "Tuyển chọn 40 bài nhạc vàng của nhạc sĩ Trúc Phương - ông hoàng của nhạc bolero, do các ca sĩ nổi tiếng thu âm trước năm 1975 #trucphuong ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/s5ziKV6tvHA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/s5ziKV6tvHA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/s5ziKV6tvHA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Thu Âm Trước 1975",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Y-nhcaVfnEpSFH3AzOYtMtAoiBo\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "u1HEwxQ9KqQ"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-10T09:22:40.000Z",
+       "channelId": "UCIryexfSGg2sf38_46cGbww",
+       "title": "Nhạc sĩ TRÚC PHƯƠNG và những ca khúc BOLERO để đời - Nhạc Vàng Xưa Nhiều Danh Ca",
+       "description": "DUY KHÁNH, TRƯỜNG VŨ, TUẤN VŨ, CHẾ LINH , GIAO LINH, THANH TUYỀN..Nhạc sĩ TRÚC PHƯƠNG và những ca khúc BOLERO để đời - Nhạc Vàng Xưa ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/u1HEwxQ9KqQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/u1HEwxQ9KqQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/u1HEwxQ9KqQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Huyền Thoại Nhạc Vàng",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/QADNTAeQyMPGbqDCTQHCPGQUKrI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "fzl8eG6jKvE"
+      },
+      "snippet": {
+       "publishedAt": "2019-02-18T14:00:03.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "PBN Collection | Nhạc Sĩ Trúc Phương - Những Tình Khúc Bolero Bất Hủ  (Vol 1)",
+       "description": "PBN Collection | Nhạc Sĩ Trúc Phương - Những Tình Khúc Bolero Bất Hủ (Vol 1) 1. Hai Chuyến Tàu Đêm - Quang Lê PBN103 4:13 2. LK Tàu Đêm Năm Cũ, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/fzl8eG6jKvE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/fzl8eG6jKvE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/fzl8eG6jKvE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nZ-RPVJvsJDwFYCswo2YPzFd3SY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "QUc6btko5Ps"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-22T00:00:03.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "Nhạc sĩ Trúc Phương Ông Hoàng Nhạc Bolero - 20 Sáng Tác Nhạc Vàng Bolero Hay Nhất",
+       "description": "Nhạc sĩ Trúc Phương Ông Hoàng Nhạc Bolero - 20 Sáng Tác Nhạc Vàng Bolero Hay Nhất Nhạc Vàng Bolero Bất Hủ : https://youtu.be/6l-thMw7XO4 Nhạc Lính ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/QUc6btko5Ps/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/QUc6btko5Ps/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/QUc6btko5Ps/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/5cIHEvYcoPh-0bkNNfXUD4cxr7c\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "tc0dgA8BtXI"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-14T02:41:49.000Z",
+       "channelId": "UCN__8LL7aLFCgHu44usIn_A",
+       "title": "Nhạc Sĩ Trúc Phương và Những Sáng Tác Bất Hủ Hay Nhất Sự Nghiệp",
+       "description": "Nhạc Sĩ Trúc Phương và Những Sáng Tác Bất Hủ Hay Nhất Sự Nghiệp ♫ Nghe MP3 chất lượng cao tại Spotify: https://spoti.fi/2TPSxUo MV Quang Lập ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/tc0dgA8BtXI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/tc0dgA8BtXI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/tc0dgA8BtXI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Quang Lập Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ChWYBqAj5ITKJoPRtDmtXu90xws\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "1x6FVGMLevw"
+      },
+      "snippet": {
+       "publishedAt": "2017-05-10T09:36:00.000Z",
+       "channelId": "UCbXMmg_oXY1Lg6z0yX9s4Lg",
+       "title": "Những bài hát hay nhất của nhạc sĩ Trúc Phương - ông hoàng bolero",
+       "description": "Tuyển chọn những bài hát nhạc vàng hay nhất của ông hoàng bolero Trúc Phương Cố nhạc sĩ Trúc Phương tên thật là Nguyễn Thiện Lộc, ông sinh năm 1933...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/1x6FVGMLevw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/1x6FVGMLevw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/1x6FVGMLevw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "That tri Ton",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/2SX2PgwQG9n8a6rez9tlZrmz7SA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "NEbtjKmoOUU"
+      },
+      "snippet": {
+       "publishedAt": "2014-11-30T12:12:12.000Z",
+       "channelId": "UCuLiAwKag_-fF9wA_BJaWDg",
+       "title": "Trúc Phương dòng nhạc Bolero (Bản MP3)",
+       "description": "Album: ASIA 74 - ÔNG HOÀNG DÒNG NHẠC BOLERO 1 . Chiều làng em - Hà Thanh Xuân 2 . Trên bốn vùng chiến thuật - Đan Nguyên,Quốc Khanh 3 .",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/NEbtjKmoOUU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/NEbtjKmoOUU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/NEbtjKmoOUU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lalam",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/qilXSarmNHnUTqYgDn9zib18DSA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "fE5ph4kBXYc"
+      },
+      "snippet": {
+       "publishedAt": "2017-06-27T15:02:32.000Z",
+       "channelId": "UCXgZ83FGk3Y3g9FjLLEhiTg",
+       "title": "Tuyển tập sáng tác của nhạc sĩ Trúc Phương",
+       "description": "LK Được trình bày bởi nhiều ca sĩ nổi tiếng với những giọng ca rất riêng và sâu lắng Mong mọi người góp ý kiến.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/fE5ph4kBXYc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/fE5ph4kBXYc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/fE5ph4kBXYc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "TTài Nguyễn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/StFbYMn20kzyMWVCuMrKZ5AhkXM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "fSM6R-iG4-I"
+      },
+      "snippet": {
+       "publishedAt": "2018-09-24T07:57:14.000Z",
+       "channelId": "UChCGzbPWkCZKj4T6Dj7jE_A",
+       "title": "Những tác phẩm để đời của nhạc sỹ TRÚC PHƯƠNG:Ông hoàng Bolero (Audio CD)",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/fSM6R-iG4-I/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/fSM6R-iG4-I/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/fSM6R-iG4-I/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Đinh Quốc Anh",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/M15cOkSc7hT0cSsyjqMc7Kx1yvA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "TGHVwXK-Lmw"
+      },
+      "snippet": {
+       "publishedAt": "2015-07-19T15:24:10.000Z",
+       "channelId": "UCPyTGV4i8wT_vADoHY2qTKw",
+       "title": "Nhạc Trúc Phương nghe hoài không chán!",
+       "description": "Hình sưu tầm, Việt Nam mình cảnh đẹp tuyệt vời! 1. Trả Nhau Ngày Tháng Cũ - Hương Lan 2. Đêm Tâm Sự - Quang Lê, Mai Thiên Vân 4:48 3. Hai Lối Mộng ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/TGHVwXK-Lmw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/TGHVwXK-Lmw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/TGHVwXK-Lmw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Minhhue Tran",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/O0KHzqXAJa438MDHgvqhwAK25is\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "TAqfLIi08Pg"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-31T11:13:19.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "Liveshow ASIA 74 - Trúc Phương Ông Hoàng Dòng Nhạc Bolero | Liveshow Hải Ngoại",
+       "description": "Asia 74 - Trúc Phương : Ông Hoàng Của Dòng Nhạc Bolero 1. Chiều Làng Em – Hà Thanh Xuân 2. Trên Bốn Vùng Chiến Thuật – Đan Nguyên, Quốc Khanh 3.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/TAqfLIi08Pg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/TAqfLIi08Pg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/TAqfLIi08Pg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ol6IU8rKX6JdVYpcA_FTtKNmRvg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ojhnWD1iz30"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-19T14:47:50.000Z",
+       "channelId": "UCWkcz9R8XE4Qid7FWF2ZFqA",
+       "title": "Tình Khúc Lam Phương Hay Nhất | Những Tình Khúc Để Đời Của Nhạc Sĩ Lam Phương | Dòng Nhạc Tình Ca",
+       "description": "Dòng Nhạc Tình Ca Productions sẽ là kênh chính thức của các bản nhạc: Nhạc Lính, Nhạc Vàng, Nhạc Bolero, Tình Ca Xưa Hay Nhất. Bấm vào nút đăng ký (...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ojhnWD1iz30/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ojhnWD1iz30/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ojhnWD1iz30/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Dòng Nhạc Tình Ca",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/351AWjPbs3naQApSmtRIDDXB42A\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "3-0jfaj-MXk"
+      },
+      "snippet": {
+       "publishedAt": "2019-11-25T01:14:15.000Z",
+       "channelId": "UCyTFi3jRi7r3NHJHgc9n3CA",
+       "title": "Nhạc Sĩ Trúc Phương 1 ~ Những Ca Khúc Tuyển Chọn { By Angelina La }",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/3-0jfaj-MXk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/3-0jfaj-MXk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/3-0jfaj-MXk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Xưa By Angelina La",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/0P93yBtzfF-r9If_LNISnNsIT1Q\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "uojACcHfIos"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-09T22:30:02.000Z",
+       "channelId": "UCrkFU5f7MBxKaaIsuMPbGnA",
+       "title": "LK Bolero Có Lời Tình Khúc Trúc Phương Tuyển Chọn Phần 2 || Nhạc Hay Mẫu Xinh || Nhạc Sống 365",
+       "description": "Trach list: 1. Tàu Đêm Năm Cũ 2. Đêm Tâm Sự 3. Kẻ Ở Miền Xa 4. Chiều Cuối Tuần 5. Nửa Đêm Ngoài Phố 6. Hai Lối Mộng 7. Bội Bạc 8. Hương Tình Cũ 9....",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/uojACcHfIos/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/uojACcHfIos/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/uojACcHfIos/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Sống 365",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/qhGuVZh0oZANa6KFRNt9EW5vCNk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "QFlstUb1DlQ"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-11T12:09:51.000Z",
+       "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+       "title": "Thanh Thúy Với Những Tình Khúc Trúc Phương (Thu âm trước 1975)",
+       "description": "Tiếng hát Thanh Thúy được biết đến nhiều nhất qua những ca khúc bolero bất tử của nhạc sĩ Trúc Phương. Tuyển chọn những ca khúc hay nhất của Trúc...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/QFlstUb1DlQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/QFlstUb1DlQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/QFlstUb1DlQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Thu Âm Trước 1975",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/21cMHobo7ciyi6md4S9DOY5uens\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ak_MRhMELfY"
+      },
+      "snippet": {
+       "publishedAt": "2016-07-13T08:12:16.000Z",
+       "channelId": "UC6B2_kPBX2qODenr3APg9RQ",
+       "title": "Trúc Phương - Tuyển tập các ca khúc hay nhất",
+       "description": "Tuyển tập các ca khúc hay nhất của nhạc sĩ Trúc Phương, được thể hiện bởi các ca sĩ hàng đầu hải ngoại hiện nay: Trường Vũ, Như Quỳnh, Đan Nguyên,...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ak_MRhMELfY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ak_MRhMELfY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ak_MRhMELfY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Joker",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/KRhm7W5F6b7LouLHl_AW3XjbDu8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "DNpay3-EB7U"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-12T02:38:40.000Z",
+       "channelId": "UCqW2uFEEt-75KA-M4QrAzQg",
+       "title": "Trúc Phương Ông hoàng dòng nhạc Bolero và Những Sáng Tác Hay Nhất Để Đời",
+       "description": "Trúc Phương Ông hoàng dòng nhạc Bolero và Những Sáng Tác Hay Nhất Để Đời 1. Kẻ ở miền xa - Giang Tử 2. Chiều cuối tuần - Hoàng Oanh 3. Bông cỏ mây ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/DNpay3-EB7U/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/DNpay3-EB7U/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/DNpay3-EB7U/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Bolero Thời Chiến",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/NwKOYFpu7rTmTbZVjwaLOwL0Xx0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "RhYBRecZ4Ys"
+      },
+      "snippet": {
+       "publishedAt": "2017-08-31T13:54:31.000Z",
+       "channelId": "UCAS4rjMPycHZAPiJtG61tbw",
+       "title": "Nhạc sĩ Trúc Phương những sáng tác bất hủ - âm thanh chất lượng cao.",
+       "description": "Tuyệt phẩm nhạc sĩ Trúc Phương - âm thanh chất lượng cao.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/RhYBRecZ4Ys/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/RhYBRecZ4Ys/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/RhYBRecZ4Ys/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Việt Nam Âm nhạc",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/z0NSXelsY-7jOF76ahNKYtIkqKc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "lTSIngJVTq8"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-10T02:51:52.000Z",
+       "channelId": "UCGu5yrxuHkeLZFzXNuV7rmg",
+       "title": "CÁC BÀI HÁT HAY NHẤT CỦA NHẠC SĨ TRÚC PHƯƠNG ‖ NHẠC VÀNG TRÚC PHƯƠNG",
+       "description": "Các bài hát hay nhất của Nhạc sĩ Trúc Phương.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/lTSIngJVTq8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/lTSIngJVTq8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/lTSIngJVTq8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Kiến thức 360",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ynbOsUj1l_1xfPi0PHBn2yBIg4Y\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "qSbyJeHKNxI"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-08T17:29:31.000Z",
+       "channelId": "UCvLhcnpuM5TaXM3R--Abohw",
+       "title": "Tuyển Tập: Nhạc sĩ Trúc Phương",
+       "description": "Sau đây Phong xin gửi tặng cả nhà 17 ca khúc được sáng tác bởi nhạc sĩ Trúc Phương do Phong trình bày, kính mời quý vị lắng nghe và ủng hộ Phong nhé...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/qSbyJeHKNxI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/qSbyJeHKNxI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/qSbyJeHKNxI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Duy Phong Boléro",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ko0r_ZSjTLY-tt0JNRSZn9l17Ag\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "bsrTShUYEmI"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-05T05:38:47.000Z",
+       "channelId": "UCJucs3KKotPlqF1GZo-DWbw",
+       "title": "Chuyện đời &amp; chuyện tình ÔNG HOÀNG BOLERO TRÚC PHƯƠNG nổi tiếng trước &amp; sau 75 I cuộc sống sài gòn",
+       "description": "Cuộc sống sài gòn ỦNG HỘ KÊNH XIN CÁC BẠN NHẤN ĐĂNG KÝ (MIỄN PHÍ) ĐỂ THEO DÕI. Please SUBSCRIBE to my channel: https://goo.gl/sCe18n ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/bsrTShUYEmI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/bsrTShUYEmI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/bsrTShUYEmI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Cuộc Sống Sài Gòn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/WUnAxzz0IuPb519XcHn3uvYH1OY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "9bCfEmJAi7Q"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-11T18:19:41.000Z",
+       "channelId": "UCovEfI5N4u5Noh9EPKT26bw",
+       "title": "Tuyển tập ca khúc bất hủ Trúc Phương",
+       "description": "VOl.1.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/9bCfEmJAi7Q/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/9bCfEmJAi7Q/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/9bCfEmJAi7Q/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "K-Backpacker",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_XkRZqSbzyyC0xJxi8W6RqkUTAE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "JdRP3iWl6zU"
+      },
+      "snippet": {
+       "publishedAt": "2019-09-29T07:08:23.000Z",
+       "channelId": "UCfnh85A9r4bofJ1hBM__iag",
+       "title": "22 Tình Khúc Trữ Tình Của Nhạc Sĩ Trúc Phương",
+       "description": "1. Thói đời - Chế Linh 2. Ai cho tôi tình yêu - Hoàng Oanh 3. Kẻ ở miền xa - Duy Khánh 4. Hai lối mộng - Giao Linh 5. Người xa về thành phố - Chế...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/JdRP3iWl6zU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/JdRP3iWl6zU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/JdRP3iWl6zU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Tri Châu",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/LJwGa9OwuIq-lJmfzwqqOZrcDOc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "R-cBuWKkZ4s"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-02T10:39:09.000Z",
+       "channelId": "UCnjA-m8cpZ01bUOVLd_VUsg",
+       "title": "30 Tuyệt Phẩm Bolero Để Đời Hay Nhất Của Nhạc Sĩ Trúc Phương",
+       "description": "30 Tuyệt Phẩm Bolero Để Đời Hay Nhất Của Nhạc Sĩ Trúc Phương.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/R-cBuWKkZ4s/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/R-cBuWKkZ4s/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/R-cBuWKkZ4s/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Vàng TV",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/64xPSFkQ3U7Drn1ex0nUDDSMFsw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "I2kDNPcWYoU"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-09T19:00:31.000Z",
+       "channelId": "UCkLqInMpqYzIFEBzG-7KUuQ",
+       "title": "Nhạc sĩ Trúc Phương 36 Tình Khúc Buồn Chọn Lọc Hay Nhất Mọi Thời Đại - Âm Thanh Tuyệt Vời!",
+       "description": "Nhạc sĩ Trúc Phương 36 Tình khúc buồn 1.24h Phép - Thanh Thúy 02.Kẻ Ở Miền Xa - Duy Khánh 03.Ngõ Hồn Qua Đêm - Thanh Thúy 04.Con Đường Mang ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/I2kDNPcWYoU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/I2kDNPcWYoU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/I2kDNPcWYoU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Trữ Tình Thu Âm Trước 1975",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/dbnDVDrEYkvD5uHFGyCTzbkVilk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "rQLg_xsd9_k"
+      },
+      "snippet": {
+       "publishedAt": "2017-11-03T12:39:40.000Z",
+       "channelId": "UCnEEoTfmnzgj5mFUHPXpLTA",
+       "title": "Nhạc Sĩ Trúc Phương - Những Tình Khúc Bolero Bất Hủ (pre 75)",
+       "description": "Nhạc sĩ Trúc Phương & cuộc đời buồn như những bài Bolero. Có thể nói mà không sợ quá lời rằng cố nhạc sĩ Trúc Phương xứng đáng với danh xưng \"Ông...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/rQLg_xsd9_k/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/rQLg_xsd9_k/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/rQLg_xsd9_k/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Vàng Xưa",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/iL-Xtv5DlIkCl83zJjhwjNnSD5Y\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "zKxc-RmcCko"
+      },
+      "snippet": {
+       "publishedAt": "2019-03-21T09:13:37.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "Nhạc sĩ LAM PHƯƠNG và Những Sáng Tác Bất Hủ - Tiếng hát Hoàng Oanh, Trường Vũ, Chế Linh",
+       "description": "Kỷ niệm sinh nhật tròn 82 tuổi của nhạc sĩ Lam Phương (20/03/1937). Nhạc sĩ LAM PHƯƠNG và Những Sáng Tác Bất Hủ - Tiếng hát Hoàng Oanh, Chế Linh, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/zKxc-RmcCko/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/zKxc-RmcCko/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/zKxc-RmcCko/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/g9f0cN0JPP6znawlHosHD7nPJPo\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "skAuYVlKjOI"
+      },
+      "snippet": {
+       "publishedAt": "2019-03-22T09:00:12.000Z",
+       "channelId": "UCIryexfSGg2sf38_46cGbww",
+       "title": "Nhạc Sĩ Trúc Phương và Những Ca Khúc Nhạc Vàng Xưa Hay Nhất - Tiếng Hát Tuấn Vũ, Giao Linh, Chế Linh",
+       "description": "Nhạc Sĩ Trúc Phương và Những Ca Khúc Nhạc Vàng Xưa Hay Nhất - Tiếng Hát Tuấn Vũ, Giao Linh, Chế Linh Nhạc Vàng Xưa Để Đời https://bit.ly/2Llj0G4 ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/skAuYVlKjOI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/skAuYVlKjOI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/skAuYVlKjOI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Huyền Thoại Nhạc Vàng",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/d5f6foXm9zznxYr-6lTchUuIrfs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "aY4VYRR7ito"
+      },
+      "snippet": {
+       "publishedAt": "2020-01-02T02:22:15.000Z",
+       "channelId": "UCl5LjeRI8vgiSG2BcQiU5kQ",
+       "title": "Tình khúc TRÚC PHƯƠNG 2020    Nữ Hoàng Sầu Muôn GIAO LINH trình bày   nhac sĩ ANH TÚ phối âm",
+       "description": "đai dương, dai duong - nhung tinh khuc cua nhac si truc phuong - giao linh.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/aY4VYRR7ito/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/aY4VYRR7ito/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/aY4VYRR7ito/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "DAI DUONG",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/5KlTS83sAIpkLjkuELngu7TU0Fg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "dRRFrsDFC7Y"
+      },
+      "snippet": {
+       "publishedAt": "2017-04-13T02:04:18.000Z",
+       "channelId": "UCt55X7mPVA1EPGHIq_rB9Hw",
+       "title": "Bảo Yến | Tình Khúc Trúc Phương - Ông Hoàng Nhạc Bolero",
+       "description": "Bảo Yến Tình Khúc Trúc Phương 1./ Chuyện Ngày Xưa 2./ Hai Chuyến Tàu Đêm 3./ Thói Đời 4./ Đêm Tâm Sự 5./ Tự Tình Trong Đêm 6./ Ai Cho Tôi Tình Yêu...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/dRRFrsDFC7Y/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/dRRFrsDFC7Y/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/dRRFrsDFC7Y/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Danh Ca Bảo Yến",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/db5ieQKw-2BCj1r2MuibU3CovFA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "viAHqgDI72Y"
+      },
+      "snippet": {
+       "publishedAt": "2016-11-07T08:25:22.000Z",
+       "channelId": "UCWTuCaKNyfkJDkVPNH2_-zQ",
+       "title": "Tiếng hát Hoàng Phương Mai - Album Tình khúc TRÚC PHƯƠNG",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/viAHqgDI72Y/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/viAHqgDI72Y/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/viAHqgDI72Y/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Hoàng Phương Mai",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ipE0r7nRDFIlDiovGc0z_pPVM3g\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "6d9GktBMKCg"
+      },
+      "snippet": {
+       "publishedAt": "2019-11-25T14:54:30.000Z",
+       "channelId": "UCyTFi3jRi7r3NHJHgc9n3CA",
+       "title": "Nhạc Sĩ Trúc Phương 2 ~ Những Ca Khúc Tuyển Chọn { By Angelina La }",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/6d9GktBMKCg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/6d9GktBMKCg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/6d9GktBMKCg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Xưa By Angelina La",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/0WIhG7wWjer-5Zlvq0JZ9Gpp4w8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "GZZZQcuqgsI"
+      },
+      "snippet": {
+       "publishedAt": "2017-12-30T00:53:44.000Z",
+       "channelId": "UCOIL3ooWubDPEGfdrV7CXOA",
+       "title": "Tuyển tập tân cổ hay - Trúc Phương, Minh Chí ....",
+       "description": "Mọi người ủng hộ kênh để nghe những bản tân cổ hay và bolero trữ tình nha.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/GZZZQcuqgsI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/GZZZQcuqgsI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/GZZZQcuqgsI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Trích Đoạn Tân Cổ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_SZz-Tn5MgzXvoB20XkcORQdWkk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "uuksCS7KRyA"
+      },
+      "snippet": {
+       "publishedAt": "2017-08-17T06:58:18.000Z",
+       "channelId": "UCy_3oCfqiZ_NJNpV0rMAwBw",
+       "title": "Album Chuyến Tàu Hoàng Hôn - Ca sĩ trúc Phương",
+       "description": "Album Chuyến Tàu Hoàng Hôn - Ca sĩ trúc Phương ------------------ Chào mừng các bạn đến với kênh Bluesea Bolero. ▻ Hãy Subscribe kênh YouTube ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/uuksCS7KRyA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/uuksCS7KRyA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/uuksCS7KRyA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Bluesea Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wLXdUSL-OuyxLgwMztOktTg3F7o\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "lv5Qm5rPNmU"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-07T15:55:56.000Z",
+       "channelId": "UCPyTGV4i8wT_vADoHY2qTKw",
+       "title": "Nhạc Trúc Phương trước 1975, âm thanh tuyệt vời!",
+       "description": "Ca sĩ Thanh Thúy thì có nhiều người làm rồi! (hình sưu tầm trên internet) 1. Thói đời - Chế Linh 2. Ai cho tôi tình yêu - Hoàng Oanh 5:11 3. Kẻ ở miền xa...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/lv5Qm5rPNmU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/lv5Qm5rPNmU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/lv5Qm5rPNmU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Minhhue Tran",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Yd1NYam83W_rEPIU3PwpQo50yDI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "UzrJHbp33Gs"
+      },
+      "snippet": {
+       "publishedAt": "2019-11-25T12:56:58.000Z",
+       "channelId": "UCyTFi3jRi7r3NHJHgc9n3CA",
+       "title": "Nhạc Sĩ Trúc Phương 3 ~ Những Ca Khúc Tuyển Chọn { By Angelina La }",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/UzrJHbp33Gs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/UzrJHbp33Gs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/UzrJHbp33Gs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Xưa By Angelina La",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/D8uHAiALI9KBAolvyFIb7BXuas4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "tYPFOKiybPg"
+      },
+      "snippet": {
+       "publishedAt": "2018-09-07T11:10:19.000Z",
+       "channelId": "UCg8xNu_647CI0IfaEknC6Cw",
+       "title": "Nhạc Trúc Phương Nghe Hoài Không Chán",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/tYPFOKiybPg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/tYPFOKiybPg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/tYPFOKiybPg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "BB Channels",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zQoWAJxnJFn__TEttmqkpXqeIsg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "gRnmvTBW-oM"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-29T02:52:52.000Z",
+       "channelId": "UCytHocZlrMx499o86164B7Q",
+       "title": "Liên khúc LINH HỒN TƯỢNG ĐÁ - Nhạc Vàng Đan Nguyên 2020 Hay Nhất KHÔNG 1 QUẢNG CÁO",
+       "description": "Liên khúc LINH HỒN TƯỢNG ĐÁ - Nhạc Vàng Đan Nguyên 2020 Hay Nhất KHÔNG 1 QUẢNG CÁO. ▻ Đan Nguyên Chọn lọc hay nhất sự nghiệp: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/gRnmvTBW-oM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/gRnmvTBW-oM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/gRnmvTBW-oM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Đan Nguyên Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/GAgPbdwkzQ-woFt7i3MzpZA4PHY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "iK-iDa32Bh8"
+      },
+      "snippet": {
+       "publishedAt": "2018-12-25T07:45:29.000Z",
+       "channelId": "UCytHocZlrMx499o86164B7Q",
+       "title": "ĐAN NGUYÊN - TUYỂN TẬP 30 CA KHÚC NHẠC VÀNG BOLERO, NHẠC LÍNH HAY NHẤT SỰ NGHIỆP - LK CHUYỆN HOA SIM",
+       "description": "ĐAN NGUYÊN - TUYỂN TẬP 30 CA KHÚC NHẠC VÀNG BOLERO, NHẠC LÍNH HAY NHẤT SỰ NGHIỆP - LK CHUYỆN HOA SIM. Đan Nguyên (tên thật Nguyễn ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/iK-iDa32Bh8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/iK-iDa32Bh8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/iK-iDa32Bh8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Đan Nguyên Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/aLJp7KjWAQURdftfvAA7ClqiAOc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "LUiOWD_MKZE"
+      },
+      "snippet": {
+       "publishedAt": "2017-10-14T11:00:02.000Z",
+       "channelId": "UCUgXK2UjZ8G_EM438aYkGrw",
+       "title": "Album Vol.3 Những Tuyệt Phẩm Của Nhạc Sĩ Trúc Phương | Yên Nhiên",
+       "description": "Tải ứng dụng POPS để xem MV, liveshow, phim ca nhạc hot nhất: http://bit.ly/app-POPSmusic-1 . Album Vol.3 Những Tuyệt Phẩm Của Nhạc Sĩ Trúc Phương ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/LUiOWD_MKZE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/LUiOWD_MKZE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/LUiOWD_MKZE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "POPS MUSIC",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/waBK3AeuNFBItatdOocLs9cAxSQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "NfoD3pxGw8w"
+      },
+      "snippet": {
+       "publishedAt": "2015-01-10T20:34:07.000Z",
+       "channelId": "UCf85zAFEE5LWapk7qQ7VzPg",
+       "title": "Dòng nhạc BOLERO của Trúc Phương",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/NfoD3pxGw8w/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/NfoD3pxGw8w/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/NfoD3pxGw8w/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "FunlifeVN",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/FU38o_eUwklLlp0NyDpd0Fkydi4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "agTU8TvM2hA"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-19T12:00:00.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Phương Hồng Quế | Những Tình Khúc Nhạc Vàng Xưa Tuyển Chọn",
+       "description": "Phương Hồng Quế | Những Tình Khúc Nhạc Vàng Xưa Tuyển Chọn 1. Anh Về Với Em (Trần Thiện Thanh) hát với Anh Khoa PBN26 0:00 2. LK Biết Đến Bao ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/agTU8TvM2hA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/agTU8TvM2hA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/agTU8TvM2hA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Lo5zwHFbmIryqrQkAaDxXDWC1MI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "JJF2dOJuGMc"
+      },
+      "snippet": {
+       "publishedAt": "2017-10-11T08:00:01.000Z",
+       "channelId": "UCNbN0PXZeHD3gQAqV1dE9mg",
+       "title": "Album Vol.3 Những Tuyệt Phẩm Của Nhạc Sĩ Trúc Phương | Yên Nhiên",
+       "description": "Tải ứng dụng POPS để xem MV, liveshow, phim ca nhạc hot nhất: http://bit.ly/app-POPS-bolero-1 . Album Vol.3 Những Tuyệt Phẩm Của Nhạc Sĩ Trúc Phương ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/JJF2dOJuGMc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/JJF2dOJuGMc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/JJF2dOJuGMc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "POPS Music - Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/HHKWEC5jxMYR0MRiyP_HXlRMnwQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "qwoLLJKbzB4"
+      },
+      "snippet": {
+       "publishedAt": "2018-11-27T10:58:16.000Z",
+       "channelId": "UCRk1h1nP4pbKRFb9X7cfPFQ",
+       "title": "Vol.2 Tình Khúc Trúc Phương - Những Ca khúc Nhạc vàng, Trữ Tình bolero Hay Nhất | KẺ Ở MIỀN XA",
+       "description": "sacmaubolero, #nhactrutinh, #nhacbolero ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ Sắc Màu Bolero là kênh giải trí mang đến cho quý khán giả những bài ca ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/qwoLLJKbzB4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/qwoLLJKbzB4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/qwoLLJKbzB4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Sắc Màu Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/6_rpdlYF8FNfKnLlevTv7uNOIjQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "FddN-BbCLtM"
+      },
+      "snippet": {
+       "publishedAt": "2020-05-01T02:53:36.000Z",
+       "channelId": "UCytHocZlrMx499o86164B7Q",
+       "title": "Liên Khúc TẠ TỪ TRONG ĐÊM - Nhạc vàng hải ngoại ĐAN NGUYÊN Không Quảng Cáo Vạn Người Mê",
+       "description": "Liên Khúc TẠ TỪ TRONG ĐÊM - Nhạc vàng hải ngoại ĐAN NGUYÊN Không Quảng Cáo Vạn Người Mê. ▻ Đan Nguyên Chọn lọc hay nhất sự nghiệp: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/FddN-BbCLtM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/FddN-BbCLtM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/FddN-BbCLtM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Đan Nguyên Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/GNs6kwXsM8BNTRWzJpbcWi9V2VE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Hu6u7CjehDw"
+      },
+      "snippet": {
+       "publishedAt": "2018-09-11T11:00:04.000Z",
+       "channelId": "UCRk1h1nP4pbKRFb9X7cfPFQ",
+       "title": "Tình Khúc Trúc Phương Để Đời - Những Ca Khúc Nhạc Vàng Bolero Gây Nghiện | Chắp Tay Lạy Nười",
+       "description": "Tình Khúc Trúc Phương Để Đời - Những Ca Khúc Nhạc Vàng Bolero Gây Nghiện | Chắp Tay Lạy NGười #sacmaubolero, #nhactrutinh, #nhacbolero ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Hu6u7CjehDw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Hu6u7CjehDw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Hu6u7CjehDw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Sắc Màu Bolero",
+       "liveBroadcastContent": "none"
+      }
+     }
+    ]
+   }
+   
+   

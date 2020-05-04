@@ -1,0 +1,1664 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/pntmpX4pmy0foPsWgiIXIBRzdmk\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+     "totalResults": 235,
+     "resultsPerPage": 50
+    },
+    "items": [
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/x0_MEXL-Dw0pKCPz-IYvMni0uCY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "3b-l3IlWQSY"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-03T00:00:01.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Paris By Night 64 - Tình Khúc Tuấn Khanh",
+       "description": "Paris By Night 64 - Đêm Văn Nghệ Thính Phòng Tình Khúc Tuấn Khanh 1. Hoa Soan Bên Thềm Cũ – Trúc Lam, Trúc Linh & Bảo Hân 2. Chiếc Lá Cuối Cùng ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/3b-l3IlWQSY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/3b-l3IlWQSY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/3b-l3IlWQSY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/iYByZWYOYwg-jg0stj8OBCc36eE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "1DCVm-AidnI"
+      },
+      "snippet": {
+       "publishedAt": "2018-03-31T00:13:02.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Paris By Night 121 - Song Ca Nhạc Vàng (Full Program)",
+       "description": "Paris By Night 121 - Song Ca Nhạc Vàng (Full Program) 1. Phần Mở Đầu 2. LK Nếu Xuân Này Vắng Anh (Bảo Thu) & Khúc Nhạc Ngày Xuân (Nhật Bằng) (Trình ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/1DCVm-AidnI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/1DCVm-AidnI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/1DCVm-AidnI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/sMy996NbRrmoveyUfQdfIU8cPhA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "fYtTkDkX1-4"
+      },
+      "snippet": {
+       "publishedAt": "2015-06-10T20:08:47.000Z",
+       "channelId": "UCDCbpSKPfAki8RKGT_DKDqw",
+       "title": "NHẠC THÍNH PHÒNG: Những tình khúc song ca vượt thời gian",
+       "description": "Chương trình NHẠC THÍNH PHÒNG kỳ này sẽ gửi đến quý khán giả những tình khúc song ca như Chiếc Lá Cuối Cùng (Tuấn Khanh), Bài Không Tên Cuối ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/fYtTkDkX1-4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/fYtTkDkX1-4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/fYtTkDkX1-4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "SBTNOfficial",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/OTHB583mLdojibSkJ7qUTsuPxk4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "-9orlGqcdqk"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-12T10:16:13.000Z",
+       "channelId": "UCNxtHQasKo7DXVMibMIuUmA",
+       "title": "444 Bài Tình Ca Xưa đỉnh cao hải ngoại | Nguyên Khang tiếng hát để đời",
+       "description": "444 Bài Tình Ca Xưa đỉnh cao hải ngoại | Nguyên Khang tiếng hát để đời 01. Lk Hong Kong 02. Thôi Thế Thì Chia Tay 03. Cũng Là Trăm Năm 04. Hà Nội Ngày ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/-9orlGqcdqk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/-9orlGqcdqk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/-9orlGqcdqk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyên Khang Singer Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/JDflqVnM12g302tS5dnO65l0g3s\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "RvQanSe5Pro"
+      },
+      "snippet": {
+       "publishedAt": "2019-10-04T12:00:06.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "PBN Collection | Trần Thái Hòa - Những Tình Khúc Buồn",
+       "description": "Trần Thái Hòa - Những Tình Khúc Buồn Trần Thái Hòa & Những Tình Khúc Buồn 1. Tình Khúc Buồn (Ngô Thụy Miên) 0:00 2. Cõi Vắng (Diệu Hương) 5:13 3.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/RvQanSe5Pro/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/RvQanSe5Pro/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/RvQanSe5Pro/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/B0s9Y8TPh-BS8cijB6IRCzsGLkQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "vTFdL0RGIOc"
+      },
+      "snippet": {
+       "publishedAt": "2017-11-24T21:21:37.000Z",
+       "channelId": "UCaBl7_bJ8IGyyQf933SEmCA",
+       "title": "Khánh Hà - Tuấn Ngọc Đêm nhạc Thính Phòng Part 1",
+       "description": "Khánh Hà - Tuấn Ngọc và ban nhạc The Samba Live in Philadelphia.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/vTFdL0RGIOc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/vTFdL0RGIOc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/vTFdL0RGIOc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nam Duc",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/NlCHjGifYjNN2E0LKd_yVO17Scw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "C_vZbEeKE5Q"
+      },
+      "snippet": {
+       "publishedAt": "2017-07-23T04:16:06.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "The Best of PHƯƠNG DIỄM HẠNH from Paris By Night",
+       "description": "The Best of PHƯƠNG DIỄM HẠNH from Paris By Night 1. Hoa Đào Năm Trước (Lê Dinh, Nguyễn Hiền) Paris By Night 58 - Những Sắc Màu Trong Kỷ Niệm 2.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/C_vZbEeKE5Q/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/C_vZbEeKE5Q/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/C_vZbEeKE5Q/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zu-slOFfDwtcT9zIWm7E8Saer8I\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "4sYE3_vwQ6Y"
+      },
+      "snippet": {
+       "publishedAt": "2017-12-08T05:00:48.000Z",
+       "channelId": "UCbAqQcOU4mRwasyOZYrr_xQ",
+       "title": "Nhạc Quán Cà Phê  Không Có Quảng Cáo - Anbum Nhạc Vàng Bolero  Nhẹ Nhàng  Không Có Quảng Cáo",
+       "description": "Nhạc Quán Cà Phê Không Có Quảng Cáo - Anbum Nhạc Vàng Bolero Nhẹ Nhàng Không Có Quảng Cáo.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/4sYE3_vwQ6Y/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/4sYE3_vwQ6Y/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/4sYE3_vwQ6Y/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Đại Xe Ben",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Ld_J259KOsoWW8lhGq4dnizgq-Q\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "KzUzrwzt6gE"
+      },
+      "snippet": {
+       "publishedAt": "2018-06-25T13:30:23.000Z",
+       "channelId": "UC6rL9wbIkr2nyOAzktwcEMA",
+       "title": "Chiều nhạc thính phòng Trần Thái Hoà tại San José",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/KzUzrwzt6gE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/KzUzrwzt6gE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/KzUzrwzt6gE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "PhuongMac1",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nW84a1pe7DJRKWE_b49tp1SOFPI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "GV4GuCRa_QA"
+      },
+      "snippet": {
+       "publishedAt": "2017-07-13T15:38:52.000Z",
+       "channelId": "UC6oSX9I4bzySbcwWjxfi2LA",
+       "title": "Ca sĩ Lưu Bích &amp; Hồ Lệ Thu | Nhạc Thính Phòng | 07/12/2017",
+       "description": "SAIGON ENTERTAINMENT TELEVISION (SET 57.4) PO Box 1690a Garden Grove CA Tel: 714-868-6876 Email: info@settv574.com Thân chủ quảng cáo cần ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/GV4GuCRa_QA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/GV4GuCRa_QA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/GV4GuCRa_QA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Saigon Entertainment Television",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jgqk8bCxvhfLH6U89wXxb2KDLW0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "_okwyDVUdDU"
+      },
+      "snippet": {
+       "publishedAt": "2018-09-01T00:08:35.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Best of Như Quỳnh &amp; Thế Sơn (Paris By Night Collection 1)",
+       "description": "Best of Như Quỳnh & Thế Sơn (Paris By Night Collection 1) 1. Tôi Vẫn Nhớ (Ngân Giang) 0:00 PBN 38 in Toronto 2. Sắc Hoa Màu Nhớ (Nguyễn Văn Đông) 6:24 ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/_okwyDVUdDU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/_okwyDVUdDU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/_okwyDVUdDU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/4yUstaX4GdFOFCy2GnRPWDPIgsM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "BX27WCOplnA"
+      },
+      "snippet": {
+       "publishedAt": "2018-09-07T06:01:54.000Z",
+       "channelId": "UCd-wWMwEDyh4uHhf7EeN4CQ",
+       "title": "[Đĩa Gốc] - Hòa tấu nhạc vàng không lời - Nhạc xưa - Lossless",
+       "description": "Hãy pha 1 tách cafe, bậc dàn âm thanh và thưởng thức cuộc sống. Với những bài hát không lời, du dương, réo rắt, thích hợp cho những ngày mưa buồn, bên...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/BX27WCOplnA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/BX27WCOplnA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/BX27WCOplnA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thanh Huy [Lossless]",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/GfS5bEI8hRdCf6qv-5du_C4OzDI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "YS0FF2fA-_4"
+      },
+      "snippet": {
+       "publishedAt": "2019-12-20T12:00:09.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "PBN 129 TOP HITS Collection",
+       "description": "PBN 129 TOP HITS Collection Paris By Night 129 - Dynasty 1. Hoa Lệ (Hoàng An Lâm) Don Hồ 2. Là Gì Giữa Chúng Ta (Huỳnh Quốc Huy) Minh Tuyết 5:13 3.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/YS0FF2fA-_4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/YS0FF2fA-_4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/YS0FF2fA-_4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Ehq_Gt-xlmAyFsQaxMXZOj-5-gw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "XO8DkiR4lHQ"
+      },
+      "snippet": {
+       "publishedAt": "2019-12-25T12:00:10.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "PBN 129 - Cổ Trang Collection",
+       "description": "Cổ Trang Collection Paris By Night 129 - Dynasty 1. Sầu Ngăn Cách (Hamlet Trương) Băng Tâm 0:08 2. Mị Châu Ta Vì Ai? (Hùng Quân) Diễm Sương & Khải ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/XO8DkiR4lHQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/XO8DkiR4lHQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/XO8DkiR4lHQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/lTvZIWC5-C4jRraEibWelopwaCk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "HJhbIxSEty4"
+      },
+      "snippet": {
+       "publishedAt": "2019-02-10T14:42:23.000Z",
+       "channelId": "UCKxyv_i5ah2oYD23mAdPhyA",
+       "title": "Tình Khúc Ngô Thụy Miên - Riêng Một Góc Trời | Audio",
+       "description": "Video tổng hợp một số sáng tác tiêu biểu của nhạc sĩ Ngô Thụy Miên. Riêng Một Góc Trời là sáng tác nổi tiếng nhất của ông... 0:00 Áo Lụa Hà Đông...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/HJhbIxSEty4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/HJhbIxSEty4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/HJhbIxSEty4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Music from the Past",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ChVLvpkl1tvQvsfYd1Do-V1Z1Lk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "qN85j8U-1eY"
+      },
+      "snippet": {
+       "publishedAt": "2017-03-09T12:54:03.000Z",
+       "channelId": "UCjqxseBi9OZyxsmTY6nDcHQ",
+       "title": "Mỹ Linh- Trần Thái Hòa Paris 05/03/2017 Phần 1",
+       "description": "Vidéos ghi lại buổi văn nghệ thính phòng do Hội Amis du Vietnam et de l'Asie (Chủ tịch: Bà NGUYEN Xuân Thư) tổ chức ngày 05/03/2017 tại Paris. Ca sĩ: Mỹ ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/qN85j8U-1eY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/qN85j8U-1eY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/qN85j8U-1eY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "DK NGUYEN",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/QxrXpFN3JkKhGYZx__CSipwvGrs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "763uHpIhLZM"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-13T10:52:40.000Z",
+       "channelId": "UCnEEoTfmnzgj5mFUHPXpLTA",
+       "title": "Lê Minh Bằng &amp; Những Tuyệt Phẩm Nhạc Vàng Trước 1975",
+       "description": "HUYỀN THOẠI LÊ MINH BẰNG. Trước 1975, những người thuộc lớp tuổi từ đôi mươi trở lên, có ít ai mà không nghe, không nhớ đôi ba câu lời trong nhạc...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/763uHpIhLZM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/763uHpIhLZM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/763uHpIhLZM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Vàng Xưa",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/RGGEeSVbNB92Wrfn0kczNWqZLfY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "B9RD1-u10tU"
+      },
+      "snippet": {
+       "publishedAt": "2017-03-09T19:40:00.000Z",
+       "channelId": "UCjqxseBi9OZyxsmTY6nDcHQ",
+       "title": "Mỹ Linh- Trần Thái Hòa Paris 05/03/2017 Phần 2",
+       "description": "Vidéos ghi lại buổi văn nghệ thính phòng do Hội Amis du Vietnam et de l'Asie (Chủ tịch: Bà NGUYEN Xuân Thư) tổ chức ngày 05/03/2017 tại Paris. Ca sĩ: Mỹ ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/B9RD1-u10tU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/B9RD1-u10tU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/B9RD1-u10tU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "DK NGUYEN",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/emKObohoxj9vmQju3OUyCMVlW1A\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ZH9Te_Xr3_E"
+      },
+      "snippet": {
+       "publishedAt": "2019-12-11T12:00:30.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Collection Nhạc Giáng Sinh (Vol. 1) - Nhạc Noel Hải Ngoại Hay Nhất",
+       "description": "Collection Nhạc Giáng Sinh - Nhạc Noel Hải Ngoại Hay Nhất 1. O Come, O Come Emmanuel / Chúa Hãy Đến (Lời Việt: Phan Hoàng) Lam Anh 0:00 2. O Come ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ZH9Te_Xr3_E/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ZH9Te_Xr3_E/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ZH9Te_Xr3_E/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Rm-oBc_a8bThZBa_EC3N0f3CkF8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "JC2Jnrf0fYc"
+      },
+      "snippet": {
+       "publishedAt": "2019-10-08T01:22:45.000Z",
+       "channelId": "UCeVp2gV99a-655fTSIypyHw",
+       "title": "Liên Khúc Tình Ca Hải Ngoại Lãng Mạn - Liên Khúc Tình Ca Hải Âu Hay Nhất 40 Bản Tình Ca Bất Hủ",
+       "description": "Liên Khúc Tình Ca Hải Ngoại Lãng Mạn - Liên Khúc Tình Ca Hải Âu Hay Nhất 40 Bản Tình Ca Bất Hủ ❖▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/JC2Jnrf0fYc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/JC2Jnrf0fYc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/JC2Jnrf0fYc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Liên Khúc Top Hits",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/fg5FLcKC1eQ3SQPUgWO0q9EHaVc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "NF5GqlEROH4"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-27T23:36:57.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Trần Thái Hòa - Hành Trình 35 Năm Cùng Thúy Nga (Vol. 1)",
+       "description": "Trần Thái Hòa - Hành Trình 35 Năm Cùng Thúy Nga (Vol. 1) 1. Nhạt Nhòa (Tuấn Khanh) 0:00 2. Xóa Hết Nợ Nần (Thái Thịnh) hát với Lương Tùng Quang, Don ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/NF5GqlEROH4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/NF5GqlEROH4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/NF5GqlEROH4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/-lcGQI2hhGWAl4RekStfRfz0xXc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ZXLFqG9ukM0"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-29T13:18:17.000Z",
+       "channelId": "UCeVp2gV99a-655fTSIypyHw",
+       "title": "Nghe Là Thích Ngay - Nghe Cả Ngày Vẫn Hay | LK Bolero Top Hits Hải Ngoại Chọn Lọc Mới Nhất Cực Hay",
+       "description": "Nghe Là Thích Ngay - Nghe Cả Ngày Vẫn Hay | LK Bolero Top Hits Hải Ngoại Chọn Lọc Mới Nhất Cực Hay LK Bolero Hải Ngoại Chọn Lọc Những Bài Hay ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ZXLFqG9ukM0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ZXLFqG9ukM0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ZXLFqG9ukM0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Liên Khúc Top Hits",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/2x2ENUOpjSBR-IVuEOGQNkHJc4Y\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "7x4w8NBb2-8"
+      },
+      "snippet": {
+       "publishedAt": "2019-08-02T07:15:25.000Z",
+       "channelId": "UCeVp2gV99a-655fTSIypyHw",
+       "title": "LK Nhạc Trẻ Hải Ngoại Sôi Động Những Năm 90 | Nghe 1000 Lần Vẫn Hay Không Thể Quên",
+       "description": "LK Nhạc Trẻ Hải Ngoại Sôi Động Những Năm 90 | Nghe 1000 Lần Vẫn Hay Không Thể Quên #LienKhucTopHits #LKNhacTre #LKHaiNgoai ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/7x4w8NBb2-8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/7x4w8NBb2-8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/7x4w8NBb2-8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Liên Khúc Top Hits",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Od_rxasUKmBcmWP2upslWjmq2fY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Md8XmoPZ59E"
+      },
+      "snippet": {
+       "publishedAt": "2019-11-27T22:00:02.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "PBN129 Collection | Dynasty Legends",
+       "description": "PBN129 Collection | Dynasty Legends Paris By Night 129 - Dynasty 1. LK Nữ Ca / Kỷ Niệm, Tuổi Ngọc, Tuổi Mộng Mơ, Tuổi Thần Tiên (Phạm Duy) Thái Hiền ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Md8XmoPZ59E/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Md8XmoPZ59E/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Md8XmoPZ59E/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/kGeoy_bqNVS7Pk6uxkuhgrl50Yo\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "AcAfxdCbb2M"
+      },
+      "snippet": {
+       "publishedAt": "2019-12-13T12:00:10.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Live Show Hương Lan - Một Đời Sân Khấu (Full Program)",
+       "description": "Live Show Hương Lan - Một Đời Sân Khấu (Full Program) Kỷ Niệm 57 Năm Ca Hát 1. Phận Mở Đầu 0:00 2. Vĩnh Khúc Hoài Lang (Hoàng Song Việt) Hương ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/AcAfxdCbb2M/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/AcAfxdCbb2M/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/AcAfxdCbb2M/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/dH1Eo-2frBVCpNBg8lImgkKFNX8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "e9GcJCrwxVo"
+      },
+      "snippet": {
+       "publishedAt": "2019-02-01T14:00:05.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Xuân Collection | Trần Thái Hòa &amp; Những Ca Khúc Mừng Xuân",
+       "description": "Trần Thái Hòa & Những Ca Khúc Mừng Xuân 1. Thư Xuân Hải Ngoại (Trầm Tử Thiêng) PBN113 0:07 2. Tháng Giêng Và Anh (Ngô Thụy Miên, thơ: Nguyên Sa) ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/e9GcJCrwxVo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/e9GcJCrwxVo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/e9GcJCrwxVo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/NJ63k8QoeTBF0IWa55ppJh8U0fQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "lV9OTe4sbhM"
+      },
+      "snippet": {
+       "publishedAt": "2019-12-18T12:00:16.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Collection Nhạc Giáng Sinh (Vol. 3) - Nhạc Giáng Sinh Hải Ngoại",
+       "description": "Collection Nhạc Giáng Sinh (Vol 2) - Nhạc Giáng Sinh Xưa 1. Cao Cung Lên (Lm Hoài Đức) Đình Bảo & Ca Đoàn St. Barbara 0:00 2. Xin Chúa Xuống - Bằng ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/lV9OTe4sbhM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/lV9OTe4sbhM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/lV9OTe4sbhM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/fxRK8KolW1Wa5366oRUCUzVtQIM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "NgjxDLfwO1A"
+      },
+      "snippet": {
+       "publishedAt": "2017-04-30T14:03:37.000Z",
+       "channelId": "UCobcY14KXb9k0thfaQnCnJQ",
+       "title": "Nhạc lính hay nhất  mọi thời đại - Nhạc hải ngoại - Nhạc vàng hay trọn lọc 2017",
+       "description": "Nhạc lính hay nhất mọi thời đại - Nhạc hải ngoại - Nhạc vàng hay trọn lọc 2017: https://youtu.be/3_omtEQYhUQ ▻ Cảm ơn quý khán thính giả đã quan tâm...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/NgjxDLfwO1A/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/NgjxDLfwO1A/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/NgjxDLfwO1A/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Mary R. Strickland",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zRHwuIpBtGovlLSWuWOQmtwe_cc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "mZ_fxxJ9JFg"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-10T12:00:11.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "PBN Collection | Thái Hiền &amp; Thái Thảo - Những Tình Khúc Bẩt Hủ",
+       "description": "Thái Hiền & Thái Thảo - Những Tình Khúc Bẩt Hủ 1. Nghìn Trùng Xa Cách (Phạm Duy) Thái Hiền PBN19 0:00 2. Tuổi Ngọc (Phạm Duy) Thái Thảo PBN19 4:58 ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/mZ_fxxJ9JFg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/mZ_fxxJ9JFg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/mZ_fxxJ9JFg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zNh_qgc8gYKMqFOQJwoXg1cGtXQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "0x-oCYAXKDE"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-29T12:00:00.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Tuấn Ngọc - Những Tình Khúc Bất Hủ Vượt Thời Gian",
+       "description": "Tuấn Ngọc - Những Tình Khúc Bất Hủ Vượt Thời Gian 1. Riêng Một Góc Trời (Ngô Thụy Miên) PBN38 0:00 2. Tiễn Em (Phạm Duy, thơ: Cung Trầm Tưởng) ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/0x-oCYAXKDE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/0x-oCYAXKDE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/0x-oCYAXKDE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/sJ2d-0qGBZBBbO-yt5Rv_Nhym3Y\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "8zo2S46CFrc"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-20T01:00:01.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Paris By Night 64 - Tình Khúc Vũ Thành An",
+       "description": "Paris By Night 64 - Tình Khúc Vũ Thành An 1. Giới Thiệu Nhạc Sĩ Vũ Thành An 0:00 2. Liên Khúc Bài Không Tên Số 2, 3 & Cuối Cùng – Don Hồ & Thanh Hà ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/8zo2S46CFrc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/8zo2S46CFrc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/8zo2S46CFrc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/AViV_ndOkzGuBdBLEmloxFg8TSk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "TF0wXxLB5Do"
+      },
+      "snippet": {
+       "publishedAt": "2019-12-14T12:00:10.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Collection Nhạc Giáng Sinh (Vol. 2) - Thánh Ca Dâng Mẹ MARIA",
+       "description": "Collection Nhạc Giáng Sinh (Vol 2) - Thánh Ca Dâng Mẹ MARIA 1. Dâng Mẹ (Lm Hoài Đức) Hà Trần 0:00 2. Lời Mẹ Nhắn Nhủ (Lê Huy) Don Hồ 4:55 3. Đền Tạ ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/TF0wXxLB5Do/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/TF0wXxLB5Do/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/TF0wXxLB5Do/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/tEGVnCT2X7oRR3T9HX5olHa094k\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "kzC5gSjxIhs"
+      },
+      "snippet": {
+       "publishedAt": "2018-01-15T14:01:54.000Z",
+       "channelId": "UC5XIV90zbOCCLlLG0gOh2Xw",
+       "title": "NHẠC TÌNH MUÔN THUỞ - TIẾNG HÁT VŨ KHANH | CHỌN LỌC CA KHÚC LÀM NÊN TÊN TUỔI VŨ KHANH",
+       "description": "NHẠC TÌNH MUÔN THUỞ - TIẾNG HÁT VŨ KHANH | CHỌN LỌC CA KHÚC LÀM NÊN TÊN TUỔI VŨ KHANH. Tên thậT: Vũ Công Khanh Ngày sinh: 01/04/1958 ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/kzC5gSjxIhs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/kzC5gSjxIhs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/kzC5gSjxIhs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Hải Ngoại Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/vmfS7fD-HGIfcWeA-hCNjYM1ljk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "szU-oiyqVBI"
+      },
+      "snippet": {
+       "publishedAt": "2019-12-20T12:00:12.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Collection Nhạc Giáng Sinh (Vol. 4) - Mừng Chúa Ra Đời",
+       "description": "Collection Nhạc Giáng Sinh (Vol 4) - Mừng Chúa Ra Đời 1. Mừng Chúa Ra Đời (Nguyễn Duy) Hoàng Oanh 0:00 2. Chuyện Một Đêm Đông (Lm Duy Thiên) Như ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/szU-oiyqVBI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/szU-oiyqVBI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/szU-oiyqVBI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ew25EvlXTPDeLeXshk6L8ni31ag\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "mdHdwl6_Keo"
+      },
+      "snippet": {
+       "publishedAt": "2017-10-24T02:00:00.000Z",
+       "channelId": "UC9lRqh00gJ3RZ64_M-310RQ",
+       "title": "Album CHIẾC LÁ MÙA ĐÔNG 1",
+       "description": "Album CHIẾC LÁ MÙA ĐÔNG 1 01. BUỒN 02. CHIẾC LÁ MÙA ĐÔNG 03. GIẤC MƠ TÌNH YÊU 04. I SWEAR 05. MÃI MÃI BÊN EM 06. TRIỆU ĐÓ HOA HỒNG ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/mdHdwl6_Keo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/mdHdwl6_Keo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/mdHdwl6_Keo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "HOÀNG ĐỉNH PRODUCTION",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jO-wKo1XnXkCh7dzEJId7CMjzNM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "pmaArA4fYhM"
+      },
+      "snippet": {
+       "publishedAt": "2017-11-09T08:49:00.000Z",
+       "channelId": "UC5XIV90zbOCCLlLG0gOh2Xw",
+       "title": "Tú Quyên - Johmy Dũng Nhạc Hải Ngoại Sôi Động Say Đắm Một Thời Nghe Là Thích Mê",
+       "description": "Bạn đang nghe: Tú Quyên - Johmy Dũng - Album Tóc Em Đuôi Gà - Nhạc Hải Ngoại Sôi Động Say Đắm Một Thời Nghe Là Mê Cô tên thật là Trần Kim Quyên, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/pmaArA4fYhM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/pmaArA4fYhM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/pmaArA4fYhM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Hải Ngoại Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/9VCvJAix_ClL-iqCyUmDeR2vttQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ssRql_-1m-Q"
+      },
+      "snippet": {
+       "publishedAt": "2019-09-09T23:00:10.000Z",
+       "channelId": "UCeVp2gV99a-655fTSIypyHw",
+       "title": "Liên Khúc Hát Cho Người Tình | Liên Khúc Nhạc Vàng Bolero Trữ Tình Hải Ngoại Siêu Hay Cực Đậm Đà",
+       "description": "Liên Khúc Hát Cho Người Tình | Liên Khúc Nhạc Vàng Bolero Trữ Tình Hải Ngoại Siêu Hay Cực Đậm Đà ➤ HÃY ĐĂNG KÝ (SUBSCRIBE) ĐỂ CẬP NHẬT ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ssRql_-1m-Q/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ssRql_-1m-Q/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ssRql_-1m-Q/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Liên Khúc Top Hits",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/yoAJJgt-x0TAHf1gIDFHjyU0XH0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "kzyau38vLaY"
+      },
+      "snippet": {
+       "publishedAt": "2019-12-13T06:52:48.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Lam Anh &amp; Đình Bảo - Special Christmas Livestream | December 11, 2019",
+       "description": "Multistreaming with https://restream.io/ Lam Anh & Đình Bảo - Special Christmas Livestream | December 11, 2019.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/kzyau38vLaY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/kzyau38vLaY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/kzyau38vLaY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/QrGstZngHGcy6Zy2JND5f-EC-NY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "rJll5XsKnmI"
+      },
+      "snippet": {
+       "publishedAt": "2017-09-20T16:25:46.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Hài Hoài Linh &quot;Mộng Ca Sĩ&quot; | PBN 87 | Hoài Linh, Chí Tài, Hữu Lộc, Calvin Hiệp",
+       "description": "Hài Hoài Linh - \"Mộng Ca Sĩ\" - Hoài Linh, Chí Tài, Hữu Lộc, Calvin Hiệp PARIS BY NIGHT 87 - Talent Show Finals ©2007. Thuy Nga Productions. All Rights ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/rJll5XsKnmI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/rJll5XsKnmI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/rJll5XsKnmI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/8VSgjoIZf4OLSOWuCTjClixoCXc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "QJ29wUFuqoc"
+      },
+      "snippet": {
+       "publishedAt": "2018-01-11T06:26:50.000Z",
+       "channelId": "UCjBDSCE4U7M_bwGC48fAdpQ",
+       "title": "Nhạc Xưa Tuyển Chọn - Ciao! Bella 14: Tiếng Hát Xuân Sơn 1",
+       "description": "Ciao! Bella 14 Tiếng Hát Xuân Sơn 1 Áng Mây Chiều (Dương Thiệu Tước) Trăng Sáng Vườn Chè (Nguyễn Bính & Văn Phụng) Cô Hàng Nước (Vũ Minh) Tình ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/QJ29wUFuqoc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/QJ29wUFuqoc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/QJ29wUFuqoc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Xưa",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/vwTZCxKtqIjiqArZpezl133xYPk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "gNk4Lz-cqyU"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-18T02:27:09.000Z",
+       "channelId": "UCeVp2gV99a-655fTSIypyHw",
+       "title": "Mưa Đêm Tỉnh Nhỏ LK Bolero Top Hits | Như Quỳnh, Phi Nhung, Trường Vũ, Mạnh Đình, Chế Linh Cực Hay",
+       "description": "Mưa Đêm Tỉnh Nhỏ LK Bolero Top Hits | Như Quỳnh, Phi Nhung, Trường Vũ, Mạnh Đình, Chế Linh Cực Hay Liên khúc Bolero Top Hits tuyển chọn các bản ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/gNk4Lz-cqyU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/gNk4Lz-cqyU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/gNk4Lz-cqyU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Liên Khúc Top Hits",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/9xwvRSPzt8MfN5Pbsp4ud1KQmWY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "9MbP2KQbPB8"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-16T03:57:36.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Livestream với Ngọc Hạ &amp; Trần Thái Hòa - August 15, 2018",
+       "description": "Livestream với Ngọc Hạ & Trần Thái Hòa - August 15, 2018.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/9MbP2KQbPB8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/9MbP2KQbPB8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/9MbP2KQbPB8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/QlqU1qIPZ9XMf06nu_N8M6DNogk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "aaCLmFs3nZc"
+      },
+      "snippet": {
+       "publishedAt": "2019-01-05T05:04:16.000Z",
+       "channelId": "UCi7f7v11WGUoH3LRQTa_TwQ",
+       "title": "Lý Do Đuổi Nguyễn Cao Kỳ Duyên Về Nước, Quyết Định Tảy Chay Khỏi Hải Ngoại ?",
+       "description": "Nguyễn Cao Kỳ Duyên (sinh ngày 30 tháng 6 năm 1965) là một người Mỹ gốc Việt, người dẫn chương trình của Paris by Night cùng với Nguyễn Ngọc Ngạn, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/aaCLmFs3nZc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/aaCLmFs3nZc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/aaCLmFs3nZc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Khai Nguyên TV",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/45jqrvcvpe4GNguw-NOnoRrTr1I\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "dea_beuLJmA"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-29T03:35:11.000Z",
+       "channelId": "UC-PONVSaAA9S5D214xdVyFA",
+       "title": "Nhạc sĩ Lam Phương . Những tình khúc tuyệt vời p2",
+       "description": "Nhạc sĩ Lam Phương . Những tình khúc tuyệt vời p2 01 Tình đẹp như mơ 02 Chiều thu ấy 03 Đánh mất đêm vui 04 Chờ 05 Chung mộng 06 Xin thời gian qua ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/dea_beuLJmA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/dea_beuLJmA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/dea_beuLJmA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Tình Ca Việt Xưa",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/CinG1Ltuyc0jMkzy3DLaPHLHovM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "1p1LScjL4Rc"
+      },
+      "snippet": {
+       "publishedAt": "2018-04-14T08:00:00.000Z",
+       "channelId": "UC0Ujw9oEpuiB_c5roTEEsWg",
+       "title": "Nhạc Hay CUỐI TUẦN - Lk Bolero Buồn Tê Tái | Nhạc Vàng Bolero Hay Nhất 2018",
+       "description": "Nhạc Hay CUỐI TUẦN - Lk Bolero Buồn Tê Tái | Nhạc Vàng Bolero Hay Nhất 2018 ▻ Theo dõi kênh Nhạc Vàng Trữ Tình: https://goo.gl/YN48d3 Kênh Nhạc ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/1p1LScjL4Rc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/1p1LScjL4Rc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/1p1LScjL4Rc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Vàng Trữ Tình",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Z61oP5VMIDTBD27fOPVSzD-RKc0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "2iffLLiSc9Y"
+      },
+      "snippet": {
+       "publishedAt": "2014-05-13T15:40:14.000Z",
+       "channelId": "UCAOZqBBJJL1IdCkgxITKeAQ",
+       "title": "Những Ca Khúc Hay Nhất Của Bằng Kiều   Tình Khúc VŨ THÀNH AN",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/2iffLLiSc9Y/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/2iffLLiSc9Y/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/2iffLLiSc9Y/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Robert P. Anthony",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/LAqA1pDNFHnx8aIAxjBsJXqzjFw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "yoCGWHc6izU"
+      },
+      "snippet": {
+       "publishedAt": "2017-10-16T04:15:15.000Z",
+       "channelId": "UCGIBGer2vKaYa0WouTwidWQ",
+       "title": "Mai Thiên Vân - Những Ca Khúc Nhạc Vàng Hải Ngoại Bất Hủ Hay Nhất Của Mai Thiên Vân",
+       "description": "Mai Thiên Vân - Những Ca Khúc Nhạc Vàng Hải Ngoại Bất Hủ Hay Nhất Của Mai Thiên Vân ✪ Ca sĩ: Mai Thiên Vân ✪ All the song in this video is content music ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/yoCGWHc6izU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/yoCGWHc6izU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/yoCGWHc6izU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thế Giới Giải Trí",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/0kENA0tUP31d6MAiy10_1yE-Kzc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "vgA9cCi1-UA"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-29T00:50:40.000Z",
+       "channelId": "UC7kyMbNbsQhPgEFrO1iPLwA",
+       "title": "Nhạc sĩ Từ Công Phụng ,  những ca khúc trữ tình .",
+       "description": "Theo Bách khoa toàn thư mở Wikipedia . Nhạc sĩ Từ Công Phụng , Từ Công Phụng (sinh ngày 27 tháng 7 năm 1942)[1] nhạc sĩ Việt Nam (gốc Cham-Islam) nổi ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/vgA9cCi1-UA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/vgA9cCi1-UA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/vgA9cCi1-UA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "DÂN VIỆT VUI VẺ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/K_j6tIsMAHv00Rc4qrUpXkrqflI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "56VTbGYbw08"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-29T00:41:39.000Z",
+       "channelId": "UC-PONVSaAA9S5D214xdVyFA",
+       "title": "Nhạc sĩ Từ Công Phụng ,  những ca khúc trữ tình .",
+       "description": "Theo Bách khoa toàn thư mở Wikipedia . Nhạc sĩ Từ Công Phụng , Từ Công Phụng (sinh ngày 27 tháng 7 năm 1942) nhạc sĩ Việt Nam (gốc Cham-Islam) nổi ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/56VTbGYbw08/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/56VTbGYbw08/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/56VTbGYbw08/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Tình Ca Việt Xưa",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/HB_3HZN9IoNwZSlvAda60qrR1Uo\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "PvjwMejpJGo"
+      },
+      "snippet": {
+       "publishedAt": "2019-12-15T02:05:39.000Z",
+       "channelId": "UCq9Uvnz2RFAf58PwnKF5yhQ",
+       "title": "Xuân _ SBTN (CD1) - EM LÀ MÙA XUÂN ĐẸP NHẤT",
+       "description": "Kênh NHẠC XƯA BẤT HỦ với mong muốn góp nhặt các Album ca nhạc Hải ngoại đã từng vang bóng một thời với những tình khúc bất hủ trong thập niên 80s...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/PvjwMejpJGo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/PvjwMejpJGo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/PvjwMejpJGo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "NHẠC XƯA BẤT HỦ",
+       "liveBroadcastContent": "none"
+      }
+     }
+    ]
+   }
+   
+   

@@ -1,0 +1,1664 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/YIg2HbdhmJEPVMZvE0YKAxTK0aM\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+     "totalResults": 583189,
+     "resultsPerPage": 50
+    },
+    "items": [
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/PjRVTE6v8NxKiW0-TdyGSoPmJZE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "16A5XNq2SQ4"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-20T23:00:00.000Z",
+       "channelId": "UC5pBcWUk40oBscjf3TN5DwQ",
+       "title": "VŨ THÀNH AN | Những Tình Khúc Không Tên Bất Hủ Và Những Tác Phẩm Đề Đời Hay Nhất Sự Nghiệp",
+       "description": "Diễm Xưa Productions (Trung tâm Diễm Xưa của nữ ca sĩ Thái Xuân) sẽ là kênh chính thức của các bản nhạc tình ca sang trọng, tình khúc vượt thời gian,...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/16A5XNq2SQ4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/16A5XNq2SQ4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/16A5XNq2SQ4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Diễm Xưa Productions",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/BUSe7LCYYkzmPGS8o0RtYTUsb7I\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "uom6i0Pwd-4"
+      },
+      "snippet": {
+       "publishedAt": "2019-03-26T00:30:00.000Z",
+       "channelId": "UC6-5nYNnXM8ewSBsndggEYA",
+       "title": "VŨ THÀNH AN - Tình Ca Để Đời || Những Bài Không Tên Hay Nhất Tình Khúc Sang Trọng",
+       "description": "Quê hương việt nam xin trân trọng giới thiệu video: VŨ THÀNH AN - Tình Ca Để Đời || Những Bài Không Tên Hay Nhất Tình Khúc Sang Trọng #vuthanhan, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/uom6i0Pwd-4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/uom6i0Pwd-4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/uom6i0Pwd-4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Quê Hương Việt Nam",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/sJ2d-0qGBZBBbO-yt5Rv_Nhym3Y\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "8zo2S46CFrc"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-20T01:00:01.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Paris By Night 64 - Tình Khúc Vũ Thành An",
+       "description": "Paris By Night 64 - Tình Khúc Vũ Thành An 1. Giới Thiệu Nhạc Sĩ Vũ Thành An 0:00 2. Liên Khúc Bài Không Tên Số 2, 3 & Cuối Cùng – Don Hồ & Thanh Hà ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/8zo2S46CFrc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/8zo2S46CFrc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/8zo2S46CFrc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/aWDVOEgHyMSXOtCqjIUwuir8E2I\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "EejNXb4vhx0"
+      },
+      "snippet": {
+       "publishedAt": "2019-03-09T16:26:28.000Z",
+       "channelId": "UCXMJf4ng0H2PmYmI4rtx8fQ",
+       "title": "Muôn màu cuộc sống: Nhạc sĩ Vũ Thành An và những bài ca không tên | Vietnam Journey",
+       "description": "Những người đã trải qua tuổi thanh xuân trong những năm 60-70 của thế kỷ trước không ai không biết một vài câu hát trong những tình khúc \"không tên\"....",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/EejNXb4vhx0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/EejNXb4vhx0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/EejNXb4vhx0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vietnam Journey",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_QsYm89zSPZ16_96BBYmuxDy-ug\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "JAA3bXJOi1E"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-13T12:10:13.000Z",
+       "channelId": "UC6-5nYNnXM8ewSBsndggEYA",
+       "title": "NGÔ THỤY MIÊN VŨ THÀNH AN - Những Tình Khúc Trữ Tình Sang Trọng Hay Nhất",
+       "description": "Quê Hương Việt Nam xin trân trọng giới thiệu video: NGÔ THỤY MIÊN VŨ THÀNH AN - Những Tình Khúc Trữ Tình Sang Trọng Hay Nhất ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/JAA3bXJOi1E/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/JAA3bXJOi1E/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/JAA3bXJOi1E/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Quê Hương Việt Nam",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nCe1yd9TIaayTfS6nAlA-JfYMag\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "OEDc72RMASc"
+      },
+      "snippet": {
+       "publishedAt": "2017-10-03T07:57:50.000Z",
+       "channelId": "UC1xnVKb6q5sH72_qP3Y1U6w",
+       "title": "1 VŨ THÀNH AN   TUYỆT PHẨM NHỮNG BÀI KHÔNG TÊN HAY NHẤT",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/OEDc72RMASc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/OEDc72RMASc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/OEDc72RMASc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Xich Ly Tran",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/b3ODzd_XkoKOc-sOw8BczWrtmMw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "fnvjSRRPetU"
+      },
+      "snippet": {
+       "publishedAt": "2017-08-26T09:00:19.000Z",
+       "channelId": "UCXtlO45B4cMut1_HWF_Zfaw",
+       "title": "ĐÊM NHẠC SĨ VŨ THÀNH AN",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/fnvjSRRPetU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/fnvjSRRPetU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/fnvjSRRPetU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Film Pro",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/5zUdaxZZiEaXWwAPuTM3dohkQTo\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "J6KI4jEtW-I"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-10T10:00:03.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "PBN Collection | Nhạc Sĩ Vũ Thành An &amp; &quot;Bài Không Tên...&quot; (Vol 1)",
+       "description": "PBN Collection | Nhạc Sĩ Vũ Thành An & \"Bài Không Tên...\" (Vol 1) 1. Bài Không Tên Số 1 - Vũ Khanh PBN Divos 0:00 2. Bài Không Tên Số 2, 3, Cuối Cùng ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/J6KI4jEtW-I/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/J6KI4jEtW-I/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/J6KI4jEtW-I/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/9LCfp_j3z5-YXMocTIIr79oyj7A\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "u2Eb1Ns2bys"
+      },
+      "snippet": {
+       "publishedAt": "2014-12-04T18:23:25.000Z",
+       "channelId": "UCNOhzDZ9OkMmctiRFG-pCIw",
+       "title": "10 Tình Khúc  Không Tên Của Nhạc Sĩ Vũ Thành An",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/u2Eb1Ns2bys/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/u2Eb1Ns2bys/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/u2Eb1Ns2bys/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Dương Tuấn Sơn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/AWV-Kc0ukLjNQ6XbDKFedaBiwo4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "14zMBqkXCrs"
+      },
+      "snippet": {
+       "publishedAt": "2015-04-15T01:45:09.000Z",
+       "channelId": "UCrq3T_Yw3k40QoqzcvXfTKg",
+       "title": "Nhạc sĩ Vũ Thành An",
+       "description": "Thu Hương thực hiện.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/14zMBqkXCrs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/14zMBqkXCrs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/14zMBqkXCrs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Từ Thức",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/fwA_BNTBzGJt0DaElnye1HFGv0s\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "RgyjARbbuvc"
+      },
+      "snippet": {
+       "publishedAt": "2020-05-02T13:23:25.000Z",
+       "channelId": "UCWZYuYbOmQKvHTuU23Ze76w",
+       "title": "Bài hát Không Tên 1-8 siêu hay - Vũ Thành An",
+       "description": "Phần 1 các bài hát Không Tên của nhạc sĩ tài hoa Vũ Thành An.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/RgyjARbbuvc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/RgyjARbbuvc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/RgyjARbbuvc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Music for Our Moms",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/D1_dUbwxWdtbfqEM9q6SCoFWOvc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "aALkceNr0s0"
+      },
+      "snippet": {
+       "publishedAt": "2017-10-01T10:04:38.000Z",
+       "channelId": "UCNOA0cOXrsxhoibEeJZngAA",
+       "title": "[Vinyles] 15 bài hát hay nhất của nhạc sĩ Vũ Thành An",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/aALkceNr0s0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/aALkceNr0s0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/aALkceNr0s0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vinyles de Saigon",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/mQ4st93imrCmFDA3EUrAq0VOaPg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ofS189d7QVE"
+      },
+      "snippet": {
+       "publishedAt": "2017-12-23T11:24:07.000Z",
+       "channelId": "UCqy_58mirvkUkrxCcgtQ4jQ",
+       "title": "Nhạc sĩ Vũ Thành An ,Tình khúc không tên",
+       "description": "Nhạc sĩ Vũ Thành An ,Tình khúc không tên Vũ Thành An (1943–) là một trong những nhạc sĩ nổi bật của miền Nam Việt Nam thời kỳ 1954 - 1975. Các \"Bài...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ofS189d7QVE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ofS189d7QVE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ofS189d7QVE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Hai Thế Kỷ Tình Ca Việt Nam",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/sjhkXsyC6pugPEHt_Pde-az-6hs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "EOq14wBiREk"
+      },
+      "snippet": {
+       "publishedAt": "2017-12-23T15:07:06.000Z",
+       "channelId": "UC7kyMbNbsQhPgEFrO1iPLwA",
+       "title": "Nhạc sĩ Vũ Thành An ,Tình khúc không tên",
+       "description": "Nhạc sĩ Vũ Thành An ,Tình khúc không tên Vũ Thành An (1943–) là một trong những nhạc sĩ nổi bật của miền Nam Việt Nam thời kỳ 1954 - 1975. Các \"Bài...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/EOq14wBiREk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/EOq14wBiREk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/EOq14wBiREk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "DÂN VIỆT VUI VẺ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/IyxZW9XqC5O8f7XSTjplsV86zPw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "MfeJvJcJNjg"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-11T06:33:17.000Z",
+       "channelId": "UCePq8aieOY-HKfQYxBK2I3Q",
+       "title": "TUYỂN TẬP NHỮNG BÀI KHÔNG TÊN NỔI TIẾNG CỦA NHẠC SỸ VŨ THANH AN",
+       "description": "TUYỂN TẬP NHỮNG BÀI KHÔNG TÊN NỔI TIẾNG CỦA NHẠC SỸ VŨ THANH AN.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/MfeJvJcJNjg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/MfeJvJcJNjg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/MfeJvJcJNjg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Entertainment Channels",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/m8Xdb82_mrZzYw8lic1LDcka1m8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "4wSMBJiZF_Q"
+      },
+      "snippet": {
+       "publishedAt": "2017-08-03T22:54:42.000Z",
+       "channelId": "UC6PAIyU2aDpemX5cb7gnWsg",
+       "title": "Nhạc sĩ Vũ Thành An và những câu chuyện bây giờ mới kể",
+       "description": "Nhạc sĩ Vũ Thành An - tác giả của những bài hát “Không tên” nổi tiếng trước 1975 lần đầu tiên sẽ tiết lộ những “Chuyện tình không tên” với...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/4wSMBJiZF_Q/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/4wSMBJiZF_Q/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/4wSMBJiZF_Q/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "TIỂU VŨ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/5Fl7fczB56uvz0bRMe6g3hr6_xU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "561DqDBQPdk"
+      },
+      "snippet": {
+       "publishedAt": "2016-07-05T21:11:31.000Z",
+       "channelId": "UCBbyA-OcraohuEwHO1pzWHA",
+       "title": "Trò Chuyện Với Nhạc Sĩ Vũ Thành An",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/561DqDBQPdk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/561DqDBQPdk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/561DqDBQPdk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "THOIBAO MEDIA",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/eTdhP--kRCvEDkBVanTpxPTHsM8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "SbeeBz2O5nA"
+      },
+      "snippet": {
+       "publishedAt": "2014-06-16T12:14:08.000Z",
+       "channelId": "UCDSg0dsS1GCJZF8J6ZkxZGQ",
+       "title": "Nhạc sĩ Vũ Thành An và Mười Bài Không Tên",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/SbeeBz2O5nA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/SbeeBz2O5nA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/SbeeBz2O5nA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "xuân hiểu trần",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/pxFTpj4UeK4f8Ij1SfehfFMzxIw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "AInBTQ2BVWs"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-16T11:20:39.000Z",
+       "channelId": "UCyFlCIb3v0LWwLrRuwIIB1g",
+       "title": "Tình Khúc Thứ Nhất (Tình Khúc Vũ Thành An) Ca sĩ : Vũ Khanh",
+       "description": "Tình Khúc Thứ Nhất (Tình Khúc Vũ Thành An) 1. Tình khúc thứ nhất - Vũ Khanh 2. Bài không tên số 2 - Vũ Khanh 3. Bài không tên số 3 - Vũ Khanh 4. Bài không ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/AInBTQ2BVWs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/AInBTQ2BVWs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/AInBTQ2BVWs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lasan Mossard Thủ Đức Đệ Tử Viện",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/YXcj8qqEZH0biqygiEOvd8h0XC4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "F_XDfnaf-F4"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-21T19:06:29.000Z",
+       "channelId": "UC0b1YvzPDDgiQZo5qg929ig",
+       "title": "NKCT 2017   Tập 02 Full   Nhạc sĩ Vũ Thành An   Những chuyện tình không tên",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/F_XDfnaf-F4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/F_XDfnaf-F4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/F_XDfnaf-F4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Anh Vũ Tạ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/S4DhWNpmQ1tPtg_Cy-BcGuDNrfE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ypoKxHQWirw"
+      },
+      "snippet": {
+       "publishedAt": "2017-07-21T19:00:51.000Z",
+       "channelId": "UC4oEmLPFvyzuxyE3zxsfqAw",
+       "title": "10 Tình Khúc Không Tên Của Nhạc Sĩ Vũ Thành An",
+       "description": "Click vào Video này để nghe CHẤT LƯỢNG CAO hơn: Link MỚI, không lag không rè không gián đoạn: . Website: Facebook: Để xem trọn các chương trình của ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ypoKxHQWirw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ypoKxHQWirw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ypoKxHQWirw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "KillaPats27",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/vpxixgwwNQxYoPMKpejWESEvDPI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "_atzi0LQWaU"
+      },
+      "snippet": {
+       "publishedAt": "2017-08-13T16:26:51.000Z",
+       "channelId": "UCwIFt6OHHGb2I6ck5AkLbwQ",
+       "title": "[8VBIZ] - Nhạc sĩ Vũ Thành An làm liveshow cuối cùng ở VN có Tuấn Ngọc, Bằng Kiều... góp mặt",
+       "description": "Đăng kí kênh MIỄN PHÍ để nhận thông báo khi có video mới bạn nhé: http://popsww.com/BimatVbiz Bí Mật Vbiz - Kênh Youtube tổng hợp, cập nhật những tin ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/_atzi0LQWaU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/_atzi0LQWaU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/_atzi0LQWaU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Bí Mật Vbiz",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/l7e7KzNxsQvj2Zlj6wLGUEpqzEc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "hzgcK_kbx6U"
+      },
+      "snippet": {
+       "publishedAt": "2019-11-26T01:03:07.000Z",
+       "channelId": "UCyTFi3jRi7r3NHJHgc9n3CA",
+       "title": "Nhạc Sĩ Vũ Thành An ~ Những Ca Khúc Tuyển Chọn { By Angelina La }",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/hzgcK_kbx6U/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/hzgcK_kbx6U/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/hzgcK_kbx6U/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Xưa By Angelina La",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_oraFGKAhHSHla6KnPvlBHx-Sw4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "bT9ZE6QCxHc"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-02T02:25:48.000Z",
+       "channelId": "UC6oSX9I4bzySbcwWjxfi2LA",
+       "title": "The Jimmy Show | Nhạc sĩ Vũ Thành An | SET TV www.setchannel.tv",
+       "description": "The Jimmy Show | Nhạc sĩ Vũ Thành An | SET TV www.setchannel.tv SAIGON ENTERTAINMENT TELEVISION (SET CHANNEL) PO Box 127. Garden Grove CA ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/bT9ZE6QCxHc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/bT9ZE6QCxHc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/bT9ZE6QCxHc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Saigon Entertainment Television",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/JP-60Wfl0UbhnNH3CtPK-7ZdVq8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "D3RuGz2DX3k"
+      },
+      "snippet": {
+       "publishedAt": "2018-01-17T07:02:38.000Z",
+       "channelId": "UC7kyMbNbsQhPgEFrO1iPLwA",
+       "title": "Nhạc sĩ Vũ Thành An , Đời đá vàng",
+       "description": "Vũ Thành An (1943–) là một trong những nhạc sĩ nổi bật của miền Nam Việt Nam thời kỳ 1954 - 1975. Các \"Bài không tên\" là những tác phẩm nổi tiếng của...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/D3RuGz2DX3k/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/D3RuGz2DX3k/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/D3RuGz2DX3k/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "DÂN VIỆT VUI VẺ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/vJyy9Gko2WL3TkCpiS3H739mHuE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "bnFN-CceBy8"
+      },
+      "snippet": {
+       "publishedAt": "2018-05-31T07:34:33.000Z",
+       "channelId": "UCBkFPjWXUtQrlwbbRvqUV2Q",
+       "title": "24 Tình Khúc Chọn Lọc Của Nhạc Sĩ Vũ Thành",
+       "description": "24 Tình Khúc Chọn Lọc Của Nhạc Sĩ Vũ Thành do các giọng ca vàng của nên tân nhạc Việt Nam trình bày, với Thái Thanh, Mộc Lan, Kim Tước, Mai Hương, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/bnFN-CceBy8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/bnFN-CceBy8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/bnFN-CceBy8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "vanchus",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zoO63-lAxvQVNonUyFj6zq2N0fE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "yHlvfn70bbs"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-10T12:00:09.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "PBN Collection | Nhạc Sĩ Vũ Thành An &amp; &quot;Bài Không Tên...&quot; (Vol 2)",
+       "description": "PBN Collection | Nhạc Sĩ Vũ Thành An & \"Bài Không Tên...\" (Vol 2) 1. Bài Không Tên Số 7 - Ý Lan PBN123 0:00 2. Bài Không Tên Số 8 - Quang Dũng PBN126 ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/yHlvfn70bbs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/yHlvfn70bbs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/yHlvfn70bbs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/xk3P-tXLXo2OkQSF6LlOyE-gk3A\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "-BMH7X6xfOs"
+      },
+      "snippet": {
+       "publishedAt": "2015-05-26T05:37:55.000Z",
+       "channelId": "UCYTfNpCMOCc4nACRB9iXtTA",
+       "title": "Thầy Phó Tế-Nhạc Sĩ Vũ Thành An : Văn Nghệ Kermesse GXVN Paris 2015/05",
+       "description": "Thầy Phó Tế-Nhạc Sĩ Vũ Thành An đến với Văn Nghệ Kermesse GXVN Paris qua 2 nhạc phẩm : 1. Đời Đá Vàng 2. (Xin một lần) Cho con được thấy mẹ cười...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/-BMH7X6xfOs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/-BMH7X6xfOs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/-BMH7X6xfOs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "GIAOXUVN PARIS",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/k8oliXnwJjr66YOx0nk7vMMUaNc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "bO2EwYpG9f0"
+      },
+      "snippet": {
+       "publishedAt": "2019-11-23T13:37:15.000Z",
+       "channelId": "UCyTFi3jRi7r3NHJHgc9n3CA",
+       "title": "Ca Sĩ Vũ Khanh { Nhạc Vũ Thành An } ~ Những Ca Khúc Tuyển Chọn { By Khuong La }",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/bO2EwYpG9f0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/bO2EwYpG9f0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/bO2EwYpG9f0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Xưa By Angelina La",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/GgCBH-pA890dKrZIaCDoxWhWNKk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "AnGGNdL33AM"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-15T22:00:39.000Z",
+       "channelId": "UC0_smrB85CR7mz9t9_CrVwg",
+       "title": "Vũ Thành An Tình Ca Để Đời Ca Sĩ Bằng Kiều Lệ Quyên Tuấn Ngọc ❤️ Những Bài Hát Không Tên Hay Nhất",
+       "description": "Vũ Thành An Tình Ca Để Đời Ca Sĩ Bằng Kiều Lệ Quyên Tuấn Ngọc Những Bài Hát Không Tên Hay Nhất ❤️ Lk Nhạc Trữ Tình Bolero Không Quảng Cáo...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/AnGGNdL33AM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/AnGGNdL33AM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/AnGGNdL33AM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Kome Cafe Rang Xay Nguyên Chất",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/gBNDOnPKj6cRB-P4BzzsXrTSpYs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "5lAtleSfDm0"
+      },
+      "snippet": {
+       "publishedAt": "2016-11-06T02:11:00.000Z",
+       "channelId": "UCA1VXwuUmid0iCp3MuDrS-Q",
+       "title": "Tran Thien Thanh Những Tình Khúc Bất Hủ Của Nhạc Sĩ Trần Thiện Thanh Nhạc Hải Ngoại",
+       "description": "Là trang web tổng hợp nhiều ca khúc của nhiều nhạc sĩ được thể hiện bơi các ca sĩ nổi tiếng trong và ngoài nước. Những Tình. : Là trang web tổng...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/5lAtleSfDm0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/5lAtleSfDm0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/5lAtleSfDm0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Carlos Sutton",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nkGeGqx8JsxmD3hEQ1A0AkYbOQ8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "1EOk-WnTDNY"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-01T09:11:46.000Z",
+       "channelId": "UCyGUknm4gF8-8REgVzNVwlA",
+       "title": "Những Sáng Tác Hay Nhất Của Nhạc Sĩ VŨ THANH - Hoàng Thục Linh, Phương Anh, Đức Tân, Quốc Khanh",
+       "description": "Những Sáng Tác Hay Nhất Của Nhạc Sĩ VŨ THANH - Hoàng Thục Linh, Phương Anh, Đức Tân, Quốc Khanh ▻ Đăng Ký Kênh https://goo.gl/jqQA72 ♪ Motif ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/1EOk-WnTDNY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/1EOk-WnTDNY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/1EOk-WnTDNY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Motif Music Group",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ytiA8tAZPvT-Ra-rky_hXQvOK0E\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "UD37AZ5gZVU"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-18T04:20:38.000Z",
+       "channelId": "UC7kyMbNbsQhPgEFrO1iPLwA",
+       "title": "Nhạc sĩ Phạm Đình Chương và 20 tình khúc bất tử",
+       "description": "Nhạc sĩ Phạm Đình Chương Phạm Đình Chương (1929 – 1991) là một nhạc sĩ tiêu biểu của dòng nhạc tiền chiến và là một tên tuổi lớn của...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/UD37AZ5gZVU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/UD37AZ5gZVU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/UD37AZ5gZVU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "DÂN VIỆT VUI VẺ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/0kENA0tUP31d6MAiy10_1yE-Kzc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "vgA9cCi1-UA"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-29T00:50:40.000Z",
+       "channelId": "UC7kyMbNbsQhPgEFrO1iPLwA",
+       "title": "Nhạc sĩ Từ Công Phụng ,  những ca khúc trữ tình .",
+       "description": "Theo Bách khoa toàn thư mở Wikipedia . Nhạc sĩ Từ Công Phụng , Từ Công Phụng (sinh ngày 27 tháng 7 năm 1942)[1] nhạc sĩ Việt Nam (gốc Cham-Islam) nổi ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/vgA9cCi1-UA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/vgA9cCi1-UA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/vgA9cCi1-UA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "DÂN VIỆT VUI VẺ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/1Bz7kWvqSV6veeP18_w2zx72Sp0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "jdB__t2J2uI"
+      },
+      "snippet": {
+       "publishedAt": "2018-01-17T05:29:49.000Z",
+       "channelId": "UCqy_58mirvkUkrxCcgtQ4jQ",
+       "title": "Nhạc sĩ Vũ Thành An , Đời đá vàng",
+       "description": "Vũ Thành An (1943–) là một trong những nhạc sĩ nổi bật của miền Nam Việt Nam thời kỳ 1954 - 1975. Các \"Bài không tên\" là những tác phẩm nổi tiếng của...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/jdB__t2J2uI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/jdB__t2J2uI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/jdB__t2J2uI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Hai Thế Kỷ Tình Ca Việt Nam",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/7Kt6JB31sdqnAEU67vvRjjhtP8g\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "_HhtQXtPNt8"
+      },
+      "snippet": {
+       "publishedAt": "2019-08-15T10:46:19.000Z",
+       "channelId": "UC7kyMbNbsQhPgEFrO1iPLwA",
+       "title": "Nhạc sĩ Vũ Thành (1926 - 1987)",
+       "description": "Nhạc sĩ Vũ Thành (1926 - 1987) Ông vừa là nhạc trưởng vừa là một nhạc sĩ sáng tác. Trước năm 1954, nhạc sĩ Vũ Thành là công chức và là...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/_HhtQXtPNt8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/_HhtQXtPNt8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/_HhtQXtPNt8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "DÂN VIỆT VUI VẺ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/snZ04ezah7cXraqx_9mkBIE_axw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "gBi-HTsFKso"
+      },
+      "snippet": {
+       "publishedAt": "2016-05-29T05:13:44.000Z",
+       "channelId": "UCUvsMx95Rm4tEL88eclMrGA",
+       "title": "Nhạc sĩ Phạm Duy - Những sáng tác bất hủ",
+       "description": "Phạm Duy (5 tháng 10 năm 1921 - 27 tháng 1 năm 2013, tên thật Phạm Duy Cẩn là một nhạc sĩ, ca sĩ, nhà nghiên cứu nhạc người Việt Nam. Ông được coi như ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/gBi-HTsFKso/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/gBi-HTsFKso/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/gBi-HTsFKso/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Minh Đức",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/pyXz2SbF5a_EfBUnLykZcUW1TG4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "RuWzyub6gNY"
+      },
+      "snippet": {
+       "publishedAt": "2018-01-17T06:45:54.000Z",
+       "channelId": "UC-PONVSaAA9S5D214xdVyFA",
+       "title": "Nhạc sĩ Vũ Thành An , Đời đá vàng",
+       "description": "Vũ Thành An (1943–) là một trong những nhạc sĩ nổi bật của miền Nam Việt Nam thời kỳ 1954 - 1975. Các \"Bài không tên\" là những tác phẩm nổi tiếng của...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/RuWzyub6gNY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/RuWzyub6gNY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/RuWzyub6gNY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Tình Ca Việt Xưa",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/OmyoJczdLixY_SEgqJy1JbDROKQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ahm5LVSyhrY"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-27T18:05:22.000Z",
+       "channelId": "UCE9IdSVdr1uxazP7fd-SkjA",
+       "title": "Nhạc Sĩ Từ Công Phụng &amp; Những Tình Khúc Bất Hủ",
+       "description": "Nhạc Sĩ Từ Công Phụng & Những Tình Khúc Bất Hủ 1. Mãi Mãi Bên Em - Từ Công Phụng 0:07 2. Mắt Lệ Cho Người - Đình Bảo 5:02 3. Giọt Lệ Cho Ngàn Sau -.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ahm5LVSyhrY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ahm5LVSyhrY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ahm5LVSyhrY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga Radio",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ThgwC4gAYjrQkYhqrGlPXnfulUI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "riGPWtOyAgs"
+      },
+      "snippet": {
+       "publishedAt": "2019-11-28T08:00:07.000Z",
+       "channelId": "UCddGOcCVTtjY240yyEG2p_g",
+       "title": "Chàng Ca Sĩ Trẻ Điển Trai Mạnh Đồng Hát Tình Khúc Xưa Cực Đỉnh - LK Bài Không Tên Cuối Cùng",
+       "description": "Chàng Ca Sĩ Trẻ Điển Trai Mạnh Đồng Hát Tình Khúc Xưa Cực Đỉnh - LK Bài Không Tên Cuối Cùng Hãy Subscribe kênh Sky Bolero: https://goo.gl/f2CeP6 ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/riGPWtOyAgs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/riGPWtOyAgs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/riGPWtOyAgs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "SKY Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/OMtpXCMS3Qthc2IpxGk0VzAvLo8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ioyIBaVYkNQ"
+      },
+      "snippet": {
+       "publishedAt": "2019-08-15T10:47:44.000Z",
+       "channelId": "UCqy_58mirvkUkrxCcgtQ4jQ",
+       "title": "Nhạc sĩ Vũ Thành (1926 - 1987)",
+       "description": "Nhạc sĩ Vũ Thành (1926 - 1987) Ông vừa là nhạc trưởng vừa là một nhạc sĩ sáng tác. Trước năm 1954, nhạc sĩ Vũ Thành là công chức và là...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ioyIBaVYkNQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ioyIBaVYkNQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ioyIBaVYkNQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Hai Thế Kỷ Tình Ca Việt Nam",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/n_ZR42Cce4MD9BzCh93VrYHzcxg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "gmVGXIezmbY"
+      },
+      "snippet": {
+       "publishedAt": "2019-01-04T12:24:35.000Z",
+       "channelId": "UC7kyMbNbsQhPgEFrO1iPLwA",
+       "title": "Nhạc sĩ Tuấn Khanh .",
+       "description": "Theo Bách khoa toàn thư mở Wikipedia : Tuấn Khanh (nhạc sĩ sinh 1933) Tuấn Khanh, tên thật Trần Ngọc Trọng (sinh năm 1933), là một nhạc sĩ người Việt...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/gmVGXIezmbY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/gmVGXIezmbY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/gmVGXIezmbY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "DÂN VIỆT VUI VẺ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zq2IEXyiOGnEJ4Rf5Aod7Z6LlE0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "_UKA_2Gn04o"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-04T03:30:51.000Z",
+       "channelId": "UChbtBwFZRXFpJt3XJW1yRQg",
+       "title": "BÀI KHÔNG TÊN - NHẠC SỸ VŨ THÀNH AN | ANDY STUDIO",
+       "description": "Các Bài không tên là một số các ca khúc của nhạc sĩ Vũ Thành An. Năm 1965 Vũ Thành An viết bản \"Tình khúc thứ nhất\" để kỷ niệm một mối tình. Sau...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/_UKA_2Gn04o/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/_UKA_2Gn04o/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/_UKA_2Gn04o/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "ANDY STUDIO",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/5ZyrQn4LN-oFaQdxrCrMuB26xqg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "zepWtu8Xysk"
+      },
+      "snippet": {
+       "publishedAt": "2019-11-21T22:27:12.000Z",
+       "channelId": "UCyTFi3jRi7r3NHJHgc9n3CA",
+       "title": "Ca Sĩ Tuấn Ngọc { Nhạc Vũ Thành An } ~ Những Ca Khúc Tuyển Chọn { By Khuong La }",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/zepWtu8Xysk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/zepWtu8Xysk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/zepWtu8Xysk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Xưa By Angelina La",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/MyQxk_aCxuXp4UYKdP9U9szA2Rw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "-GCyij4SnT4"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-30T11:29:35.000Z",
+       "channelId": "UC7kyMbNbsQhPgEFrO1iPLwA",
+       "title": "Nhạc sĩ Từ Công Phụng ,&quot; Phát ngôn nhân tình yêu ...&quot;",
+       "description": "Nhạc sĩ Từ Công Phụng ,\" Phát ngôn nhân tình yêu ...\" Từ Công Phụng (sinh ngày 27 tháng 7 năm 1942) Ông là một trong những nhạc sĩ tiêu biểu cho tân...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/-GCyij4SnT4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/-GCyij4SnT4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/-GCyij4SnT4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "DÂN VIỆT VUI VẺ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/K_j6tIsMAHv00Rc4qrUpXkrqflI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "56VTbGYbw08"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-29T00:41:39.000Z",
+       "channelId": "UC-PONVSaAA9S5D214xdVyFA",
+       "title": "Nhạc sĩ Từ Công Phụng ,  những ca khúc trữ tình .",
+       "description": "Theo Bách khoa toàn thư mở Wikipedia . Nhạc sĩ Từ Công Phụng , Từ Công Phụng (sinh ngày 27 tháng 7 năm 1942) nhạc sĩ Việt Nam (gốc Cham-Islam) nổi ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/56VTbGYbw08/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/56VTbGYbw08/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/56VTbGYbw08/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Tình Ca Việt Xưa",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/7-KpZl5CQOpWHxULt3dGapRKWGc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "R9y3gFGfaOU"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-02T02:30:02.000Z",
+       "channelId": "UC6im6pHK7dVz5zSxn-FoynQ",
+       "title": "Tuyển Chọn 235 Tình Khúc Bất Hủ của Nhạc Sĩ Trịnh Công Sơn và Phạm Duy",
+       "description": "nhactrinh #nhactrinhcongson #trinhcongson #nhactrutinh #nhacvangtrutinh #hongnhung #quangdung #ngoclan #camvan #trinhvinhtrinh #khanhly #vukhanh ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/R9y3gFGfaOU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/R9y3gFGfaOU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/R9y3gFGfaOU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Trịnh Công Sơn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/MzeFjeiUXTwMNcsx1vyBuEUWHb8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "K4cG1KdCaIA"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-03T07:43:12.000Z",
+       "channelId": "UCA8vQE9Xdt-4D8ZoNJAIPgg",
+       "title": "Nhạc sĩ Vũ Thanh - Tác giả ĐẮP MỘ CUỘC TÌNH phần 1",
+       "description": "Vườn Âm Nhạc Vũ Thanh - Phần 1. Mời các bạn thưởng thức chương trình nhạc chủ đề Vũ Thanh trên sóng AM 1480 của nhạc chủ đề chiều thứ bảy từ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/K4cG1KdCaIA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/K4cG1KdCaIA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/K4cG1KdCaIA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Hồ Tịnh Văn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/gXEAZNORJCR8DZsYKetUgs_bQKw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "2fMu7RozRkM"
+      },
+      "snippet": {
+       "publishedAt": "2018-06-26T12:22:28.000Z",
+       "channelId": "UC6-5nYNnXM8ewSBsndggEYA",
+       "title": "VŨ KHANH, TUẤN NGỌC, SĨ PHÚ - Những Ông Hoàng Nhạc Tình Khúc Hải Ngoại Bất Hủ Với Thời Gian",
+       "description": "VŨ KHANH, TUẤN NGỌC, SĨ PHÚ - Những Ông Hoàng Nhạc Tình Khúc Hải Ngoại Bất Hủ Với Thời Gian ▽ THEO DÕI : ♫ Google Plus : https://goo.gl/h48x3D ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/2fMu7RozRkM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/2fMu7RozRkM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/2fMu7RozRkM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Quê Hương Việt Nam",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/pe-fcZYQq2SHUU_b9pmJMOdO7r8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "46_pW53K51A"
+      },
+      "snippet": {
+       "publishedAt": "2019-03-19T11:00:00.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "PBN Collection | Nhạc Sĩ Phạm Đình Chương &amp; Những Tình Khúc Bất Hủ",
+       "description": "PBN Collection | Nhạc Sĩ Phạm Đình Chương & Những Tình Khúc Bất Hủ 1. Người Đi Qua Đời Tôi (Thơ: Trần Dạ Từ) Trần Thái Hòa PBN103 2:09 2. Nửa Hồn ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/46_pW53K51A/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/46_pW53K51A/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/46_pW53K51A/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     }
+    ]
+   }
+   
+   

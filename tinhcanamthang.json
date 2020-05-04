@@ -1,0 +1,1664 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/BF0ygi7pY4MFofGObrgtrg1sIlY\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+     "totalResults": 1000000,
+     "resultsPerPage": 50
+    },
+    "items": [
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/I7VNw3YHQufDJWChss5uL8TdZtQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Af_yJwl4aM0"
+      },
+      "snippet": {
+       "publishedAt": "2015-09-04T10:24:18.000Z",
+       "channelId": "UC2yDF1btLLK1Ety9fJJrM5A",
+       "title": "Bài ca đi cùng năm tháng - Video HD.",
+       "description": "Tuyển tập một số ca khúc hay trong kháng chiến chống Mỹ và xây dựng đất nước ở miền Bắc Việt Nam cùng thời kỳ đó.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Af_yJwl4aM0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Af_yJwl4aM0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Af_yJwl4aM0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Đắc Xoan",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/N_o2iCSeRT8tZk0gPEFSdxZn5FI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "z_8NkbLao9s"
+      },
+      "snippet": {
+       "publishedAt": "2018-09-06T09:09:25.000Z",
+       "channelId": "UCn34mzpkPgioqKxHgLp9_eA",
+       "title": "Sự Trở Lại &quot;Bản Tình Ca Năm Tháng&quot; Với Giọng Ca Siêu Ngọt Hồng Quyên Bolero",
+       "description": "Sự Trở Lại \"Bản Tình Ca Năm Tháng\" Với Giọng Ca Siêu Ngọt Hồng Quyên Bolero - Bản Tình Ca Sang Trọng Tình Ca Tình Khúc Bolero Chọn Lọc: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/z_8NkbLao9s/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/z_8NkbLao9s/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/z_8NkbLao9s/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Hồng Quyên Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/b486MwJBvV2Ykd-yy__ycqw44Ec\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ClkgktsXINE"
+      },
+      "snippet": {
+       "publishedAt": "2015-12-24T02:03:40.000Z",
+       "channelId": "UC5-5kMgKAFv9MuAlvGJ1Z9A",
+       "title": "Thu Hiền - Những Ca Khúc Đi Cùng Năm Tháng [Official Audio]",
+       "description": "Tôi rất thích những bài hát trữ tình thế này. Dòng nhạc đã đi vào lòng người bao thế hệ. Cảm ơn ad đã chia sẻ. Và tôi cũng có 1 video nhạc trữ tình...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ClkgktsXINE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ClkgktsXINE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ClkgktsXINE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "NSND THU HIỀN",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Vg7oOH6jaw8aibDbEmq--TExxKs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "XrSlEEz0a2Y"
+      },
+      "snippet": {
+       "publishedAt": "2017-08-16T12:00:03.000Z",
+       "channelId": "UCidaRs8J-YDeNWYq5IFr0iw",
+       "title": "Những Bài Hát Cách Mạng Đi Cùng Năm Tháng | Nhạc Đỏ Thu Hiền Hay Nhất Mọi Thời Đại",
+       "description": "Những Bài Hát Cách Mạng Đi Cùng Năm Tháng | Nhạc Đỏ Thu Hiền Hay Nhất Mọi Thời Đại Những Bài Hát Hay Nhất:https://goo.gl/VcdKsJ Nhạc Đỏ Trữ Tình ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/XrSlEEz0a2Y/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/XrSlEEz0a2Y/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/XrSlEEz0a2Y/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Cách Mạng Tiền Chiến",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/8nvMQpf47xJm7FrC8hv4X0jMVpw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "znjpDzlsarg"
+      },
+      "snippet": {
+       "publishedAt": "2019-11-07T10:55:20.000Z",
+       "channelId": "UCIL3km0UFKmyIvEqpvsEYFA",
+       "title": "Những bản tình ca đi cùng năm tháng của nhạc sĩ Nguyễn Ánh 9",
+       "description": "NguyenAnh9 Những bản tình ca đi cùng năm tháng của nhạc sĩ Nguyễn Ánh 9 ▻ Subscribe youtube Jet Studio: https://youtube.com/c/jetstudio ▻ Fanpage JET ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/znjpDzlsarg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/znjpDzlsarg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/znjpDzlsarg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "JET Entertainment",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/9MKIcx1enxZy7YjN96d8289zfNQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "HuhtRjfNaY4"
+      },
+      "snippet": {
+       "publishedAt": "2018-04-03T09:25:01.000Z",
+       "channelId": "UCgnxSvt7zibiUkPbDg5D4YQ",
+       "title": "Nhạc Phạm Duy - Tình Khúc Đi Cùng Năm Tháng - Duy Quang - Nhạc Vàng Xưa",
+       "description": "Nhạc Phạm Duy - Tình Khúc Đi Cùng Năm Tháng - Duy Quang - Nhạc Vàng Xưa ▻: Đăng ký kênh chính thức Nhạc Phạm Duy: https://goo.gl/buE7zM ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/HuhtRjfNaY4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/HuhtRjfNaY4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/HuhtRjfNaY4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Phạm Duy",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/C6ImUAmoks2xjPVfJnWEajMdaq4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "xDWQ_oRgjJY"
+      },
+      "snippet": {
+       "publishedAt": "2015-11-06T00:27:33.000Z",
+       "channelId": "UCyk-MKivyWqDOnduCSZPRSA",
+       "title": "tuyển tập những ca khúc đi cùng năm tháng hay nhất",
+       "description": "tuyen tap nhung ca khuc di cung nam thang hay nhat.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/xDWQ_oRgjJY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/xDWQ_oRgjJY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/xDWQ_oRgjJY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "cuốn theo chiều gió",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/dDJQ8pWkRi-OutPXaoh2GI1FXPk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "L6I2GPOYRr0"
+      },
+      "snippet": {
+       "publishedAt": "2017-10-02T10:00:05.000Z",
+       "channelId": "UCK8hdkRHLOhDW5wBJxqhVQw",
+       "title": "50 Bài Hát Nhạc Cách Mạng Kinh Điển Đi Cùng Năm Tháng | LK Nhạc Cách Mạng Hay Nhất 2017",
+       "description": "50 Bài Hát Nhạc Cách Mạng Kinh Điển Đi Cùng Năm Tháng ▻Subscribe để theo dõi những clip mới nhất. : http://goo.gl/LQRDkU ------------------ VMG Music ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/L6I2GPOYRr0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/L6I2GPOYRr0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/L6I2GPOYRr0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "VMG Music",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/A-6sPscVMBJBNIYDMggG3g_SnaA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "4OS7n9puB7g"
+      },
+      "snippet": {
+       "publishedAt": "2015-09-19T03:13:09.000Z",
+       "channelId": "UCNH5_uklJlQnezV7R70JPJA",
+       "title": "Tuyển Tập Nhạc Cách Mạng Hay Nhất Đi Cùng Năm Tháng | Anh Thơ",
+       "description": "Tuyển Tập Nhạc Cách Mạng Hay Nhất Đi Cùng Năm Tháng - Anh Thơ Tuyển Tập Những Ca Khúc Hay Nhất Anh Thơ ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/4OS7n9puB7g/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/4OS7n9puB7g/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/4OS7n9puB7g/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Anh Thơ Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/-hGUueRbZ5BTjUvXYKEBpnPG-1M\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "MWzyr0HnLTo"
+      },
+      "snippet": {
+       "publishedAt": "2019-10-11T23:00:02.000Z",
+       "channelId": "UC5pBcWUk40oBscjf3TN5DwQ",
+       "title": "Hà Nội Ngày Tháng Cũ - Những Bản Tình Ca Xưa Tuyệt Hay Còn Mãi Với Thời Gian – Tình Khúc Để Đời",
+       "description": "Hà Nội Ngày Tháng Cũ - Những Bản Tình Ca Xưa Tuyệt Hay Còn Mãi Với Thời Gian – Tình Khúc Để Đời #diemxuaproduction, #nhactinhca, #tinhcaxua, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/MWzyr0HnLTo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/MWzyr0HnLTo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/MWzyr0HnLTo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Diễm Xưa Productions",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/UxoMH-BDVSY639BUrq1SMCRRRbw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "8wl_qYWg9K0"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-02T09:00:00.000Z",
+       "channelId": "UCCfXdwO2izIFPCGRXlwPyDA",
+       "title": "Những Năm Tháng Rực Rỡ - Our Best Year | Phim Tâm Lý Tình Cảm Thái Lan | AFILM",
+       "description": "Bấm đăng ký/subscribe để AFILM tiếp tục ra mắt thêm nhiều phim hay nữa các bạn nhé! Click here: https://goo.gl/PUWRP9 ----------------------------------------------...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/8wl_qYWg9K0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/8wl_qYWg9K0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/8wl_qYWg9K0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "A FILM",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/CIPSPgjChABcccGbYZbMOoqhmNg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Z6bR70zI5Ws"
+      },
+      "snippet": {
+       "publishedAt": "2019-09-14T04:36:08.000Z",
+       "channelId": "UCgnxSvt7zibiUkPbDg5D4YQ",
+       "title": "Vũ Khanh và những bài ca trữ tình đi cùng năm tháng - Nhạc Phạm Duy",
+       "description": "Vũ Khanh và những bài ca đi cùng năm tháng - Nhạc Phạm Duy ▻: Đăng ký kênh chính thức Nhạc Phạm Duy: https://goo.gl/buE7zM ▻: Fanpage Nhạc Phạm ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Z6bR70zI5Ws/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Z6bR70zI5Ws/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Z6bR70zI5Ws/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Phạm Duy",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/UumVna8XLSlcjQ4MFpM4BTyyvOI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "0HZa5fEd3aE"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-21T03:29:46.000Z",
+       "channelId": "UCyelK-5OGh8VxkldiD2etIQ",
+       "title": "NSND Trung Kiên - Những Ca Khúc Đi Cùng Năm Tháng",
+       "description": "NSND Trung Kiên sinh năm 1939 tại Kiến Xương, Thái Bình. Ông sở hữu giọng nam cao hiếm có. Trong những năm tháng chống Mỹ cứu nước, ông để lại ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/0HZa5fEd3aE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/0HZa5fEd3aE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/0HZa5fEd3aE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Bất Hủ Collection",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/3H291jOAZ_O81dYJ-QtLb2Z7wSM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "XTsiqbIGfRc"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-13T13:13:50.000Z",
+       "channelId": "UCKxyv_i5ah2oYD23mAdPhyA",
+       "title": "Những Bản Tình Ca Đi Cùng Năm Tháng ... Tracklist 2",
+       "description": "0:10 Linh Hồn Tượng Đá 4:46 Khúc Thụy Du 9:44 Giọt Lệ Cho Ngàn Sau 16:11 Phôi Pha 19:24 Tình Khúc Thứ Nhất 23:47 Anh Vẫn Biết 29:35 Tình Muộn 33:34 ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/XTsiqbIGfRc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/XTsiqbIGfRc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/XTsiqbIGfRc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Music from the Past",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/DxJ2kCYk2H6axbMnwkPQllkXxAw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "brBN506rEn4"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-28T12:00:15.000Z",
+       "channelId": "UCidaRs8J-YDeNWYq5IFr0iw",
+       "title": "Bài Ca Đi Cùng Năm Tháng - Nhạc Đỏ Cách Mạng Việt Nam Ngập Tràn Khí Thế Hào Hùng",
+       "description": "Những Bài Hát Hay Nhất:https://goo.gl/VcdKsJ Nhạc Đỏ Trữ Tình Quê Hương:https://goo.gl/29b7nt Tình Ca Tây Bắc Hay Nhất:https://goo.gl/TTVzMq Official MV ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/brBN506rEn4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/brBN506rEn4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/brBN506rEn4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Cách Mạng Tiền Chiến",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jCb4Cy-ZlXyUHC0dfWuEcwGe2Gw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "t4oE2MgvRP4"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-23T00:00:10.000Z",
+       "channelId": "UCyelK-5OGh8VxkldiD2etIQ",
+       "title": "NSUT Tiến Thành - Những Ca Khúc Đi Cùng Năm Tháng",
+       "description": "Cố NSUT Tiến Thành ( 1952 - 1984 ) Sinh năm 1952 tại Nam Định Là ca sỹ của Đoàn ca nhạc Đài Tiếng nói Việt Nam, cái nôi nuôi dưỡng lớp lớp các nghệ sỹ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/t4oE2MgvRP4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/t4oE2MgvRP4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/t4oE2MgvRP4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Bất Hủ Collection",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/1UYBVUlaKF2z93EowEWwQsZ2LuY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "4Lo4vTYpF-k"
+      },
+      "snippet": {
+       "publishedAt": "2019-02-01T12:33:58.000Z",
+       "channelId": "UCTT8G-jgGvtiOlITUl5XwyQ",
+       "title": "THÁI BẢO - Những bài ca đi cùng năm tháng.",
+       "description": "ThaiBao_NSND.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/4Lo4vTYpF-k/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/4Lo4vTYpF-k/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/4Lo4vTYpF-k/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thái Bảo Kỳ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/HHs1YeYo6pkrK5naoxGS_M5r4gQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "f2NKKpgas5k"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-22T05:50:28.000Z",
+       "channelId": "UCyelK-5OGh8VxkldiD2etIQ",
+       "title": "NSUT Thúy Lan - Những Ca Khúc Đi Cùng Năm Tháng",
+       "description": "Cố NSUT Thúy Lan ( 1955 - 2015 ) Quê ở Thanh Xuân, Hà Nội Giọng hát của bà trong sáng, mượt mà, cùng với phong cách biểu diễn nhuần nhuyễn, nhiệt tình, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/f2NKKpgas5k/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/f2NKKpgas5k/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/f2NKKpgas5k/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Bất Hủ Collection",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/rOBfifladkhWr3vPJ1-UoMHy8nQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ATMATEs5S30"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-20T09:00:02.000Z",
+       "channelId": "UCnlirkN57GFlOIlpkLRs0MA",
+       "title": "Những Ca Khúc Trữ Tình Quê Hương Đi Cùng Năm Tháng - Ở Hai Đầu Nỗi Nhớ - Nghe Mãi Không Chán",
+       "description": "Những Ca Khúc Trữ Tình Quê Hương Đi Cùng Năm Tháng - Ở Hai Đầu Nỗi Nhớ - Nghe Mãi Không Chán Đăng kí nghe nhạc miễn phí: https://bit.ly/2XrCPBV ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ATMATEs5S30/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ATMATEs5S30/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ATMATEs5S30/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Xứ Nghệ Để Đời",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/CKZ81l7NYzrtNo_KVxiIcVNgwIQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Zb_iiev6cuw"
+      },
+      "snippet": {
+       "publishedAt": "2020-01-07T11:50:53.000Z",
+       "channelId": "UCidaRs8J-YDeNWYq5IFr0iw",
+       "title": "Nhừng Bài Hát Đi Cùng Năm Tháng - Nhạc Cách Mạng Tiền Chiến | Nhạc Sĩ Trần Hoàn",
+       "description": "Những Bài Hát Hay Nhất:https://goo.gl/VcdKsJ Nhạc Đỏ Trữ Tình Quê Hương:https://goo.gl/29b7nt Tình Ca Tây Bắc Hay Nhất:https://goo.gl/TTVzMq Official MV ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Zb_iiev6cuw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Zb_iiev6cuw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Zb_iiev6cuw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Cách Mạng Tiền Chiến",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/SL6JRxlt9DKjtaWNEcAzuxilgv0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "FmD0goX5NdM"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-29T23:03:31.000Z",
+       "channelId": "UCNH5_uklJlQnezV7R70JPJA",
+       "title": "Nhạc Cách Mạng Bất Hủ CHÀO ANH GIẢI PHÓNG QUÂN - Nhạc Đỏ Cách Mạng 30/4 Đi Cùng Năm Tháng",
+       "description": "Nhạc Cách Mạng Bất Hủ CHÀO ANH GIẢI PHÓNG QUÂN - Nhạc Đỏ Cách Mạng 30/4 Đi Cùng Năm Tháng ♪ Đừng quên Like, Share và Đăng Ký kênh để theo ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/FmD0goX5NdM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/FmD0goX5NdM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/FmD0goX5NdM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Anh Thơ Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/pABQP20DRAh6F2OcD5gNVlMLwOU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "pEkGSm2qlI4"
+      },
+      "snippet": {
+       "publishedAt": "2015-01-22T09:12:22.000Z",
+       "channelId": "UCkQxxy_4o1_Kgb7Hr-p5Etg",
+       "title": "Nhạc đỏ chọn lọc (Những bài ca đi cùng năm tháng)",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/pEkGSm2qlI4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/pEkGSm2qlI4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/pEkGSm2qlI4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thế giới giải trí (GiaitriTV)",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/2mnc8WxJLxB_C_GksmDWNAC4pY8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "znrBq91BzIU"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-31T00:00:18.000Z",
+       "channelId": "UCbYr9sX_FVHW4SYTxTvrvjw",
+       "title": "Nữ Hoàng Bolero &quot;Song Loan&quot; - Tình Ca Bất Hủ Theo Năm Tháng | Còn Tuổi Nào Cho Em - Hoa Nở Về Đêm",
+       "description": "Nữ Hoàng Bolero \"Song Loan\" - Tình Ca Bất Hủ Theo Năm Tháng | Còn Tuổi Nào Cho Em - Hoa Nở Về Đêm.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/znrBq91BzIU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/znrBq91BzIU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/znrBq91BzIU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Đỉnh Cao Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/9MzF0otYAd2WN7dd1bsUMKD0nZ8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "AotwrrH18a8"
+      },
+      "snippet": {
+       "publishedAt": "2019-10-22T22:30:00.000Z",
+       "channelId": "UC7kkBKMupUcGQz1-DxRleAg",
+       "title": "Gửi Em Ở Cuối Sông Hồng - Bài Ca Đi Cùng Năm Tháng - LK Nhạc Đỏ Remix Mới Cứng 2020",
+       "description": "Gửi Em Ở Cuối Sông Hồng - Bài Ca Đi Cùng Năm Tháng - LK Nhạc Đỏ Remix Mới Cứng 2020 Nhạc sống Hay mới nhất 2019: http://bit.ly/2W7tXRt LK Nhạc ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/AotwrrH18a8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/AotwrrH18a8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/AotwrrH18a8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Sống Quê Mình",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/EXasByZJU7aUjlsR1GZZnCSgOuE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "LGeLiRQEUNw"
+      },
+      "snippet": {
+       "publishedAt": "2017-03-26T09:44:57.000Z",
+       "channelId": "UCfINm8ZJr988FZODNx0eloA",
+       "title": "Giai điệu tự hào - ca khúc cách mạng đi cùng năm tháng",
+       "description": "Giai điệu tự hào - ca khúc cách mạng đi cùng năm tháng Nhạc lossless https://youtu.be/LGeLiRQEUNw 1. Hướng về hà nội - Trọng Tấn 2. Mùa hè xanh vẫy gọi ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/LGeLiRQEUNw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/LGeLiRQEUNw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/LGeLiRQEUNw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Hai Dao",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/82zmDSZ_Zx6uZZvdUiXC-_FEVk8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "DRLq1VP2d6g"
+      },
+      "snippet": {
+       "publishedAt": "2019-08-24T01:56:52.000Z",
+       "channelId": "UC6im6pHK7dVz5zSxn-FoynQ",
+       "title": "Tình Khúc Trịnh Công Sơn những ca khúc đi cùng năm tháng - Nhạc Trữ Tình hay nhất",
+       "description": "Tình Khúc Trịnh Công Sơn những ca khúc đi cùng năm tháng - Nhạc Trữ Tình hay nhất Tổng Hợp Những Bài Hát Trữ Tình Hay Nhất Của Trịnh Công Sơn: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/DRLq1VP2d6g/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/DRLq1VP2d6g/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/DRLq1VP2d6g/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Trịnh Công Sơn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/S9Gcie7WxP3Ox5TfhtqSMrpPEYk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "100XTJ0nbTQ"
+      },
+      "snippet": {
+       "publishedAt": "2019-12-22T12:00:00.000Z",
+       "channelId": "UCidaRs8J-YDeNWYq5IFr0iw",
+       "title": "Những Bài Hát Đi Cùng Năm Tháng - Nhạc Đỏ Cách Mạng Hay Nhất 2019",
+       "description": "Những Bài Hát Hay Nhất:https://goo.gl/VcdKsJ Nhạc Đỏ Trữ Tình Quê Hương:https://goo.gl/29b7nt Tình Ca Tây Bắc Hay Nhất:https://goo.gl/TTVzMq Official MV ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/100XTJ0nbTQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/100XTJ0nbTQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/100XTJ0nbTQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Cách Mạng Tiền Chiến",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/NLzDVwWDZz0Wa1gxCP2pvgArMdQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "gUgGfWv3aOY"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-18T10:30:01.000Z",
+       "channelId": "UCyelK-5OGh8VxkldiD2etIQ",
+       "title": "NSND Quốc Hương - Những Ca Khúc Đi Cùng Năm Tháng",
+       "description": "Cố NSND Quốc Hương Tên thật là Nguyễn Quốc Hương Sinh năm 1920 - Mất Năm 1987 . Quê quán : Kiến Thái, huyện Kim Sơn, tỉnh Ninh Bình. Năm 1945, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/gUgGfWv3aOY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/gUgGfWv3aOY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/gUgGfWv3aOY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Bất Hủ Collection",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/hQb97Q3MYWg8m07KhwWlLiu-1Yg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "t4aZOX-YkAs"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-23T18:46:06.000Z",
+       "channelId": "UC47hXx5zmB4y5iVQZ9cTalQ",
+       "title": "Những bản Thánh Ca Tuyển Chọn Năm Tháng Không Quên",
+       "description": "Đăng ký theo dõi ủng hộ chúng tôi tại đây: https://bit.ly/2GLf55x Link Fanpage Facebook: https://www.facebook.com/thanhcakaraoke1/ Con xin gửi lời chào tới ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/t4aZOX-YkAs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/t4aZOX-YkAs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/t4aZOX-YkAs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Phaolô Nguyễn Văn Định",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/0srqh4wcAQ2_4_8h3aFp4OlOi_A\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "YTpj24zRQWw"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-06T11:30:09.000Z",
+       "channelId": "UCmBp1trtvK-xDKBrlvn-iYQ",
+       "title": "Audio Lam Phương Khúc Tình Ca Năm Tháng Số Một",
+       "description": "\"Audio Lam Phương Khúc Tình Ca Năm Tháng Số Một\" là clip nhạc được Kênh Ý thơ Lời Nhạc biên tập và phát hành trên youtube và facebook. ĐỂ THEO DÕI ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/YTpj24zRQWw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/YTpj24zRQWw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/YTpj24zRQWw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Phước Tình Ca",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/0emS6PKb3Vu-PeVYMb92Trd1lN8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "O3mtfbZjH1Y"
+      },
+      "snippet": {
+       "publishedAt": "2019-01-19T01:32:15.000Z",
+       "channelId": "UCy1p6wMD3sXCfHe_c3BoHpg",
+       "title": "Những Bài Hát Cách Mạng Hay Đi Cùng Năm Tháng | Nhạc Đỏ Tiền Chiến",
+       "description": "Những Bài Hát Cách Mạng Hay Đi Cùng Năm Tháng | Nhạc Đỏ Tiền Chiến ♪ Đừng quên Like, Share và Đăng Ký kênh để theo dõi những sản phẩm mới nhất ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/O3mtfbZjH1Y/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/O3mtfbZjH1Y/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/O3mtfbZjH1Y/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Trọng Tấn Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/fkodTDF5xWzfWg3hCWZoh_8DM-4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "FE1PIEIKQns"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-04T08:44:23.000Z",
+       "channelId": "UCyelK-5OGh8VxkldiD2etIQ",
+       "title": "NSUT Bích Liên - Những Ca Khúc Đi Cùng Năm Tháng",
+       "description": "NSUT Bích Liên tên thật là Nguyễn Bích Liên, sinh ngày 14 tháng 7 năm 1944. Trong những năm đầu của thập niên 1960, bà theo học tại Nhạc viện Hà Nội.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/FE1PIEIKQns/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/FE1PIEIKQns/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/FE1PIEIKQns/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Bất Hủ Collection",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/CacSe_6jyOV74w_qg3yyb8FkLDo\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "wtg0z8U63AU"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-14T03:28:58.000Z",
+       "channelId": "UCagRZ3T9t0C3c735yjvRpIg",
+       "title": "Nhạc Vàng Bolero Đi Cùng Năm Tháng - LK Lá Thư Cuối Cùng | Nhạc Vàng Trữ Tình Hay Tê Tái 2018",
+       "description": "Nhạc Vàng Bolero Đi Cùng Năm Tháng - LK Lá Thư Cuối Cùng | Nhạc Vàng Trữ Tình Hay Tê Tái 2018 Nhạc vàng hải ngoại xưa https://goo.gl/HMXJdq Băng ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/wtg0z8U63AU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/wtg0z8U63AU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/wtg0z8U63AU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Giáng Ngọc Productions",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Is5klPdj_hLIJmSij2XSiM9J0Bk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "oPATAg6EM14"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-07T02:54:59.000Z",
+       "channelId": "UCyelK-5OGh8VxkldiD2etIQ",
+       "title": "NSƯT Vũ Dậu - Những Ca Khúc Đi Cùng Năm Tháng",
+       "description": "NSUT Vũ Dậu sinh năm 1945 tại Hà Nội Từ năm 13 tuổi, bà đã tham gia Đội sơn ca của Đài tiếng nói Việt Nam Năm 16 tuổi Vũ Dậu nhận được giấy gọi...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/oPATAg6EM14/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/oPATAg6EM14/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/oPATAg6EM14/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Bất Hủ Collection",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Wnhp0655LH2fhGUX6vWu1vUZXp0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "64I0ZhG8IM8"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-13T14:15:44.000Z",
+       "channelId": "UCvjCcjJNXGAsWHNlWkiJyTg",
+       "title": "Nhạc Sống Quê Hương | BÀI CA ĐI CÙNG NĂM THÁNG SIÊU PHẨM NHẠC SỐNG NHẠC TRỮ TÌNH HAY NHẤT",
+       "description": "NHẠC SỐNG QUÊ HƯƠNG MANG ĐẾN CHO ANH CHỊ EM NHỮNG GIỌNG CA VÀNG TÊN TUỐI HAY NHẤT TRỮ TÌNH CÒN MÃI VỚI THỜI GIAN CÁC BẠN ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/64I0ZhG8IM8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/64I0ZhG8IM8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/64I0ZhG8IM8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Sống Quê Hương",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/MKn7_XqXD_C7rvOI4o3F4_hz47w\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "mb6JvkT6toc"
+      },
+      "snippet": {
+       "publishedAt": "2016-10-01T11:28:28.000Z",
+       "channelId": "UC9u9npAP3tde6LM6FtgFCvg",
+       "title": "Liên Khúc Dân Ca Xứ Nghệ Hay Nhất Đi Cùng Năm Tháng",
+       "description": "Những Ca Khúc Nhạc Dân Ca Trữ Tình Nghệ Tĩnh NSND Thu Hiền || Album Hà Tĩnh Quê Mình ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/mb6JvkT6toc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/mb6JvkT6toc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/mb6JvkT6toc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Tuấn Lê Văn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/3dcnBmGupX9BmPy67yCLT9mZ8-0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "2d1z__z3rBM"
+      },
+      "snippet": {
+       "publishedAt": "2018-05-24T12:55:31.000Z",
+       "channelId": "UCYjGIdM_pKtUe0HUr-pNmkQ",
+       "title": "Tình ca qua năm tháng",
+       "description": "Hát lên tiếng ca gửi về người yêu phương xa 1. Gửi nắng cho em - Đăng Dương 2. Tháng ba Tây Nguyên - Đăng Dương & Lan Anh 3. Đàn T'rưng - Đăng ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/2d1z__z3rBM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/2d1z__z3rBM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/2d1z__z3rBM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "NSƯT ĐĂNG DƯƠNG",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/2vW2pBO5j9q55hbyFtJN1riMaKM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "aWaY0t4WeB4"
+      },
+      "snippet": {
+       "publishedAt": "2017-04-17T03:40:41.000Z",
+       "channelId": "UCPJfjHrW3-zIeSaZTgmckmg",
+       "title": "Nhạc rừng - Ca khúc đi cùng năm tháng",
+       "description": "Nhạc rừng - Ca khúc đi cùng năm tháng Xem #TinTuc hấp dẫn, Tổng Hợp #Video Mới nhất về #Tintuc24h Việt Nam - Quốc Tế nóng bỏng nhất đang diễn ra ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/aWaY0t4WeB4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/aWaY0t4WeB4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/aWaY0t4WeB4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Truyền Hình Nhân Dân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/hFifXNf48tAFgoGIA8lsK0JIoKY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "_3em7WjS7bE"
+      },
+      "snippet": {
+       "publishedAt": "2019-12-23T21:08:14.000Z",
+       "channelId": "UCXUkHm71KVRDpaJ2M5BYkng",
+       "title": "LK Thư Cho Vợ Hiền, 775 Bài Rumba Lính Năm Tháng Mới KHÔNG QUẢNG CÁO Gây Phê",
+       "description": "Đây là những ca khúc được độc quyền bởi CT Media. Đề nghị các tổ chức, cá nhân không reup sao chép dưới mọi hình thức. © Bản quyền thuộc về...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/_3em7WjS7bE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/_3em7WjS7bE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/_3em7WjS7bE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Kho Nhạc Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/DcdfzoQYltmYeyXRBdb6Oy2Pk3c\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "_PyZ2cCcSvc"
+      },
+      "snippet": {
+       "publishedAt": "2015-08-24T10:58:56.000Z",
+       "channelId": "UCFg1CoM8NFEK9sXFofUmTQA",
+       "title": "Tình khúc Bolero đi cùng năm tháng",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/_PyZ2cCcSvc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/_PyZ2cCcSvc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/_PyZ2cCcSvc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Tôi Yêu Âm Nhạc",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/iWwtYyme2VAe6O3alBmf4YMBqBU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "nhRbvHJYY3M"
+      },
+      "snippet": {
+       "publishedAt": "2019-01-21T07:02:36.000Z",
+       "channelId": "UCgnxSvt7zibiUkPbDg5D4YQ",
+       "title": "Đức Tuấn và những ca khúc bất hủ đi cùng năm tháng - Nhạc Phạm Du",
+       "description": "Đức Tuấn và những ca khúc bất hủ đi cùng năm tháng - Nhạc Phạm Du ▻: Đăng ký kênh chính thức Nhạc Phạm Duy: https://goo.gl/buE7zM ▻: Fanpage Nhạc..",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/nhRbvHJYY3M/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/nhRbvHJYY3M/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/nhRbvHJYY3M/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Phạm Duy",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ZHCzbOhi-jNw_ZUadquMjahJ0Gk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "_Wm380AlB_4"
+      },
+      "snippet": {
+       "publishedAt": "2019-10-03T18:51:23.000Z",
+       "channelId": "UCx0xLtBSkG8EeO-plUBIh9A",
+       "title": "Những bản tình ca trường tồn theo năm tháng(quang lập Bolero)",
+       "description": "Nhạc Việt mix.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/_Wm380AlB_4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/_Wm380AlB_4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/_Wm380AlB_4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thắng ninh Vlogs",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/AUhGhgkYNuJGeQIVlcdhssHzbLg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "6Ee7gVDYucw"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-15T13:18:02.000Z",
+       "channelId": "UCyelK-5OGh8VxkldiD2etIQ",
+       "title": "NSND Thu Hiền - Những Ca Khúc Đi Cùng Năm Tháng",
+       "description": "NSND Thu Hiền tên thật Nguyễn Thị Thanh Hiền ( 1952 ) . Bí danh Thanh Hồng. Bà sinh tại Đông Hưng, Thái Bình Quê quán Đào Xá, Thanh Thủy, Phú Thọ.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/6Ee7gVDYucw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/6Ee7gVDYucw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/6Ee7gVDYucw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Bất Hủ Collection",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ABdtBAJZ_-rM1IYmP5idhfiXG-Q\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "6ZKCv_5qQ9E"
+      },
+      "snippet": {
+       "publishedAt": "2017-04-15T01:08:08.000Z",
+       "channelId": "UCy1p6wMD3sXCfHe_c3BoHpg",
+       "title": "Đất Nước Tôi - Những Bài Ca Đi Cùng Năm Tháng | Nhạc Đỏ Trọng Tấn",
+       "description": "Đất Nước Tôi - Những Bài Hát Đi Cùng Năm Tháng ♪ Đừng quên Like, Share và Đăng Ký kênh để theo dõi những sản phẩm mới nhất của Trọng Tấn nhé!...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/6ZKCv_5qQ9E/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/6ZKCv_5qQ9E/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/6ZKCv_5qQ9E/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Trọng Tấn Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zGun-PFQbwuEyf0-z_I0rUWQXMc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "IsoGRbl5ha8"
+      },
+      "snippet": {
+       "publishedAt": "2018-06-29T12:40:25.000Z",
+       "channelId": "UCIG40JFwNsKmalJaZuZ6sgg",
+       "title": "Đăng Ngọc Bolero Những bản tình ca đi cùng năm tháng",
+       "description": "Nhà đất An Sương www.nhadatansuong.com I www.ĐấtLớn.com có nhiều nhà đất tại danh sách https://www.youtube.com/nghenhinso #NhàđấtAnSương ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/IsoGRbl5ha8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/IsoGRbl5ha8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/IsoGRbl5ha8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Bán Nhà Hóc Môn Củ Chi Q.12 TPHCM-NHÀ ĐẤT AN SƯƠNG",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/GPehxNYuIBKolMgC848h6tFUbW4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "bBI_Xhk6WzQ"
+      },
+      "snippet": {
+       "publishedAt": "2017-09-26T12:10:12.000Z",
+       "channelId": "UCidaRs8J-YDeNWYq5IFr0iw",
+       "title": "Những Ca Khúc Nhạc Cách Mạng Đi Cùng Với Năm Tháng Của NSND Thu Hiền, NSND Trung Đức",
+       "description": "Những Ca Khúc Nhạc Cách Mạng Đi Cùng Với Năm Tháng Của NSND Thu Hiền, NSND Trung Đức Những Bài Hát Hay Nhất:https://goo.gl/VcdKsJ Nhạc Đỏ ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/bBI_Xhk6WzQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/bBI_Xhk6WzQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/bBI_Xhk6WzQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Cách Mạng Tiền Chiến",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/v9Gs3byfzusLCkArZfR3zuV7fvg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "zqoALla_aXo"
+      },
+      "snippet": {
+       "publishedAt": "2018-05-09T12:00:08.000Z",
+       "channelId": "UCidaRs8J-YDeNWYq5IFr0iw",
+       "title": "Những Ca Khúc Nhạc Đỏ Cách Mạng Đi Cùng Năm Tháng Của NSND Thu Hiền",
+       "description": "Những Ca Khúc Nhạc Đỏ Cách Mạng Đi Cùng Năm Tháng Của NSND Thu Hiền Những Bài Hát Hay Nhất:https://goo.gl/VcdKsJ Nhạc Đỏ Trữ Tình Quê ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/zqoALla_aXo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/zqoALla_aXo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/zqoALla_aXo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Cách Mạng Tiền Chiến",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/w_yWKAS7cVrY8eKoGoGIU2Mkw2g\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "RQEctToKv74"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-28T03:42:31.000Z",
+       "channelId": "UCyelK-5OGh8VxkldiD2etIQ",
+       "title": "Tuyết Nhung - Những Ca Khúc Đi Cùng Năm Tháng",
+       "description": "Những Ca Khúc Đi Cùng Năm Tháng Bất Hủ Collection xin mời quý thính giả cùng lắng nghe tiếng hát của nghệ sĩ Tuyết Nhung 1. Vàm Cỏ Đông - Trương ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/RQEctToKv74/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/RQEctToKv74/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/RQEctToKv74/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Bất Hủ Collection",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/D2bThjx4FGBFnOGmf72Wn8CfxVU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "27_KKgmGL0E"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-30T14:01:53.000Z",
+       "channelId": "UCGX2LJTyWsGjPEVABmyIbIw",
+       "title": "Ngọc Lan - Những Bài Tình Ca Xưa Vạn Người Mê - Đẳng Cấp Nữ Hoàng Tình Ca Ngọc Lan",
+       "description": "Ngọc Lan - Những Bài Tình Ca Xưa Vạn Người Mê - Đẳng Cấp Nữ Hoàng Tình Ca Ngọc Lan ▻Đăng ký kênh: http://ngoclan.trungtamhaingoai.com/ ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/27_KKgmGL0E/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/27_KKgmGL0E/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/27_KKgmGL0E/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "I Love Ngọc Lan",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/d-OMUBWeoYrizVOHlx9DbkSm-uU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "0WCWLLtjTUI"
+      },
+      "snippet": {
+       "publishedAt": "2016-05-03T12:22:00.000Z",
+       "channelId": "UCH_VtocIcmzGEZ2zVqyuLWw",
+       "title": "Tuyển tập những ca khúc đi cùng năm tháng của Đan Trường",
+       "description": "Những ca khúc của Đan trường gắn liền với thế hệ 8X đời đầu.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/0WCWLLtjTUI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/0WCWLLtjTUI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/0WCWLLtjTUI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "trinh vuducinjhi",
+       "liveBroadcastContent": "none"
+      }
+     }
+    ]
+   }
+   
+   

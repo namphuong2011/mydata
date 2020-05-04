@@ -1,0 +1,1714 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "H3NGZi77I4vcUq1mB0q6gzPZPs4",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+      "totalResults": 109505,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "K7fzWIsO3ixV9-O2kgoLDRTtnHQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "05srizPyi_4"
+        },
+        "snippet": {
+          "publishedAt": "2019-08-07T13:37:58Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "HỒ HOÀNG YẾN - Tuyệt Tập Tình Ca Hải Ngoại, Nhạc Vàng Xưa, Bolero, Nhạc Trữ Tình Hay Nhất Hải Ngoại",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/05srizPyi_4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/05srizPyi_4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/05srizPyi_4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-08-07T13:37:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1ZtQslhdcLG8sTb7KpCGsl2nBH4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "a5t89OMZ_c8"
+        },
+        "snippet": {
+          "publishedAt": "2019-08-04T05:44:38Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Asia Liveshow Hồ Hoàng Yến Cực Hay | Liveshow Toàn Những Ca Khúc Bất Hủ Của Ho Hoang Yen Cực Kỳ Hay",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/a5t89OMZ_c8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/a5t89OMZ_c8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/a5t89OMZ_c8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-08-04T05:44:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kcaHvemP-s_Tkt1RO0K2cDqMckw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5rZkVxCfd8s"
+        },
+        "snippet": {
+          "publishedAt": "2019-10-27T23:00:00Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Hồ Hoàng Yến 2019 | 20 Tình Khúc Hải Ngoại Chọn Lọc Đặc Biệt Hay Nhất - Tình Khúc Hải Ngoại Bất Hủ",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5rZkVxCfd8s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5rZkVxCfd8s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5rZkVxCfd8s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-10-27T23:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "t2NCDmquNQXh0BRMP7vPfzdOhto",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bvmN1rPPCp0"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-14T23:00:12Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Hồ Hoàng Yến - Tình Khúc Hải Ngoại Hay Nhất Sự Nghiệp | Tuyển Tập Tình Ca Gây Nghiện Triệu Khán Giả",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bvmN1rPPCp0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bvmN1rPPCp0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bvmN1rPPCp0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-14T23:00:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oCtQPOjfDNQR4gi-otpoCoTyjtc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dNtDbMvmwZU"
+        },
+        "snippet": {
+          "publishedAt": "2019-09-23T08:00:21Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Hồ Hoàng Yến - Liên Khúc Nhạc Trữ Tình Hải Ngoại Mới Hay Nhất",
+          "description": "Hồ Hoàng Yến - Liên Khúc Nhạc Trữ Tình Hải Ngoại Mới Hay Nhất Hồ Hoàng Yến : https://youtu.be/KTtT545EZxk Hà Thanh Xuân Tuyển Chọn ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dNtDbMvmwZU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dNtDbMvmwZU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dNtDbMvmwZU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-09-23T08:00:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "n6rvqkphb_0vfoW1d70pb9MW6Lo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CbvqMQlX6_8"
+        },
+        "snippet": {
+          "publishedAt": "2019-08-13T03:26:15Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Hồ Hoàng Yến - Tuyển Tập Bolero Trữ Tình Hải Ngoại Chọn Lọc Hay Nhất Còn Mãi Với Thời Gian",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CbvqMQlX6_8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CbvqMQlX6_8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CbvqMQlX6_8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-08-13T03:26:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iBLywInDNVyWGQFnvjc7Ogqoqs8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ctOgZNfiQcQ"
+        },
+        "snippet": {
+          "publishedAt": "2019-08-02T02:35:29Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Hồ Hoàng Yến New Siêu Phẩm 20 Tình Khúc Lãng Mạn Tình Lỡ, Lệ Úa | Giọng Hát Hút Hồn Của Hồ Hoàng Yến",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ctOgZNfiQcQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ctOgZNfiQcQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ctOgZNfiQcQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-08-02T02:35:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IoaujjwLOF-YVypfHvRJaS18_pA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UnSv8x5VWDk"
+        },
+        "snippet": {
+          "publishedAt": "2019-07-29T13:03:16Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Asia Liveshow Lệ Úa HỒ HOÀNG YẾN | Tình Khúc Trữ Tình Lãng Mạn Mê Mẫn Lòng Người Hát Gì Mà Hay Quá",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UnSv8x5VWDk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UnSv8x5VWDk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UnSv8x5VWDk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-07-29T13:03:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "c26VflclpNewCYdj6FxCLkRHWCo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pDTJ8QPia60"
+        },
+        "snippet": {
+          "publishedAt": "2019-08-28T05:26:51Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Liveshow Hồ Hoàng Yến Hay Xuất Sắc - Tình Khúc Trữ Tình Lãng Mạn Hay Nhất Asia",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pDTJ8QPia60/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pDTJ8QPia60/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pDTJ8QPia60/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-08-28T05:26:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5slwPCluvLZmMfyEBjs5hxkqYwU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7zHcF06dmX4"
+        },
+        "snippet": {
+          "publishedAt": "2019-09-06T04:00:00Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Ca Sĩ Hồ Hoàng Yến Và Những Tình Khúc Hải Ngoại Cực Lãng Mạn - Tình Khúc Trữ Tình Hay Nhất",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7zHcF06dmX4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7zHcF06dmX4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7zHcF06dmX4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-09-06T04:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tcPrW6HcMxri-y_XLzaf4cVy9MI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2ByoRXhvLqA"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-09T02:31:31Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tình Khúc Trữ Tình Hồ Hoàng Yến - Chỉ Có Thể Nói &quot; Quá Đỉnh&quot; - Tình Khúc Hải Ngoại Hồ Hoàng Yến",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2ByoRXhvLqA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2ByoRXhvLqA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2ByoRXhvLqA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-09T02:31:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dDgdHX6KUXEBNtMFhgdvD7qXNj4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MEPHHo-PDVs"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-30T07:50:44Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tình Khúc Tóc Gió Thôi Bay - Hồ Hoàng Yến | Tình Khúc Lãng Mạn Nhẹ Nhàng Lấy Lòng Triệu Con Tim",
+          "description": "Tình Khúc Tóc Gió Thôi Bay - Hồ Hoàng Yến | Tình Khúc Lãng Mạn Nhẹ Nhàng Lấy Lòng Triệu Con Tim ▻ Đăng ký kênh: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MEPHHo-PDVs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MEPHHo-PDVs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MEPHHo-PDVs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-30T07:50:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "naCiKNXcFAp-VrW4wA2gmPNoX9A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vseBdeXcFSU"
+        },
+        "snippet": {
+          "publishedAt": "2019-04-09T07:19:14Z",
+          "channelId": "UC2hkHc8F2J0BTWKKK2mfojQ",
+          "title": "Hồ Hoàng Yến - Tuyển Chọn Những Tình Khúc Lãng Mạn Hay Nhất Của Hồ Hoàng Yến Hải Ngoại",
+          "description": "Ca nhạc trữ tình xin trân trọng giới thiệu Hồ Hoàng Yến - Tuyển Chọn Những Tình Khúc Lãng Mạn Hay Nhất Của Hồ Hoàng Yến Hải Ngoại #hohoangyen ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vseBdeXcFSU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vseBdeXcFSU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vseBdeXcFSU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ca Nhạc Trữ Tình",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-04-09T07:19:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eZ6fcPelRqYSuLzmBG_y594VnsM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hG7_vgMff5o"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-04T23:00:18Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Hồ Hoàng Yến Asia - 20 Tình Khúc Trữ Tình Hải Ngoại Hay Nhất Của Ca Sĩ Hồ Hoàng Yến",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hG7_vgMff5o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hG7_vgMff5o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hG7_vgMff5o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-04T23:00:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sHL5P0EVvUI4t9ih7lzUcdTW59c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fR05_A-asmY"
+        },
+        "snippet": {
+          "publishedAt": "2019-08-15T00:45:40Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Hồ Hoàng Yến Hải Ngoại - Nhạc Vàng Bolero Trữ Tình Hay Tê Tái - Nghe Là Kết Ngay Từ Bài Đầu Tiên",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fR05_A-asmY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fR05_A-asmY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fR05_A-asmY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-08-15T00:45:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yPCAjcRQisiMo45sBCme2ANyfKE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BMrcC67hwTw"
+        },
+        "snippet": {
+          "publishedAt": "2020-01-07T23:00:02Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tình Khúc Buồn Hồ Hoàng Yến - Tuyển Tập Tình Khúc Hải Ngoại Chọn Lọc Hay Nhất Hồ Hoàng Yến",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BMrcC67hwTw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BMrcC67hwTw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BMrcC67hwTw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-01-07T23:00:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "x6psQPDwFxcTwo9FwBXTkFoWN00",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5hB8hkf4VVA"
+        },
+        "snippet": {
+          "publishedAt": "2019-10-07T01:56:53Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Hồ Hoàng Yến - Liên Khúc Liveshow Nhạc Trữ Tình Hải Ngoại Mới Hay Nhất Của Ca Sĩ Hồ Hoàng Yến",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5hB8hkf4VVA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5hB8hkf4VVA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5hB8hkf4VVA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-10-07T01:56:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "V7svmSzoXoNI1UPrXd9bnTL4TlI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Jm4_Wb11ArA"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-26T03:25:31Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Hồ Hoàng Yến Hay Nhất - Tình Khúc Trữ Tình Hải Ngoại Hồ Hoàng Yến Lãng Mạn Nhẹ Nhàng Quá Phiêu",
+          "description": "Hồ Hoàng Yến Hay Nhất - Tình Khúc Trữ Tình Hải Ngoại Hồ Hoàng Yến Lãng Mạn Nhẹ Nhàng Quá Phiêu ▻ Đăng ký kênh: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Jm4_Wb11ArA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Jm4_Wb11ArA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Jm4_Wb11ArA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-26T03:25:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eUfWI9qvNlwFIe7kAEDBwRm9Ws8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DVqTO-V_4qs"
+        },
+        "snippet": {
+          "publishedAt": "2019-12-02T23:00:02Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tình Khúc Hải Ngoại Sang Ngang Hồ Hoàng Yến - Tình Ca Lãng Mạn Làm Điên Đảo Hàng Triệu Khán Giả",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DVqTO-V_4qs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DVqTO-V_4qs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DVqTO-V_4qs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-12-02T23:00:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JU29NHkLOaSTWgpD024PW7VSgfY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hdF--PvllV0"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-25T11:43:09Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Hồ Hoàng Yến Hải Ngoại -Tuyển Tập 20 Tình Khúc Hải Ngoại Chọn Lọc Hay Nhất Của Nữ Ca Sĩ Hồ Hoàng Yến",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hdF--PvllV0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hdF--PvllV0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hdF--PvllV0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-25T11:43:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UXK0G1vMH61eOnB2gGekpzcT-V4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oEl3DjPu5a8"
+        },
+        "snippet": {
+          "publishedAt": "2020-01-04T23:00:07Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tình Khúc Lệ Úa Hồ Hoàng Yến - Tan Chảy Trái Tim Với Những Tình Khúc Hải Ngoại Hồ Hoàng Yến",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oEl3DjPu5a8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oEl3DjPu5a8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oEl3DjPu5a8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-01-04T23:00:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jck3i5NialW56Sx-KBd-c4-FVVQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tnM2PCeQ3tU"
+        },
+        "snippet": {
+          "publishedAt": "2020-01-09T23:00:17Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tình Ca Bất Hủ Hay Nhất Hồ Hoàng Yến - Tình Khúc Hải Ngoại Hồ Hoàng Yến Chấn Động Triệu Con Tim",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tnM2PCeQ3tU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tnM2PCeQ3tU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tnM2PCeQ3tU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-01-09T23:00:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FgDbL7UkJhsKIRf_y18MWjAlQZo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Ipe1w5RxK14"
+        },
+        "snippet": {
+          "publishedAt": "2019-08-03T08:10:13Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tuyển Tập Hồ Hoàng Yến Quốc Khanh | Song Ca Trữ Tình Hải Ngoại Có 1 Không 2 | Bao Giờ Biết Tương Tư",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ipe1w5RxK14/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ipe1w5RxK14/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ipe1w5RxK14/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-08-03T08:10:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tOStR390xtFKhTUFVgFtrGs74M4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_9SgaxSvbsc"
+        },
+        "snippet": {
+          "publishedAt": "2019-08-01T01:31:21Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tuyển tập Hồ Hoàng Yến Quốc Khanh chọn lọc    Liên khúc Nhạc Hải ngoại Cho đến cuối cuộc đời",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_9SgaxSvbsc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_9SgaxSvbsc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_9SgaxSvbsc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-08-01T01:31:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5A2REcnR0-R9aXME2H7t_WZjjSE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lShgykX7kks"
+        },
+        "snippet": {
+          "publishedAt": "2020-01-05T23:08:30Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tình Khúc Lãng Mạn Hay Nhất Hồ Hoàng Yến - Sa Mạc Tình Yêu | Tình Ca Hải Ngoại Bất Hủ Để Đời",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lShgykX7kks/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lShgykX7kks/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lShgykX7kks/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-01-05T23:08:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "59RpOEWrJkHC_AcLyqckxxqLDUs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6bU_mzAPcho"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-29T09:00:06Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Tình Lỡ , Lệ Úa - Hồ Hoàng Yến | Tuyển Chọn Những Ca Khúc Nhạc Trữ Tình Bolero Hay Nhất",
+          "description": "Tình Lỡ , Lệ Úa - Hồ Hoàng Yến | Tuyển Chọn Những Ca Khúc Nhạc Trữ Tình Bolero Hay Nhất Nhạc Vàng Bolero Bất Hủ : https://youtu.be/6l-thMw7XO4 Nhạc ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6bU_mzAPcho/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6bU_mzAPcho/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6bU_mzAPcho/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-29T09:00:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "A8lNCdOLcOFEWVDaFGHYmBnOK98",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uJijnzBXQ1U"
+        },
+        "snippet": {
+          "publishedAt": "2020-02-08T02:31:20Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tình Khúc Tuyển Chọn | Hồ Hoàng Yến, Thùy Dương - Tình Khúc Hải Ngoại Bất Hủ Hay Nhất Mọi Thời Đại",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uJijnzBXQ1U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uJijnzBXQ1U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uJijnzBXQ1U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-02-08T02:31:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zWe4cemTAp8pK6w_v4bbCyzebEc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BvpeGq-YTvU"
+        },
+        "snippet": {
+          "publishedAt": "2019-12-02T00:48:18Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tình Khúc Hải Ngoại Hồ Hoàng Yến - Chiều Tím | Tình Ca Hải Ngoại Lãng Mạn Nồng Nàn Để Đời",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BvpeGq-YTvU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BvpeGq-YTvU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BvpeGq-YTvU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-12-02T00:48:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "u2fo_UyzX-gYFRHp_wHutj1DHTo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aCVgzARjIBA"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-27T12:56:50Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Siêu Phẩm Hải Ngoại Hồ Hoàng Yến 2020 - Tình Khúc Trữ Tình Lãng Mạn Bất Hủ Hay Nhất Hồ Hoàng Yến",
+          "description": "Siêu Phẩm Hải Ngoại Hồ Hoàng Yến 2020 - Tình Khúc Trữ Tình Lãng Mạn Bất Hủ Hay Nhất Hồ Hoàng Yến ▻ Đăng ký kênh: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aCVgzARjIBA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aCVgzARjIBA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aCVgzARjIBA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-27T12:56:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WpPNE53UHlr8wzOo69ezsOJVW-E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oCBPlUqhgqs"
+        },
+        "snippet": {
+          "publishedAt": "2019-09-17T06:59:31Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Hồ Hoàng Yến 2019 - Giọng Ca Truyền Cảm | Tuyển Chọn Những Ca Khúc Hải Ngoại Được Yêu Thích Nhất",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oCBPlUqhgqs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oCBPlUqhgqs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oCBPlUqhgqs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-09-17T06:59:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "U4rsRFq7l0nYKJv5UfnJfA71EMY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "w073EIpcE_M"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-03T23:00:24Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Hồ Hoàng Yến 2020 - Chọn Lọc 20 Tình Khúc Hải Ngoại Hồ Hoàng Yến Hay Nhất -Giọng Ca Hút Hồn Khán Giả",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/w073EIpcE_M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/w073EIpcE_M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/w073EIpcE_M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-03T23:00:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4GLpWlzk07pxd8JANDSthCBAwFY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6uaLmDpOLCI"
+        },
+        "snippet": {
+          "publishedAt": "2019-08-10T01:05:23Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Siêu Phẩm Bolero Trữ Tình Hải Ngoại HỒ HOÀNG YẾN - Tuyệt Phẩm Hay Nhất Mọi Thời Đại",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6uaLmDpOLCI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6uaLmDpOLCI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6uaLmDpOLCI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-08-10T01:05:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IAhL8JDWIVck97k_GhREX_VvSVw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "IhAJlYmOGAs"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-20T14:32:06Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Hồ Hoàng Yến - Liên Khúc Buồn, Bão Tình - Tuyển Tập Tình Khúc Hải Ngoại Hồ Hoàng Yến Hay Nhất 2020",
+          "description": "Hồ Hoàng Yến - Liên Khúc Buồn, Bão Tình - Tuyển Tập Tình Khúc Hải Ngoại Hồ Hoàng Yến Hay Nhất 2020 ▻ Đăng ký kênh: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IhAJlYmOGAs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IhAJlYmOGAs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IhAJlYmOGAs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-20T14:32:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LVYOz6ij4rJX0t5dkkCNAvtOCHI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "q0ZWV76d2Pk"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-15T23:00:10Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Hồ Hoàng Yến, Nguyễn Hồng Nhung - Tình Khúc Hải Ngoại Nhẹ Nhàng Lãng Mạn Hay Nhất Mọi Thời Đại",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/q0ZWV76d2Pk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/q0ZWV76d2Pk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/q0ZWV76d2Pk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-15T23:00:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "__XTNW7Ut4do_KvpJvjeW3ea0tk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "y1i95JR-Qog"
+        },
+        "snippet": {
+          "publishedAt": "2019-07-31T00:55:36Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Hồ Hoàng Yến - Tuyển Chọn Những TÌnh Khúc Lãng mạn Tuyệt Đỉnh Của Hồ Hoàng Yến Hải Ngoại",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/y1i95JR-Qog/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/y1i95JR-Qog/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/y1i95JR-Qog/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-07-31T00:55:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "otgPYBME_45DdrWZIFs8SW1eGCI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aGOwQDymOCs"
+        },
+        "snippet": {
+          "publishedAt": "2019-10-02T04:00:01Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Khúc Thụy Du - Hồ Hoàng Yến | Tình Khúc Trữ Tình Hải Ngoại Chọn Lọc Hay Nhất Của Ca Sĩ Hồ Hoàng Yến",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aGOwQDymOCs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aGOwQDymOCs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aGOwQDymOCs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-10-02T04:00:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "J5ZfWtwsmchYWlD7W0rgvQIha7c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "F6RwHQKtM7c"
+        },
+        "snippet": {
+          "publishedAt": "2019-09-19T03:24:04Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tình Lỡ - Hồ Hoàng Yến | Giọng Ca Hải Ngoại Hồ Hoàng Yến Đặc Biệt Hay Nhất - LK Tình Khúc Trữ Tình",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/F6RwHQKtM7c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/F6RwHQKtM7c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/F6RwHQKtM7c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-09-19T03:24:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KpZ2itB1onVMM0PQpJe23waNruc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xvjQ2ipvgnU"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-15T23:30:30Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tình Khúc Hồ Hoàng Yến Mới Nhất - Nửa Hồn Thương Đau | Tình Ca Hải Ngoại Bất Hủ Nghe Hoài Không Chán",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xvjQ2ipvgnU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xvjQ2ipvgnU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xvjQ2ipvgnU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-15T23:30:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dOQ7V7UJ7R3joqhWt1pw4CjPU7w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4qimNEC9y5I"
+        },
+        "snippet": {
+          "publishedAt": "2019-10-13T23:00:02Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Hồ Hoàng Yến Asia | Tuyển Tập Những Tình Khúc Trữ Tình Hải Ngoại Hay Nhất 2019",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4qimNEC9y5I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4qimNEC9y5I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4qimNEC9y5I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-10-13T23:00:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UVBQdORBxgbjyDKRCh67DJjZz28",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Yl_NfSQYPgI"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-11T23:43:20Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Thùy Dương, Hồ Hoàng Yến Chọn Lọc - Tình Khúc Hải Ngoại Lãng Mạn Bất Hủ Hay Nhất",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Yl_NfSQYPgI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Yl_NfSQYPgI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Yl_NfSQYPgI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-11T23:43:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hdQ_uzkqjZ3dP1Re24_jrDLONE8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "buZH5t-hxsM"
+        },
+        "snippet": {
+          "publishedAt": "2020-02-27T23:00:06Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tình Khúc Hồ Hoàng Yến Đặc Biệt Hay Nhất - Tình Khúc Hải Ngoại Nghe 1 Lần Vấn Vương Cả Đời",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/buZH5t-hxsM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/buZH5t-hxsM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/buZH5t-hxsM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-02-27T23:00:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nQifzKEcRHJHJysR1nUAtpwzzvw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Lfo158L-zQw"
+        },
+        "snippet": {
+          "publishedAt": "2020-02-29T23:00:07Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tình Khúc Hồ Hoàng Yến Cực Hay Giọng Ca Có 1 Không 2 | Tình Ca Hải Ngoại Bất Hủ Hay Nhất",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Lfo158L-zQw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Lfo158L-zQw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Lfo158L-zQw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-02-29T23:00:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hMhYZEadRY-LRB8dtoBRll-RMpA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MgRc2x6VkVE"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-09T23:00:02Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tình Khúc Hồ Hoàng Yến Hải Ngoại Vượt Thời Gian - Một Mai Em Đi | Tình Ca Lãng Mạn Bất Hủ Hay Nhất",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MgRc2x6VkVE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MgRc2x6VkVE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MgRc2x6VkVE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-09T23:00:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IPxz8S2eyMiextu4WV3305VrlyY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4aPTvhApf1o"
+        },
+        "snippet": {
+          "publishedAt": "2019-08-31T02:35:58Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "20 Tình Khúc Hải Ngoại Hits Nhất Của Hồ Hoàng Yến - Nhạc Trữ Tình Hải Ngoại Hồ Hoàng Yến Hay Nhất",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4aPTvhApf1o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4aPTvhApf1o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4aPTvhApf1o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-08-31T02:35:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KAd3ZlW605Dxs6CYp6mz91b-jJY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VowPocOqM58"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-03T22:30:02Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tình Khúc Hồ Hoàng Yến - Bão Tình | Những Tình Khúc Làm Mưa Làm Gió Trong Sự Nghiệp Hồ Hoàng Yến",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VowPocOqM58/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VowPocOqM58/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VowPocOqM58/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-03T22:30:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RMW4ZuRfsj5oZ4imH-fWCpwzVCc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dT3Zdy76Ae0"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-19T03:50:47Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tình Khúc Hải Ngoại Hồ Hoàng Yến Cực Hay -1000 Người Nghe Hết 999 Người Nghiện Giọng Ca Hồ Hoàng Yến",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dT3Zdy76Ae0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dT3Zdy76Ae0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dT3Zdy76Ae0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-19T03:50:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Vvye6fyG_1fn8a0nVFKeK_SxKFM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-0XUgn-r5wQ"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-18T09:30:06Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Album Hồ Hoàng Yến Hay Nhất - Chiều Tím | Tình Khúc Hải Ngoại Hồ Hoàng Yến Bất Hủ",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-0XUgn-r5wQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-0XUgn-r5wQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-0XUgn-r5wQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-18T09:30:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AVNWy71RK1Tc3SXmuEFL4E-Lniw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pWBvlqpFiZw"
+        },
+        "snippet": {
+          "publishedAt": "2019-11-02T09:24:34Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tình Ca Hải Ngoại Hồ Hoàng Yến Bất Hủ - Siêu Phẩm Tình Khúc Hồ Hoàng Yến Hay Nhất Mọi Thời Đại",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pWBvlqpFiZw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pWBvlqpFiZw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pWBvlqpFiZw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-11-02T09:24:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6RJmUDScKmbQcrj-r0jB6Vz-zIc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "316OxNtnJsE"
+        },
+        "snippet": {
+          "publishedAt": "2019-08-30T09:26:29Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Hồ Hoàng Yến - Tình Khúc Buồn | Tuyển Tập Tình Khúc Trữ Tình Hải Ngoại Lãng Mạn Hay Nhất",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/316OxNtnJsE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/316OxNtnJsE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/316OxNtnJsE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-08-30T09:26:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NrTa-n7Fx3TUIKIdpoopYoKHtQE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Q4sPxUUwTpU"
+        },
+        "snippet": {
+          "publishedAt": "2020-02-22T23:08:18Z",
+          "channelId": "UCe8ah-gTomHhj4PjbqZQSvQ",
+          "title": "Tình khúc Hồ Hoàng Yến Mới Nhất - Sa Mạc Tình Yêu | Tình Khúc Hải Ngoại Chọn Lọc Hay Nhất",
+          "description": "The best of Hồ Hoàng Yến - Những tình khúc lãng mạn tuyệt vời ▻ Đăng ký kênh: http://hohoangyen.trungtamhaingoai.com Hồ Hoàng Yến Top Hits là kênh sẽ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q4sPxUUwTpU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q4sPxUUwTpU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q4sPxUUwTpU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hồ Hoàng Yến",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-02-22T23:08:18Z"
+        }
+      }
+    ]
+  }
+  
+  

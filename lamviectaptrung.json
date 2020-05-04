@@ -1,0 +1,1664 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/19M3q6LOcAorwP-MV5Nf0UeumvU\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+     "totalResults": 410889,
+     "resultsPerPage": 50
+    },
+    "items": [
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/TgSRKMMXdsvQ1ulAuwhSVmXzIsg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "7gfzFEiE67c"
+      },
+      "snippet": {
+       "publishedAt": "2015-03-03T15:13:17.000Z",
+       "channelId": "UCWr8JALW_9dS5O_fkuhhcmA",
+       "title": "[MUSIC] Nhạc giúp tập trung khi học tập, làm việc",
+       "description": "Tuyển tập những bài hát nhẹ nhàng giúp bạn tập trung tinh thần làm học tập, làm việc được hiệu quả cao.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/7gfzFEiE67c/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/7gfzFEiE67c/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/7gfzFEiE67c/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Minh Tâm",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/UXZzATKjk0f3MFElRfADpDx3Ttg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "5cZILidW1PA"
+      },
+      "snippet": {
+       "publishedAt": "2017-02-20T02:16:57.000Z",
+       "channelId": "UCCbEM8M7H7s4o0KUvwV2ceA",
+       "title": "[Nhạc Sóng Alpha] Tăng khả năng, tập trung, tư duy, IQ, Sáng tạo, nghi nhớ thông tin || Part 1",
+       "description": "[ Nhạc Sóng Alpha ] Tăng khả năng tập chung tư duy, Sáng tạo, nghi nhớ thông tin ||Part1 Sau nhiều giờ làm việc mệt mỏi, ôn thi cấp tốc, bộ não chúng ta...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/5cZILidW1PA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/5cZILidW1PA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/5cZILidW1PA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Khí Công & Y Học Hiện Đại",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/YDdm9-4q3N-zhviHEJgQSuO7Wyw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "0rH0CuUh6KI"
+      },
+      "snippet": {
+       "publishedAt": "2017-10-13T14:20:51.000Z",
+       "channelId": "UCqRtlQwtHz_R4CodxBtCNrg",
+       "title": "Nhạc Không Lời Thư Giãn Cho Đọc Sách, Công Việc Học Tập, Tập Trung Làm Việc",
+       "description": "Nhạc Không Lời Thư Giãn Cho Đọc Sách, Công Việc Học Tập, Tập Trung Làm Việc Đăng Ký Kênh Nhạc Không Lời Thư Giãn: https://goo.gl/HsgXuI Theo dõi ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/0rH0CuUh6KI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/0rH0CuUh6KI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/0rH0CuUh6KI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Không Lời Thư Giãn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_ctdS7nboPu7x8UpHo9MNe6fRFg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "mOODDth0P9U"
+      },
+      "snippet": {
+       "publishedAt": "2016-12-10T04:57:31.000Z",
+       "channelId": "UCsKgPBUVJY0ImF6JOuf2o7g",
+       "title": "Nhạc baroque nghe để học tập trung hơn.",
+       "description": "Nhạc Baroque nghe để tập trung học tập và làm việc hiệu quả vì loại nhạc này duy trì nhịp điệu sáu nhip một phút giúp tâm trí bạn thư giãn để học....",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/mOODDth0P9U/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/mOODDth0P9U/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/mOODDth0P9U/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "MW",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/opPbfb9CcbjuY-Kkvp4Vjt63DMY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "4pZX3QGDVB8"
+      },
+      "snippet": {
+       "publishedAt": "2017-03-24T01:37:11.000Z",
+       "channelId": "UCEk1kgeCHK9eYvwauyXkPlg",
+       "title": "Nhạc học tập giúp tập trung cao độ và sâu hơn #Baroque",
+       "description": "Chúc Bạn Nghe Nhạc Vui Vẻ! Like, Share, Comment và SUBSCRIBE để chia sẽ cảm nhận của các bạn cũng như Không bỏ lỡ các video...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/4pZX3QGDVB8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/4pZX3QGDVB8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/4pZX3QGDVB8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Búa Lua Xua",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/GICfkKfnYSX9KYijBbVnraDj7ek\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "xI_vGLEIqY8"
+      },
+      "snippet": {
+       "publishedAt": "2016-04-21T12:02:03.000Z",
+       "channelId": "UCI4EkMNCqXKXeYVHCHkrhSw",
+       "title": "[Nhạc không lời] Giúp tập trung làm việc, học bài hiệu quả",
+       "description": "Nhạc không lời Giúp tập trung làm việc, học bài hiệu quả. Kênh sưu tầm các bài hát nhạc không lời giúp thư giản giảm cân thẳng mệt mỏi, giúp để...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/xI_vGLEIqY8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/xI_vGLEIqY8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/xI_vGLEIqY8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vietnam Lossless Music",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/fH_R3Mq8jzFfNtTXkLKxc39eaKs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "X8VQ6snA9wU"
+      },
+      "snippet": {
+       "publishedAt": "2016-01-14T15:13:24.000Z",
+       "channelId": "UC3rmVr7TVnDeVi1vqDpRy0Q",
+       "title": "Nhạc Baroque giúp bạn tập trung khi học tập",
+       "description": "link không có quảng cáo nhạc giống y chang: https://www.youtube.com/watch?v=LxwPyeGpZCE file mp3: https://www.mediafire.com/?mlxvwr7r7bjbsc3 Music in ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/X8VQ6snA9wU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/X8VQ6snA9wU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/X8VQ6snA9wU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Huu Nghia Pham",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/3lvsnD-0yzPMXiQa2nvAeyuJ5Sg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "0S6QOfo9enU"
+      },
+      "snippet": {
+       "publishedAt": "2016-06-13T03:06:59.000Z",
+       "channelId": "UCKKsnYcX2vLnP-M-eMe_2WA",
+       "title": "Nhạc giúp tập trung khi học, làm việc. Giảm căng thẳng(Baroque, NLP)",
+       "description": "Đây là loại nhạc baroque thường được người Do Thái sử dụng dùng để nghe khi làm việc hoặc học tập Nó sẽ giúp bạn giải tỏa căng thẳng và mệt...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/0S6QOfo9enU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/0S6QOfo9enU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/0S6QOfo9enU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Remy Nguyễn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/sPAAfoB9nwFlm_vMGSuqN0C68JI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "YvVhWbBO4Fo"
+      },
+      "snippet": {
+       "publishedAt": "2019-12-16T07:17:26.000Z",
+       "channelId": "UCp5qv4CKTQvrL49xoE9G3NA",
+       "title": "Nhạc tăng tư duy tập trung, sáng tạo, ghi nhớ",
+       "description": "Nhạc tăng tư duy tập trung, sáng tạo, ghi nhớ Tăng khả năng tập chung tư duy, Sáng tạo, nghi nhớ thông tin ||Part1 Sau nhiều giờ làm việc mệt mỏi, ôn thi...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/YvVhWbBO4Fo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/YvVhWbBO4Fo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/YvVhWbBO4Fo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "NGUYỄN HỮU VŨ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/vLMXwHYbh5SdlEd5u7EtkMlGpUM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "wzkiZlieVXA"
+      },
+      "snippet": {
+       "publishedAt": "2018-04-03T08:11:49.000Z",
+       "channelId": "UCqRtlQwtHz_R4CodxBtCNrg",
+       "title": "Nhạc Đọc Sách, Làm Việc Học Tập Hiệu Quả - Nhạc Piano Không Lời Hay Nhất 2018",
+       "description": "Nhạc Đọc Sách, Làm Việc Học Tập Hiệu Quả - Nhạc Piano Không Lời Hay Nhất 2018 Đăng Ký Kênh Nhạc Không Lời Thư Giãn: https://goo.gl/HsgXuI Theo dõi ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/wzkiZlieVXA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/wzkiZlieVXA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/wzkiZlieVXA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Không Lời Thư Giãn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nSLV6ACOgzO8fS4UblubdgTHWjI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "9dCppZ65x8E"
+      },
+      "snippet": {
+       "publishedAt": "2015-09-09T22:55:14.000Z",
+       "channelId": "UC0jNYnD_VPTttKtc8a1T55A",
+       "title": "Nhạc Thư Giãn   Giảm căng thẳng mệt mỏi stress   Tập trung học tập Làm việc",
+       "description": "Nhạc thư giãn không lời âm thanh nước chảy róc rách giúp cho bạn tập trung làm việc và học tập hiệu quả . Nhạc này cũng mở để nghỉ ngơi sau những...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/9dCppZ65x8E/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/9dCppZ65x8E/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/9dCppZ65x8E/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Trịnh Mr",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Br0qFfKFelPsWWmhsMsNN-Wdxmg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "zQlGjfdG5Y4"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-09T06:57:19.000Z",
+       "channelId": "UCihMSkB9swddchuTaIDKObA",
+       "title": "Nhạc Hỗ Trợ Tập Trung Làm Việc, Học Tập - Nhạc Kích Thích Sóng Não",
+       "description": "Nhạc Hỗ Trợ Tập Trung Làm Việc, Học Tập - Nhạc Kích Thích Sóng Não #relaxingMusic #Nhactaptrunglamviec #nhachotrohoctap Nhạc nhẹ nhàng giúp kích ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/zQlGjfdG5Y4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/zQlGjfdG5Y4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/zQlGjfdG5Y4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "HG 501",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/pT8dppfzOqiHk-f_87u7DFKrncA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "4SxcgBzCSL4"
+      },
+      "snippet": {
+       "publishedAt": "2016-08-22T03:29:39.000Z",
+       "channelId": "UCTnWc65OE8FAkRJlygOl8rg",
+       "title": "Nhạc Thiền Tĩnh Tâm Tập Trung Làm Việc  Hoa Sen Nước Chảy Tuyệt Hay Và Thư Giãn",
+       "description": "Nếu cảm thấy thiếu tập trung vì môi trường xung quang khá ồn ào hoặc đơn giản bạn muốn tĩnh tâm để nâng cao tình thần, hiệu quả làm việc hay thư...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/4SxcgBzCSL4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/4SxcgBzCSL4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/4SxcgBzCSL4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Cẩm Nang Chị Em",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wK07NjXsnUXmkH3m9D-YePBOcSg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "y9-i0Bnm3uE"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-12T08:38:40.000Z",
+       "channelId": "UC8LaDogPqWNPbOHsYg4x3rA",
+       "title": "Nhạc Baroque giúp bạn tăng khả năng ghi nhớ",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/y9-i0Bnm3uE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/y9-i0Bnm3uE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/y9-i0Bnm3uE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Việt Hoàng Vlog",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wbAEmS4PBmhM3_P8P-HKklhj6Ig\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "kA2vlbki5YA"
+      },
+      "snippet": {
+       "publishedAt": "2017-02-20T05:03:39.000Z",
+       "channelId": "UCCbEM8M7H7s4o0KUvwV2ceA",
+       "title": "[Nhạc Sóng Alpha] Tăng khả năng, tập trung, tư duy, IQ, Sáng tạo, nghi nhớ thông tin || Part 2",
+       "description": "[ Nhạc Sóng Alpha ] Tăng khả năng tập trung tư duy, Sáng tạo, nghi nhớ thông tin ||Part1 Sau nhiều giờ làm việc mệt mỏi, ôn thi cấp tốc, bộ não chúng ta...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/kA2vlbki5YA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/kA2vlbki5YA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/kA2vlbki5YA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Khí Công & Y Học Hiện Đại",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/5hFjmZt2dB9gOGbDTpQbV8zhM2A\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "c12IajJKyLQ"
+      },
+      "snippet": {
+       "publishedAt": "2017-03-03T04:21:12.000Z",
+       "channelId": "UChj-ZV7ipjlidV6m5Uxc2Ww",
+       "title": "Bản nhạc Mozart kích thích trí não, giúp học tập và làm việc đạt hiệu quả cao",
+       "description": "Tại sao phải cho trẻ nhỏ nghe nhạc nhiều? Có nhiều nghiên cứu rằng, nghe nhạc phát triển trí tuệ cho bé giúp tăng bộ nhớ, sự chú ý và những...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/c12IajJKyLQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/c12IajJKyLQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/c12IajJKyLQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Shop Mẹ Yêu Con - Chuyên phân phối cặp chống gù chính hãng",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/RlE8ObWMJh0y3-BFMUTH6JRarso\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "hUrWN08-qAs"
+      },
+      "snippet": {
+       "publishedAt": "2016-07-19T06:54:36.000Z",
+       "channelId": "UCgSNQo-YDN0HAozrPGe3umw",
+       "title": "Nhạc thư giãn không lời, giúp tăng cường trí nhớ tập trung làm việc [relaxing music]",
+       "description": "Nhạc thư giãn không lời, giúp tăng cường trí nhớ tập trung làm việc [relaxing music]",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/hUrWN08-qAs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/hUrWN08-qAs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/hUrWN08-qAs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Việt Giải Trí HD",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_vt-QNLWAGzfAysrJj6ZiQtiMVw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "BhgusWhR0zM"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-19T16:16:40.000Z",
+       "channelId": "UCmET3MuJ0klRE7gaYMC6RWg",
+       "title": "Nhạc đọc sách không lời giúp đọc tập trung, chậm rãi.",
+       "description": "20 cuốn sách nên đọc trước tuổi 30 rất hay, lưu ngay để đọc dần nhé ! 1. Đắc nhân tâm – Dale Carnegie 2. Nhà giả kim – Paulo Coelho 3. Ba người thầy...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/BhgusWhR0zM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/BhgusWhR0zM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/BhgusWhR0zM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuật Giả Kim",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nlwOBOX4fSjEAVyJV5ovg8ZZWvU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "I8eDaLna8-M"
+      },
+      "snippet": {
+       "publishedAt": "2018-11-08T11:00:04.000Z",
+       "channelId": "UCqRtlQwtHz_R4CodxBtCNrg",
+       "title": "Nhạc Đọc Sách Nhẹ Nhàng, Giúp Thư Giãn Tập Trung Học Tập Hiệu Quả",
+       "description": "Nhạc Đọc Sách Nhẹ Nhàng, Giúp Thư Giãn Tập Trung Học Tập Hiệu Quả Đăng Ký Kênh: https://goo.gl/HsgXuI Facebook: https://goo.gl/o1cdtx Google +: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/I8eDaLna8-M/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/I8eDaLna8-M/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/I8eDaLna8-M/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Không Lời Thư Giãn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/5s9HOQkVNn8NMGV6izjMgPmqFB4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "q5xIDD2h6go"
+      },
+      "snippet": {
+       "publishedAt": "2017-07-18T06:59:46.000Z",
+       "channelId": "UCI4EkMNCqXKXeYVHCHkrhSw",
+       "title": "Nhạc Thiền Nâng Cao Trí Tuệ - Khả Năng Tập Trung",
+       "description": "Nhạc Thiền Nâng Cao Trí Tuệ - Khả Năng Tập Trung. Kênh sưu tầm các bài hát nhạc không lời giúp thư giản giảm cân thẳng mệt mỏi, giúp để ngủ tinh...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/q5xIDD2h6go/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/q5xIDD2h6go/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/q5xIDD2h6go/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vietnam Lossless Music",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/P0JdT3friFBRZYGf3fDTxHIaQ2k\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "VeaAw_4lQ04"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-07T02:07:17.000Z",
+       "channelId": "UCH6MFAni9OkjtIwiEegSbeA",
+       "title": "Nhạc Baroque Giúp Bạn Tăng Khả Năng Ghi Nhớ | Hiệu Quả | Tập Trung  - Không Quảng Cáo",
+       "description": "Hãy bỏ ra 5 phút để đọc và nó không lãng phí đâu : đây là 9 cách đơn giản để các bạn thi tốt _(Thứ Nhất)_Thư giãn với giấc ngủ : học nhiều sẽ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/VeaAw_4lQ04/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/VeaAw_4lQ04/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/VeaAw_4lQ04/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Tín Nguyễn Trọng",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nhsqpZ7ooQktbhLr01Lqgxu5WaQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "NlNwW_Z7kJk"
+      },
+      "snippet": {
+       "publishedAt": "2018-05-18T05:21:08.000Z",
+       "channelId": "UCOOrek1gdXzozUCDbFH8afg",
+       "title": "Nhạc Baroque Hay Nhất - Nhạc Kích Thích Trí Não Tăng Khả Năng Ghi Nhớ, Học Tập, Và Làm Việc",
+       "description": "Nhạc Baroque Hay Nhất - Nhạc Kích Thích Trí Não Tăng Khả Năng Ghi Nhớ, Học Tập, Và Làm Việc ĐĂNG KÝ kênh ➥ https://goo.gl/ocrTpB để cập nhật ngay ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/NlNwW_Z7kJk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/NlNwW_Z7kJk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/NlNwW_Z7kJk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Amazing Radio",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/QFwL6CwWqjCZdD2agzYCGBP-Ce8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "wxusZljwtnM"
+      },
+      "snippet": {
+       "publishedAt": "2017-12-17T05:39:58.000Z",
+       "channelId": "UCAHE7TsE9hZ4NAz-JZINmxg",
+       "title": "Nhạc chống buồn ngủ để tập trung học tập",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/wxusZljwtnM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/wxusZljwtnM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/wxusZljwtnM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Pai Pai",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/-NZj8ZgHwi8al4IfpEbhGLpSXow\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "wYrJ4bwRaLs"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-12T07:36:15.000Z",
+       "channelId": "UCIThHMsY91dbxfRNISqPnBQ",
+       "title": "Nhạc Baroque giúp tập trung và tăng hiệu quả làm việc [dicungbe.com]",
+       "description": "Những tập đoàn khổng lồ như IBM và Shell, cùng với một loạt các trường trung học và đại học nổi tiếng, đã và đang sử dụng âm nhạc để giảm...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/wYrJ4bwRaLs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/wYrJ4bwRaLs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/wYrJ4bwRaLs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "dicungbe",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Di85vUkK9Do9CVCQdCb_JR3KaQQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "LooPKZHrurg"
+      },
+      "snippet": {
+       "publishedAt": "2019-03-24T17:59:46.000Z",
+       "channelId": "UCZD1LJh2daQb2XnzR6boprg",
+       "title": "Nhạc tập trung làm việc - Nhạc tập trung học tập",
+       "description": "Nhạc tập trung làm việc Nhạc tập trung học tập.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/LooPKZHrurg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/LooPKZHrurg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/LooPKZHrurg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "8ROS",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/dlhVNhKrDJihElLHN0wtPW__j0s\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "2M0P123laB8"
+      },
+      "snippet": {
+       "publishedAt": "2017-09-26T07:03:06.000Z",
+       "channelId": "UCkjubqGZqEwcxZkGDLsoG2g",
+       "title": "Nhạc Baroque Của Người Do Thái  giúp tập trung học tập và làm việc hiệu quả",
+       "description": "NHẠC BAROQUE LÀ GÌ? Được chứng minh là loại nhạc giúp tăng trí nhớ, sự sáng tạo… Baroque là thể loại nhạc cổ điển thịnh hành vào thế kỷ 17-18...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/2M0P123laB8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/2M0P123laB8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/2M0P123laB8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Felix Pham",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Hukr_JGZ6buJZx21HVXaOf59DD0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "P6rQ5diIuiQ"
+      },
+      "snippet": {
+       "publishedAt": "2014-09-23T20:28:23.000Z",
+       "channelId": "UCfb0ilGBl6ws9uBzLtAnZlQ",
+       "title": "Nhạc sóng não beta tăng cường tập trung và tỉnh táo",
+       "description": "Nhạc sóng beta giúp bạn tỉnh táo và tập trung hơn nhờ bắt đúng cơ chế phát sinh sóng beta của não. Bạn có thể sử dụng nhạc này khi học toán, lý, hóa...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/P6rQ5diIuiQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/P6rQ5diIuiQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/P6rQ5diIuiQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Relaxing Music",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/-cp5bKw7K5kW2DnBk4O7y15_LDA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "1ZHLccIylZY"
+      },
+      "snippet": {
+       "publishedAt": "2014-07-27T07:11:44.000Z",
+       "channelId": "UCVD_BK_vg0Ko6jT5xx5FtXg",
+       "title": "Nhạc cho doanh nhân tập trung, nhạc thư giãn cho học tập, làm việc",
+       "description": "Tiếng dương cầm trầm bổng dễ nghe được phối thêm sóng alpha dao động từ 8-12Hz giúp cho não phải tha hồ được kích thích sáng tạo và ghi nhớ sâu hơn....",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/1ZHLccIylZY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/1ZHLccIylZY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/1ZHLccIylZY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "RitaPhuongThao",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/VVsZmUZjgzbUgGPEOHcYqBHOu60\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Jz157Jeww4o"
+      },
+      "snippet": {
+       "publishedAt": "2017-05-24T02:16:18.000Z",
+       "channelId": "UC2bI4fGUpZKmHw29K4690tw",
+       "title": "Nhạc Không Lời Kích Thích Tập Trung, Giúp Học Tập Tốt Và Làm Việc Hiệu Quả",
+       "description": "Cùng thưởng thức những giai điệu kích thích trí thông minh để giúp chúng ta học tập có kết quả cao và làm việc đạt hiệu quả nhé. ▻Downlod Mp3: https://lic...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Jz157Jeww4o/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Jz157Jeww4o/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Jz157Jeww4o/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Thư Giãn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/5IZhXaingd_q2BFH-OPn_mYjpmo\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Ikt11Pfu5f0"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-03T13:25:35.000Z",
+       "channelId": "UCx5gShqyVTKE6scn2dcxGnw",
+       "title": "Nhạc Thư Giãn Giúp Tập Trung Làm Việc - Nhạc kích thích trí não học tập",
+       "description": "Kiêm 100 Triệu với bán Áo Thun: http://bit.ly/Kiem-100Trieu Kiêm 1000USD/tháng ko cần vốn: http://bit.ly/BanHang-1000-USD Kiếm 1000$ với Quảng Cáo ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Ikt11Pfu5f0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Ikt11Pfu5f0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Ikt11Pfu5f0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Cộng Đồng Affiliate Việt Nam",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/dF4EiQaqse31KULUWVKEQukHAdE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "9T2UsOF7EYc"
+      },
+      "snippet": {
+       "publishedAt": "2016-06-06T18:41:23.000Z",
+       "channelId": "UCLAE2Twi5RkcFadOLeGjdCw",
+       "title": "Nhạc Thư Giãn Giúp Học Tập, Làm Việc Hiệu Quả",
+       "description": "Hãy bật nhạc nền và tập trung vào công việc của mình. Nó sẽ giúp bạn thư giãn, giảm căng thẳng và tập trung hơn. Một ngày học tập và làm việc không...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/9T2UsOF7EYc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/9T2UsOF7EYc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/9T2UsOF7EYc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Jully Yến Phạm",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/X5RiP1O1VsOGlMVxsHnYeODWB9Y\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "IxF0i1OK13w"
+      },
+      "snippet": {
+       "publishedAt": "2016-12-31T05:21:21.000Z",
+       "channelId": "UCKSULz4h6367izlwD7S6QFA",
+       "title": "Những bản nhạc giúp ta tập trung khi làm việc và học tập",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/IxF0i1OK13w/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/IxF0i1OK13w/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/IxF0i1OK13w/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lê Thanh Tùng",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/gCEXp7-uObRP_pdT5nTpvMF2eWU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "PVSb6QKJ3d8"
+      },
+      "snippet": {
+       "publishedAt": "2017-06-19T14:30:10.000Z",
+       "channelId": "UCjXjhzIUrNi2pXi3IKQJszg",
+       "title": "nhạc thư giãn không lời piano tập trung học tập làm việc, dễ ngủ, giảm stress *6",
+       "description": "nhạc thư giãn không lời piano tập trung học tập làm việc, dễ ngủ, giảm stress là nhạc được tập hợp từ những nguồn khác nhau trên mạng. với mục...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/PVSb6QKJ3d8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/PVSb6QKJ3d8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/PVSb6QKJ3d8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc thư giãn hay",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ystIhnSf8CchJbaFA1kMeWo5ISs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "jDzGqYO0Fgw"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-25T06:56:18.000Z",
+       "channelId": "UCUGtI7sOeV9Y9SKlUJDWXnA",
+       "title": "Nhạc Nhật Bản Không Lời Hay Nhất - Piano Nhẹ Nhàng Giúp Tập Trung Học Tập Ngủ Ngon Thư Giãn",
+       "description": "Nhạc Nhật Bản Không Lời Hay Nhất - Piano Nhẹ Nhàng Giúp Tập Trung Học Tập Ngủ Ngon Thư Giãn ♥ Đăng ký kênh để không bỏ lỡ những giai điệu hay bạn ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/jDzGqYO0Fgw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/jDzGqYO0Fgw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/jDzGqYO0Fgw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Super Relax Music ✔",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Cj0-jA4C3WiialMfGxowQDrkGqg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Oz3JBUUiKNY"
+      },
+      "snippet": {
+       "publishedAt": "2017-12-29T16:13:31.000Z",
+       "channelId": "UCR7zhx0BMF-ZLF03Usew_9A",
+       "title": "Nhạc nghe khi làm việc - nhạc tập trung cho công việc -  EDM Acoustic nhẹ nhàng",
+       "description": "Nhạc nghe khi làm việc EDM Acoustic nhẹ nhàng nhạc tập trung cho công việc.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Oz3JBUUiKNY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Oz3JBUUiKNY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Oz3JBUUiKNY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Soi Cầu Siêu Chuẩn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/bv1V66JLVQprvdCeTeVqQWyF300\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "26TZYqjPZcU"
+      },
+      "snippet": {
+       "publishedAt": "2016-12-28T15:59:48.000Z",
+       "channelId": "UC85KEn-fclXBZAe9JgqvgSQ",
+       "title": "Nhạc Baroque giúp tập trung học tập, làm việc âm thanh của nước",
+       "description": "Âm thanh của nước giúp bạn tập trung học tập, làm việc đạt hiệu quả cao.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/26TZYqjPZcU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/26TZYqjPZcU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/26TZYqjPZcU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Toan Nguyen Ngoc",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/aNiueHFdSilpSiDJKKdCy84LH0o\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "9jCthwfTL2A"
+      },
+      "snippet": {
+       "publishedAt": "2019-08-29T18:03:46.000Z",
+       "channelId": "UCZIG3npI9B7oLpH-m4l4jEA",
+       "title": "Nhạc thiền không lời dễ ngủ, tịnh tâm, tập trung làm việc | The Best Music for Sleeping, Relaxing",
+       "description": "IrisOnTheWay #nhacthienkhongloidengu #thebestmusicforsleeping Cám ơn các bạn đã ghé thăm channel của mình! Sau một ngày làm việc vất vả, chúng ta ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/9jCthwfTL2A/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/9jCthwfTL2A/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/9jCthwfTL2A/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Iris On The Way",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ZXmbMrJ9nZbwVbr4nuS_zF2-KTk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "8nxUmL1iQmo"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-21T11:00:01.000Z",
+       "channelId": "UCqRtlQwtHz_R4CodxBtCNrg",
+       "title": "Nhạc Piano Nhẹ Nhàng Giúp Đọc Sách, Học Tập Siêu Hiệu Quả",
+       "description": "Nhạc Piano Nhẹ Nhàng Giúp Đọc Sách, Học Tập Siêu Hiệu Quả #thugian, #docsach Đăng Ký Kênh: https://goo.gl/HsgXuI Facebook: https://goo.gl/o1cdtx ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/8nxUmL1iQmo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/8nxUmL1iQmo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/8nxUmL1iQmo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Không Lời Thư Giãn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/DrouZlrRG5vXdKoC4fWNSODIC1o\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Ffrxh2xezGs"
+      },
+      "snippet": {
+       "publishedAt": "2017-06-02T07:34:46.000Z",
+       "channelId": "UCjXjhzIUrNi2pXi3IKQJszg",
+       "title": "nhạc thư giãn không lời piano tập trung học tập làm việc, dễ ngủ, giảm stress *2",
+       "description": "nhạc thư giãn không lời piano tập trung học tập làm việc, dễ ngủ, giảm stress là nhạc được tập hợp từ những nguồn khác nhau trên mạng. với mục...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Ffrxh2xezGs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Ffrxh2xezGs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Ffrxh2xezGs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc thư giãn hay",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/eQXzJrtjLcsvIpGAzBU7LoJzmPg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "17Nk5fUcM4k"
+      },
+      "snippet": {
+       "publishedAt": "2019-03-03T13:09:59.000Z",
+       "channelId": "UCUpogF2zRQLcx1FhtnR-FhA",
+       "title": "Những bài nhạc giúp tập trung để làm việc và học hành",
+       "description": "Miễn phí mà ngại chi mà không share ủng hộ kênh giúp mình nhé! ▻ Đăng kí miễn phí kênh \"Cartoon tvt\" để không bỏ lỡ video mới nha: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/17Nk5fUcM4k/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/17Nk5fUcM4k/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/17Nk5fUcM4k/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Hờ Rin",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/mrDXk9Y47mq04qkjLHk85z46BQk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "TOh9XXfyxYU"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-11T12:30:00.000Z",
+       "channelId": "UC1f0qpFwJRm5rwoaFhfJx5g",
+       "title": "Nhạc Thiền Hay Nhất 2019 - Nghe để Tăng TẬP TRUNG sau ngày dài làm việc mệt mỏi",
+       "description": "Đăng ký theo dõi Kênh: https://goo.gl/YK85uj ============================== Theo dõi kênh \"Sứ Giả Như Lai\" trên: - G+: https://plus.google.com/u/0/1...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/TOh9XXfyxYU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/TOh9XXfyxYU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/TOh9XXfyxYU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Sứ Giả Như Lai",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Dh0jQpBBryr7_S81FE3dJwhYV5I\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "rcsoOSoN-EM"
+      },
+      "snippet": {
+       "publishedAt": "2020-01-04T10:58:45.000Z",
+       "channelId": "UCQkV6OpcfrCrUky9UXEXw3g",
+       "title": "Nhạc Baroque giúp bạn tập trung khi học tập và làm việc",
+       "description": "Nghiên cứu chỉ ra rằng trạng thái sóng não Alpha làm tăng chất beta-endorphin, noronepinephrine và dopamine. Những chất hóa học tự nhiên được tiết ra ở ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/rcsoOSoN-EM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/rcsoOSoN-EM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/rcsoOSoN-EM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Moonlight Lyrics",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jtF3j_DIXI17s1H5T7_NeG8XBDU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "g1Gy1vG9ohg"
+      },
+      "snippet": {
+       "publishedAt": "2017-04-15T07:45:27.000Z",
+       "channelId": "UCClaDLrlo-h3MLNsMDCKrJw",
+       "title": "NHẠC MOZART CỰC HAY GIÚP TẬP TRUNG HỌC TẬP, LÀM VIỆC",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/g1Gy1vG9ohg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/g1Gy1vG9ohg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/g1Gy1vG9ohg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Alex Nguyen",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/dnjRDOVXi9V0wc1fiJ3wuqIP4CQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "2-FWJ6qUpRM"
+      },
+      "snippet": {
+       "publishedAt": "2019-03-06T05:52:00.000Z",
+       "channelId": "UCsf27HnQtUmKFJ9DNi5CCYg",
+       "title": "[JAZZ] NHẠC TẬP TRUNG: Học tập, Làm việc, Ngủ sâu | Nhẹ Nhàng, Thư Giãn | Sóng Alpha",
+       "description": "Hướng dẫn sử dụng ^^ Người ta nói “hãy nghe nhạc khi học để tăng sự tập trung khi học”. Điều này đúng, nhưng đúng một nửa thôi. Nếu bạn chỉ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/2-FWJ6qUpRM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/2-FWJ6qUpRM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/2-FWJ6qUpRM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Pippi, Zorba & Emin",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/B1j56-yXen0U6j88GeCc7OMe0yA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "e_M6mufKgDA"
+      },
+      "snippet": {
+       "publishedAt": "2019-03-07T08:13:28.000Z",
+       "channelId": "UCsf27HnQtUmKFJ9DNi5CCYg",
+       "title": "[LoFI Hip Hop]  NHẠC TẬP TRUNG: Học tập, Làm việc, Ngủ sâu | Nhẹ Nhàng, Thư Giãn | Sóng Alpha",
+       "description": "Chúng tôi muốn sử dụng âm nhạc để giúp bạn thư giãn và đạt hiệu quả cao hơn trong những việc bạn đang làm, bất kể đó việc gì, dù học tập, làm...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/e_M6mufKgDA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/e_M6mufKgDA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/e_M6mufKgDA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Pippi, Zorba & Emin",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/tKFZvnfb23ai8DQ3CEktWloSorY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "6unZ_HV7DvU"
+      },
+      "snippet": {
+       "publishedAt": "2019-11-04T09:05:27.000Z",
+       "channelId": "UCdoSPrLPr3Y90I-GtrohINQ",
+       "title": "Nhạc Epic sóng não tạo động lực cảm hứng làm việc tập trung - 90 phút Pomodoro",
+       "description": "Tải File mp3 clip trên miễn phí tại https://fususu.com/pomo4 (nhận qua Messenger) Xem hướng dẫn sử dụng https://fususu.com/lam-sao-tap-trung Còn trẻ cứ ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/6unZ_HV7DvU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/6unZ_HV7DvU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/6unZ_HV7DvU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "FuSuSu",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/soOIgCYfa49hx5ZfhUSaZO3kbAQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "rpn32otuOAc"
+      },
+      "snippet": {
+       "publishedAt": "2016-05-09T11:07:37.000Z",
+       "channelId": "UCTySUJ6k_DBzFSuSwbMu-ZA",
+       "title": "Nhạc giao hưởng giúp tập trung trong công việc",
+       "description": "Baroque sóng alpha giúp nhớ lâu và tập trung.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/rpn32otuOAc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/rpn32otuOAc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/rpn32otuOAc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Real Man",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wg37jaXjgCPXxD11q7ICoPfttuQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "aNvprT98vyk"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-23T23:29:20.000Z",
+       "channelId": "UCFCJqxZZgZGVWcgX_jTqj3A",
+       "title": "Sử dụng tai nghe - 8D - [Nhạc Sóng Alpha] Tăng khả năng, tập trung, tư duy, IQ, Sáng tạo - Part 2",
+       "description": "Âm nhạc có một sức mạnh kỳ diệu hơn chúng ta vẫn nghĩ. Đó là khả năng giúp tinh thần hồi phục, nâng cao năng lực tập trung của não bộ và kích hoạt...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/aNvprT98vyk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/aNvprT98vyk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/aNvprT98vyk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Học Tiếng Anh Đơn Giản Thôi",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/l5sBVRhF0Wfv4fnLCBs-9OsdvFc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "xn6bRZP9Efk"
+      },
+      "snippet": {
+       "publishedAt": "2014-06-21T04:46:57.000Z",
+       "channelId": "UCnewYVzdQFzwJ9rrxizGQpw",
+       "title": "[Nhạc Tư Duy] Bản nhạc guitar giúp ích cực nhiều cho việc học tập căng thẳng",
+       "description": "Nhạc baroque - Kích thích tư duy Nhạc Baroque là thể loại nhạc cổ điển thịnh hành vào thế kỷ 17-18 với các nhạc sĩ lỗi lạc như Bach, Vivaldi, … Nhạc...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/xn6bRZP9Efk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/xn6bRZP9Efk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/xn6bRZP9Efk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Duong Sady",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/llzTctAKS32AZPaDhUtlswcbpL4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "80vdnf3Ewv8"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-23T11:33:05.000Z",
+       "channelId": "UCFCJqxZZgZGVWcgX_jTqj3A",
+       "title": "Sử dụng tai nghe - 8D - [Nhạc Sóng Alpha] Tăng khả năng, tập trung, tư duy, IQ, Sáng tạo - Part 1",
+       "description": "Âm nhạc có một sức mạnh kỳ diệu hơn chúng ta vẫn nghĩ. Đó là khả năng giúp tinh thần hồi phục, nâng cao năng lực tập trung của não bộ và kích hoạt...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/80vdnf3Ewv8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/80vdnf3Ewv8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/80vdnf3Ewv8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Học Tiếng Anh Đơn Giản Thôi",
+       "liveBroadcastContent": "none"
+      }
+     }
+    ]
+   }
+   
+   

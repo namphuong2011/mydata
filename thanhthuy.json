@@ -1,0 +1,1664 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_YVkhtmBwkYnUJe5NwgD46XfPYo\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+     "totalResults": 377437,
+     "resultsPerPage": 50
+    },
+    "items": [
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ZjCSVoDGVj-S8AYmdQNgdL23hVs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "TVhJHT3x-EE"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-10T12:30:17.000Z",
+       "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+       "title": "Thanh Thúy - Tuyển Chọn Nhạc Vàng Hay Nhất (Thu âm trước 1975 chất lượng cao)",
+       "description": "Tuyển chọn những bài nhạc vàng và nhạc trữ tình hay nhất qua tiếng hát Thanh Thúy được thu âm trước 1975 #thanhthuy #thuamtruoc75.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/TVhJHT3x-EE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/TVhJHT3x-EE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/TVhJHT3x-EE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Thu Âm Trước 1975",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jJn51gmlF-iA1oFxv2icCc1ujFQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "arjNp_FiWOU"
+      },
+      "snippet": {
+       "publishedAt": "2016-12-21T17:48:15.000Z",
+       "channelId": "UCL7XpZim_FV_eEtztjxNvhA",
+       "title": "THANH THÚY   NHẠC LÍNH TUYỂN CHỌN   TRƯỚC 1975",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/arjNp_FiWOU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/arjNp_FiWOU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/arjNp_FiWOU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Tuấn Phạm",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/q97wXQoZv8S5LhCH55c0JvcaXxc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Us_xaW5ZHDE"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-18T15:17:22.000Z",
+       "channelId": "UCUbMe8JMeuOKgDfDuVeCFwQ",
+       "title": "The Best Of Thanh Thuý Asia | Tuyển Tập Những Ca Khúc Nhạc Vàng, Nhạc Bolero Hay Nhất Của Thanh Thuý",
+       "description": "The Best Of Thanh Thuý Asia | Tuyển Tập Những Ca Khúc Nhạc Vàng, Nhạc Bolero Hay Nhất Của Thanh Thuý ➦ Kênh chúng tôi tuyển tập những tình khúc bất ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Us_xaW5ZHDE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Us_xaW5ZHDE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Us_xaW5ZHDE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Việt Hải Ngoại",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/LIfjPkHzTiBoIMC0VEvcBQ5_RKs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ebp8bToh9Cc"
+      },
+      "snippet": {
+       "publishedAt": "2018-11-09T11:00:05.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "Thanh Thúy | Tiếng Hát Liêu Trai P2 | Duy Khánh, Thanh Tuyền, Trúc Mai",
+       "description": "Mời các bạn lắng nghe những ca khúc gắn liền với tên tuổi Thanh Thúy kết hợp với các ca sĩ Duy Khánh, Thanh Tuyền, Trúc Mai 00:00 LK-Chuyện Buồn Ngày...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ebp8bToh9Cc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ebp8bToh9Cc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ebp8bToh9Cc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/xDbyzUIB30rHjEnIno3fA5QeUTk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "LLCu1wo4M2o"
+      },
+      "snippet": {
+       "publishedAt": "2018-09-23T09:41:45.000Z",
+       "channelId": "UChCGzbPWkCZKj4T6Dj7jE_A",
+       "title": "Nhạc Vàng Tuyển Chọn - Giao Linh,Hoàng Oanh,Phương Dung,Thanh Thúy,Thanh Tuyền (Audio CD)",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/LLCu1wo4M2o/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/LLCu1wo4M2o/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/LLCu1wo4M2o/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Đinh Quốc Anh",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/IW4LnrI8l8ZDqnNz_uCAGgsKxC0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "eyckVBvLadA"
+      },
+      "snippet": {
+       "publishedAt": "2017-04-04T04:40:32.000Z",
+       "channelId": "UCGIBGer2vKaYa0WouTwidWQ",
+       "title": "Tuyển tập nhạc cách mạng - NSƯT Thanh Thúy",
+       "description": "Tuyển tập nhạc cách mạng - NSƯT Thanh Thúy ▽ THEO DÕI : ▻ Subscribe | Theo dõi kênh Thế Giới Giải Trí: https://goo.gl/0jYjKB ▻ Twitter: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/eyckVBvLadA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/eyckVBvLadA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/eyckVBvLadA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thế Giới Giải Trí",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/qXxSOqJkAxRy7kJlUW_Bw-zXJUM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "NSxb-JSOHXo"
+      },
+      "snippet": {
+       "publishedAt": "2017-02-06T04:13:29.000Z",
+       "channelId": "UCgnxSvt7zibiUkPbDg5D4YQ",
+       "title": "Tuyển tập Thanh Thúy | Những ca khúc hay nhất của Thanh Thúy | Thanh Thúy Hải Ngoại",
+       "description": "Thanh Thúy | Những ca khúc hay nhất của Thanh Thúy | Thanh Thúy Hải Ngoại ▻: Đăng ký kênh chính thức Nhạc Phạm Duy: https://goo.gl/buE7zM ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/NSxb-JSOHXo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/NSxb-JSOHXo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/NSxb-JSOHXo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Phạm Duy",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/AWOrrvzLnyfsk7XiV0pKOIwzKRE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "sFdhWGTFvDU"
+      },
+      "snippet": {
+       "publishedAt": "2016-12-21T23:07:11.000Z",
+       "channelId": "UCL7XpZim_FV_eEtztjxNvhA",
+       "title": "NHẠC TUYỂN CHỌN THANH THÚY &amp; HOÀNG OANH",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/sFdhWGTFvDU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/sFdhWGTFvDU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/sFdhWGTFvDU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Tuấn Phạm",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/yrvIXe5xVLnPzYXXS0tPBnTr5M4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "sDyD3WdEwEY"
+      },
+      "snippet": {
+       "publishedAt": "2018-05-13T13:06:34.000Z",
+       "channelId": "UCAKOXTRVsQ1k6zFOTo_Ktkw",
+       "title": "Thanh Thúy - Album tuyển chọn 1 (pre 75)",
+       "description": "List : 1.Giờ này anh ở đâu 2.Chuyện chúng mình 00:05:59 3.Những đồi hoa sim 00:10:33 4.Nỗi buồn gác trọ 00:16:09 5.24 giờ phép 00:20:08 6.Chuyến đi về ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/sDyD3WdEwEY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/sDyD3WdEwEY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/sDyD3WdEwEY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhac SaiGon",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/z2D-gaL4i4M6HEDLAJQFn_hvPEI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "gPa-wuwYRik"
+      },
+      "snippet": {
+       "publishedAt": "2017-11-05T10:55:07.000Z",
+       "channelId": "UCocEzETFQknQ38wwNvUoa9A",
+       "title": "Thanh Thu - Tuyển chọn nhạc vàng hải ngoại hay nhất | Giọng ca độc lạ làm mê mẩn lòng người",
+       "description": "Thanh Thu - Tuyển chọn nhạc vàng hải ngoại hay nhất của Thanh Thu | Giọng ca độc lạ làm mê mẩn lòng người Đăng kí kênh : https://goo.gl/JiJeFQ Liên Khúc..",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/gPa-wuwYRik/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/gPa-wuwYRik/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/gPa-wuwYRik/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "NHẠC VIỆT TUYỂN CHỌN",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/bcfmkjQLbpgyoz1_57Yyc72_j6k\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "rkfmUeCyfRo"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-20T14:30:23.000Z",
+       "channelId": "UCWRXMb39GlHZfDRvlG0MZAA",
+       "title": "Tình Khúc Trữ Tình Lâm Thúy Vân - Tuyển Tập Tình Khúc Hải Ngoại Lâm Thúy Vân Bất Hủ 7749 Muốn Nghe",
+       "description": "Tình Khúc Trữ Tình Lâm Thúy Vân - Tuyển Tập Tình Khúc Hải Ngoại Lâm Thúy Vân Bất Hủ 7749 Muốn Nghe ▻ Đăng Ký Kênh: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/rkfmUeCyfRo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/rkfmUeCyfRo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/rkfmUeCyfRo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lâm Thúy Vân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zBixOuU71sMs2t3yyXX15NEVeQo\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "p9OXuRZezZM"
+      },
+      "snippet": {
+       "publishedAt": "2015-06-10T05:02:40.000Z",
+       "channelId": "UCi10jm8PzhPQi4H5p-vq3sQ",
+       "title": "Tuyển tập nhạc cách mạng - NSƯT Thanh Thúy",
+       "description": "1. Bài ca may áo (Sáng tác: Xuân Hồng) 2. Tiếng đàn Ta Lư (Sáng tác: Huy Thục) 3. Cô gái Pako con cháu Bác Hồ (Sáng tác: Huy Thục) 4. Cô gái vót chông ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/p9OXuRZezZM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/p9OXuRZezZM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/p9OXuRZezZM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thanh Thúy FC",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/UoCYR60iSs3k0vaLapUGSV-Ve1A\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "q5erHyWCJys"
+      },
+      "snippet": {
+       "publishedAt": "2018-05-12T06:24:36.000Z",
+       "channelId": "UCAKOXTRVsQ1k6zFOTo_Ktkw",
+       "title": "Thanh Thúy - Album tuyển chọn 2 (pre 75)",
+       "description": "List : 1.Cho người vào cuộc chiến 2.Đèn khuya 00:07:16 3.Tàu đêm năm cũ 00:12:30 4.Một chuyến bay đêm 00:16:40 5.Buồn trong kỷ niệm 00:21:56 6.Anh ơi ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/q5erHyWCJys/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/q5erHyWCJys/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/q5erHyWCJys/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhac SaiGon",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Pi9JEe8TH90inefNOYQH5u3sVbk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ehu5aRicX54"
+      },
+      "snippet": {
+       "publishedAt": "2018-01-09T04:11:13.000Z",
+       "channelId": "UCjBDSCE4U7M_bwGC48fAdpQ",
+       "title": "Nhạc Xưa Tuyển Chọn - Ciao! Bella 5: Tiếng Hát Thanh Thuý 1",
+       "description": "Ciao! Bella 5 Tiếng Hát Thanh Thuý 1 Anh Ơi Nếu Đừng Dang Dở (Hoài Linh) Đêm Tàn Bến Ngự (Dương Thiệu Tước) Đèn Khuya (Lam Phương) Lạnh Lùng ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ehu5aRicX54/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ehu5aRicX54/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ehu5aRicX54/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Xưa",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/8HTVgnuUie8IHJL1t-ceIDx3fzM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "QLxa3Vhxp5Q"
+      },
+      "snippet": {
+       "publishedAt": "2016-03-06T20:30:59.000Z",
+       "channelId": "UCUVbnHBvd0io6AVfv3FMK4A",
+       "title": "Thanh THúy _Nhạc Vàng Hải  Ngoại Tuyển Chọn",
+       "description": "Thanh THúy _Nhạc Vàng Hải Ngoại Tuyển Chọn Thanh THúy _Nhạc Vàng Hải Ngoại Tuyển Chọn.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/QLxa3Vhxp5Q/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/QLxa3Vhxp5Q/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/QLxa3Vhxp5Q/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Giải Trí Tổng Hợp",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/l3bMQT4Az8g9oIACWsoo-pga9uY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "bziyxnUh4r4"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-19T23:00:11.000Z",
+       "channelId": "UCWRXMb39GlHZfDRvlG0MZAA",
+       "title": "Tình Khúc Trữ Tình Lâm Thúy Vân - Tuyển Tập Tình Khúc Hải Ngoại Lâm Thúy Vân Bất Hủ Vượt Thời Gian",
+       "description": "Tình Khúc Trữ Tình Lâm Thúy Vân - Tuyển Tập Tình Khúc Hải Ngoại Lâm Thúy Vân Bất Hủ Vượt Thời Gian ▻ Đăng Ký Kênh: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/bziyxnUh4r4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/bziyxnUh4r4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/bziyxnUh4r4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lâm Thúy Vân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/S6stmjPR6-zCs6clVPmhcaKaS04\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Ck9jBmDVGcg"
+      },
+      "snippet": {
+       "publishedAt": "2017-05-30T06:35:00.000Z",
+       "channelId": "UCbXMmg_oXY1Lg6z0yX9s4Lg",
+       "title": "Tuyển tập nhạc của 10 nữ danh ca nhạc vàng",
+       "description": "Tuyển tập nhạc hay nhất của Phương Dung, Hoàng Oanh, Hương Lan, Thanh Tuyền, Thanh Thúy, Giao Linh, Thiên Trang, Phương Hồng Quế, Băng Châu, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Ck9jBmDVGcg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Ck9jBmDVGcg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Ck9jBmDVGcg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "That tri Ton",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wJLjbVzPgz14vBHDKZ3xK6X7nf0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "hEWHpBXTOJA"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-01T02:08:38.000Z",
+       "channelId": "UCWRXMb39GlHZfDRvlG0MZAA",
+       "title": "Tuyển Chọn Hải Ngoại Hay Nhức Nhối Lâm Thúy Vân | Nhạc Hải Ngoại Lâm Thúy Vân 2019",
+       "description": "Tình Khúc Trữ Tình Lâm Thúy Vân - Tuyển Tập Tình Khúc Hải Ngoại Lâm Thúy Vân Bất Hủ Vượt Thời Gian ▻ Đăng Ký Kênh: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/hEWHpBXTOJA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/hEWHpBXTOJA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/hEWHpBXTOJA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lâm Thúy Vân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/0dZRA6WWzKS7S6RzOqAdE8BYDh8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "FE703FjjK8M"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-15T00:00:03.000Z",
+       "channelId": "UCUE5Rq3cl3rUQIjQQdiFcuw",
+       "title": "Thúy Huyền, Thúy Hằng Tuyển Tập Siêu Phẩm Bolero Hai Chị Em Hay Ngất Ngây",
+       "description": "Thúy Huyền, Thúy Hằng Tuyển Tập Siêu Phẩm Bolero Hai Chị Em Hay Ngất Ngây ❤️Đừng quên theo dõi kênh GMC Nhạc Xanh để nhận được những ca khúc ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/FE703FjjK8M/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/FE703FjjK8M/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/FE703FjjK8M/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "GMC Nhạc Xanh",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/DfqVV2MG7z88C_Cv6XX1gbQAjx4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "xxZQZMpmeFs"
+      },
+      "snippet": {
+       "publishedAt": "2016-04-14T08:13:48.000Z",
+       "channelId": "UCiCH5QYkQoGhEgV-R_FHw5g",
+       "title": "Những Ca Khúc Hay Nhất Của Thanh Thúy || Nhạc Hải Ngoại Hay Nhất",
+       "description": "Những Ca Khúc Hay Nhất Của Thanh Thúy Nhạc Hải Ngoại Hay Nhất.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/xxZQZMpmeFs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/xxZQZMpmeFs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/xxZQZMpmeFs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Mussic Channel",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/l9vLVEIdTom9hY3OM8-5ZejRnvk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "VIG9ZpyzsSI"
+      },
+      "snippet": {
+       "publishedAt": "2017-09-16T23:13:44.000Z",
+       "channelId": "UCq3tfnBj0CIEw1KGtmCpCFQ",
+       "title": "Nhạc Tuyển Chọn Lọc Thanh Thúy",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/VIG9ZpyzsSI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/VIG9ZpyzsSI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/VIG9ZpyzsSI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Xưa Trước 1975",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/mJ3iy5j8oNr9bf4qfxT8oKQZ-D8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "j25GQi4YNO4"
+      },
+      "snippet": {
+       "publishedAt": "2019-03-16T11:30:04.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "THANH TUYỀN TUYỆT PHẨM - 15 Ca Khúc Nhạc Vàng Xưa Hay Nhất Tuyển Chọn Trước 1975",
+       "description": "THANH TUYỀN TUYỆT PHẨM - 15 Ca Khúc Nhạc Vàng Xưa Hay Nhất Tuyển Chọn Trước 1975 Trung tâm Asia là một trung tâm dẫn đầu trong nền âm nhạc ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/j25GQi4YNO4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/j25GQi4YNO4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/j25GQi4YNO4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/lRgyle7o5cI2Gye0Y6-bV1sRh64\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "UsnutTrH9xk"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-12T16:35:57.000Z",
+       "channelId": "UCI6Caq9k-wlN2O6oenPGQVg",
+       "title": "Nhạc vàng tuyển chọn   Thu âm trước 75   Chế Linh, Thanh Thúy, Giao Linh, Phương Dung",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/UsnutTrH9xk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/UsnutTrH9xk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/UsnutTrH9xk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nam Nguyen",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/eIXL0I9yzZPIO1JIxyH3rJB5rKM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "8kJBoWg9PxU"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-15T01:39:56.000Z",
+       "channelId": "UCd7feLe4vCWNHmcXeNtQ9CQ",
+       "title": "Tuyển Tập Những Ca Khúc Hay Nhất Bùi Thị Thúy ft Trần Hữu Tuấn | Tuyệt Đỉnh Song Ca",
+       "description": "Tuyển Tập Những Ca Khúc Hay Nhất Bùi Thị Thúy ft Trần Hữu Tuấn | Tuyệt Đỉnh Song Ca ▷ ĐĂNG KÝ NGAY KÊNH Bùi Thúy NHÉ: https://goo.gl/j9zjX2 Xem ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/8kJBoWg9PxU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/8kJBoWg9PxU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/8kJBoWg9PxU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Ca Sĩ Bùi Thúy",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/U67PvWwtZS-h1keRn3pxxPkwEJ8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "XU8jVIvjV2A"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-07T14:14:31.000Z",
+       "channelId": "UCWRXMb39GlHZfDRvlG0MZAA",
+       "title": "SIÊU PHẨM LÂM THÚY VÂN | TUYỂN TẬP NHỮNG CA KHÚC HẢI NGOẠI HAY NHẤT - TIẾNG HÁT SAY MÊ LÒNG NGƯỜI",
+       "description": "Tình Khúc Trữ Tình Lâm Thúy Vân - Tuyển Tập Tình Khúc Hải Ngoại Lâm Thúy Vân Bất Hủ Vượt Thời Gian ▻ Đăng Ký Kênh: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/XU8jVIvjV2A/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/XU8jVIvjV2A/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/XU8jVIvjV2A/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lâm Thúy Vân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/rU_5vBcsARyD7W97L9OGJxnsCAg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "7hAE2e_rt5M"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-14T07:15:08.000Z",
+       "channelId": "UCWRXMb39GlHZfDRvlG0MZAA",
+       "title": "Lâm Thúy Vân Tuyển Chọn Hay Nhất | Nhạc Trẻ Hải Ngoại Lâm Thúy Vân Lãng Mạn Hay Nhất 2019",
+       "description": "Tình Khúc Trữ Tình Lâm Thúy Vân - Tuyển Tập Tình Khúc Hải Ngoại Lâm Thúy Vân Bất Hủ Vượt Thời Gian ▻ Đăng Ký Kênh: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/7hAE2e_rt5M/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/7hAE2e_rt5M/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/7hAE2e_rt5M/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lâm Thúy Vân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/-VJPNsZ2t_roL8fBbA6jHHuFG_I\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "NyaU_BrTzQ8"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-26T09:15:00.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "Lâm Thúy Vân Hay Nhất Tuyển Chọn - LK Trữ Tình Hải Ngoại Hay Nhất Của Lâm Thúy Vân",
+       "description": "Lâm Thúy Vân Hay Nhất Tuyển Chọn - LK Trữ Tình Hải Ngoại Hay Nhất Của Lâm Thúy Vân Trung tâm Asia là một trung tâm dẫn đầu trong nền âm nhạc Việt ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/NyaU_BrTzQ8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/NyaU_BrTzQ8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/NyaU_BrTzQ8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/BnDaUmsPgn1b6hl1ycuNU0ptBmU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "LDgQpCTIKkg"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-30T14:23:18.000Z",
+       "channelId": "UCWRXMb39GlHZfDRvlG0MZAA",
+       "title": "Liên Khúc Đêm Vũ Trường Lâm Thúy Vân - Tình Khúc Hải Ngoại Lâm Thúy Vân Nghe Về Đêm Tim Rụng Rời",
+       "description": "Liên Khúc Đêm Vũ Trường Lâm Thúy Vân - Tình Khúc Hải Ngoại Lâm Thúy Vân Nghe Về Đêm Tim Rụng Rời ▻ Đăng Ký Kênh: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/LDgQpCTIKkg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/LDgQpCTIKkg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/LDgQpCTIKkg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lâm Thúy Vân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/6jmuni9EyMntGb5h247HMvS4lFA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "o1S0Dlp2kqA"
+      },
+      "snippet": {
+       "publishedAt": "2019-08-17T12:20:18.000Z",
+       "channelId": "UCWRXMb39GlHZfDRvlG0MZAA",
+       "title": "Lâm Thúy Vân - Giọng Ca Hải Ngoại Đặc Biệt Nhất - Tuyển Tập Nhạc Hải Ngoại Hay Nhất 2019",
+       "description": "Tình Khúc Trữ Tình Lâm Thúy Vân - Tuyển Tập Tình Khúc Hải Ngoại Lâm Thúy Vân Bất Hủ Vượt Thời Gian ▻ Đăng Ký Kênh: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/o1S0Dlp2kqA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/o1S0Dlp2kqA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/o1S0Dlp2kqA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lâm Thúy Vân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/hkCeE_ANR5wR65QxC0bB4Um5_RA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "xjpFhe0_KzY"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-30T23:01:28.000Z",
+       "channelId": "UCWIFrdu7Ctn-DWi2o6M9MVA",
+       "title": "Nhạc Vàng Hải Ngoại KHÔNG QUẢNG CÁO - 100 Bài Bolero Nhạc Vàng Xưa ĐẶC BIỆT Hay Tê Tái",
+       "description": "Nhạc Vàng Hải Ngoại KHÔNG QUẢNG CÁO - 100 Bài Bolero Nhạc Vàng Xưa ĐẶC BIỆT Hay Tê Tái ▻ Theo dõi kênh Nhạc Hay Việt Nam: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/xjpFhe0_KzY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/xjpFhe0_KzY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/xjpFhe0_KzY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Hay Việt Nam",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_SAoMl0tnvf_8DVOvNOodksEsW8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "aWs29FGWoaM"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-10T23:00:00.000Z",
+       "channelId": "UCWRXMb39GlHZfDRvlG0MZAA",
+       "title": "Lâm Thúy Vân - Trung Hành Hát Hay Quá | Tuyển Chọn Nhạc Hải Ngoại Hay Nhất, Được Nghe Nhiều Nhất",
+       "description": "Tình Khúc Trữ Tình Lâm Thúy Vân - Tuyển Tập Tình Khúc Hải Ngoại Lâm Thúy Vân Bất Hủ Vượt Thời Gian ▻ Đăng Ký Kênh: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/aWs29FGWoaM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/aWs29FGWoaM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/aWs29FGWoaM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lâm Thúy Vân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/gKwlO9_RWFsLZnkRoc3Tm5umX2Q\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "q-emtxG6nG4"
+      },
+      "snippet": {
+       "publishedAt": "2019-03-15T11:28:19.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "Tuyệt đỉnh Nhạc Vàng Xưa Hải Ngoại Bất Hủ - Hoàng Oanh, Duy Khánh, Thanh Tuyền",
+       "description": "Tuyệt đỉnh Nhạc Vàng Xưa Hải Ngoại Bất Hủ - Hoàng Oanh, Duy Khánh, Thanh Tuyền Trung tâm Asia là một trung tâm dẫn đầu trong nền âm nhạc Việt Nam, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/q-emtxG6nG4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/q-emtxG6nG4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/q-emtxG6nG4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/eQZpca0iSm1PSpmgxEglK1ozU-g\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "lR8ZsLiR6ks"
+      },
+      "snippet": {
+       "publishedAt": "2020-01-06T10:00:18.000Z",
+       "channelId": "UCjkRDDrO7ae7XdpCdA1VWeg",
+       "title": "Nhạc Vàng Hải Ngoại Xưa ít người biết - Thúy Hằng Tuyển Chọn Hay Nhất Để Đời | Mây Production",
+       "description": "Nhạc Vàng Hải Ngoại Xưa ít người biết - Thúy Hằng Tuyển Chọn Hay Nhất Để Đời | Mây Production ▻ Đăng Ký Kênh (miễn phí) tại : https://bit.ly/32rCmlb...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/lR8ZsLiR6ks/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/lR8ZsLiR6ks/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/lR8ZsLiR6ks/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Hollywood Night Music",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/RcpHGAxtMeW8e3TuZMUEXgPGMIY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "P7BeJHq0GHo"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-02T05:10:01.000Z",
+       "channelId": "UCWRXMb39GlHZfDRvlG0MZAA",
+       "title": "TUYỂN CHỌN 11 CA KHÚC HAY NHẤT CỦA LÂM THÚY VÂN| NHẠC TRẺ BOLERO HẢI NGOẠI LÂM THÚY VÂN ASIA HAY LẮM",
+       "description": "Tình Khúc Trữ Tình Lâm Thúy Vân - Tuyển Tập Tình Khúc Hải Ngoại Lâm Thúy Vân Bất Hủ Vượt Thời Gian ▻ Đăng Ký Kênh: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/P7BeJHq0GHo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/P7BeJHq0GHo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/P7BeJHq0GHo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lâm Thúy Vân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/kk3N4f5GzzO5U3jp3G7NLJc0My8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "E1N4Nm31Yd8"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-10T13:23:27.000Z",
+       "channelId": "UCWRXMb39GlHZfDRvlG0MZAA",
+       "title": "Tuyển Tập Nhạc Lâm Thúy Vân Asia | Những Ca Khúc Nhạc Trẻ Hải Ngoại Hay Nhất Của Nữ Ca Sĩ Hải Ngoại",
+       "description": "Tình Khúc Trữ Tình Lâm Thúy Vân - Tuyển Tập Tình Khúc Hải Ngoại Lâm Thúy Vân Bất Hủ Vượt Thời Gian ▻ Đăng Ký Kênh: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/E1N4Nm31Yd8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/E1N4Nm31Yd8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/E1N4Nm31Yd8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lâm Thúy Vân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ZpB2hwR_z6e3tex_BiIdnSGU2Z0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "7CrQEUAue_s"
+      },
+      "snippet": {
+       "publishedAt": "2020-05-01T23:00:02.000Z",
+       "channelId": "UCWIFrdu7Ctn-DWi2o6M9MVA",
+       "title": "NHẠC VÀNG HẢI NGOẠI Nghe 1000 Lần Vẫn Không Chán - LK Bolero Sôi Động CĂNG ĐÉT 2020",
+       "description": "NHẠC VÀNG HẢI NGOẠI Nghe 1000 Lần Vẫn Không Chán - LK Bolero Sôi Động CĂNG ĐÉT 2020 ▻ Theo dõi kênh Nhạc Hay Việt Nam: https://goo.gl/u7F19L ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/7CrQEUAue_s/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/7CrQEUAue_s/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/7CrQEUAue_s/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Hay Việt Nam",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/hUsX4M7b2PwIjrVCuEAmKgeL-9M\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "XeVqgAKOwz0"
+      },
+      "snippet": {
+       "publishedAt": "2019-11-15T11:00:12.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "PBN129 Dynasty Collection | Tuyển Chọn Nhạc BOLERO Hay Nhất",
+       "description": "Tuyển Chọn Nhạc BOLERO Hay Nhất Paris By Night 129 - Dynasty 1. LK Vùng Lá Me Bay (Anh Việt Thanh) & Dấu Chân Kỷ Niệm (Thúc Đăng) Thanh Tuyền, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/XeVqgAKOwz0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/XeVqgAKOwz0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/XeVqgAKOwz0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ggVerQpqKZR6ujAJPqu23jZHd4M\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "NaSq9oQH06g"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-10T11:00:09.000Z",
+       "channelId": "UCWRXMb39GlHZfDRvlG0MZAA",
+       "title": "Lâm Thúy Vân - Nghe Là Phiêu Theo Nhạc | Tuyển Chọn Những Bài Hát Hải Ngoại Hay Lâm Thúy Vân",
+       "description": "Tình Khúc Trữ Tình Lâm Thúy Vân - Tuyển Tập Tình Khúc Hải Ngoại Lâm Thúy Vân Bất Hủ Vượt Thời Gian ▻ Đăng Ký Kênh: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/NaSq9oQH06g/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/NaSq9oQH06g/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/NaSq9oQH06g/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lâm Thúy Vân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/HdK9Lq89gG2vDXK4v1K4IerskSM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "sTN0SQ0Y-tE"
+      },
+      "snippet": {
+       "publishedAt": "2019-11-03T13:38:12.000Z",
+       "channelId": "UCWRXMb39GlHZfDRvlG0MZAA",
+       "title": "The Best Of Lâm Thúy Vân | Tuyển Tập 20 Ca Khúc Hải Ngoại Hay Nhất Của ca Sĩ Lâm Thúy Vân",
+       "description": "Tình Khúc Trữ Tình Lâm Thúy Vân - Tuyển Tập Tình Khúc Hải Ngoại Lâm Thúy Vân Bất Hủ Vượt Thời Gian ▻ Đăng Ký Kênh: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/sTN0SQ0Y-tE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/sTN0SQ0Y-tE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/sTN0SQ0Y-tE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lâm Thúy Vân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/cvUhwKHEKB3e95MQajkSR81eLio\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "nSu9L5ZJO4A"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-30T11:15:36.000Z",
+       "channelId": "UCWRXMb39GlHZfDRvlG0MZAA",
+       "title": "LÂM THÚY VÂN ASIA | TUYỂN CHỌN NHỮNG CA KHÚC NHẠC TRẺ HẢI NGOẠI HAY NHẤT CỦA LÂM THÚY VÂN",
+       "description": "Tình Khúc Trữ Tình Lâm Thúy Vân - Tuyển Tập Tình Khúc Hải Ngoại Lâm Thúy Vân Bất Hủ Vượt Thời Gian ▻ Đăng Ký Kênh: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/nSu9L5ZJO4A/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/nSu9L5ZJO4A/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/nSu9L5ZJO4A/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lâm Thúy Vân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/GkvxS07dyTfQrKNgjt1g5HhAl0k\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "hH-NfpJ9yL4"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-07T10:00:05.000Z",
+       "channelId": "UCWRXMb39GlHZfDRvlG0MZAA",
+       "title": "Lâm Thúy Vân - Don Hồ - Loan Châu Tuyển Chọn Những Ca Khúc Hải Ngoại Hay Nhất",
+       "description": "Tình Khúc Trữ Tình Lâm Thúy Vân - Tuyển Tập Tình Khúc Hải Ngoại Lâm Thúy Vân Bất Hủ Vượt Thời Gian ▻ Đăng Ký Kênh: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/hH-NfpJ9yL4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/hH-NfpJ9yL4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/hH-NfpJ9yL4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lâm Thúy Vân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/DQwxlalLKBzRyw6etRgsviF85wo\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "-6PllZc5qe4"
+      },
+      "snippet": {
+       "publishedAt": "2017-12-06T00:00:01.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "Giáng Sinh Đặc Biệt | FULL SHOW | Như Quỳnh, Mạnh Đình, MC Kỳ Duyên (ASIA 6 Full Program)",
+       "description": "Giáng Sinh Đặc Biệt | FULL SHOW | Như Quỳnh, Mạnh Đình, MC Kỳ Duyên (ASIA 6 Full Program) 01. Liên Khúc Giáng Sinh - Nini,Vina,Hạ Vy,Lâm Nhật Tiến ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/-6PllZc5qe4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/-6PllZc5qe4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/-6PllZc5qe4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/HpZQa5BBuMBfbfftxJ27DB9EwQs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "mhpNL-wSrao"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-24T00:48:19.000Z",
+       "channelId": "UCWRXMb39GlHZfDRvlG0MZAA",
+       "title": "Lâm Thúy Vân - Don Hồ - Trung Hành Song Ca | Tuyển Tập Những Bài Hát Song Ca Hay Nhất Lâm Thúy Vân",
+       "description": "Tình Khúc Trữ Tình Lâm Thúy Vân - Tuyển Tập Tình Khúc Hải Ngoại Lâm Thúy Vân Bất Hủ Vượt Thời Gian ▻ Đăng Ký Kênh: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/mhpNL-wSrao/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/mhpNL-wSrao/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/mhpNL-wSrao/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lâm Thúy Vân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/l1cMPKsa2D5GJruNELGf-aqMbuk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ItzPBAi0SrM"
+      },
+      "snippet": {
+       "publishedAt": "2019-03-22T09:15:01.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "NHƯ QUỲNH và 20 Ca Khúc Nhạc Vàng Hải Ngoại Tuyển Chọn - Như Quỳnh Hay Nhất",
+       "description": "NHƯ QUỲNH và 20 Ca Khúc Nhạc Vàng Hải Ngoại Tuyển Chọn - Như Quỳnh Hay Nhất Trung tâm Asia là một trung tâm dẫn đầu trong nền âm nhạc Việt Nam, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ItzPBAi0SrM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ItzPBAi0SrM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ItzPBAi0SrM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/FYaOUsXBwhPNyM9A4zXnUpmLlZw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "S5AlNokS4Kg"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-27T23:00:02.000Z",
+       "channelId": "UCpKbKbV1DP-rko5PomQmuqw",
+       "title": "Băng Châu Thanh Tuyền || Tuyển Tập Nhạc Thu Âm Trước 1975 Hay Nhất - Nhạc Vàng Hải Ngoại Xưa",
+       "description": "Đăng ký kênh Thúy Anh Productions: https://goo.gl/rcPLZE ▻ Xem thêm Nhạc Vàng Hải Ngoại tại đây: Liên Khúc Tuấn Vũ 1, 2, 3, 4, 5, 6, 7, 8, 9, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/S5AlNokS4Kg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/S5AlNokS4Kg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/S5AlNokS4Kg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Anh Productions",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/mmvkIbWWnru24ljM8MvMULEIxpE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "aLzIqPaLs3Y"
+      },
+      "snippet": {
+       "publishedAt": "2017-08-02T07:15:10.000Z",
+       "channelId": "UCqrt4gSwq90wiVRbg2AhzCA",
+       "title": "THUÝ HẰNG BOLERO-Album Tuyển Chọn Những Ca Khúc Nhạc Vàng Hay Nhất Của Thuý Hằng",
+       "description": "Ca sĩ hải ngoại Thuý Hằng nổi tiếng với ca khúc Cô Lái Đò Bến Hạ, Mười Năm Áo Tím, Hàn Mặc Tử.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/aLzIqPaLs3Y/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/aLzIqPaLs3Y/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/aLzIqPaLs3Y/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Trữ Tình Quê Hương",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/bDK5RhQ8argsc9D3AyWZ9s_s8Kg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "_QUjyp5eaDA"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-21T13:00:12.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Paris By Night 130 in Singapore - Glamour (Full Program)",
+       "description": "Paris By Night 130 in Singapore - Glamour (Full Program) 1. Phần Mở Đầu 0:08 2. Đừng Là Một Thoáng Mê Say © (Nhạc: Tùng Châu, Lời: Thái Thịnh) Như ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/_QUjyp5eaDA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/_QUjyp5eaDA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/_QUjyp5eaDA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/A10qkF34dbMhlafze3SaQSKAeH8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "rD1MzeKsWWA"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-06T04:58:05.000Z",
+       "channelId": "UCWRXMb39GlHZfDRvlG0MZAA",
+       "title": "LÂM THÚY VÂN HAY NHẤT TUYỂN CHỌN - LK TRỮ TÌNH HẢI NGOẠI HAY NHẤT CỦA LÂM THÚY VÂN",
+       "description": "Tình Khúc Trữ Tình Lâm Thúy Vân - Tuyển Tập Tình Khúc Hải Ngoại Lâm Thúy Vân Bất Hủ Vượt Thời Gian ▻ Đăng Ký Kênh: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/rD1MzeKsWWA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/rD1MzeKsWWA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/rD1MzeKsWWA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lâm Thúy Vân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/h1WwBwXPfWM2ttFgA6gbDZCYM50\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "PUySwuHbU3U"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-02T15:38:54.000Z",
+       "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+       "title": "Duy Khánh - Tuyển Chọn Nhạc Vàng Hay Nhất (Thu âm trước 1975 chất lượng cao)",
+       "description": "Tuyển chọn hơn 100 bài hát của ca sĩ Duy Khánh đã thu âm trước năm 1975 #duykhanh #thuamtruoc75.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/PUySwuHbU3U/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/PUySwuHbU3U/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/PUySwuHbU3U/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Thu Âm Trước 1975",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/WI1NnvocZOCH0MSMEPPk3RDFazE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "pVarRbnsnMc"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-29T22:30:09.000Z",
+       "channelId": "UC9815rcr0VNFYRpqbF-5PuA",
+       "title": "KẺ Ở MIỀN XA - NHẠC VÀNG LÍNH CHIẾN NGHE KỶ NIỆM CHỢT ÙA VỀ LÒNG BUỒN SẦU MAN MÁC",
+       "description": "KẺ Ở MIỀN XA - NHẠC VÀNG LÍNH CHIẾN NGHE KỶ NIỆM CHỢT ÙA VỀ LÒNG BUỒN SẦU MAN MÁC Nhạc vàng Chế Linh để đời: https://bit.ly/2EyHYkq ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/pVarRbnsnMc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/pVarRbnsnMc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/pVarRbnsnMc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Chế Linh Tuyển Chọn",
+       "liveBroadcastContent": "none"
+      }
+     }
+    ]
+   }
+   
+   

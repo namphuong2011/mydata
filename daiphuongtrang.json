@@ -1,0 +1,1664 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/tQf-8zL899A40LOnShIInevvbC0\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+     "totalResults": 311971,
+     "resultsPerPage": 50
+    },
+    "items": [
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/XDqwmuJmNUBWorITe4P41wakXMM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "QXJAb3n_9GE"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-20T10:30:20.000Z",
+       "channelId": "UCOLz1DeB5feBB8yapdUBGYw",
+       "title": "Tuyển Tập Những Ca Khúc Để Đời Của Nhạc Sĩ ĐÀI PHƯƠNG TRAN",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/QXJAb3n_9GE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/QXJAb3n_9GE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/QXJAb3n_9GE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Tan Q",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/5gO6iWLpBLdKDofSW1em3xhumv0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "pdDi9Y2EKIg"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-03T21:42:08.000Z",
+       "channelId": "UC9Akdh8jfUB4A3wJQhnbkQA",
+       "title": "NHỮNG CA KHÚC HAY NHẤT CỦA ĐÀI PHƯƠNG TRANG [12 Ca Khúc] (Super HD Videos)",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/pdDi9Y2EKIg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/pdDi9Y2EKIg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/pdDi9Y2EKIg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Ngoc Tran",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/MMzqFMY8FPCkw_97LzBoz29K0iw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "wjLoU1y9RaA"
+      },
+      "snippet": {
+       "publishedAt": "2017-04-02T02:27:58.000Z",
+       "channelId": "UCy-bFlbdxHue-l01Z82VP3Q",
+       "title": "Tuyệt Đỉnh Song Ca Bolero Thiên Quang &amp; Quỳnh Trang 2017 │Đường Tím Bằng Lăng &amp; Thuyền Xa Bến Đỗ",
+       "description": "Record & mix : Võ Hoàng Studio ▻Director : Lâm MP - Nhàn CD ▻Editor : Thiên Quang ▻VIDEO BY / VO HOANG ENTERTAINMENT ▻Facebook ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/wjLoU1y9RaA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/wjLoU1y9RaA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/wjLoU1y9RaA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Võ Hoàng Entertainment",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/XKaIZOrMFGnYaUBEz3Wsl5i-d18\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "jTZKysNY0-E"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-22T23:30:01.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "Tiếng Hát Thiên Trang - Tình Như Giấc Mơ | Nhạc Vàng Xưa Thiên Trang Tuyển Chọn",
+       "description": "Tiếng Hát Thiên Trang - Tình Như Giấc Mơ | Nhạc Vàng Xưa Thiên Trang Tuyển Chọn 1/ Mưa Rừng (Huỳnh Anh) 2/ Tango Dĩ Vãng (Anh Bằng) 3/ Mưa Đêm ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/jTZKysNY0-E/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/jTZKysNY0-E/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/jTZKysNY0-E/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/bRxHiVQNaQkoW2zyTm9pOeMXiuE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "xGXK7a5C6yw"
+      },
+      "snippet": {
+       "publishedAt": "2020-01-11T12:00:10.000Z",
+       "channelId": "UCxwO7G-j1R7ZsavQuAGE4dA",
+       "title": "Album Bolero Chào Mừng Xuân Canh Tý 2020 | Cánh Thiệp Đầu Xuân - Ước Nguyện Đầu Xuân | Phương Anh",
+       "description": "Track list: 1. Cánh Thiệp Đầu Xuân 2. Ước Nguyện Đầu Xuân 3. Rước Xuân Về Nhà 4. Đan Áo Mùa Xuân (ft Phương Ý) 5. Đón Xuân Này Nhớ Xuân Xưa 6.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/xGXK7a5C6yw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/xGXK7a5C6yw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/xGXK7a5C6yw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Phương Anh Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/3PywnJzIqnTZzKNSaToT7ZvZ0IE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "zYRwVvcv4Mg"
+      },
+      "snippet": {
+       "publishedAt": "2017-04-27T09:22:45.000Z",
+       "channelId": "UC0Vx9HuGA_d1pLJQ3A2glNg",
+       "title": "Đắp Mộ Cuộc Tình - Lk Nhạc Vàng Hải Ngoại Buồn Hay Nhất - Randy Nhạc Vàng",
+       "description": "Đắp Mộ Cuộc Tình - Lk Nhạc Vàng Hải Ngoại Buồn Hay Nhất - Randy Nhạc Vàng Randy Mỹ Huyền - Song Ca Nhạc Vàng https://goo.gl/0mWBxC Nhạc Vàng ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/zYRwVvcv4Mg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/zYRwVvcv4Mg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/zYRwVvcv4Mg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Ca Sĩ RANDY",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/YdlErhWJv9VLyQKulg7B2wSCi78\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "fY-DFoiMQkA"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-29T09:22:22.000Z",
+       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
+       "title": "Hoa Tím Người Xưa - Người Tình Không Đến - Quỳnh Trang - Lk Bolero Buồn Nghe Khóc Nức Nở",
+       "description": "Hoa Tím Người Xưa - Người Tình Không Đến - Quỳnh Trang - Lk Bolero Buồn Nghe Khóc Nức Nở Mix - master : Võ Hoàng Studio Produced by Võ Hoàng ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/fY-DFoiMQkA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/fY-DFoiMQkA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/fY-DFoiMQkA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhịp Cầu Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/6SvF5EWjTnlvl4DSws2kUI2M4rg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "LspVyUMSvp8"
+      },
+      "snippet": {
+       "publishedAt": "2018-01-08T01:02:46.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Paris By Night 78 - Tình Khúc CHÂU KỲ",
+       "description": "Paris By Night 78 - Đường Xưa Tình Khúc CHÂU KỲ 1. Túy Ca (Lời: Trương Minh Dũng) Chế Linh 2:20 2. LK Khuya Nay Anh Ði Rồi, Em Không Buồn Nữa Chị ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/LspVyUMSvp8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/LspVyUMSvp8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/LspVyUMSvp8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/iwNce0fBwAQ2_5cC5iET1nRYfFc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "gARt0zc4BZk"
+      },
+      "snippet": {
+       "publishedAt": "2018-03-02T07:17:47.000Z",
+       "channelId": "UCpKbKbV1DP-rko5PomQmuqw",
+       "title": "Lynda Trang Đài - Tuyển Chọn Liên Khúc Hải Ngoại Xưa Hay Nhất Của Lynda Trang Đài",
+       "description": "Thúy Anh Productions sẽ là kênh chính thức của các bản nhạc xưa, nhạc vàng, nhạc lính, nhạc bolero của các danh ca hải ngoại bất hủ để đời. Bấm...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/gARt0zc4BZk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/gARt0zc4BZk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/gARt0zc4BZk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Anh Productions",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/mqUJwCWNk3rZQE31hycW37s8R2w\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "PAigSPBSGlA"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-30T09:48:56.000Z",
+       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
+       "title": "Trả Nhẫn Kim Cương - Giọt Lệ Đài Trang - Ca Sĩ Trẻ Xinh Đẹp Hát Bolero Buồn Tê Tái",
+       "description": "Mix - master : Võ Hoàng Studio Produced by Võ Hoàng Entertainment Nhịp Cầu Bolero là kênh âm nhạc với những sản phẩm chất lượng của những ca sĩ thuộc ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/PAigSPBSGlA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/PAigSPBSGlA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/PAigSPBSGlA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhịp Cầu Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wdh8YiggS71EN1hw1snSc7s5dAg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "VyF9T2nyrdU"
+      },
+      "snippet": {
+       "publishedAt": "2019-08-24T15:09:24.000Z",
+       "channelId": "UCe6cXjwSfDldt4YGN6of7PQ",
+       "title": "Trực Tiếp Đêm Nhạc Mùa Thu Và Người Tình của NS Đài Phương Trang",
+       "description": "Đêm nhạc với khoảng gần 20 ca khúc trong kho tàng khoảng hơn 500 sáng tác của nhạc sĩ Đài Phương Trang - người nhạc sĩ đang ở tuổi 79 khi đến năm 2019 ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/VyF9T2nyrdU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/VyF9T2nyrdU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/VyF9T2nyrdU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "InfoSEE Channel",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wI9KUaJJ1ET4PW5TP4iixE1TKNQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "rqZ1Xx1oxTA"
+      },
+      "snippet": {
+       "publishedAt": "2019-09-29T16:10:40.000Z",
+       "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+       "title": "CHUÔNG VÀNG VỌNG CỔ 2019 | ĐÊM CHUNG KẾT 4 | 29/9",
+       "description": "CHUÔNG VÀNG VỌNG CỔ 2019 | ĐÊM CHUNG KẾT 4 | 29/9 ******************** HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/rqZ1Xx1oxTA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/rqZ1Xx1oxTA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/rqZ1Xx1oxTA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "HTV Entertainment",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/QrGstZngHGcy6Zy2JND5f-EC-NY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "rJll5XsKnmI"
+      },
+      "snippet": {
+       "publishedAt": "2017-09-20T16:25:46.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Hài Hoài Linh &quot;Mộng Ca Sĩ&quot; | PBN 87 | Hoài Linh, Chí Tài, Hữu Lộc, Calvin Hiệp",
+       "description": "Hài Hoài Linh - \"Mộng Ca Sĩ\" - Hoài Linh, Chí Tài, Hữu Lộc, Calvin Hiệp PARIS BY NIGHT 87 - Talent Show Finals ©2007. Thuy Nga Productions. All Rights ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/rJll5XsKnmI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/rJll5XsKnmI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/rJll5XsKnmI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/pekWYXpVed60HHAcuuFHiS37ARI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "kMhojlji2cQ"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-19T11:30:00.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "Bảo Tuấn Tuyển Chọn - Những Bài Nhạc Vàng Xưa Hay Nhất Của Bảo Tuấn",
+       "description": "Bảo Tuấn Tuyển Chọn - Những Bài Nhạc Vàng Xưa Hay Nhất Của Bảo Tuấn 1. Hai mùa mưa 2. Tím cả chiều hoang 3. Tâm sự người lính trẻ 4. Nó 5. Loan mắt.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/kMhojlji2cQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/kMhojlji2cQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/kMhojlji2cQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ibAMNghFMlSclasoU1XCwg4mXnU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Nt7udo7g-vM"
+      },
+      "snippet": {
+       "publishedAt": "2017-08-05T14:00:04.000Z",
+       "channelId": "UCruaM4824Rr_ry7fsD5Jwag",
+       "title": "THVL | Ca sĩ giấu mặt 2017- Tập 10 FULL: Ca sĩ Đàm Vĩnh Hưng",
+       "description": "Với tiêu chí tôn vinh ca sĩ chính và tìm ra các thí sinh tài năng, Ca sĩ giấu mặt mùa 3 hứa hẹn sẽ tiếp tục bùng nổ với màu sắc giải trí riêng của...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Nt7udo7g-vM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Nt7udo7g-vM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Nt7udo7g-vM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "THVL Giải Trí",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/WI1NnvocZOCH0MSMEPPk3RDFazE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "pVarRbnsnMc"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-29T22:30:09.000Z",
+       "channelId": "UC9815rcr0VNFYRpqbF-5PuA",
+       "title": "KẺ Ở MIỀN XA - NHẠC VÀNG LÍNH CHIẾN NGHE KỶ NIỆM CHỢT ÙA VỀ LÒNG BUỒN SẦU MAN MÁC",
+       "description": "KẺ Ở MIỀN XA - NHẠC VÀNG LÍNH CHIẾN NGHE KỶ NIỆM CHỢT ÙA VỀ LÒNG BUỒN SẦU MAN MÁC Nhạc vàng Chế Linh để đời: https://bit.ly/2EyHYkq ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/pVarRbnsnMc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/pVarRbnsnMc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/pVarRbnsnMc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Chế Linh Tuyển Chọn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/MjBHTJ3lEQ-97LIBRsE-8XsAoks\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "R9R6Vpon2I4"
+      },
+      "snippet": {
+       "publishedAt": "2019-08-08T09:27:22.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "Liên Khúc Ba Tháng Tạ Từ, Vườn Tao Ngộ - Phi Nhung, Tuấn Vũ, Sơn Tuyền",
+       "description": "Liên Khúc Ba Tháng Tạ Từ, Vườn Tao Ngộ - Phi Nhung, Tuấn Vũ, Sơn Tuyền Đan Nguyên Bolero Hay Nhất: https://youtu.be/Dj3xtFKtFKI Trường Vũ Nhạc Vàng: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/R9R6Vpon2I4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/R9R6Vpon2I4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/R9R6Vpon2I4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Vuga_Ea8c_JoaZjUPCYGM6klzVU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "9tPs7IaNsmc"
+      },
+      "snippet": {
+       "publishedAt": "2019-08-28T13:00:04.000Z",
+       "channelId": "UCgfNV0QyjZp5bkimyksbAYw",
+       "title": "Ngất Ngây LK trữ tình RUỘNG ĐỢI PHÙ SA|Lưu Chí Vỹ Cùng 8 Mỹ Nhân Bolero|Lưu Ánh Loan, Quỳnh Trang,..",
+       "description": "Ngất Ngây Với Liên Khúc Trữ Tình | THƯƠNG LẮM | RUỘNG ĐỢI PHÙ SA | Lưu Chí Vỹ Hát Cùng 8 Mỹ Nhân Bolero Tài Sắc | Lưu Ánh Loan , Diễm Thuỳ, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/9tPs7IaNsmc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/9tPs7IaNsmc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/9tPs7IaNsmc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lưu Chí Vỹ Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/U60XpydCHwA35xZB0gcOaUR1BfA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "vrTo2xbeTOM"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-26T09:31:46.000Z",
+       "channelId": "UCaPcemDgLgWlm-cc_lF0Vgw",
+       "title": "Rụng Rời Con Tim Khi Nghe Chàng Trai Đông Dương Cất Tiếng Hát - Sến Ơi Là Sến",
+       "description": "Rụng Rời Con Tim Khi Nghe Chàng Trai Đông Dương Cất Tiếng Hát - Sến Ơi Là Sến ♫ Google Plus : https://goo.gl/Eaeob0 ♫ Subscribe: https://goo.gl/fyQTP3 ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/vrTo2xbeTOM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/vrTo2xbeTOM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/vrTo2xbeTOM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nam Việt Trữ Tình",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/f3Wpz0MrWr-XoSYTMTBEXT-CTiM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "84dSo9wfupg"
+      },
+      "snippet": {
+       "publishedAt": "2019-08-15T09:30:01.000Z",
+       "channelId": "UC-9LHv6RxD5iONLUXHSLtTQ",
+       "title": "Liên khúc Nhạc vàng Mới Cứng 2019 - Tuyển tập Bolero nhạc vàng hay Nức nở con tim",
+       "description": "Liên khúc Nhạc vàng Mới Cứng 2019 - Tuyển tập Bolero nhạc vàng hay Nức nở con tim Nhạc Vàng Bolero 2019: https://bit.ly/2rMMAvO Song Ca Bolero Chọn ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/84dSo9wfupg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/84dSo9wfupg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/84dSo9wfupg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Tình Khúc Nhạc Vàng",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/W57Yzxt8S42kFc-X9pTmZkGL0kM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "bXJ5xp4d0L8"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-03T03:53:19.000Z",
+       "channelId": "UCruaM4824Rr_ry7fsD5Jwag",
+       "title": "THVL | Quốc Linh, Quỳnh Nhi - Hành trình của Quán quân Tuyệt đỉnh song ca nhí 2019",
+       "description": "Quốc Linh, Quỳnh Nhi của cặp huấn luyện viên: Hồ Việt Trung - Diệu Nhi trở thành Quán quân Tuyệt đỉnh song ca nhí 2019. Kính mời quý khán giả xem lại...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/bXJ5xp4d0L8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/bXJ5xp4d0L8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/bXJ5xp4d0L8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "THVL Giải Trí",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/bDK5RhQ8argsc9D3AyWZ9s_s8Kg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "_QUjyp5eaDA"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-21T13:00:12.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Paris By Night 130 in Singapore - Glamour (Full Program)",
+       "description": "Paris By Night 130 in Singapore - Glamour (Full Program) 1. Phần Mở Đầu 0:08 2. Đừng Là Một Thoáng Mê Say © (Nhạc: Tùng Châu, Lời: Thái Thịnh) Như ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/_QUjyp5eaDA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/_QUjyp5eaDA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/_QUjyp5eaDA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jw-p4pRGmXdu_oMg1pZS2HzMLiI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "FRpkVNM8c48"
+      },
+      "snippet": {
+       "publishedAt": "2017-07-06T06:44:31.000Z",
+       "channelId": "UCNGs9HfpAkghyB1jAfw6-UA",
+       "title": "Thần tượng tương lai| Tổng hợp các tiết mục của cô bé đa sắc màu Hiền Trân",
+       "description": "Thần tượng tương lai tập 17 là vòng chung kết của top 4 xuất sắc. Hiền Trân với sựu tiến bộ vượt bậc của mình đã xuất sắc đăng quan ngôi vị...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/FRpkVNM8c48/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/FRpkVNM8c48/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/FRpkVNM8c48/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "DIEN QUAN Kids",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/TJU--wMJb8hKbq9-DEYsuBG1-aA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "8XOXsFmXeOw"
+      },
+      "snippet": {
+       "publishedAt": "2017-06-22T14:00:01.000Z",
+       "channelId": "UCruaM4824Rr_ry7fsD5Jwag",
+       "title": "THVL | Tuyệt đỉnh song ca nhí - Tập 5",
+       "description": "Tuyệt đỉnh song ca nhí với đỉnh cao hòa âm của các tài năng nhí. Sự kết hợp chưa từng có giữa một ca sĩ và một nghệ sĩ chuyên về diễn xuất: nghệ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/8XOXsFmXeOw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/8XOXsFmXeOw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/8XOXsFmXeOw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "THVL Giải Trí",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zO4yDm4s-egDoEvLs8X4CPldkt4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "6oqelWTxyc4"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-24T11:30:01.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "Liveshow Hải Ngoại ASIA 82 - Phạm Đình Chương Mộng Dưới Hoa (FULL)",
+       "description": "Liveshow Hải Ngoại ASIA 82 - Phạm Đình Chương Mộng Dưới Hoa (FULL) 1/ Sáng Rừng -- Cardin, Cat Lynh, Ngọc Anh Vi, Ngô Khải Anh 2/ Ngựa Phi Đường ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/6oqelWTxyc4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/6oqelWTxyc4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/6oqelWTxyc4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/lhC3cEdUOHQcrPKGiU1UtPGdonM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ilfNsHHTFV0"
+      },
+      "snippet": {
+       "publishedAt": "2016-11-19T13:52:51.000Z",
+       "channelId": "UCA3GtNtuKvcj6VrwZ5Gpx9g",
+       "title": "Đường đến danh ca vọng cổ | tập 1 full hd: Bộ ba HLV lên tận sân khấu tranh giành thí sinh",
+       "description": "Duong den danh ca vong co, đường đến danh ca vọng cổ, duong den danh ca vong co tap 1, đường đến danh ca vọng cổ tập 1 Đường đến danh ca vọng cổ ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ilfNsHHTFV0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ilfNsHHTFV0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ilfNsHHTFV0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "DIEN QUAN Entertainment / Giải Trí",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/hIpa8KIJU7TDCuLwwrDiimaUzqo\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "vkCEjuaU2DU"
+      },
+      "snippet": {
+       "publishedAt": "2019-12-31T12:00:11.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Paris By Night 129 - Dynasty (Full Program)",
+       "description": "Paris By Night 129 - Dynasty (Full Program) 1. Phần Mở Đầu :08 2. Không Lạc Loài (Võ Hoài Phúc) Hoàng Mỹ An, Don Hồ, Quỳnh Vi, Thiên Tôn, Ngọc Anh 2:14 ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/vkCEjuaU2DU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/vkCEjuaU2DU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/vkCEjuaU2DU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/hUsX4M7b2PwIjrVCuEAmKgeL-9M\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "XeVqgAKOwz0"
+      },
+      "snippet": {
+       "publishedAt": "2019-11-15T11:00:12.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "PBN129 Dynasty Collection | Tuyển Chọn Nhạc BOLERO Hay Nhất",
+       "description": "Tuyển Chọn Nhạc BOLERO Hay Nhất Paris By Night 129 - Dynasty 1. LK Vùng Lá Me Bay (Anh Việt Thanh) & Dấu Chân Kỷ Niệm (Thúc Đăng) Thanh Tuyền, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/XeVqgAKOwz0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/XeVqgAKOwz0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/XeVqgAKOwz0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/O0KHzqXAJa438MDHgvqhwAK25is\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "TAqfLIi08Pg"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-31T11:13:19.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "Liveshow ASIA 74 - Trúc Phương Ông Hoàng Dòng Nhạc Bolero | Liveshow Hải Ngoại",
+       "description": "Asia 74 - Trúc Phương : Ông Hoàng Của Dòng Nhạc Bolero 1. Chiều Làng Em – Hà Thanh Xuân 2. Trên Bốn Vùng Chiến Thuật – Đan Nguyên, Quốc Khanh 3.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/TAqfLIi08Pg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/TAqfLIi08Pg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/TAqfLIi08Pg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/KQ8_dj-r3DQMTJbK_RL1qNV4sCE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "LUTusC3WofI"
+      },
+      "snippet": {
+       "publishedAt": "2018-01-20T21:20:04.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Paris By Night 66 - Nhạc Sĩ Trịnh Lâm Ngân",
+       "description": "Paris By Night 66 - Người Tình Và Quê Hương Nhạc Sĩ Trịnh Lâm Ngân 1. Hai Trái Tim Vàng (Trịnh Lâm Ngân) – Lynda Trang Đài, Tommy Ngô 2. Lính Xa Nhà ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/LUTusC3WofI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/LUTusC3WofI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/LUTusC3WofI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/XzcoqLaChSsMQAxtWXN1diAFyvc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "kNqLeXK6-kg"
+      },
+      "snippet": {
+       "publishedAt": "2017-05-22T02:00:02.000Z",
+       "channelId": "UCruaM4824Rr_ry7fsD5Jwag",
+       "title": "THVL | Ban nhạc quyền năng - Tập 13: Vòng chung kết",
+       "description": "Ban nhạc quyền năng - Chương trình tìm kiếm tài năng ca hát chuyên nghiệp hội đủ các yếu tố mới lạ, hài hước, cuốn hút với giải thưởng quán quân...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/kNqLeXK6-kg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/kNqLeXK6-kg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/kNqLeXK6-kg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "THVL Giải Trí",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Ad5P5vzYQcRH6lXtjOB-k1rcSE8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "fbhlufdPmfc"
+      },
+      "snippet": {
+       "publishedAt": "2017-06-08T09:17:47.000Z",
+       "channelId": "UCwZ2ZaFfTusqV_MGMHUnEsg",
+       "title": "QUANG LẬP BOLERO - Chiều Sân Ga | Nhạc Vàng Bolero Xưa Hay Tê Tái Giọng Ca Để Đời",
+       "description": "QUANG LẬP BOLERO - Chiều Sân Ga | Nhạc Vàng Bolero Xưa Hay Tê Tái Giọng Ca Để Đời ♫ Spotify: https://spoti.fi/2TPSxUo Tổng hợp Album BOLERO các ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/fbhlufdPmfc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/fbhlufdPmfc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/fbhlufdPmfc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Giọng Ca Để Đời",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/idCJLK1nVSeiDCWEfPNp9xVb5M0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Ayfx5X3SCiQ"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-06T23:30:01.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "THÓI ĐỜI - Tuấn Vũ Và Những Ca Khúc Nhạc Vàng Xưa Hay Nhất",
+       "description": "Thói Đời(Trúc Phương) - Tuấn Vũ Giọt Lệ Đài Trang(Châu Kỳ) - Tuấn Vũ, Kim Tiểu Long Bướm Trắng (Anh Bằng, Nguyễn Bính) - Tuấn Vũ LK...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Ayfx5X3SCiQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Ayfx5X3SCiQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Ayfx5X3SCiQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/G__fGbSD9oFFVkcM9BP2ixxTsVA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "z0Faezx6W0o"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-19T09:00:44.000Z",
+       "channelId": "UCmE-zTMqwtGp-GpePCt_Suw",
+       "title": "Giọt Lệ Đài Trang, Người Yêu Cô Đơn - TUẤN VŨ, SƠN TUYỀN | 100 Bài Nhạc Vàng Xưa Song Ca Bất Hủ",
+       "description": "Giọt Lệ Đài Trang, Người Yêu Cô Đơn - TUẤN VŨ, SƠN TUYỀN | 100 Bài Nhạc Vàng Xưa Song Ca Bất Hủ. Tuấn Vũ tên thật là Nguyễn Văn Tài, sinh ngày 16 ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/z0Faezx6W0o/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/z0Faezx6W0o/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/z0Faezx6W0o/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Tuấn Vũ Phượng Hoàng",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/G3tIOZJ6ty_QOeCNtrhd8XUkvwQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "_ElKSWkI-9U"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-23T09:06:37.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "Đôi Song Ca Vàng Tuấn Vũ Phương Hồng Quế - Nhạc Vàng Xưa Song Ca Tuyển Chọn",
+       "description": "Đôi Song Ca Vàng Tuấn Vũ Phương Hồng Quế - Nhạc Vàng Xưa Song Ca Tuyển Chọn Trung tâm Asia là một trung tâm dẫn đầu trong nền âm nhạc Việt Nam, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/_ElKSWkI-9U/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/_ElKSWkI-9U/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/_ElKSWkI-9U/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/eYRXZu9ywEZuoaGyTXOxxCrIJrY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "BadCYPREvcE"
+      },
+      "snippet": {
+       "publishedAt": "2020-05-01T09:30:42.000Z",
+       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
+       "title": "Xa Vắng - Nửa Đêm Ngoài Phố - Ngọc Nữ Bolero Như Ý Làm Đốn Tim Triệu Người Nghe",
+       "description": "Mix - master : Võ Hoàng Studio Produced by Võ Hoàng Entertainment Nhịp Cầu Bolero là kênh âm nhạc với những sản phẩm chất lượng của những ca sĩ thuộc ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/BadCYPREvcE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/BadCYPREvcE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/BadCYPREvcE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhịp Cầu Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Y3f-3NzsjaO-BSnrqH0dVN8hk4A\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "2_jPcI4ce9Y"
+      },
+      "snippet": {
+       "publishedAt": "2017-09-16T17:58:41.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Hài Kịch &quot;Vietnamese Idols&quot; | PBN 84 | Hoài Linh, Chí Tài, Kiều Oanh, Lê Tín",
+       "description": "Hài Kịch \"Vietnamese Idols\" (Nhóm Kịch Thúy Nga) Hoài Linh, Chí Tài, Kiều Oanh, Lê Tín PARIS BY NIGHT 84 - Passport to Music & Fashion ©2006. Thuy Nga ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/2_jPcI4ce9Y/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/2_jPcI4ce9Y/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/2_jPcI4ce9Y/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/JMxrcUlOoniHJHomXLQ-_r6nknI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "6l-thMw7XO4"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-04T09:24:03.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "Tuyệt Phẩm Nhạc Vàng Xưa Song Ca Nghe Là Mê - CHẾ LINH THANH TUYỀN - Con Đường Mang Tên Em",
+       "description": "Tuyệt Phẩm Nhạc Vàng Xưa Song Ca Nghe Là Mê - CHẾ LINH THANH TUYỀN - Con Đường Mang Tên Em 1. Con đường mang tên em - Song ca 2. LK Mai lỡ ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/6l-thMw7XO4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/6l-thMw7XO4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/6l-thMw7XO4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/-WRTDRQ__4gAJlT-W8_5310Bj5c\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "3IKhGP48Z2o"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-25T23:00:00.000Z",
+       "channelId": "UCN6xQuF_K9yW96lKc_ubIKA",
+       "title": "3 Giọng Hát Được Yêu Thích Nhất Thần Tượng Bolero 2017 - Ý Linh &amp; Hồ Phương Liên &amp; Phan Diễm",
+       "description": "01. Vọng gác đêm sương 02. Cánh buồm chuyển bến 03. Em vẫn hoài yêu anh 04. Cánh hoa yêu 05. Hạ thương 06. Hai vì sao lạc 07. Ngày sau sẽ ra sao 08.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/3IKhGP48Z2o/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/3IKhGP48Z2o/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/3IKhGP48Z2o/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "X-PRO BOLERO",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/xn0gWp3gj0zHTAmcyCXtnfMC-Ro\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "oPbO6T4SQ6c"
+      },
+      "snippet": {
+       "publishedAt": "2019-09-02T10:00:13.000Z",
+       "channelId": "UCA3GtNtuKvcj6VrwZ5Gpx9g",
+       "title": "Giọng ải giọng ai: Những thí sinh hát hay nhất mùa 4 khiến Trấn Thành, Trường Giang &quot;bấn loạn&quot;",
+       "description": "giongaigiongai Giọng ải giọng ai: Những thí sinh hát hay nhất mùa 4 khiến Trấn Thành, Trường Giang \"bấn loạn\" ------------- Cùng Subscribe các kênh ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/oPbO6T4SQ6c/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/oPbO6T4SQ6c/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/oPbO6T4SQ6c/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "DIEN QUAN Entertainment / Giải Trí",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Os-jFMexxKf4j5Z94bYvfsfH_Es\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "nA4Cp9smDNo"
+      },
+      "snippet": {
+       "publishedAt": "2019-02-11T03:34:32.000Z",
+       "channelId": "UCytHocZlrMx499o86164B7Q",
+       "title": "ĐAN NGUYÊN HAY NHẤT 2019 - NHẠC BOLERO TRỮ TÌNH HẢI NGOẠI CHỌN LỌC NHỮNG CA KHÚC &quot;SẦU NHẤT&quot; VỀ ĐÊM",
+       "description": "ĐAN NGUYÊN HAY NHẤT 2019 - NHẠC BOLERO TRỮ TÌNH HẢI NGOẠI CHỌN LỌC NHỮNG CA KHÚC \"SẦU NHẤT\" VỀ ĐÊM. Đan Nguyên (tên thật Nguyễn ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/nA4Cp9smDNo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/nA4Cp9smDNo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/nA4Cp9smDNo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Đan Nguyên Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/p0fpyId82qBfQ_xgKvIgB48l04k\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "7CRATR4DyQs"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-15T03:00:02.000Z",
+       "channelId": "UC_fHRYP5pfZeS5ry5e7k5-g",
+       "title": "Vọng Cổ GIỌT LỆ ĐÀI TRANG nghe đi vào hồn - Tuyển chọn Tân cổ hiện đại Cực Nghiện",
+       "description": "Vọng Cổ GIỌT LỆ ĐÀI TRANG nghe đi vào hồn - Tuyển chọn Tân cổ hiện đại Cực Nghiện Tân Cổ Mới Nhất 2020: http://bit.ly/2PpTeo9 Ca Cổ Dài Hơi Hay Nhất: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/7CRATR4DyQs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/7CRATR4DyQs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/7CRATR4DyQs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Vọng Cổ Quê Hương",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/yLTnyDBGOwaVqWf95ksN3S8N6sg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "-DJo8yWxcqM"
+      },
+      "snippet": {
+       "publishedAt": "2018-02-08T12:00:00.000Z",
+       "channelId": "UCpKbKbV1DP-rko5PomQmuqw",
+       "title": "TRIZZIE PHƯƠNG TRINH -LYNDA TRANG ĐÀI - TUYỂN TẬP CHỌN LỌC NHẠC TRỮ TÌNH HẢI NGOẠI HAY NHẤT",
+       "description": "Thúy Anh Productions sẽ là kênh chính thức của các bản nhạc xưa, nhạc vàng, nhạc lính, nhạc bolero của các danh ca hải ngoại bất hủ để đời. Bấm...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/-DJo8yWxcqM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/-DJo8yWxcqM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/-DJo8yWxcqM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Anh Productions",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/31B0yRPGUlCjc2DyiYz8j41Gpy4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "mFRoOjjlPLg"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-17T23:00:08.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "CHẾ LINH THANH TUYỀN - Nhạc Vàng Xưa Song Ca Bất Hủ - Ngày Xưa Anh Nói",
+       "description": "CHẾ LINH THANH TUYỀN - Nhạc Vàng Xưa Song Ca Bất Hủ - Ngày Xưa Anh Nói ▻ Đăng Ký Kênh (miễn phí) tại ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/mFRoOjjlPLg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/mFRoOjjlPLg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/mFRoOjjlPLg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/aUQ11uIhMMPW2zMGOXb25lw4l8Q\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Bi_kalwpCbU"
+      },
+      "snippet": {
+       "publishedAt": "2017-02-17T01:15:52.000Z",
+       "channelId": "UCNH5_uklJlQnezV7R70JPJA",
+       "title": "Tuyển Tập Nhạc Đỏ Cách Mạng Hay Nhất | Nhạc Cách Mạng Bất Hủ",
+       "description": "Tuyển Tập Nhạc Đỏ Cách Mạng Hay Nhất | Nhạc Cách Mạng Bất Hủ ♪ Đừng quên Like, Share và Đăng Ký kênh để theo dõi những sản phẩm mới nhất của...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Bi_kalwpCbU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Bi_kalwpCbU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Bi_kalwpCbU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Anh Thơ Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/9RbBkpdy4IWBod6jsu1nGA05INw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "VAq55F59zyU"
+      },
+      "snippet": {
+       "publishedAt": "2017-05-18T12:00:01.000Z",
+       "channelId": "UC8ZETUoA9519Hn0tw8JKJ7g",
+       "title": "Dương Ngọc Thái | Tuyển Tập Những Ca Khúc Hay Nhất Của Dương Ngọc Thái",
+       "description": "dương ngọc thái Dương Ngọc Thái | Tuyển Tập Những Ca Khúc Hay Nhất Của Dương Ngọc Thái SUBSCRIBE KÊNH DƯƠNG NGỌC THÁI: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/VAq55F59zyU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/VAq55F59zyU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/VAq55F59zyU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Dương Ngọc Thái Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/iL-Xtv5DlIkCl83zJjhwjNnSD5Y\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "zKxc-RmcCko"
+      },
+      "snippet": {
+       "publishedAt": "2019-03-21T09:13:37.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "Nhạc sĩ LAM PHƯƠNG và Những Sáng Tác Bất Hủ - Tiếng hát Hoàng Oanh, Trường Vũ, Chế Linh",
+       "description": "Kỷ niệm sinh nhật tròn 82 tuổi của nhạc sĩ Lam Phương (20/03/1937). Nhạc sĩ LAM PHƯƠNG và Những Sáng Tác Bất Hủ - Tiếng hát Hoàng Oanh, Chế Linh, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/zKxc-RmcCko/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/zKxc-RmcCko/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/zKxc-RmcCko/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/WxR14BNebfN87xT1UzNopBZwCWY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "2WRz96r9axM"
+      },
+      "snippet": {
+       "publishedAt": "2015-06-03T04:01:09.000Z",
+       "channelId": "UCUgXK2UjZ8G_EM438aYkGrw",
+       "title": "Mr.Bolero Dance | Quách Tuấn Du | Phần 1",
+       "description": "Tải ứng dụng POPS để xem MV, liveshow, phim ca nhạc hot nhất: http://bit.ly/app-POPSmusic-1 Mr Bolero Dance P1 Quách Tuấn Du #mrbolerodance ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/2WRz96r9axM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/2WRz96r9axM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/2WRz96r9axM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "POPS MUSIC",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/A4L94Id78O2O-E51KvPgMI_fBgY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "3DxOYoD-MWU"
+      },
+      "snippet": {
+       "publishedAt": "2017-11-22T13:06:22.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Paris By Night 119 - Nhạc Vàng Muôn Thuở (Full Program)",
+       "description": "Paris By Night 119 - Nhạc Vàng Muôn Thuở (Full Program) 1. Phần Mở Đầu 2. Xóm Đêm (Phạm Đình Chương) Minh Tuyết 1:05 3. & Những Bước Chân Âm ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/3DxOYoD-MWU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/3DxOYoD-MWU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/3DxOYoD-MWU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/J7kxGB_SJ03VdOcFTUknCKnzWx8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "pBDZoKNKle8"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-08T01:32:31.000Z",
+       "channelId": "UCruaM4824Rr_ry7fsD5Jwag",
+       "title": "Ca sĩ thần tượng Mùa 3 | Tập 6 FULL",
+       "description": "Ca sĩ thần tượng - Nơi thăng hoa giữa âm nhạc và hóa thân đã chính thức quay trở lại với diện mạo hoàn toàn mới. Chào đón sự xuất hiện của bộ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/pBDZoKNKle8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/pBDZoKNKle8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/pBDZoKNKle8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "THVL Giải Trí",
+       "liveBroadcastContent": "none"
+      }
+     }
+    ]
+   }
+   
+   

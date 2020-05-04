@@ -1,0 +1,1714 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "dxInF0A1TyLX-loLRfvExT-RTXg",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+      "totalResults": 232749,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qnx6SJmCE_VaK9RIcnORjtjXBuI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "rLe-PQmZTII"
+        },
+        "snippet": {
+          "publishedAt": "2019-01-28T09:15:00Z",
+          "channelId": "UCybiLY0QpeMlTHRZ-P6JpOQ",
+          "title": "[CD Nhạc Xưa] ASIA 9 - Nhạc Xuân Xưa Hải Ngoại - Hương Lan, Thiên Trang, Ngọc Lan",
+          "description": "[CD Nhạc Xưa] ASIA 9 - Nhạc Xuân Xưa Hải Ngoại - Hương Lan, Thiên Trang, Ngọc Lan Tổng hợp CD Nhạc vàng gốc: https://goo.gl/Wat3Qb Hải Âu CD ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rLe-PQmZTII/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rLe-PQmZTII/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rLe-PQmZTII/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CD Nhạc Vàng Xưa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-01-28T09:15:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "w2Lyx_nIRWRP1xj6-71p2tI8csY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-ALNtiV4WVo"
+        },
+        "snippet": {
+          "publishedAt": "2018-06-06T04:36:42Z",
+          "channelId": "UCtC_JHTTPSvwNn47RwlYGjg",
+          "title": "CD Nhạc Xưa Asia 138   Mưa Đêm Tỉnh Nhỏ Lossless",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-ALNtiV4WVo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-ALNtiV4WVo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-ALNtiV4WVo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "kênh chia sẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-06-06T04:36:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qhfVeNZTgiiWuBkY6URea8Azfp0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Xodi4BMPfb0"
+        },
+        "snippet": {
+          "publishedAt": "2019-11-24T00:00:07Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Mở Thật To Liên Khúc Tình Yêu - LK Hải Ngoại Sôi Động (Asia CD 45) | CD Nhạc Chất Lượng Cao",
+          "description": "Mở Thật To Liên Khúc Tình Yêu - LK Hải Ngoại Sôi Động (Asia CD 45) | CD Nhạc Chất Lượng Cao Nhạc Vàng Bolero Hay Nhất : https://youtu.be/6l-thMw7XO4 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Xodi4BMPfb0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Xodi4BMPfb0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Xodi4BMPfb0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-11-24T00:00:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8ooPdA4RO_NgnG5aj_BIAvUK8vs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "IPwUhbxpXGM"
+        },
+        "snippet": {
+          "publishedAt": "2018-10-31T09:29:24Z",
+          "channelId": "UCybiLY0QpeMlTHRZ-P6JpOQ",
+          "title": "CD Nhạc Xưa - Trôi Vào Biển Mộng - Tình Khúc Hải Ngoại Ngọc Lan Tuấn Anh Thập niên 90",
+          "description": "CD Nhạc Xưa - Trôi Vào Biển Mộng - Tình Khúc Hải Ngoại Ngọc Lan Tuấn Anh Thập niên 90 Tổng hợp CD Nhạc vàng gốc: https://goo.gl/Wat3Qb Hải Âu CD ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IPwUhbxpXGM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IPwUhbxpXGM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IPwUhbxpXGM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CD Nhạc Vàng Xưa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-10-31T09:29:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ETXUrhPfaBHJqpwX3h4V_e6lf6k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NSe_N1vSKeg"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-03T15:24:37Z",
+          "channelId": "UCUbMe8JMeuOKgDfDuVeCFwQ",
+          "title": "Nhạc Vàng Hải Ngoại Âm Thanh Gốc Asia Cực Hay / Thành Phố Sau Lưng - 24h Phép / Nhạc Vàng Xưa Bất Hủ",
+          "description": "Nhạc Việt Hải Ngoại sẽ là kênh chính thức của các bản nhạc: Nhạc Vàng, Nhạc Bolero, Tình Ca Xưa Hay Nhất. Bấm vào nút đăng ký ( subscribe ) để được...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NSe_N1vSKeg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NSe_N1vSKeg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NSe_N1vSKeg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Việt Hải Ngoại",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-03T15:24:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AL2hwAm5oFWxbe2NMT_X1F_y418",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "I_2Rm9N_GQY"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-29T12:00:11Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Trung Chỉnh, Mạnh Đình, Y Phụng, Ánh Minh - LK Em Hậu Phương Anh Tiền Tuyến, Đám Cưới Nhà Binh",
+          "description": "Trung Chỉnh, Mạnh Đình, Y Phụng, Ánh Minh - LK Em Hậu Phương Anh Tiền Tuyến, Đám Cưới Nhà Binh Nhạc Vàng Bolero Bất Hủ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/I_2Rm9N_GQY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/I_2Rm9N_GQY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/I_2Rm9N_GQY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-29T12:00:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MDnyJrBbHymCKx8tedoZuze3fQs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oKzYUY47PHk"
+        },
+        "snippet": {
+          "publishedAt": "2019-09-28T08:00:13Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "CD ASIA 138 Mưa Đêm Tỉnh Nhỏ (2000) - Nhạc xưa chất lượng cao - Trường Vũ, Hoàng Oanh, Chế Linh",
+          "description": "CD ASIA 138 Mưa Đêm Tỉnh Nhỏ (2000) - Nhạc xưa chất lượng cao - Trường Vũ, Hoàng Oanh, Chế Linh Hồ Hoàng Yến : https://youtu.be/KTtT545EZxk Hà ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oKzYUY47PHk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oKzYUY47PHk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oKzYUY47PHk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-09-28T08:00:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "q2FHb8Y3aUgA36d4GAJSKEqbcIc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VP9Qec02rGA"
+        },
+        "snippet": {
+          "publishedAt": "2019-02-06T02:00:00Z",
+          "channelId": "UCybiLY0QpeMlTHRZ-P6JpOQ",
+          "title": "CD Ly Rượu Mừng (ASIA 185) - Nhạc Xuân Xưa Hải Ngoại - Hoàng Oanh, Trường Vũ, Thanh Tuyền",
+          "description": "CD Ly Rượu Mừng (ASIA 185) - Nhạc Xuân Xưa Hải Ngoại - Hoàng Oanh, Trường Vũ, Thanh Tuyền Tổng hợp CD Nhạc vàng gốc: https://goo.gl/Wat3Qb Hải Âu ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VP9Qec02rGA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VP9Qec02rGA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VP9Qec02rGA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CD Nhạc Vàng Xưa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-02-06T02:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "CrfJxsgFARiTb63B1CoGSvnYicw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "A8QpRv47To0"
+        },
+        "snippet": {
+          "publishedAt": "2019-11-19T00:00:00Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "CD Nhạc Xưa ASIA 80 - Thùy Dương 3 - Khúc Thụy Du | CD Nhạc Chất Lượng Cao",
+          "description": "CD Nhạc Xưa ASIA 80 - Thùy Dương 3 - Khúc Thụy Du | CD Nhạc Chất Lượng Cao Nhạc Vàng Bolero Hay Nhất : https://youtu.be/6l-thMw7XO4 Nhạc Lính Hải ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/A8QpRv47To0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/A8QpRv47To0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/A8QpRv47To0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-11-19T00:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "A5KllTuuGNzXzqgGff-4atUY004",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GFmrJZvPQKM"
+        },
+        "snippet": {
+          "publishedAt": "2018-08-18T05:23:28Z",
+          "channelId": "UCoQAwhS5i-6wbiujRDomw3w",
+          "title": "CD Nhạc Xưa Asia 166   Chế Linh &amp; Thanh Tuyền   Mai Lỡ Mình Xa Nhau CD1 Lossless   YouTube 720p",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GFmrJZvPQKM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GFmrJZvPQKM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GFmrJZvPQKM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CD nhạc lossless bolero Việt Nam",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-18T05:23:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "X66k7xdevvphaRYDWlgIx2SO0n0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_hH8lcdJIYo"
+        },
+        "snippet": {
+          "publishedAt": "2019-11-24T23:30:01Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "61 Ca Khúc Nhạc Vàng Xưa Tuyển chọn Hay Nhất của Phương Hồng Quế",
+          "description": "61 Ca Khúc Nhạc Vàng Xưa Tuyển chọn Hay Nhất của Phương Hồng Quế Nhạc Vàng Bolero Hay Nhất : https://youtu.be/6l-thMw7XO4 Nhạc Lính Hải Ngoại: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_hH8lcdJIYo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_hH8lcdJIYo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_hH8lcdJIYo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-11-24T23:30:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-3AiJzIV4-0eF7XDuCUzq-sr2bI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8ldVcyBUEok"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-06T00:00:00Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Tuyển Chọn Những Tình Khúc Xưa Thời Chinh Chiến Hay Nhất - LK Nhịp Cầu Tri Âm, Chiều Tây Đô",
+          "description": "Tuyển Chọn Những Tình Khúc Xưa Thời Chinh Chiến Hay Nhất - LK Nhịp Cầu Tri Âm, Chiều Tây Đô Nhạc Vàng Bolero Bất Hủ : https://youtu.be/6l-thMw7XO4 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8ldVcyBUEok/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8ldVcyBUEok/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8ldVcyBUEok/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-06T00:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qSMLtyvIm6VfPAYO30TM8prt8bU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-GD4enjS0GM"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-04T12:00:11Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Album Nhạc Lính Xưa Không Quảng Cáo - Những Tình Khúc Thời Chinh Chiến Bất Hủ Hay Nhất",
+          "description": "Album Nhạc Lính Xưa Không Quảng Cáo - Những Tình Khúc Thời Chinh Chiến Bất Hủ Hay Nhất Nhạc Vàng Bolero Bất Hủ : https://youtu.be/6l-thMw7XO4 Nhạc ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-GD4enjS0GM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-GD4enjS0GM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-GD4enjS0GM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-04T12:00:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "P-57AmEt-8IwcSfmFOOQ70MxUVo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FhkYD4uyIaY"
+        },
+        "snippet": {
+          "publishedAt": "2019-02-01T16:20:01Z",
+          "channelId": "UCjrKDM7WBEDX3xIbNZJQDWA",
+          "title": "[CD gốc | Nhạc xưa] Asia 9 Tết - Nhạc Xuân [WAV] by Lossless Music TcD",
+          "description": "Kênh chia sẽ nhạc số chất lượng cao (Wav, Flac, 16 bit, 24 bit). Âm thanh chất lượng lossless tương đương đĩa CD gốc. CD Asia Tết của Trung tâm Asia ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FhkYD4uyIaY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FhkYD4uyIaY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FhkYD4uyIaY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Lossless Music TcD",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-02-01T16:20:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SfZhVhP6c7K7OFxRADBqwITcsz0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GDd1zijB4YU"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-18T17:05:55Z",
+          "channelId": "UCUbMe8JMeuOKgDfDuVeCFwQ",
+          "title": "Nhạc Vàng Hải Ngoại Hay Nhất - LK 50 Bài Nhạc Vàng Bolero Xưa Âm Thanh Hải Ngoại Lossless Cực Hay",
+          "description": "Nhạc Việt Hải Ngoại sẽ là kênh chính thức của các bản nhạc: Nhạc Vàng, Nhạc Bolero, Tình Ca Xưa Hay Nhất. Bấm vào nút đăng ký ( subscribe ) để được...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GDd1zijB4YU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GDd1zijB4YU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GDd1zijB4YU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Việt Hải Ngoại",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-18T17:05:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mqmXwLKwLcQ0rn4LaURIfjUGa4M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8aO19JynNBA"
+        },
+        "snippet": {
+          "publishedAt": "2019-01-29T00:00:00Z",
+          "channelId": "UCybiLY0QpeMlTHRZ-P6JpOQ",
+          "title": "[CD Nhạc Xưa] ASIA 2 - Xuân Nghệ Sĩ - Nhạc Xuân Hải Ngoại Hay Nhất",
+          "description": "[CD Nhạc Xưa] ASIA 2 - Xuân Nghệ Sĩ - Nhạc Xuân Hải Ngoại Hay Nhất Tổng hợp CD Nhạc vàng gốc: https://goo.gl/Wat3Qb Hải Âu CD : https://goo.gl/mifqx6 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8aO19JynNBA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8aO19JynNBA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8aO19JynNBA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CD Nhạc Vàng Xưa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-01-29T00:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XorlhOQexy7czHfybGsG6E_0vNU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FGnEY2Py2o0"
+        },
+        "snippet": {
+          "publishedAt": "2018-08-18T05:38:38Z",
+          "channelId": "UCoQAwhS5i-6wbiujRDomw3w",
+          "title": "CD Nhạc Xưa Asia 044   AVT Hải Ngoại 1994 Lossless   YouTube 1080p",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FGnEY2Py2o0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FGnEY2Py2o0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FGnEY2Py2o0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CD nhạc lossless bolero Việt Nam",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-18T05:38:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "K3cCb5cxaNST8PgBXQGA_hKIZ_o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VwvUbYt8RgU"
+        },
+        "snippet": {
+          "publishedAt": "2018-03-07T02:09:42Z",
+          "channelId": "UCybiLY0QpeMlTHRZ-P6JpOQ",
+          "title": "[CD Nhạc Xưa] THÁI CHÂU ĐẶC BIỆT - Tình Khúc Hải Ngoại Vượt thời gian [Thùy Dương 09]",
+          "description": "[CD Nhạc Xưa] THÁI CHÂU ĐẶC BIỆT - Tình Khúc Hải Ngoại Vượt thời gian [Thùy Dương 09] Tổng hợp CD Nhạc vàng gốc: https://goo.gl/Wat3Qb Hải Âu CD ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VwvUbYt8RgU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VwvUbYt8RgU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VwvUbYt8RgU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CD Nhạc Vàng Xưa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-03-07T02:09:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UuXPmzu2Z2hU3-RC_dY86vDPiUQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "d4_jvAC-l-s"
+        },
+        "snippet": {
+          "publishedAt": "2019-03-17T01:56:19Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Album Chiều Tây Đô Hoàng Thục Linh Asia - Nhạc Vàng Bolero Hải Ngoại Hay Nhất",
+          "description": "Album Chiều Tây Đô Hoàng Thục Linh Asia - Nhạc Vàng Bolero Hải Ngoại Hay Nhất Trung tâm Asia là một trung tâm dẫn đầu trong nền âm nhạc Việt Nam, nơi ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/d4_jvAC-l-s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/d4_jvAC-l-s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/d4_jvAC-l-s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-03-17T01:56:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1ac67N5ppTHQcZJwbhQoT74huBw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sfogwiOq5qA"
+        },
+        "snippet": {
+          "publishedAt": "2020-02-11T08:00:49Z",
+          "channelId": "UCqr-j865k6EyacNdG67fQQg",
+          "title": "Test loa - Album CD Gốc nhạc xưa AISA",
+          "description": "Mưa tình cuối đông, Một mai em đi, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sfogwiOq5qA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sfogwiOq5qA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sfogwiOq5qA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chí Công Hà",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-02-11T08:00:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "a2ci9y06nZSo4yQ2gYPXtBI-Oww",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1g86LrfqSFs"
+        },
+        "snippet": {
+          "publishedAt": "2019-10-29T23:46:17Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "CD Nhạc Xưa ASIA 85 - Best of Dạ Vũ 5 - Như Quỳnh, Nini, Vina Uyển Mi, Lâm Thúy Vân",
+          "description": "CD Nhạc Xưa ASIA 85 - Best of Dạ Vũ 5 - Như Quỳnh, Nini, Vina Uyển Mi, Lâm Thúy Vân Nhạc Vàng Bolero Hay Nhất : https://youtu.be/6l-thMw7XO4 Nhạc Lính ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1g86LrfqSFs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1g86LrfqSFs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1g86LrfqSFs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-10-29T23:46:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rbld9cYUAwfQ7uOg-WXIKanuAr0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lV6-pSsUyMk"
+        },
+        "snippet": {
+          "publishedAt": "2019-10-05T11:54:34Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Fullshow ASIA 69 &quot;Tác Giả Tác Phẩm &quot; - Liveshow Hải Ngoại Băng Tâm, Tâm Đoan, Hà Thanh Xuân",
+          "description": "Fullshow ASIA 69 \"Tác Giả Tác Phẩm \" - Liveshow Hải Ngoại Băng Tâm, Tâm Đoan, Hà Thanh Xuân 01. Medley Mưa 02. Riêng Một Góc Trời(Ngô Thụy Miên) ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lV6-pSsUyMk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lV6-pSsUyMk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lV6-pSsUyMk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-10-05T11:54:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TNKVnSuCOt1TkvdI-bg8gOe-fEo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "p9rKdrx205M"
+        },
+        "snippet": {
+          "publishedAt": "2019-06-05T23:00:07Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Liveshow Hải Ngoại ASIA 58 - Lá Thư Từ Chiến Trường (FULL SHOW)",
+          "description": "Liên khúc: Gửi về anh (Đỗ Thu) - Băng Tâm & Y Phụng; Nó và tôi (nhạc Song Ngọc, lời Vọng Châu) - Lâm Nhật Tiến & Đặng Thế Luân; - Viết từ KBC (Lê...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/p9rKdrx205M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/p9rKdrx205M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/p9rKdrx205M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-06-05T23:00:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GAL4KJV8Uqimp7-v1BJPaSIyht4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QZzlaQBMs3s"
+        },
+        "snippet": {
+          "publishedAt": "2018-12-13T09:15:01Z",
+          "channelId": "UCybiLY0QpeMlTHRZ-P6JpOQ",
+          "title": "CD Nhạc Xưa - Tiếng hát Hạ Vy 2 - Nhạc Trẻ Hải Ngoại Xưa Thập niên 90 (HACD 114)",
+          "description": "CD Nhạc Xưa - Tiếng hát Hạ Vy 2 - Nhạc Trẻ Hải Ngoại Xưa Thập niên 90 (HACD 114) Tổng hợp CD Nhạc vàng gốc: https://goo.gl/Wat3Qb Hải Âu CD ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QZzlaQBMs3s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QZzlaQBMs3s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QZzlaQBMs3s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CD Nhạc Vàng Xưa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-12-13T09:15:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XQb6PPM6L78wdgBTx4x4QaLZqbE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JS3CM90nDV0"
+        },
+        "snippet": {
+          "publishedAt": "2018-04-05T02:03:32Z",
+          "channelId": "UCybiLY0QpeMlTHRZ-P6JpOQ",
+          "title": "CD HẠ VY - Cây Si - CD Gốc Nhạc Hải Ngoại Xưa Thập niên 90 (Hải Âu 126)",
+          "description": "CD HẠ VY - Cây Si - CD Gốc Nhạc Hải Ngoại Xưa Thập niên 90 (Hải Âu 126) Tổng hợp CD Nhạc vàng gốc: https://goo.gl/Wat3Qb Hải Âu CD ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JS3CM90nDV0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JS3CM90nDV0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JS3CM90nDV0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CD Nhạc Vàng Xưa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-04-05T02:03:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YumXt3NheT8OSGW49HDoG-lDbx4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "SfR3cr_yASk"
+        },
+        "snippet": {
+          "publishedAt": "2018-08-18T05:20:21Z",
+          "channelId": "UCoQAwhS5i-6wbiujRDomw3w",
+          "title": "CD Nhạc Xưa Asia 127   Đêm Buồn Tỉnh Lẻ Lossless   YouTube 720p",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SfR3cr_yASk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SfR3cr_yASk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SfR3cr_yASk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CD nhạc lossless bolero Việt Nam",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-18T05:20:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Vt5_ECXbBnoSHEjbhjSXBk3W8Ds",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kwoGk5HA2fw"
+        },
+        "snippet": {
+          "publishedAt": "2018-04-24T12:29:30Z",
+          "channelId": "UChAQGrx4Qyl_DdiCUNR65gA",
+          "title": "CD Nhạc Xưa Asia 080   Thùy Dương 3   Khúc Thụy Du Lossless",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kwoGk5HA2fw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kwoGk5HA2fw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kwoGk5HA2fw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Cường Nguyễn Mạnh",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-04-24T12:29:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Qq0bFCRVUcSgk_zsduNups1gSp0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "07H_QySFdEc"
+        },
+        "snippet": {
+          "publishedAt": "2020-02-21T11:30:00Z",
+          "channelId": "UCybiLY0QpeMlTHRZ-P6JpOQ",
+          "title": "TÚ QUYÊN - 999 Đóa Hồng - CD Nhạc Xưa Hải Ngoại Thập niên 90",
+          "description": "TÚ QUYÊN - 999 Đóa Hồng - CD Nhạc Xưa Hải Ngoại Thập niên 90 Tổng hợp CD Nhạc vàng gốc: https://goo.gl/Wat3Qb Hải Âu CD : https://goo.gl/mifqx6 Làng ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/07H_QySFdEc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/07H_QySFdEc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/07H_QySFdEc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CD Nhạc Vàng Xưa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-02-21T11:30:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mvZkwPMVj8A2mSRzoXzUFweBR9U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_PzKR1FWTuU"
+        },
+        "snippet": {
+          "publishedAt": "2019-02-28T04:09:05Z",
+          "channelId": "UCRyj_9ezZHhUUepiBsRSG8w",
+          "title": "[ASIA] Nhạc Gốc || Album CD Nhạc Vàng Hải Ngoại || Hương Lan - Tuấn Vũ",
+          "description": "[ASIA] Nhạc Gốc _ Nhạc Vàng Hải Ngoại _ Tuấn Vũ , Sơn Tuyền _ Giấc Ngủ Đầu Nôi. ☞ Nhạc Gốc được mình tạo ra nhằm mục đính đem lại cho các bạn...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_PzKR1FWTuU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_PzKR1FWTuU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_PzKR1FWTuU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Gốc",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-02-28T04:09:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4_1pRjOop2h7FMI9HPJaa3Vtgmw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YeQQqDomn08"
+        },
+        "snippet": {
+          "publishedAt": "2019-08-31T23:30:00Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "LK Quán Nửa Khuya - Nhạc Vàng Hải Ngoại Hay Nhất | ASIA 70",
+          "description": "LK Quán Nửa Khuya - Nhạc Vàng Hải Ngoại Hay Nhất | ASIA 70 Hà Thanh Xuân Tuyển Chọn : https://youtu.be/ekaJfvWcbZ0 Đan Nguyên Bolero Hay Nhất: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YeQQqDomn08/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YeQQqDomn08/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YeQQqDomn08/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-08-31T23:30:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xJRLbH0yKTeVor1wJZo_RiblltM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "D2RcPGxPNUw"
+        },
+        "snippet": {
+          "publishedAt": "2018-10-02T09:16:21Z",
+          "channelId": "UCybiLY0QpeMlTHRZ-P6JpOQ",
+          "title": "[CD NHẠC XƯA] Tiếng Hát Thái Thanh - Nhạc Hải Ngoại Xưa Hay Nhất Thập niên 90",
+          "description": "[CD NHẠC XƯA] Tiếng Hát Thái Thanh - Nhạc Hải Ngoại Xưa Hay Nhất Thập niên 90 Tổng hợp CD Nhạc vàng gốc: https://goo.gl/Wat3Qb Hải Âu CD ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/D2RcPGxPNUw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/D2RcPGxPNUw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/D2RcPGxPNUw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CD Nhạc Vàng Xưa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-10-02T09:16:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "R3C62z1cQxF6YQAnqb_aVFT1CP0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kGarmAFAN5s"
+        },
+        "snippet": {
+          "publishedAt": "2019-09-03T13:18:44Z",
+          "channelId": "UClWOtZmjANjL6vx5IBBSHxg",
+          "title": "Tuyệt Phẩm Nhạc Vàng Bolero Trữ Tình Hải Ngoại | Quốc Khanh, Hoàng Thục Linh và Hà Thanh Xuân",
+          "description": "The Best of Hà Thanh Xuân - Những ca khúc hay nhất của Hà Thanh Xuân DANH SÁCH BÀI HÁT: Hà Thanh Xuân Top Hits là kênh sẽ đăng tải những ca khúc ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kGarmAFAN5s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kGarmAFAN5s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kGarmAFAN5s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hà Thanh Xuân",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-09-03T13:18:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XAnroLyZFDTxojvo9009S6GHQKU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "IG0vphL4hro"
+        },
+        "snippet": {
+          "publishedAt": "2018-08-18T05:28:12Z",
+          "channelId": "UCoQAwhS5i-6wbiujRDomw3w",
+          "title": "CD Nhạc Xưa Asia 184   Liên Khúc Chiều Mưa 4 Lossless   YouTube 720p",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IG0vphL4hro/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IG0vphL4hro/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IG0vphL4hro/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CD nhạc lossless bolero Việt Nam",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-18T05:28:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dkgpFDMSx2XUtsRxMkqTwSatlxQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "S0GHmviM0Rw"
+        },
+        "snippet": {
+          "publishedAt": "2018-08-18T05:28:18Z",
+          "channelId": "UCoQAwhS5i-6wbiujRDomw3w",
+          "title": "CD Nhạc Xưa Asia 074   Như Quỳnh 1   Chuyện Hoa Sim Lossless   YouTube 720p",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/S0GHmviM0Rw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/S0GHmviM0Rw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/S0GHmviM0Rw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CD nhạc lossless bolero Việt Nam",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-18T05:28:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qrS65Hh_BVxBa0aSDSRNRoRKZZM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ssl_3yP3VvU"
+        },
+        "snippet": {
+          "publishedAt": "2019-06-25T11:00:17Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Như Quỳnh - Rừng Lá Thay Chưa | CD Nhạc Vàng Hay Nhất ( ASIA 79 )",
+          "description": "Như Quỳnh - Rừng Lá Thay Chưa | CD Nhạc Vàng Hay Nhất ( ASIA 79 ) Rừng lá thay chưa Như vạt nắng Mưa trên biển vắng Con đường xưa em đi Một ngày...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ssl_3yP3VvU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ssl_3yP3VvU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ssl_3yP3VvU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-06-25T11:00:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "i5jI9Z1KTMmtOi-0hMkFCLCGAcs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1EgFFDJbLyE"
+        },
+        "snippet": {
+          "publishedAt": "2018-04-24T12:38:27Z",
+          "channelId": "UChAQGrx4Qyl_DdiCUNR65gA",
+          "title": "CD Nhạc Xưa Asia 071   Thùy Dương 2   Mưa Tình Cuối Đông Lossless",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1EgFFDJbLyE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1EgFFDJbLyE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1EgFFDJbLyE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Cường Nguyễn Mạnh",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-04-24T12:38:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LhPynm3OhxDEDr2Dhd9Q-bHP0qQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gbukBmwv_go"
+        },
+        "snippet": {
+          "publishedAt": "2018-03-21T09:28:12Z",
+          "channelId": "UCybiLY0QpeMlTHRZ-P6JpOQ",
+          "title": "CD HỒNG TRÚC 13 - Rừng Lá Thấp - CD Gốc Nhạc Vàng Xưa (Ca Dao 116)",
+          "description": "CD HỒNG TRÚC 13 - Rừng Lá Thấp - CD Gốc Nhạc Vàng Xưa (Ca Dao 116) Tổng hợp CD Nhạc vàng gốc: https://goo.gl/Wat3Qb Hải Âu CD ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gbukBmwv_go/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gbukBmwv_go/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gbukBmwv_go/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CD Nhạc Vàng Xưa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-03-21T09:28:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sjj-8SHGl3UYLr56ndjwnXufnLQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "w-L-JQ1A7MU"
+        },
+        "snippet": {
+          "publishedAt": "2018-02-07T02:28:43Z",
+          "channelId": "UCybiLY0QpeMlTHRZ-P6JpOQ",
+          "title": "CD Nhạc Xưa ‣ Nhạc Xuân Hải Ngoại Xưa Thập Niên 90  [Hải Âu 217]",
+          "description": "CD Nhạc Vàng Xưa |Nhạc Xuân Hải Ngoại Xưa Thập Niên 90 [Hải Âu 217] ▻ Đăng Ký Kênh https://goo.gl/jhNMra Danh sách CD: 01. Câu chuyện đầu năm 02.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/w-L-JQ1A7MU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/w-L-JQ1A7MU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/w-L-JQ1A7MU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CD Nhạc Vàng Xưa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-02-07T02:28:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4glOnKNtifgWdXyfoR4E7xACHDs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ItzPBAi0SrM"
+        },
+        "snippet": {
+          "publishedAt": "2019-03-22T09:15:01Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "NHƯ QUỲNH và 20 Ca Khúc Nhạc Vàng Hải Ngoại Tuyển Chọn - Như Quỳnh Hay Nhất",
+          "description": "NHƯ QUỲNH và 20 Ca Khúc Nhạc Vàng Hải Ngoại Tuyển Chọn - Như Quỳnh Hay Nhất Trung tâm Asia là một trung tâm dẫn đầu trong nền âm nhạc Việt Nam, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ItzPBAi0SrM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ItzPBAi0SrM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ItzPBAi0SrM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-03-22T09:15:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0zouO_IgminwqrgdBmljE3ltB-c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XYKZWWt4K4I"
+        },
+        "snippet": {
+          "publishedAt": "2019-08-10T23:00:00Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Như Quỳnh &amp; Trường Vũ - Lk Nhạc Vàng Xưa Hải Ngoại Hay Nhất",
+          "description": "Như Quỳnh & Trường Vũ - Lk Nhạc Vàng Xưa Hải Ngoại Hay Nhất Đan Nguyên Bolero Hay Nhất: https://youtu.be/Dj3xtFKtFKI Trường Vũ Nhạc Vàng: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XYKZWWt4K4I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XYKZWWt4K4I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XYKZWWt4K4I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-08-10T23:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zszMSFoDyUPwsVCCN7YqCV1gQ54",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lVDLhFSla2Q"
+        },
+        "snippet": {
+          "publishedAt": "2019-02-05T00:00:04Z",
+          "channelId": "UCybiLY0QpeMlTHRZ-P6JpOQ",
+          "title": "Liên Khúc Đón Xuân Này Nhớ Xuân Xưa (ASIA 365) - Nhạc Xuân Bolero Hải Ngoại Hay Nhất",
+          "description": "Đan Nguyên, Băng Tâm, Hoàng Thục Linh, Tuấn Vũ, Liên Khúc Đón Xuân Này Nhớ Xuân Xưa (ASIA 355) - Nhạc Xuân Bolero Hải Ngoại Hay Nhất Tổng hợp ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lVDLhFSla2Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lVDLhFSla2Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lVDLhFSla2Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CD Nhạc Vàng Xưa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-02-05T00:00:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_l9H41EYg4hGk53dzH9EN4GaVuk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "J1x1YQwHmto"
+        },
+        "snippet": {
+          "publishedAt": "2019-03-28T12:36:48Z",
+          "channelId": "UC_ZKc2EFK41g__yVqICWOlw",
+          "title": "ĐẶNG THẾ LUÂN - Những Ca Khúc Nhạc Vàng Trữ Tình Hay Nhất Nghe 1000 Lần Không Chán",
+          "description": "Siêu Thị Nhạc Xưa sẽ là kênh chính thức của các bản nhạc xưa, nhạc vàng, nhạc lính, nhạc bolero của các danh ca hải ngoại bất hủ để đời. Bấm...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/J1x1YQwHmto/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/J1x1YQwHmto/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/J1x1YQwHmto/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Siêu Thị Nhạc Xưa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-03-28T12:36:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0YwvfkowjvKTEvUeO8OQ6aba23g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dNlwg7i4YMY"
+        },
+        "snippet": {
+          "publishedAt": "2019-10-11T22:53:33Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Nhạc Lính Hoàng Oanh - Chuyến Đò Vĩ Tuyến - Liên khúc Nhạc Lính Hải Ngoại Xưa Hay Nhất",
+          "description": "Nhạc Lính Hoàng Oanh - Chuyến Đò Vĩ Tuyến - Liên khúc Nhạc Lính Hải Ngoại Xưa Hay Nhất Hồ Hoàng Yến : https://youtu.be/KTtT545EZxk Hà Thanh Xuân ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dNlwg7i4YMY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dNlwg7i4YMY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dNlwg7i4YMY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-10-11T22:53:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bxSBPg09nkdkLc4jfJu10eXiFlU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4In-3bwCGnY"
+        },
+        "snippet": {
+          "publishedAt": "2018-02-15T04:00:46Z",
+          "channelId": "UCybiLY0QpeMlTHRZ-P6JpOQ",
+          "title": "CD Nhạc Xưa ‣ LK NEW WAVE CONNECTION 2  - CD Nhạc Hải Ngoại Xưa Sôi Động [Doremi 10]",
+          "description": "CD Nhạc Xưa ‣ LK NEW WAVE CONNECTION 2 - CD Nhạc Hải Ngoại Xưa Sôi Động [Doremi 10] Tổng hợp CD Nhạc vàng gốc: https://goo.gl/Wat3Qb Hải Âu ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4In-3bwCGnY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4In-3bwCGnY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4In-3bwCGnY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CD Nhạc Vàng Xưa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-02-15T04:00:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VbR0sHP--0uUZalMPCwdChym2A0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uoi4Y45gM3A"
+        },
+        "snippet": {
+          "publishedAt": "2019-03-20T09:20:30Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Chuyện Hoa Sim NHƯ QUỲNH - LK Nhạc Vàng Bolero Để Đời Hay Nhất Của Như Quỳnh",
+          "description": "Chuyện Hoa Sim NHƯ QUỲNH - LK Nhạc Vàng Bolero Để Đời Hay Nhất Của Như Quỳnh Trung tâm Asia là một trung tâm dẫn đầu trong nền âm nhạc Việt Nam ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uoi4Y45gM3A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uoi4Y45gM3A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uoi4Y45gM3A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-03-20T09:20:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sqsUEN88iYVP_uCLz1i9FXhX7xA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "h6IA58z5-Mw"
+        },
+        "snippet": {
+          "publishedAt": "2019-05-15T10:00:06Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Liveshow Hải Ngoại - Tình Yêu &amp; Thân Phận - ASIA 78 Fullshow | Hoàng Oanh, Hoàng Thục Linh, Băng Tâm",
+          "description": "Liveshow Hải Ngoại - Tình Yêu & Thân Phận - ASIA 78 Fullshow | Hoàng Oanh, Hoàng Thục Linh, Băng Tâm Huyền Sử Ca một Người mang Tên Quốc – Hoàng ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/h6IA58z5-Mw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/h6IA58z5-Mw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/h6IA58z5-Mw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-05-15T10:00:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EUhkh6SkmDDWE1JmmKhKhqm5lr4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "t1QQSI3h4PI"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-06T14:10:23Z",
+          "channelId": "UCUbMe8JMeuOKgDfDuVeCFwQ",
+          "title": "Những Bản Nhạc Vàng Xưa Bolero Thời Chiến Âm Thanh Lossless Rất Hay | Kênh Nhạc Vàng Xưa Hay Nhất",
+          "description": "Nhạc Việt Hải Ngoại sẽ là kênh chính thức của các bản nhạc: Nhạc Vàng, Nhạc Bolero, Tình Ca Xưa Hay Nhất. Bấm vào nút đăng ký ( subscribe ) để được...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t1QQSI3h4PI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t1QQSI3h4PI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t1QQSI3h4PI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Việt Hải Ngoại",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-06T14:10:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OVnYCf-kPDPh098opFUgIB4uCsY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lqOWisd5PlI"
+        },
+        "snippet": {
+          "publishedAt": "2019-04-18T09:05:55Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "HOÀNG OANH - 15 Bài Nhạc Vàng Xưa Vượt Thời Gian Hay Nhất Của Hoàng Oanh",
+          "description": "HOÀNG OANH - 15 Bài Nhạc Vàng Xưa Vượt Thời Gian Hay Nhất Của Hoàng Oanh 0:00 Để Trả Lời Một Câu Hỏi (Trúc Phương) 5:54 Lk Nhớ Nhau Hoài ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lqOWisd5PlI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lqOWisd5PlI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lqOWisd5PlI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-04-18T09:05:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PqlQh50fuKyKeTcwDufVEfKPIlw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "j25GQi4YNO4"
+        },
+        "snippet": {
+          "publishedAt": "2019-03-16T11:30:04Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "THANH TUYỀN TUYỆT PHẨM - 15 Ca Khúc Nhạc Vàng Xưa Hay Nhất Tuyển Chọn Trước 1975",
+          "description": "THANH TUYỀN TUYỆT PHẨM - 15 Ca Khúc Nhạc Vàng Xưa Hay Nhất Tuyển Chọn Trước 1975 Trung tâm Asia là một trung tâm dẫn đầu trong nền âm nhạc ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/j25GQi4YNO4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/j25GQi4YNO4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/j25GQi4YNO4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-03-16T11:30:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hpWizoCVZ04t2TYGvZftqzMbOUw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QHOILh9pjKw"
+        },
+        "snippet": {
+          "publishedAt": "2019-04-01T09:18:25Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Kẻ Ở Miền Xa GIANG TỬ - Nhạc Vàng Hải Ngoại Xưa Hay Nhất Của Giang Tử",
+          "description": "Kẻ Ở Miền Xa GIANG TỬ - Nhạc Vàng Hải Ngoại Xưa Hay Nhất Của Giang Tử Danh sách bài hát: Kẻ ở miền xa Tình em biển rộng sông dài Đêm buồn tỉnh lẻ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QHOILh9pjKw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QHOILh9pjKw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QHOILh9pjKw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-04-01T09:18:25Z"
+        }
+      }
+    ]
+  }
+  
+  

@@ -1,0 +1,1664 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/i15OoeLENG0Eg063oXY0V3E05Ko\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+     "totalResults": 27423,
+     "resultsPerPage": 50
+    },
+    "items": [
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wPFuLo48ENE3HVBcXtc1OyXjCWc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "LrW_2PNxpMY"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-10T02:11:42.000Z",
+       "channelId": "UCGIBGer2vKaYa0WouTwidWQ",
+       "title": "Hùng Cường - Mai Lệ Huyền | Song Ca Nhạc Vàng Hải Ngoại Chọn Lọc Hay Nhất",
+       "description": "Thế Giới Giải Trí trân trọng giới thiệu: Hùng Cường - Mai Lệ Huyền | Song Ca Nhạc Vàng Hải Ngoại Chọn Lọc Hay Nhất #hungcuong,#mailehuyen ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/LrW_2PNxpMY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/LrW_2PNxpMY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/LrW_2PNxpMY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thế Giới Giải Trí",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/qnRdLXqmUzaz-ywYhNB5S9349IM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "1EG_02TnfCQ"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-14T23:00:01.000Z",
+       "channelId": "UCGIBGer2vKaYa0WouTwidWQ",
+       "title": "Thiên Duyên Tiền Định - Hùng Cường, Mai Lệ Huyền Song Ca - Nhạc Vàng Hải Ngoại Song Ca Sôi Động Nhất",
+       "description": "Thế Giới Giải Trí trân trọng giới thiệu: Thiên Duyên Tiền Định - Hùng Cường, Mai Lệ Huyền Song Ca - Nhạc Vàng Hải Ngoại Song Ca Sôi Động Nhất ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/1EG_02TnfCQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/1EG_02TnfCQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/1EG_02TnfCQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thế Giới Giải Trí",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Cyx7xKZU194vmsvedlG5Z_BUtUE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "3TfINsKLei0"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-12T07:43:00.000Z",
+       "channelId": "UCGIBGer2vKaYa0WouTwidWQ",
+       "title": "Hùng Cường Mai Lệ Huyền Song Ca Xưa Hay Nhất - Nhạc Vàng Hải Ngoại Song Ca Hay Nhất",
+       "description": "Thế Giới Giải Trí trân trọng giới thiệu: Hùng Cường Mai Lệ Huyền Song Ca Xưa Hay Nhất - Nhạc Vàng Hải Ngoại Song Ca Hay Nhất #hungcuong,#mailehuyen ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/3TfINsKLei0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/3TfINsKLei0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/3TfINsKLei0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thế Giới Giải Trí",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/aZXt6Zhv8HXly6ANDBk-d-VLv0o\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "EfUcR0Z__R8"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-18T23:30:00.000Z",
+       "channelId": "UCGIBGer2vKaYa0WouTwidWQ",
+       "title": "Hùng Cường Mai Lệ Huyền | Tuyệt Phẩm Nhạc Vàng Hải Ngoại Song Ca Hay Nhất Hùng Cường Mai Lệ Huyền",
+       "description": "Thế Giới Giải Trí trân trọng giới thiệu: Hùng Cường Mai Lệ Huyền | Tuyệt Phẩm Nhạc Vàng Hải Ngoại Song Ca Hay Nhất Hùng Cường Mai Lệ Huyền ◙ ĐĂNG...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/EfUcR0Z__R8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/EfUcR0Z__R8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/EfUcR0Z__R8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thế Giới Giải Trí",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/44TIU_vqWuS1UIPmzU9xudIFnfQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "mJgScvtZNRg"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-10T23:00:03.000Z",
+       "channelId": "UCGIBGer2vKaYa0WouTwidWQ",
+       "title": "Hai Trái Tim Vàng - Hùng Cường Mai Lệ Huyền Song Ca | Nhạc Vàng Hải Ngoại Song Ca Đặc Biệt Nhất",
+       "description": "Thế Giới Giải Trí trân trọng giới thiệu: Hai Trái Tim Vàng - Hùng Cường Mai Lệ Huyền Song Ca | Nhạc Vàng Hải Ngoại Song Ca Đặc Biệt Nhất #hungcuong ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/mJgScvtZNRg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/mJgScvtZNRg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/mJgScvtZNRg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thế Giới Giải Trí",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/AO-YjClvcToK-58DcEcYQ9DK_d8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "LBFP8rTdmSY"
+      },
+      "snippet": {
+       "publishedAt": "2018-03-01T03:03:35.000Z",
+       "channelId": "UCpKbKbV1DP-rko5PomQmuqw",
+       "title": "HÙNG CƯỜNG, MAI LỆ HUYỀN - NHẠC VÀNG TRỮ TÌNH HẢI NGOẠI THẬP NIÊN 90 SONG CA ĐẶC BIỆT - NGHE LÀ MÊ",
+       "description": "Thúy Anh Productions sẽ là kênh chính thức của các bản nhạc xưa, nhạc vàng, nhạc lính, nhạc bolero của các danh ca hải ngoại bất hủ để đời. Bấm...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/LBFP8rTdmSY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/LBFP8rTdmSY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/LBFP8rTdmSY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Anh Productions",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/2vfh-c0FwE2JtLLfC5U7Ylv0v3g\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "2TMhYFg-pdI"
+      },
+      "snippet": {
+       "publishedAt": "2016-12-23T16:34:24.000Z",
+       "channelId": "UCzLriAhuTyOISjU8RqL3JzA",
+       "title": "HÙNG CƯỜNG | MAI LỆ HUYỀN | Kích động nhạc trước 75 chọn Lọc Hay Nhất | NHẠC VÀNG TRƯỚC 75",
+       "description": "Cặp song ca ăn khách nhất một thời của Sài Gòn hoa lệ Hùng Cường - Mai Lệ Huyền là đôi song ca những bản nhạc kích động hay nhất. 1. BẮT ĐỀN 2....",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/2TMhYFg-pdI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/2TMhYFg-pdI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/2TMhYFg-pdI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Vàng Thâu Thanh Trước 75",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/RM0rgcxORxzmg0N9EzMjOHlseuM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "hz4KB4XkbAg"
+      },
+      "snippet": {
+       "publishedAt": "2016-06-25T23:57:15.000Z",
+       "channelId": "UCzqITgGLAElhSEWcFtL2TJQ",
+       "title": "Mai Lệ Huyền &amp; Tuấn Châu - Kích Động Nhạc Thời Chiến ( Ngày Quân Lực )",
+       "description": "Mai Lệ Huyền Tuấn Châu - Kích Động Nhạc Thời Chiến Houston Texas USA June 19, 2016. Thu hình bởi Trúc Võ Phone: 832 475 4772 E-mail: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/hz4KB4XkbAg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/hz4KB4XkbAg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/hz4KB4XkbAg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Truc Vo",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/hAYX6HoVMuQRkZ8mkiYltNm9Gmo\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ASlff-q92CE"
+      },
+      "snippet": {
+       "publishedAt": "2018-12-26T10:09:02.000Z",
+       "channelId": "UC_F5SmFKP-xw77UF9IwheHA",
+       "title": "Liên Khúc Cha Cha Cha | Nhạc Sôi Động Hải Ngoại 2019 | LK Hải Ngoại Hay Nhất",
+       "description": "Liên Khúc Cha Cha Cha | Nhạc Sôi Động Hải Ngoại 2019 | LK Hải Ngoại Hay Nhất *Đăng ký kênh: https://goo.gl/ZsYcnQ *Tuyển Tập Nhạc Trữ Tình Hải Ngoại ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ASlff-q92CE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ASlff-q92CE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ASlff-q92CE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Remix Nhạc Vàng Trữ Tình",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/X7MQekwEzfLOFgOiLoSRqhSwl0U\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "6RI4LbVlrho"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-03T07:18:33.000Z",
+       "channelId": "UCR-WQ1-vUfOC5XQIUT_3Vgw",
+       "title": "Khó tin: Mai Lệ Huyền 78 nhảy hát như 18 - TÌNH YÊU THUỶ THỦ",
+       "description": "Khó tin: Mai Lệ Huyền 78 nhảy hát như 18 - TÌNH YÊU THUỶ THỦ https://youtu.be/6RI4LbVlrho.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/6RI4LbVlrho/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/6RI4LbVlrho/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/6RI4LbVlrho/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Trust Media Network",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_cXsYDbSY0pRqzvg2dWuEcANoIM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "doLx1F6etVk"
+      },
+      "snippet": {
+       "publishedAt": "2019-08-01T09:15:00.000Z",
+       "channelId": "UC8rskuDKEFoPN7_bbnB-e3w",
+       "title": "Hờn anh giận em, Cưới em -  Liên Khúc Nhạc Trữ Tình Hải Ngoại Sôi Động Triệu Người Say Mê",
+       "description": "Hờn anh giận em, Cưới em - Liên Khúc Nhạc Trữ Tình Hải Ngoại Sôi Động Triệu Người Say Mê ▻ Đăng Ký Kênh: http://bit.ly/BoleroVuotThoiGian ▻ Album ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/doLx1F6etVk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/doLx1F6etVk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/doLx1F6etVk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Bolero Vượt Thời Gian",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/FqB6ma5eee5ZV0sXDiDi1QPe19s\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "rOP0KtilWvg"
+      },
+      "snippet": {
+       "publishedAt": "2019-02-08T14:46:05.000Z",
+       "channelId": "UCr7Jiv5Sm7qChypsq7LCo7w",
+       "title": "Hùng Cường - Mai Lệ Huyền",
+       "description": "Pre 75.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/rOP0KtilWvg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/rOP0KtilWvg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/rOP0KtilWvg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Saigon bolero 20",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/bMMpPUnxCCa9jkspPePbuY64Bb8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "IRQKlZQqYh8"
+      },
+      "snippet": {
+       "publishedAt": "2016-09-15T07:44:09.000Z",
+       "channelId": "UCAOpGwmbm16IsIav6xL8EaA",
+       "title": "Mai Lệ Huyền, Elvis Phương, Hoàng Oanh, Trung Chỉnh liveshow một thời để nhớ",
+       "description": "Liveshow một thời để nhớ - Trung Chỉnh, Hoàng Oanh, Mai Lệ Huyền, Elvis Phương - Nhạc vàng Hải Ngoại Chuong trinh ca nhac Liveshow Mot Thoi De Nho .",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/IRQKlZQqYh8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/IRQKlZQqYh8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/IRQKlZQqYh8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Banu Tam",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/LOFCWxh8-0IEMQR_LnnoMgDMiw4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "yGScfqVgQx8"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-17T06:14:30.000Z",
+       "channelId": "UCwoiquLE5GgNl4cIjqW6BNg",
+       "title": "Sóng Nhạc 3   Tuyển chọn   Hùng Cường, Mai Lệ Huyền   Thu âm trước 75",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/yGScfqVgQx8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/yGScfqVgQx8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/yGScfqVgQx8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Kinh Điển",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/NvoPIJra5FC3BaL44hPU15-gcec\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "s3TxXSvE628"
+      },
+      "snippet": {
+       "publishedAt": "2018-04-23T07:01:01.000Z",
+       "channelId": "UCWNbJW-2YROIDJYww-yXC2g",
+       "title": "SONG CA NHẠC VÀNG - HÙNG CƯỜNG ft MAI LỆ HUYỀN | TUYỆT ĐỈNH NHẠC VÀNG BOLERO XƯA TỨ TRỤ HAY NHẤT",
+       "description": "SONG CA NHẠC VÀNG - HÙNG CƯỜNG ft MAI LỆ HUYỀN | TUYỆT ĐỈNH NHẠC VÀNG BOLERO XƯA TỨ TRỤ HAY NHẤT. HUNG CUONG MAI LE HUYEN ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/s3TxXSvE628/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/s3TxXSvE628/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/s3TxXSvE628/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "bao quoc",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/WUSSQVEIAyospN5NOwPWVTLAEEQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "oRwsQhgDm24"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-19T13:39:00.000Z",
+       "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+       "title": "Hùng Cường  &amp; Mai Lệ Huyền - Kích Động Nhạc tuyển chọn hay nhất thu âm trước 1975",
+       "description": "Tuyển chọn những bài nhạc kích động hay nhất được thu âm trước 1975 của cặp đôi huyền thoại Hùng Cường & Mai Lệ Huyền.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/oRwsQhgDm24/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/oRwsQhgDm24/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/oRwsQhgDm24/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Thu Âm Trước 1975",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/oNP1gpdkGKg5wcF9jfyrdih6bUk\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Kqkqs7-dQuw"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-11T00:30:00.000Z",
+       "channelId": "UCWNbJW-2YROIDJYww-yXC2g",
+       "title": "SONG CA NHẠC VÀNG - HÙNG CƯỜNG ft MAI LỆ HUYỀN | TUYỆT ĐỈNH NHẠC VÀNG BOLERO XƯA TỨ TRỤ HAY NHẤT",
+       "description": "SONG CA NHẠC VÀNG - HÙNG CƯỜNG ft MAI LỆ HUYỀN | TUYỆT ĐỈNH NHẠC VÀNG BOLERO XƯA TỨ TRỤ HAY NHẤT. SONG CA NHẠC VÀNG - HÙNG ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Kqkqs7-dQuw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Kqkqs7-dQuw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Kqkqs7-dQuw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "bao quoc",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/7b92WiYVWbuqCBJ0_3TL9cV9DV4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "gVfeTxUOC9g"
+      },
+      "snippet": {
+       "publishedAt": "2020-01-15T09:15:00.000Z",
+       "channelId": "UCybiLY0QpeMlTHRZ-P6JpOQ",
+       "title": "The best of Hùng Cường, Mai Lệ Huyền - CD NHẠC XƯA BẤT HỦ CỰC HAY",
+       "description": "The best of Hùng Cường, Mai Lệ Huyền - CD NHẠC XƯA BẤT HỦ CỰC HAY Tổng hợp CD Nhạc vàng gốc: https://goo.gl/Wat3Qb Hải Âu CD ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/gVfeTxUOC9g/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/gVfeTxUOC9g/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/gVfeTxUOC9g/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "CD Nhạc Vàng Xưa",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/LboAIUQn9SvcRLma785A9RRpa5g\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "qy7opqwDtms"
+      },
+      "snippet": {
+       "publishedAt": "2018-05-13T11:19:09.000Z",
+       "channelId": "UC8O6E89xQoaoR_nH-TkALFQ",
+       "title": "HÙNG CƯỜNG | MAI LỆ HUYỀN ÂM THANH HAY NHẤT",
+       "description": "Nhạc Hùng Cường - Mai Lệ Huyền vang bóng một thời âm thanh hay nhất, tổng hợp tuyệt phẩm. Hùng Cường nổi tiếng từ thập niên 1950 tại Sài Gòn, với...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/qy7opqwDtms/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/qy7opqwDtms/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/qy7opqwDtms/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Tuấn Anh Du Túp Bơ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/z8SdEM3SmTD4sfPjifNg-mOSrOc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "7xRouFSlXGY"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-01T17:01:06.000Z",
+       "channelId": "UC1nO09bSRa1teESWBftNzfA",
+       "title": "Hùng Cừờng_Mai Lệ Huyền | Nhạc Kích Động Chọn Lọc | Thu Âm Trước Năm 1975",
+       "description": "Cả Nhà Nhớ Bấm Đăng Ký Kênh Để Nhận Được Thông Báo Sớm Nhất Khi Mình Ra Video Karaoke Mới Nha ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/7xRouFSlXGY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/7xRouFSlXGY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/7xRouFSlXGY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Karaoke Dũng Lê Organ lyrics",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ee5IT0WHYTaP6mOgBQIiN0uTjN4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "vpJMex0B0Bc"
+      },
+      "snippet": {
+       "publishedAt": "2018-04-29T12:17:26.000Z",
+       "channelId": "UCx-sTaFIts5bAGG81-ZhGcQ",
+       "title": "SONG CA NHẠC VÀNG - HÙNG CƯỜNG ft MAI LỆ HUYỀN | TUYỆT ĐỈNH NHẠC VÀNG BOLERO XƯA TỨ TRỤ HAY NHẤT",
+       "description": "HÙNG CƯỜNG FT MAI LỆ HUYỀN▻SONG CA NHẠC VÀNG - HÙNG CƯỜNG ft MAI LỆ HUYỀN | TUYỆT ĐỈNH NHẠC VÀNG BOLERO XƯA TỨ TRỤ HAY ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/vpJMex0B0Bc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/vpJMex0B0Bc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/vpJMex0B0Bc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Vàng Hải Ngoại",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/JiueWbD7PT1n7bgpvUCGJs0D1hc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "5wLBGslidqI"
+      },
+      "snippet": {
+       "publishedAt": "2017-05-07T15:22:15.000Z",
+       "channelId": "UCayp-xzQ1zOuaE5Gxh1SbqQ",
+       "title": "ÚT KHỜ HỎI VỢ   VĂN CHUNG   HÙNG CƯỜNG   MAI LỆ HUYỀN",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/5wLBGslidqI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/5wLBGslidqI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/5wLBGslidqI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "van phung",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/scqJewk1QmvLv8-rORNqH2BtOdI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "OlcKhDxXHjE"
+      },
+      "snippet": {
+       "publishedAt": "2016-10-24T13:19:41.000Z",
+       "channelId": "UCO-6np5AFiQyfLi6iTogurg",
+       "title": "HÙNG CƯỜNG.. MAI LỆ HUYỀN  chọn lọc trươc năm   1975",
+       "description": "HÙNG CƯỜNG.. MAI LỆ HUYỀN chọn lọc trươc năm 1975.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/OlcKhDxXHjE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/OlcKhDxXHjE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/OlcKhDxXHjE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "ba vo",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/RD3RqZRuMzQq6YvBApWvbMBihWc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "VOgDoEIsl8Y"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-04T03:38:17.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "Paris By Night 97 - Celebrity Dancing 2 (Full Program)",
+       "description": "Paris By Night 97 - Celebrity Dancing 2 (Full Program) 1. LK Có Nhớ Đêm Nào (Khánh Băng) Mai Tiến Dũng; Xuân Yêu Thương (Lời Việt: Lê Đức Cường) ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/VOgDoEIsl8Y/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/VOgDoEIsl8Y/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/VOgDoEIsl8Y/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ow4jbDDaHw80dMBsf6OJKfso2XI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "b4bZ5oYYUMA"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-16T04:29:55.000Z",
+       "channelId": "UCkLqInMpqYzIFEBzG-7KUuQ",
+       "title": "Hùng Cường &amp; Mai Lệ Huyền -  Kích Động Nhạc  Chọn Lọc",
+       "description": "Kích Động Nhạc Hùng Cường & Mai Lệ Huyền - Chọn Lọc *Hùng Cường Một Trăm Phần Trăm *đám cưới nhà binh - Hùng Cường + Mai Lệ Huyền *hai trái tim ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/b4bZ5oYYUMA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/b4bZ5oYYUMA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/b4bZ5oYYUMA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Trữ Tình Thu Âm Trước 1975",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/BT93kcP-USXtTbFkS_cP9BKJlaU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "0kGbgte09Jw"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-14T08:55:51.000Z",
+       "channelId": "UCq9Uvnz2RFAf58PwnKF5yhQ",
+       "title": "MNK 021 - LÍNH DÙ LÊN ĐIỂM (Hùng Cường &amp; Mai Lệ Huyền)",
+       "description": "Kênh NHẠC XƯA BẤT HỦ với mong muốn góp nhặt các Album ca nhạc Hải ngoại đã từng vang bóng một thời với những tình khúc bất hủ trong thập niên 80s...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/0kGbgte09Jw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/0kGbgte09Jw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/0kGbgte09Jw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "NHẠC XƯA BẤT HỦ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/GGUsNxjGzn-Yh8iKwVlLXOY-9hA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "9kf1QPqA290"
+      },
+      "snippet": {
+       "publishedAt": "2017-10-16T08:55:09.000Z",
+       "channelId": "UCVhkGKmOdkueatoFOQErMSQ",
+       "title": "Danh Ca Hùng Cường - Những Tuyệt Phẩm với Cô Mai Lệ Huyền",
+       "description": "Cố nghệ sỹ Hùng Cường với những ca khúc \"giật gân\" đã làm cho biết bao nhiêu người phải \"giật\" theo. Xin mời các bạn cùng nghe.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/9kf1QPqA290/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/9kf1QPqA290/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/9kf1QPqA290/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "VietPlus24",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/eWUAn2D4ZstZ_z70KeVVIZWpxqQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "09HuuYLF3JU"
+      },
+      "snippet": {
+       "publishedAt": "2019-10-09T12:00:01.000Z",
+       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
+       "title": "PBN Collection | Nguyễn Hưng &amp; Kỳ Duyên",
+       "description": "PBN Collection | Kỳ Duyên & Nguyễn Hưng 1. LK Rồi Mai Tôi Đưa Em PBN26 0:00 2. Tình Cho Không Biếu Không (Lời Việt: Phạm Duy) PBN44 5:43 3.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/09HuuYLF3JU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/09HuuYLF3JU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/09HuuYLF3JU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/1faDiA4I2JUspbKaO2P4j-4_c8Q\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Gij_XeXvNBM"
+      },
+      "snippet": {
+       "publishedAt": "2020-01-04T02:10:10.000Z",
+       "channelId": "UCJP6JavhGxSckjMNkiWML-g",
+       "title": "NHẠC VÀNG TRƯỚC 75 - BĂNG NHẠC SÓNG NHẠC 03 (Thu âm trước 75)",
+       "description": "Album's Info: https://devilwomanmusic2020.blogspot.com/2020/01/va-bang-nhac-song-nhac-03-thu-am-truoc.html -------------------------------------- 01. Cưới Em ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Gij_XeXvNBM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Gij_XeXvNBM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Gij_XeXvNBM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "DW's Music Collection",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/6IRibQseR0BwHGUdZTmC8CuuFRY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "7UceAdK5Ljk"
+      },
+      "snippet": {
+       "publishedAt": "2018-09-29T08:32:21.000Z",
+       "channelId": "UCzLriAhuTyOISjU8RqL3JzA",
+       "title": "Hùng Cường | Mai Lệ Huyền | Kích Động Nhạc Trước 75",
+       "description": "HÙNG CƯỜNG - MAI LỆ HUYỀN 1. Thiên Duyên Tiền Định - Hùng Cường & Mai Lệ Huyền 2. Lính Nghĩ Gì - Mai Lệ Huyền 3. 20 40 - Phương Tâm 4.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/7UceAdK5Ljk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/7UceAdK5Ljk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/7UceAdK5Ljk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Vàng Thâu Thanh Trước 75",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/QiRSEps8FuNLEmb1-O-_L9aRw2U\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "C9kVQ8yVA7g"
+      },
+      "snippet": {
+       "publishedAt": "2017-06-08T04:39:05.000Z",
+       "channelId": "UCn3X5U7Q4KFyQCNPMz-vXGQ",
+       "title": "Nhạc Vàng CD 033   Hung Cuong   Mai Le Huyen   Kich Dong Nhac 2",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/C9kVQ8yVA7g/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/C9kVQ8yVA7g/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/C9kVQ8yVA7g/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "ENG TV",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/UDBkIzXOM0R5dEbIrLqQEvyglew\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "UHyXH4kIX5U"
+      },
+      "snippet": {
+       "publishedAt": "2019-11-23T12:31:31.000Z",
+       "channelId": "UCq9Uvnz2RFAf58PwnKF5yhQ",
+       "title": "MNK 075 - 100 PHẦN 100 (Hùng Cường)",
+       "description": "Kênh NHẠC XƯA BẤT HỦ với mong muốn góp nhặt các Album ca nhạc Hải ngoại đã từng vang bóng một thời với những tình khúc bất hủ trong thập niên 80s...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/UHyXH4kIX5U/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/UHyXH4kIX5U/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/UHyXH4kIX5U/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "NHẠC XƯA BẤT HỦ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/xCyuynnWTVgygXvqBMe1XLd7M0s\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "3G1NFC8UOHg"
+      },
+      "snippet": {
+       "publishedAt": "2019-01-27T09:15:00.000Z",
+       "channelId": "UCybiLY0QpeMlTHRZ-P6JpOQ",
+       "title": "[CD Nhạc Xưa] Hai Trái Tim Vàng - Mai Lệ Huyền, Hùng Cường (TACD 43)",
+       "description": "[CD Nhạc Xưa] Hai Trái Tim Vàng - Mai Lệ Huyền, Hùng Cường (TACD 43) Tổng hợp CD Nhạc vàng gốc: https://goo.gl/Wat3Qb Hải Âu CD ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/3G1NFC8UOHg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/3G1NFC8UOHg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/3G1NFC8UOHg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "CD Nhạc Vàng Xưa",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/k1DIu-cvEsCTeGIrPby5eyYWxck\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Pm_Nynz-9GY"
+      },
+      "snippet": {
+       "publishedAt": "2018-11-25T01:49:50.000Z",
+       "channelId": "UCeal9edUTWgeiP19MR409lg",
+       "title": "Hùng Cường &amp; Mai Lệ Huyền",
+       "description": "Thực hiện trước 1975.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Pm_Nynz-9GY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Pm_Nynz-9GY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Pm_Nynz-9GY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Cảm Ơn Âm Nhạc",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zP-c6rOT7JXKBzL2T-C9UqB4rEU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "JWWX5OJ70yo"
+      },
+      "snippet": {
+       "publishedAt": "2019-10-23T08:35:53.000Z",
+       "channelId": "UCq9Uvnz2RFAf58PwnKF5yhQ",
+       "title": "MNK 017 - DẮT NHAU VÀO MỘNG (Hùng Cường &amp; Mai Lệ Huyền)",
+       "description": "Kênh NHẠC XƯA BẤT HỦ với mong muốn góp nhặt các Album ca nhạc Hải ngoại đã từng vang bóng một thời với những tình khúc bất hủ trong thập niên 80s...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/JWWX5OJ70yo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/JWWX5OJ70yo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/JWWX5OJ70yo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "NHẠC XƯA BẤT HỦ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/4pxq0E0AiiDneHchZrRXjVLY-fc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "TVuKQ6QdfYY"
+      },
+      "snippet": {
+       "publishedAt": "2017-10-23T10:29:17.000Z",
+       "channelId": "UCboDraFRIN5MHrI5YWVhsAw",
+       "title": "Mai Lệ Huyền - 60 năm cuộc đời",
+       "description": "Mai Lệ Huyền - 60 năm cuộc đời TIỆC GÂY QUỸ TRÙNG TU CHÙA BÀ THIÊN HẬU SAN DIEGO 8 20 2017.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/TVuKQ6QdfYY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/TVuKQ6QdfYY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/TVuKQ6QdfYY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Mr Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/2IESPXTjNMeOvkpDiXcD3pCDIz8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "4dhRabKGzTk"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-22T09:25:39.000Z",
+       "channelId": "UCTOlCQRK7dtDIZTqZ--ILsQ",
+       "title": "Nhạc Xưa Tuyển Chọn Buồn Xót Xa - CHẾ LINH, DUY KHÁNH, SƠN TUYỀN, GIAO LINH - Khu Phố Ngày Xưa",
+       "description": "Nhạc Xưa Tuyển Chọn Buồn Xót Xa - CHẾ LINH, DUY KHÁNH, SƠN TUYỀN, GIAO LINH - Khu Phố Ngày Xưa ▻ Mời các bạn đăng kí kênh (miễn phí) để nghe ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/4dhRabKGzTk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/4dhRabKGzTk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/4dhRabKGzTk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Xưa Hải Ngoại",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/VLm_GNzcUzDeuIYHFYjtgKnTpgo\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "baENAPHjSl0"
+      },
+      "snippet": {
+       "publishedAt": "2019-08-12T13:42:36.000Z",
+       "channelId": "UCHh_V30Qdf6cwhSZJDifr4A",
+       "title": "Hùng Cường, Mai Lệ Huyền - Ai Yêu Em Hơn Anh[Mimosa CD030 ]",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/baENAPHjSl0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/baENAPHjSl0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/baENAPHjSl0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "hay hay CD",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/e95PLqhsvfQYOKXDAXygzdFHFpQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "G4x-p06-15U"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-09T07:54:04.000Z",
+       "channelId": "UCkLqInMpqYzIFEBzG-7KUuQ",
+       "title": "Sóng Nhạc 3   Kích Động Nhạc Hùng Cường - Mai Lệ Huyền,Thu Âm Trước 1975",
+       "description": "Sóng Nhạc 3 - Mai Lệ Huyền, Hùng Cường Cưới Em (Tuấn Lê) - Hùng Cường - Mai Lệ Huyền Thủy Thủ Và Biển Cả (Y Vũ) - Hùng Cường Ai? (Trường Hải) -...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/G4x-p06-15U/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/G4x-p06-15U/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/G4x-p06-15U/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Trữ Tình Thu Âm Trước 1975",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/akP3uqCd0e6t4gLVFzuaKFr6iWw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "gYMtvwx1Re4"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-11T05:08:07.000Z",
+       "channelId": "UCI6Caq9k-wlN2O6oenPGQVg",
+       "title": "Sóng Nhạc 3   Tuyển chọn   Hùng Cường, Mai Lệ Huyền   Thu âm trước 75",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/gYMtvwx1Re4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/gYMtvwx1Re4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/gYMtvwx1Re4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nam Nguyen",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/mEezmA1LQFTT98GL1QJLOHM5gYY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "bQWZkYM0n7w"
+      },
+      "snippet": {
+       "publishedAt": "2017-06-08T04:39:05.000Z",
+       "channelId": "UCn3X5U7Q4KFyQCNPMz-vXGQ",
+       "title": "Nhạc Vàng CD 021 Hùng Cường   Mai Lệ Huyền 1   Kích Động Nhạc 1 Thu Âm Trước 1975",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/bQWZkYM0n7w/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/bQWZkYM0n7w/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/bQWZkYM0n7w/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "ENG TV",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/KXbHye8B1l9e4Ytaz7pT8wK04xg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "pINkHR1AeYg"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-16T09:11:46.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "Nhạc Lính Hải Ngoại - Một Mai Giã Từ Vũ Khí - Tuyển Tập Nhạc Lính Hải Ngoại Hay Nhất",
+       "description": "Đan Nguyên, Trường Vũ, Tuấn Vũ, Nhạc Lính Hải Ngoại - Một Mai Giã Từ Vũ Khí - Tuyển Tập Nhạc Lính Hải Ngoại Hay Nhất Trung tâm Asia là một trung tâm...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/pINkHR1AeYg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/pINkHR1AeYg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/pINkHR1AeYg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/P8AnYJyCGlOzkA9wTYpqov7TVfw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "diEpu1IglFo"
+      },
+      "snippet": {
+       "publishedAt": "2019-08-15T09:31:50.000Z",
+       "channelId": "UC8rskuDKEFoPN7_bbnB-e3w",
+       "title": "Ai lớn lên không một lần yêu - Hoàng Tử Trong Mơ | Liên Khúc Trữ Tình Song Ca Sôi Động",
+       "description": "Ai lớn lên không một lần yêu - Hoàng Tử Trong Mơ | Liên Khúc Trữ Tình Song Ca Sôi Động ▻ Đăng Ký Kênh: http://bit.ly/BoleroVuotThoiGian ▻ Dân Ca Trữ ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/diEpu1IglFo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/diEpu1IglFo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/diEpu1IglFo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Bolero Vượt Thời Gian",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/W9HkDBIQkN6OefbvPwNEVy4Op3k\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "aUjEXxAVkKY"
+      },
+      "snippet": {
+       "publishedAt": "2018-09-26T12:02:48.000Z",
+       "channelId": "UChCGzbPWkCZKj4T6Dj7jE_A",
+       "title": "Hùng Cường &amp; Mai Lệ Huyền | Kích Động Nhạc Trước 75 Chon Lọc Hay Nhất [Audio CD]",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/aUjEXxAVkKY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/aUjEXxAVkKY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/aUjEXxAVkKY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Đinh Quốc Anh",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Bswyfxwr6r32OHjQ3gJOO0iFZuU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "iX7wsc30Ptg"
+      },
+      "snippet": {
+       "publishedAt": "2019-02-10T08:44:46.000Z",
+       "channelId": "UCQjC6pHIAoezgwDfFif3fCQ",
+       "title": "Băng Nhạc Trường Sơn 9: Duy Khánh-Hùng Cường-Mai Lệ Huyền-Hoàng Oanh -Thanh Tuyền -Thu Âm Trước 1975",
+       "description": "ＬＩＫＥ | ＣＯＭＭＥＮＴ | ＳＨＡＲＥ | ＳＵＢＳＣＲＩＢＥ Băng Nhạc Trường Sơn 9 Duy Khánh-Hùng Cường-Mai Lệ Huyền-Hoàng Oanh -Thanh Tuyền -Thu...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/iX7wsc30Ptg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/iX7wsc30Ptg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/iX7wsc30Ptg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "DNN78 Channel",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/JF9Fsa8P2sAFOR8cZmeH66MTLy8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "AzBk4pMLlSs"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-09T04:07:01.000Z",
+       "channelId": "UCd4yY6KpVPSdUnP4T0akvfg",
+       "title": "Sóng Nhạc 3   Tuyển chọn   Hùng Cường, Mai Lệ Huyền   Thu âm trước 75",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/AzBk4pMLlSs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/AzBk4pMLlSs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/AzBk4pMLlSs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhac Xua",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/QLfkA_uhM4mX8sktlwkoFvwOiiE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "fpRAUxla7So"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-16T04:45:00.000Z",
+       "channelId": "UC0wnXxCjN9ws8f9OxyC6Gow",
+       "title": "Hài Kịch để đời - Sợ Vợ Mới Là Anh Hùng | Túy Hồng La Thoại Tân Hùng Cường",
+       "description": "Hài Kịch để đời - Sợ Vợ Mới Là Anh Hùng | Túy Hồng La Thoại Tân Hùng Cường. Kênh Chính Thức Kịch Sống Túy Hồng Nền âm nhạc hải ngoại bao gồm...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/fpRAUxla7So/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/fpRAUxla7So/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/fpRAUxla7So/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Kịch Sống Túy Hồng",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/w0YeTxMCScMeIMJbqaNtY4LHHY8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "vxBetHrBbz4"
+      },
+      "snippet": {
+       "publishedAt": "2019-08-22T03:07:24.000Z",
+       "channelId": "UCGuSHh5kdvcRK_pI7x9TI0Q",
+       "title": "Hùng Cường - Mai Lệ Huyền 2: Kích động nhạc",
+       "description": "Nhạc vàng trước 1975.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/vxBetHrBbz4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/vxBetHrBbz4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/vxBetHrBbz4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Tìm lại Ký ức",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/w3hhNNdL7XYpAWY3g-Ck0kWI5IY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "bphlRjGstAE"
+      },
+      "snippet": {
+       "publishedAt": "2019-12-20T05:25:18.000Z",
+       "channelId": "UCXzrGqvPeysA4xWIDcdgipg",
+       "title": "Nhạc Xuân 2020 Tết Đong Đầy - Liên Khúc Nhạc Xuân 2020 Lưu Ánh Loan, Cẩm Loan, Ý Linh, Huỳnh Thật...",
+       "description": "Nhạc Xuân 2020 Tết Đong Đầy - Liên Khúc Nhạc Xuân 2020 Lưu Ánh Loan, Cẩm Loan, Ý Linh, Huỳnh Thật, Hồng Phượng, Cao Sỹ Hùng, Lưu Trúc Ly, Leo ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/bphlRjGstAE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/bphlRjGstAE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/bphlRjGstAE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nam Việt Trữ Tình 2",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/DEx8U9qGUZYfZu5-vbCt4aa63FY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "8j76gUjKR0E"
+      },
+      "snippet": {
+       "publishedAt": "2020-02-17T20:57:30.000Z",
+       "channelId": "UCCzkQ1MsSVl3h-ijjSXLfMw",
+       "title": "Nhạc trước năm 1975. Hùng Cường - Mai Lệ Huyền",
+       "description": "Hệ thống vàng bạc đá quý kim cương HGPj Community QTS Global LLC USA Viet Tv Now USA Vũ trụ tinh hoa, lượng tử, văn hoá, cổ vật, đá quý kim cương ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/8j76gUjKR0E/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/8j76gUjKR0E/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/8j76gUjKR0E/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Hoàng Quân Diamond 0822449999",
+       "liveBroadcastContent": "none"
+      }
+     }
+    ]
+   }
+   
+   

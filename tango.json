@@ -1,0 +1,1664 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/kCaEZ4DOHfAzsCuEMzsQp_6emjg\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+     "totalResults": 38130,
+     "resultsPerPage": 50
+    },
+    "items": [
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/xQFWYA_eG8mb8yo1UcOpFHwTBGQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "i9YtdZBj0O8"
+      },
+      "snippet": {
+       "publishedAt": "2018-10-15T15:34:54.000Z",
+       "channelId": "UCZCrtE5EwY1qRjKW8PT8naA",
+       "title": "Vũ Khúc Tango Đẳng Cấp Sang Trọng   Tuyển Chọn Những Bản Tình Khúc Nhạc Tango Bất Hủ Với Thời Gian",
+       "description": "Vũ Khúc Tango Đẳng Cấp Sang Trọng Tuyển Chọn Những Bản Tình Khúc Nhạc Tango Bất Hủ Với Thời Gian https://youtu.be/i9YtdZBj0O8.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/i9YtdZBj0O8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/i9YtdZBj0O8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/i9YtdZBj0O8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Lan Phi Điệp",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Qm_TMrVUgBZP4tn0ODE_LLnKH0w\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "-94RUc64Joo"
+      },
+      "snippet": {
+       "publishedAt": "2016-11-06T10:27:29.000Z",
+       "channelId": "UCA1VXwuUmid0iCp3MuDrS-Q",
+       "title": "Những bài tango tuyển chọn",
+       "description": "Danh sách các bản nhạc : 1. Ai Đi Ngoài Sương Gió-Khánh Ly 2. Bài tango buồn-NSND Thanh Huyền 3. Bài Tango Cho Em-Hồ Lệ Thu 4. Bài Tango Xa .",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/-94RUc64Joo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/-94RUc64Joo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/-94RUc64Joo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Carlos Sutton",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/bXE29m37BFDCrAB0ilfn95D9SVY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "YSHb2XVEHro"
+      },
+      "snippet": {
+       "publishedAt": "2018-01-12T09:12:30.000Z",
+       "channelId": "UC6-5nYNnXM8ewSBsndggEYA",
+       "title": "NGỌC LAN HAY NHẤT - Tuyển Chọn 20 Tình Khúc Hải Ngoại Hay Nhất Của Danh Ca Ngọc Lan",
+       "description": "NGỌC LAN HAY NHẤT - Tuyển Chọn 20 Tình Khúc Hải Ngoại Hay Nhất Của Danh Ca Ngọc Lan ▽ THEO DÕI : ♫ Google Plus : https://goo.gl/h48x3D ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/YSHb2XVEHro/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/YSHb2XVEHro/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/YSHb2XVEHro/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Quê Hương Việt Nam",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/OpPmtMVlPg5VV7ahGxTn_lDGwt8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "JoM70l97S_U"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-02T09:00:14.000Z",
+       "channelId": "UCgZlIq3draa-h19TypIsS2A",
+       "title": "[Album] Bài Tango Cho Em - Tuyển Tập Những Ca Khúc Nhạc Tình Vui Tươi Yêu Cuộc Sống Trong Đại Dịch",
+       "description": "[Album] Bài Tango Cho Em - Tuyển Tập Những Ca Khúc Nhạc Tình Vui Tươi Yêu Cuộc Sống Trong Đại Dịch ▻: Đăng ký kênh chính thức của ca sỹ Nguyễn ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/JoM70l97S_U/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/JoM70l97S_U/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/JoM70l97S_U/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Hồng Ân Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/suPHOBXAMNXrC9xo7-2wxnW6I-M\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "gSB-v9iLBSI"
+      },
+      "snippet": {
+       "publishedAt": "2017-07-10T03:32:06.000Z",
+       "channelId": "UCbnBxlu-5b3rNbpNqssGw1Q",
+       "title": "Khang Lê | Tuyển Tập  Nhạc Vàng 01. ChaChaCha , BoLeRo",
+       "description": "Tên thật: Danh Mã Phi Hùng { Nghệ Danh CS Khang Lê } ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/gSB-v9iLBSI/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/gSB-v9iLBSI/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/gSB-v9iLBSI/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Khang Lê official { Hoàng Tử Cha Cha Cha }",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/FCXvcq67nnQpl8vMAhQCOfob-rE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "SubMwqL9_JA"
+      },
+      "snippet": {
+       "publishedAt": "2017-05-01T17:09:16.000Z",
+       "channelId": "UCPNtWIxHAhbLdnoYBQPap1w",
+       "title": "Thanh Tuyền - Những Tình Khúc Tango Tuyển Chọn Hay Nhất",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/SubMwqL9_JA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/SubMwqL9_JA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/SubMwqL9_JA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Kênh Âm Nhạc",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/3Y-ZYii7B5MeTO-t-dDGjHwlWNA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "FuHJr-Y_R_0"
+      },
+      "snippet": {
+       "publishedAt": "2016-09-22T13:32:50.000Z",
+       "channelId": "UC-kLy8ickbF1zyi6jlxfdCQ",
+       "title": "Tuyển tập các bài hát Nguyễn Hưng - Nhạc Hải Ngoại hay nhất",
+       "description": "Tuyển tập những ca khúc hay nhất của Nguyễn Hưng - hải ngoại.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/FuHJr-Y_R_0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/FuHJr-Y_R_0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/FuHJr-Y_R_0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Diệp Linh Nguyễn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ddTVJ3T8ji7STswt4NKuNfCDzXI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "-WxfF4LpE8g"
+      },
+      "snippet": {
+       "publishedAt": "2019-02-10T23:00:00.000Z",
+       "channelId": "UC6-5nYNnXM8ewSBsndggEYA",
+       "title": "Tình Ca Đặc Biệt | Tuyển Chọn Ca Khúc Hải Ngoại Ngọt Ngào, Hội Tụ Danh Ca Xưa Ngọc Lan, Tuấn Ngọc...",
+       "description": "Tình Ca Đặc Biệt | Tuyển Chọn Ca Khúc Hải Ngoại Ngọt Ngào, Hội Tụ Danh Ca Xưa Ngọc Lan, Tuấn Ngọc, Vũ Khanh #tinhcahaingoai, #tinhkhuc, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/-WxfF4LpE8g/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/-WxfF4LpE8g/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/-WxfF4LpE8g/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Quê Hương Việt Nam",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/2tC1lbjSChezNqUWZ3yqhARoj5g\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "OVN0oFQED5U"
+      },
+      "snippet": {
+       "publishedAt": "2018-06-10T02:48:39.000Z",
+       "channelId": "UC6-5nYNnXM8ewSBsndggEYA",
+       "title": "Tình Khúc RUMBA, CHACHACHA, TANGO Bất Hủ Hay Nhất - Nhạc Khiêu Vũ Hay Nhất Thời Đại",
+       "description": "Tình Khúc RUMBA, CHACHACHA, TANGO Bất Hủ Hay Nhất - Nhạc Khiêu Vũ Hay Nhất Thời Đại ▽ THEO DÕI : ♫ Google Plus : https://goo.gl/h48x3D ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/OVN0oFQED5U/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/OVN0oFQED5U/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/OVN0oFQED5U/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Quê Hương Việt Nam",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/oGFwNXLDPNDLpQ-hVDCQ_aRBZks\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "OyJEw8L6OxU"
+      },
+      "snippet": {
+       "publishedAt": "2017-11-01T08:06:37.000Z",
+       "channelId": "UCPd-HdupUHu-RsFPGvlbeJg",
+       "title": "𝒯𝓊𝓎ể𝓃 𝒯ậ𝓅 𝒩𝒽ữ𝓃ℊ ℬả𝓃 𝒯𝒶𝓃ℊℴ || 𝒩𝒽ạ𝒸 𝒯𝓇ữ 𝒯ì𝓃𝒽 || 𝒩𝒽ạ𝒸 𝒱à𝓃ℊ | 𝒩𝒽ạ𝒸 ℬℴ𝓁ℯ𝓇ℴ 2017 ℋ𝒶𝓎 𝒩𝒽ấ𝓉",
+       "description": "Tuyển Tập Nhữnℊ ℬản Tanℊℴ || Nhạc Trữ Tình || Nhạc Vànℊ | Nhạc ℬℴlℯr...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/OyJEw8L6OxU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/OyJEw8L6OxU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/OyJEw8L6OxU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Hay Nhưng Cấm Bay",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/-eEwllXbVAUGssloZAUP2glj9RA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Pws3vzmZ-iU"
+      },
+      "snippet": {
+       "publishedAt": "2019-11-22T09:45:00.000Z",
+       "channelId": "UC0wnXxCjN9ws8f9OxyC6Gow",
+       "title": "Bài Tango Cho Em - Gặp Nhau Làm Ngơ || Nhạc hải ngoại Nghe cực ghiền",
+       "description": "Bài Tango Cho Em - Gặp Nhau Làm Ngơ || Nhạc hải ngoại Nghe cực ghiền Nhạc trữ tình bolero 2019: https://bit.ly/2MbSthb Nhạc vàng trữ tình mới: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Pws3vzmZ-iU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Pws3vzmZ-iU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Pws3vzmZ-iU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Kịch Sống Túy Hồng",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/HcATJn3g3wYrNxlgzrR2Xh4ZTis\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "iPuSiZoDsMs"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-14T11:00:07.000Z",
+       "channelId": "UC6-5nYNnXM8ewSBsndggEYA",
+       "title": "Top 24 Tình Khúc Bất Hủ Vượt Thời Gian Hay Nhất – Khi Bạn Nghe Là Sẽ Nghiện",
+       "description": "Quê Hương Việt Nam xin trân trọng giới thiệu video: Top 24 Tình Khúc Bất Hủ Vượt Thời Gian Hay Nhất – Khi Bạn Nghe Là Sẽ Nghiện #tinhcahaingoai, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/iPuSiZoDsMs/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/iPuSiZoDsMs/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/iPuSiZoDsMs/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Quê Hương Việt Nam",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/RGktJqVpnsxxzVx7H-VjIFbJrHE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "B-n-whDv0dk"
+      },
+      "snippet": {
+       "publishedAt": "2018-09-03T13:00:02.000Z",
+       "channelId": "UC_ZKc2EFK41g__yVqICWOlw",
+       "title": "LƯU HỒNG - Giọng Hát Nhẹ Nhàng Quý Phái | NHẠC VÀNG XƯA Cực Hay Của Nữ Hoàng Tango Lưu Hồng",
+       "description": "Siêu Thị Nhạc Xưa - Kênh Tuyển Chọn Những Ca Khúc Nhạc Vàng Bolero Xưa Bất Hủ Nhiều Danh Ca Hay Nhất! ◙ Hãy LIKE video và ĐĂNG KÝ kênh để theo ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/B-n-whDv0dk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/B-n-whDv0dk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/B-n-whDv0dk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Siêu Thị Nhạc Xưa",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/WLoICh2q3CcWELTBECH8QXOTQ48\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "mDqQ3VlkOpE"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-03T13:25:40.000Z",
+       "channelId": "UC_ZKc2EFK41g__yVqICWOlw",
+       "title": "TUYỂN TẬP GIANG TỬ - TUYỆT PHẨM NHẠC VÀNG BOLERO HAY NHẤT CỦA GIANG TỬ",
+       "description": "Siêu Thị Nhạc Xưa sẽ là kênh chính thức của các bản nhạc xưa, nhạc vàng, nhạc lính, nhạc bolero của các danh ca hải ngoại bất hủ để đời. Bấm...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/mDqQ3VlkOpE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/mDqQ3VlkOpE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/mDqQ3VlkOpE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Siêu Thị Nhạc Xưa",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/6rEkZTgBthSyDh0rpTqZGI-8I-w\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "1Bl9f9UK2eM"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-05T01:00:01.000Z",
+       "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+       "title": "Tuyển Chọn Nhạc Vàng Hải Ngoại Hay Nhất 2019 - Thần Tượng Bolero Hoàng Hải | LK Ai Cho Tôi Tình Yêu",
+       "description": "01. Chuyện chúng mình 02. Tiễn biệt 03. LK ai cho tôi tình yêu 04. Ai thương yêu em 05. Đam mê 06. Cho vừa lòng em 07. Yêu một mình 08. Nếu anh đừng hẹn ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/1Bl9f9UK2eM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/1Bl9f9UK2eM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/1Bl9f9UK2eM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Bolero Ngôi Sao Trẻ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/x_UGavJu__TK7NqHXHo0gX5pxbE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "VJK_m46HOj8"
+      },
+      "snippet": {
+       "publishedAt": "2018-11-09T07:36:03.000Z",
+       "channelId": "UCmE-zTMqwtGp-GpePCt_Suw",
+       "title": "TUẤN VŨ CHỌN LỌC 30 CA KHÚC BOLERO XƯA HAY NHẤT - ALBUM LÁ THƯ ĐÔ THỊ NGHE LÀ THẤM NỖI NHỚ QUÊ HƯƠNG",
+       "description": "TUẤN VŨ CHỌN LỌC 30 CA KHÚC BOLERO XƯA HAY NHẤT - ALBUM LÁ THƯ ĐÔ THỊ NGHE LÀ THẤM NỖI NHỚ QUÊ HƯƠNG. Tuấn Vũ tên thật là Nguyễn ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/VJK_m46HOj8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/VJK_m46HOj8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/VJK_m46HOj8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Tuấn Vũ Phượng Hoàng",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/EWM0ggEbZ5HrIzpJTyUjERZQ9OI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "ZtreP14vogk"
+      },
+      "snippet": {
+       "publishedAt": "2017-05-25T01:49:22.000Z",
+       "channelId": "UCvE_03SkYjkovApE4O9AjBg",
+       "title": "Hòa tấu Guitar 20 Tình khúc TANGO lãng mạn, hay nhất |  Tango không lời để đời Guitarist Vô Thường",
+       "description": "Mời các bạn cùng lắng nghe giai điệu nhẹ nhàng mượt mà lãng mạn của Tango qua những tình khúc bất hủ được tấu lên từ tiếng đàn Guitarist Vô...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ZtreP14vogk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ZtreP14vogk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ZtreP14vogk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Guitar Classic",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/OFMo5cRDL5oUxtJ651FRRsrXCQE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "6qk7Dx1tCt8"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-25T00:00:00.000Z",
+       "channelId": "UC-iHhg7KYWTna3mELvp7nSA",
+       "title": "Liên Khúc Ca Nhạc Trữ Tình Hay Nhất 2020 - Tuyển Tập Những Ca Khúc Bolero Hay Nức Lòng Người Nghe",
+       "description": "Liên Khúc Ca Nhạc Trữ Tình Hay Nhất 2020 - Tuyển Tập Những Ca Khúc Bolero Hay Nức Lòng Người Nghe ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/6qk7Dx1tCt8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/6qk7Dx1tCt8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/6qk7Dx1tCt8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "NhacPro - Song Ca Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/CftKlC_eZjnuLIwxm7f72Uof0_A\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "0EmF_D7JD_M"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-29T14:00:00.000Z",
+       "channelId": "UCKCF7hDAm5YNj_pdgHvFIng",
+       "title": "Nhạc Vàng Hải Ngoại Tuyển Chọn | Nhạc Xưa Bất Hủ - Tuyển Chọn Nhạc Xưa Giọng Ca Xưa Để Đời",
+       "description": "Nhạc Vàng Hải Ngoại Tuyển Chọn | Nhạc Xưa Bất Hủ - Tuyển Chọn Nhạc Xưa Giọng Ca Xưa Để Đời ◙ ĐĂNG KÝ KÊNH ĐỂ THEO DÕI: https://goo.gl/qA3QUG ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/0EmF_D7JD_M/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/0EmF_D7JD_M/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/0EmF_D7JD_M/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Bolero Trữ Tình",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/qpUG9gzmdrkz13lvaxP-K1QbaPM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "k6jzM-9rPL0"
+      },
+      "snippet": {
+       "publishedAt": "2019-12-21T04:24:18.000Z",
+       "channelId": "UC1SqeHtbZTFf2B0Y6qPhCmQ",
+       "title": "Tango Khánh Ly - Tuyệt Phẩm Tango Tuyển Chọn Vol.2 | Thập niên 2000s",
+       "description": "Đôi nét về dòng nhạc Tango: \"Tango, một điệu nhạc của Argentina xuất hiện khá sớm ở Việt Nam. Tango thường được viết chủ yếu theo nhịp 2/4, thỉnh...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/k6jzM-9rPL0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/k6jzM-9rPL0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/k6jzM-9rPL0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "VN Lossless Audio Collections",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/B8WH_Lyuc_tE7fnO8sgUw4z3yVg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Ie7zwxr7pSo"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-02T23:30:00.000Z",
+       "channelId": "UCN6xQuF_K9yW96lKc_ubIKA",
+       "title": "Thần Tượng Bolero 2018 Hoàng Hải - Tuyển Chọn Nhạc Vàng Lay Động Triệu Con Tim | Chuyện Chúng Mình",
+       "description": "Thần Tượng Bolero 2018 Hoàng Hải - Tuyển Chọn Nhạc Vàng Lay Động Triệu Con Tim | Chuyện Chúng Mình 01. Chuyện chúng mình 02. Tiễn biệt 03.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Ie7zwxr7pSo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Ie7zwxr7pSo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Ie7zwxr7pSo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "X-PRO BOLERO",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/6L-x3uuHDeqXfiUwuSJe7rrqVOM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "piSa4ZPdiu0"
+      },
+      "snippet": {
+       "publishedAt": "2018-06-03T10:30:01.000Z",
+       "channelId": "UCi1vp8Gkj7x31-rnyqL_14w",
+       "title": "LIÊN KHÚC NHẠC KHIÊU VŨ RUMBA, CHACHACHA, TANGO CHỌN LỌC HAY NHẤT - NGHE LÀ MUỐN NHẢY CÙNG NHẠC",
+       "description": "LIÊN KHÚC NHẠC KHIÊU VŨ RUMBA, CHACHACHA, TANGO CHỌN LỌC HAY NHẤT - NGHE LÀ MUỐN NHẢY CÙNG NHẠC. ▻Đăng ký để xem những video ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/piSa4ZPdiu0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/piSa4ZPdiu0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/piSa4ZPdiu0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Trữ Tình Chọn Lọc",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/eUec4o2jYRDci7mjuFnyCbF98uM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "vbcPYKnbBrM"
+      },
+      "snippet": {
+       "publishedAt": "2016-11-06T02:41:23.000Z",
+       "channelId": "UCA1VXwuUmid0iCp3MuDrS-Q",
+       "title": "NS Duc Huy Tuyển Tập Những Ca Khúc Hay Của NS Đức Huy",
+       "description": "Là trang web tổng hợp nhiều ca khúc của nhiều nhạc sĩ được thể hiện bơi các ca sĩ nổi tiếng trong và ngoài nước. NS Duc . Nhạc sĩ ca sĩ Đặng Đức...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/vbcPYKnbBrM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/vbcPYKnbBrM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/vbcPYKnbBrM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Carlos Sutton",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/H-EhGZ8WwIFWAcNn7iNM2fgVY-4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "rvgiNaFmCcY"
+      },
+      "snippet": {
+       "publishedAt": "2016-12-10T08:06:08.000Z",
+       "channelId": "UCGIBGer2vKaYa0WouTwidWQ",
+       "title": "Hòa Tấu Khiêu Vũ Chọn Lọc - Tuyển tập nhạc khiêu vũ hay nhất",
+       "description": "Hòa Tấu Khiêu Vũ Chọn Lọc - Tuyển tập nhạc khiêu vũ hay nhất ······ SUBSCRIBE FOR MORE MUSIC ······ Don't forget to LIKE, COMMENT, ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/rvgiNaFmCcY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/rvgiNaFmCcY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/rvgiNaFmCcY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thế Giới Giải Trí",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/9vbK1mv4dopovPiMfw3-8Nk3dbY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "1kceGIQjwT4"
+      },
+      "snippet": {
+       "publishedAt": "2018-11-04T12:43:10.000Z",
+       "channelId": "UC_ZKc2EFK41g__yVqICWOlw",
+       "title": "Tuyển Tập LƯU HỒNG - Giọng Hát Nhẹ Nhàng Quý Phái | NHẠC VÀNG Cực Hay Của Nữ Hoàng Tango Lưu Hồng",
+       "description": "Siêu Thị Nhạc Xưa sẽ là kênh chính thức của các bản nhạc xưa, nhạc vàng, nhạc lính, nhạc bolero của các danh ca hải ngoại bất hủ để đời. Bấm...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/1kceGIQjwT4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/1kceGIQjwT4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/1kceGIQjwT4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Siêu Thị Nhạc Xưa",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/G7KuY72RmSV9G_zLH45JR7D-3YM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "_3oLvpJ4VYE"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-12T14:44:02.000Z",
+       "channelId": "UCUbMe8JMeuOKgDfDuVeCFwQ",
+       "title": "Về Lại Đồi Sim - Lk Nhạc Vàng, Nhạc Lính, Nhạc Bolero Xưa Tuyển Chọn Hay Nhất | Nhạc Vàng Hải Ngoại",
+       "description": "Nhạc Việt Hải Ngoại sẽ là kênh chính thức của các bản nhạc: Nhạc Vàng, Nhạc Bolero, Tình Ca Xưa Hay Nhất. Bấm vào nút đăng ký ( subscribe ) để được...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/_3oLvpJ4VYE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/_3oLvpJ4VYE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/_3oLvpJ4VYE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Việt Hải Ngoại",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/qt_RVjq3X42G7kDkPd-wCZn7UNY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "FqcCiZpqOWg"
+      },
+      "snippet": {
+       "publishedAt": "2019-08-14T10:06:26.000Z",
+       "channelId": "UClWOtZmjANjL6vx5IBBSHxg",
+       "title": "Hà Thanh Xuân - Phận Tơ Tằm , Qua Cơn Mê...- Tuyển Tập Nhạc Sến Bolero Trữ Tình Hải Ngoại Hay Tê Tái",
+       "description": "The Best of Hà Thanh Xuân - Những ca khúc hay nhất của Hà Thanh Xuân DANH SÁCH BÀI HÁT: Hà Thanh Xuân Top Hits là kênh sẽ đăng tải những ca khúc ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/FqcCiZpqOWg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/FqcCiZpqOWg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/FqcCiZpqOWg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Hà Thanh Xuân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ek4-5LsvmozoFcrQoBxTR1AKZDs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "RVq9vI1Tj5w"
+      },
+      "snippet": {
+       "publishedAt": "2018-07-06T03:19:24.000Z",
+       "channelId": "UCYp9rBWMqFyh43RseUJYSIw",
+       "title": "Liên Khúc Cha Cha Cha Hải Ngoại - Liên Khúc Nhạc Vàng Trữ Tình Bolero Hay Nhất 2018",
+       "description": "nhacvang #haingoai #chachacha Liên Khúc Cha Cha Cha Hải Ngoại - Liên Khúc Nhạc Vàng Trữ Tình Bolero Hay Nhất 2018 ღ Đăng ký kênh: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/RVq9vI1Tj5w/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/RVq9vI1Tj5w/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/RVq9vI1Tj5w/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nam Việt Bolero",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/gaLJSdD3z0cmVAlvT6ZSeR7h09A\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "PoxdAxXokc8"
+      },
+      "snippet": {
+       "publishedAt": "2017-01-10T00:44:59.000Z",
+       "channelId": "UCMQpt_1NGtWk4FqwG4TGmKw",
+       "title": "Tuyệt Đỉnh Bolero Không Lời - Nhạc Bolero Không Lời Tuyển Chọn Những Bản Hòa Tấu Saxophone Hay Nhất",
+       "description": "Tuyệt Đỉnh Bolero Không Lời - Nhạc Bolero Không Lời Tuyển Chọn Những Bản Hòa Tấu Saxophone Hay Nhất https://youtu.be/PoxdAxXokc8.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/PoxdAxXokc8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/PoxdAxXokc8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/PoxdAxXokc8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "HD Music Channel",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wLuIK0QaCjmTUQcJf7-v-5wJKto\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "TeH0TPetBy0"
+      },
+      "snippet": {
+       "publishedAt": "2019-10-04T09:45:00.000Z",
+       "channelId": "UC0wnXxCjN9ws8f9OxyC6Gow",
+       "title": "Nhạc trữ tình bolero 101% không quảng cáo - LK nhạc vàng tuyển chọn Hay thần sầu",
+       "description": "Nhạc trữ tình bolero 101% không quảng cáo - LK nhạc vàng tuyển chọn Hay thần sầu Nhạc trữ tình bolero 2019: https://bit.ly/2MbSthb Nhạc vàng trữ tình mới: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/TeH0TPetBy0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/TeH0TPetBy0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/TeH0TPetBy0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Kịch Sống Túy Hồng",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_buloNCuPA_kNQdgEwCvqZblF0w\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Fr9oXJrNtm4"
+      },
+      "snippet": {
+       "publishedAt": "2019-08-04T02:54:22.000Z",
+       "channelId": "UClWOtZmjANjL6vx5IBBSHxg",
+       "title": "HÀ THANH XUÂN Nhạc Vàng Bolero Xưa Hay Ngất Ngây - Tuyển Tập Phận Tơ Tằm, Qua Cơn Mê, Chuyện Hợp Tan",
+       "description": "The Best of Hà Thanh Xuân - Những ca khúc hay nhất của Hà Thanh Xuân DANH SÁCH BÀI HÁT: Hà Thanh Xuân Top Hits là kênh sẽ đăng tải những ca khúc ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Fr9oXJrNtm4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Fr9oXJrNtm4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Fr9oXJrNtm4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Hà Thanh Xuân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/trcXNYLLHXkman8zyy4fnEFNBMA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "pHDG3SEzKhk"
+      },
+      "snippet": {
+       "publishedAt": "2020-03-08T13:00:12.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "Ý Lan Tuyển Chọn 15 Ca Khúc Hay Nhất Nghe Hoài Không Chán",
+       "description": "Ý Lan Tuyển Chọn 15 Ca Khúc Hay Nhất Nghe Hoài Không Chán Nhạc Vàng Bolero Bất Hủ : https://youtu.be/6l-thMw7XO4 Nhạc Lính Hải Ngoại: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/pHDG3SEzKhk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/pHDG3SEzKhk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/pHDG3SEzKhk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jVyjjTATen0Py0C5SKwfeVwHQDY\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "VXne_VN-4No"
+      },
+      "snippet": {
+       "publishedAt": "2018-05-03T02:30:21.000Z",
+       "channelId": "UCWIFrdu7Ctn-DWi2o6M9MVA",
+       "title": "Quang Dũng - Tuyển Tập Những Ca Khúc Trữ Tình Hay Nhất Của Quang Dũng",
+       "description": "Quang Dũng - Tuyển Tập Những Ca Khúc Trữ Tình Hay Nhất Của Quang Dũng ▻ Theo dõi kênh Nhạc Hay Việt Nam: https://goo.gl/u7F19L ▻ Facebook: ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/VXne_VN-4No/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/VXne_VN-4No/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/VXne_VN-4No/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Hay Việt Nam",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/t15udBn0Cra4--my6-0UOCoJAA8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "_2iVXFa40yE"
+      },
+      "snippet": {
+       "publishedAt": "2018-09-08T00:26:05.000Z",
+       "channelId": "UC_VZde-X7Y5sS-3Ff5OnvNA",
+       "title": "Liên Khúc Nhạc Vàng Hải Ngoại Hay Nhất Mọi Thời Đại - Liên Khúc Nhạc Vàng Trữ Tình Bolero Chọn Lọc",
+       "description": "Liên Khúc Nhạc Vàng Hải Ngoại Hay Nhất Mọi Thời Đại - Liên Khúc Nhạc Vàng Trữ Tình Bolero Chọn Lọc ▻ Đăng ký kênh theo dõi những video hay nhất...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/_2iVXFa40yE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/_2iVXFa40yE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/_2iVXFa40yE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Vàng Xưa",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/kllXpsDrFqiahwM6_k1ZbkhNdNA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "bcmg9FMp8V4"
+      },
+      "snippet": {
+       "publishedAt": "2018-03-22T09:34:59.000Z",
+       "channelId": "UCh_PsuKN0pjuVYk2CQ46qiw",
+       "title": "Liên Khúc Kiếp Nghèo - Nhạc Trữ Tình Bolero Hải Ngoại CHẤN ĐỘNG HÀNG TRIỆU CON TIM",
+       "description": "Liên Khúc Kiếp Nghèo - Nhạc Trữ Tình Bolero Hải Ngoại CHẤN ĐỘNG HÀNG TRIỆU CON TIM Bolero Nhạc Vàng Mới https://goo.gl/zJZnvJ Nhạc Bolero Trữ ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/bcmg9FMp8V4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/bcmg9FMp8V4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/bcmg9FMp8V4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Đào Anh Thư",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/BBZ-UcuCyelUxtR4LMRLPLUpIpc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "MCToPGui8r8"
+      },
+      "snippet": {
+       "publishedAt": "2019-09-27T09:45:02.000Z",
+       "channelId": "UC0wnXxCjN9ws8f9OxyC6Gow",
+       "title": "Đây mới là bài hát trữ tình hay nhất - Tuyển chọn bolero trữ tình KHÔNG QUẢNG CÁO",
+       "description": "Đây mới là bài hát trữ tình hay nhất - Tuyển chọn bolero trữ tình KHÔNG QUẢNG CÁO Nhạc trữ tình bolero 2019: https://bit.ly/2MbSthb Nhạc vàng trữ tình mới:...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/MCToPGui8r8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/MCToPGui8r8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/MCToPGui8r8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Kịch Sống Túy Hồng",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nyftPANXqtAT97A1me0TEyJ89r8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "mg_vzBG_oiM"
+      },
+      "snippet": {
+       "publishedAt": "2020-04-30T09:00:25.000Z",
+       "channelId": "UCh_PsuKN0pjuVYk2CQ46qiw",
+       "title": "Nhạc Trữ Tình Bolero Mới 2020 CÀNG NGHE CÀNG NGỌT - LK Bolero Hải Ngoại Hay Tê Tái",
+       "description": "Nhạc Trữ Tình Bolero Mới 2020 CÀNG NGHE CÀNG NGỌT - LK Bolero Hải Ngoại Hay Tê Tái Bolero Nhạc Vàng Mới https://goo.gl/3KUWWX Nhạc Hải ngoại ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/mg_vzBG_oiM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/mg_vzBG_oiM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/mg_vzBG_oiM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Đào Anh Thư",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ZK95kQQJowaFiP158TwcQZWTYQ8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "6SMI0aB3ksg"
+      },
+      "snippet": {
+       "publishedAt": "2019-09-29T09:45:00.000Z",
+       "channelId": "UC0wnXxCjN9ws8f9OxyC6Gow",
+       "title": "Rừng Lá Thấp - 500 bài nhạc vàng hay nhât - LK Bolero tuyển chọn lọc KHÔNG QUẢNG CÁO",
+       "description": "Rừng Lá Thấp - 500 bài nhạc vàng hay nhât - LK Bolero tuyển chọn lọc KHÔNG QUẢNG CÁO Nhạc trữ tình bolero 2019: https://bit.ly/2MbSthb Nhạc vàng trữ ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/6SMI0aB3ksg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/6SMI0aB3ksg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/6SMI0aB3ksg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Kịch Sống Túy Hồng",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/JdYeKjfFfViRdPbZ6iB8kg6FHJc\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "yomGxC-93cQ"
+      },
+      "snippet": {
+       "publishedAt": "2018-02-27T10:47:54.000Z",
+       "channelId": "UCZhUTCduoSHMuuzz4BDOKpQ",
+       "title": "LK Bolero-Giai điệu TanGo- HuyenPro-2018",
+       "description": "Hãy đăng ký - like và share video nhé.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/yomGxC-93cQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/yomGxC-93cQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/yomGxC-93cQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "HUYẾN PRO",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/vUAajpQKFD8duIbXnST3kBPXJ0o\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "jNEI0014xeU"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-23T10:54:06.000Z",
+       "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+       "title": "Yuuki Ánh Bùi - Tuyển Chọn Trữ Tình Bolero Đặc Sắc Nhất 2019 | Cho Vừa Lòng Em - Nếu Anh Đừng Hẹn",
+       "description": "Track list : 01. Cho vừa lòng em 02. Nếu anh đừng hẹn 03. Hoa tím người xưa 04. Trang nhật ký 05. Nếu đời không có anh 06. Tiễn biệt 07. Ai thương yêu em ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/jNEI0014xeU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/jNEI0014xeU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/jNEI0014xeU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Bolero Ngôi Sao Trẻ",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/LtcvU8dh1jGUgSwbPDWN3KSsPN0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "E0Oq80h4qd8"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-22T00:30:02.000Z",
+       "channelId": "UCN6xQuF_K9yW96lKc_ubIKA",
+       "title": "Tuyển Chọn Những Mỹ Nhân Xinh Đẹp Hát Bolero Đỉnh Nhất Việt Nam 2019 Nghe là Ghiền - Chiều Sân Ga",
+       "description": "Tuyển Chọn Những Mỹ Nhân Xinh Đẹp Hát Bolero Đỉnh Nhất Việt Nam 2019 Nghe là Ghiền - Chiều Sân Ga 01. Chiều sân ga 02. Người ngoài phố 03.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/E0Oq80h4qd8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/E0Oq80h4qd8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/E0Oq80h4qd8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "X-PRO BOLERO",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/vyACdB3fL1OjTB_qI3dFsAYrA4w\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "9dii44_bREA"
+      },
+      "snippet": {
+       "publishedAt": "2018-08-14T02:12:10.000Z",
+       "channelId": "UC6-5nYNnXM8ewSBsndggEYA",
+       "title": "NGỌC LAN - THANH LAN | Tình Khúc Nhạc Pháp Lời Việt Hay Nhất Của Hai Danh Ca Đình Đám",
+       "description": "NGỌC LAN - THANH LAN | Tình Khúc Nhạc Pháp Lời Việt Hay Nhất Của Hai Danh Ca Đình Đám ❖▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭❖.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/9dii44_bREA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/9dii44_bREA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/9dii44_bREA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Quê Hương Việt Nam",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/pwXCs8vLLbCHKwGhnVMYsABUy_k\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "LQMQ74sKddQ"
+      },
+      "snippet": {
+       "publishedAt": "2017-08-11T14:11:57.000Z",
+       "channelId": "UCB7i5peZ1W3Uv1Z5t2cUfBw",
+       "title": "GUITAR NHẠC VÀNG HẢI NGOẠI TUYỂN CHỌN HAY NHẤT | Nhạc Bolero Trữ Tình Quê Hương Không Lời Chọn Lọc",
+       "description": "GUITAR NHẠC VÀNG HẢI NGOẠI TUYỂN CHỌN HAY NHẤT | Nhạc Bolero Trữ Tình Quê Hương Không Lời Chọn Lọc ----- 01. Tình Bơ Vơ 02. Anh Biết Em Đi ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/LQMQ74sKddQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/LQMQ74sKddQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/LQMQ74sKddQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nhạc Vàng Không Lời 2018",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/5fnRMexsQf1_YeY7soYjKvYpLxs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "MebEd_d47tA"
+      },
+      "snippet": {
+       "publishedAt": "2016-11-13T03:32:02.000Z",
+       "channelId": "UCxisImEGVXftdUhKh7tHmwg",
+       "title": "Hòa Tấu Bolero Tuyển Chọn Hay Nhất 2017 - Nhạc Vàng Không Lời Những Đồi Hoa Sim",
+       "description": "Hòa Tấu Bolero Tuyển Chọn Hay Nhất 2017 - Nhạc Vàng Không Lời Những Đồi Hoa Sim Nhạc hòa tấu trữ tình Việt Nam chọn lọc Nhạc không lời tuyển chọn...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/MebEd_d47tA/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/MebEd_d47tA/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/MebEd_d47tA/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Hòa Tấu Trữ Tình Việt Nam",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/TBkJbzX7EsmFoXsyyh_OQlMH8kQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "8YTVZs4adzU"
+      },
+      "snippet": {
+       "publishedAt": "2019-09-01T14:08:11.000Z",
+       "channelId": "UClWOtZmjANjL6vx5IBBSHxg",
+       "title": "Hà Thanh Xuân Quốc Khanh - LK Bolero Trữ Tình Tuyển Chọn Nhạc Hải Ngoại Hay Nhất",
+       "description": "The Best of Hà Thanh Xuân - Những ca khúc hay nhất của Hà Thanh Xuân DANH SÁCH BÀI HÁT: Hà Thanh Xuân Top Hits là kênh sẽ đăng tải những ca khúc ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/8YTVZs4adzU/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/8YTVZs4adzU/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/8YTVZs4adzU/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Hà Thanh Xuân",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/4I7XI-_T5nnHAekaytAkcwQXOCw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "f6-LpG7CJ3I"
+      },
+      "snippet": {
+       "publishedAt": "2019-09-07T09:30:01.000Z",
+       "channelId": "UC0wnXxCjN9ws8f9OxyC6Gow",
+       "title": "Thao thức vì anh - Tuyển chọn ca nhạc Hải ngoại trữ tình - 194 bài bolero Không có quảng cáo",
+       "description": "Thao thức vì anh - Tuyển chọn ca nhạc Hải ngoại trữ tình - 194 bài bolero Không có quảng cáo Nhạc trữ tình bolero 2019: https://bit.ly/2MbSthb Nhạc vàng trữ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/f6-LpG7CJ3I/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/f6-LpG7CJ3I/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/f6-LpG7CJ3I/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Kịch Sống Túy Hồng",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jmwIKKGYGR1KQfdSoJEwf7pAZCs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "2FT7jrEnkK4"
+      },
+      "snippet": {
+       "publishedAt": "2019-10-04T13:00:11.000Z",
+       "channelId": "UCE9IdSVdr1uxazP7fd-SkjA",
+       "title": "Nguyễn Hưng &amp; 25 Tuyệt Phẩm Sôi Động",
+       "description": "Nguyễn Hưng & 25 Tuyệt Phẩm Sôi Động 1. Sầu Đông (Khánh Băng) 0:00 2. Ngày Em Đi (Lam Phương) 3:48 3. Khúc Tình Buồn (Nguyễn Ngọc Thạch) 8:09 4.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/2FT7jrEnkK4/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/2FT7jrEnkK4/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/2FT7jrEnkK4/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Thuy Nga Radio",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/RYGzlGmtdxlzGiJGO_3di_GZ5f0\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "uoT13KVgxSM"
+      },
+      "snippet": {
+       "publishedAt": "2019-06-26T03:43:20.000Z",
+       "channelId": "UC_F5SmFKP-xw77UF9IwheHA",
+       "title": "LK Nhạc Hải Ngoại Sôi Động 2019 | Yêu Ngay Phút Ban Đầu | Nhạc Hải Ngoại REMIX Nghe Là Nghiện",
+       "description": "Đăng ký kênh: https://goo.gl/ZsYcnQ *Tuyển Tập Nhạc Trữ Tình Hải Ngoại 2018: https://goo.gl/dh5jYf -------------------------------------------------------------- ▻ Powered.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/uoT13KVgxSM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/uoT13KVgxSM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/uoT13KVgxSM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Remix Nhạc Vàng Trữ Tình",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/lf9Wb44e-uELqGSQBIfOwH6ODPw\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "UDn-BkZhhhg"
+      },
+      "snippet": {
+       "publishedAt": "2019-08-12T23:30:00.000Z",
+       "channelId": "UCkHASsLOHuddMTzARove3AA",
+       "title": "Trường Vũ Chọn Lọc 15 Ca Khúc Nhạc Vàng Hay Nhất Nghe Hoài Không Chán",
+       "description": "Trường Vũ Chọn Lọc 15 Ca Khúc Nhạc Vàng Hay Nhất Nghe Hoài Không Chán Đan Nguyên Bolero Hay Nhất: https://youtu.be/Dj3xtFKtFKI Trường Vũ Nhạc ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/UDn-BkZhhhg/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/UDn-BkZhhhg/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/UDn-BkZhhhg/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Asia Entertainment Official",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/lSFfJTLKpdoFe2kZmvrowoIJof8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "nVDpnqqi2AQ"
+      },
+      "snippet": {
+       "publishedAt": "2019-07-23T12:32:58.000Z",
+       "channelId": "UC6-5nYNnXM8ewSBsndggEYA",
+       "title": "NGỌC LAN - Những Tình Khúc Bất Hủ Hay Nhất Sự Nghiệp Của Ngọc Lan Còn Mãi",
+       "description": "Quê Hương Việt Nam xin trân trọng giới thiệu video: NGỌC LAN - Những Tình Khúc Bất Hủ Hay Nhất Sự Nghiệp Của Ngọc Lan Còn Mãi NGỌC LAN - Những ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/nVDpnqqi2AQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/nVDpnqqi2AQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/nVDpnqqi2AQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Quê Hương Việt Nam",
+       "liveBroadcastContent": "none"
+      }
+     }
+    ]
+   }
+   
+   
