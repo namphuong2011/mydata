@@ -40,7 +40,7 @@
             ]
         },
         {
-            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/lequyen.json",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/lequen.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Lệ Quyên hay nhất",
             "bgcolor":"0xe64a19",
@@ -82,7 +82,7 @@
             ]
         },
         {
-            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/liveshowphontra.json",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/liveshowphongtra.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Liveshow phòng trà",
             "bgcolor":"0x8e24aa",
@@ -114,7 +114,7 @@
         },
         
         {
-            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/casitrebolero1.json",
+            "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/casitrephuonganh.json",
             "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
             "header": "Ca sĩ trẻ bolero 1",
             "bgcolor":"0x673ab7",
