@@ -10,105 +10,6 @@
     "items": [
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/2bO5nzqUl0koAdiJpNbGMDNF3R8\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "orI_V1WyVSk"
-      },
-      "snippet": {
-       "publishedAt": "2018-09-28T04:32:52.000Z",
-       "channelId": "UC5XIV90zbOCCLlLG0gOh2Xw",
-       "title": "NHẠC LÍNH HẢI NGOẠI XƯA BUỒN NHẤT MỌI THỜI ĐẠI - LỜI TÂM SỰ NGƯỜI LÍNH XƯA CHỨA CHAN BAO NỖI NIỀM",
-       "description": "NHẠC LÍNH HẢI NGOẠI XƯA BUỒN NHẤT MỌI THỜI ĐẠI - LỜI TÂM SỰ NGƯỜI LÍNH XƯA CHỨA CHAN BAO NỖI NIỀM. Trường Vũ, tên thật là Huỳnh Văn ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/orI_V1WyVSk/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/orI_V1WyVSk/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/orI_V1WyVSk/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Hải Ngoại Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/QAziEHRD3S-EAIPSA93HdgVec_8\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "qhzMtZz8Yss"
-      },
-      "snippet": {
-       "publishedAt": "2020-05-02T10:44:15.000Z",
-       "channelId": "UCytHocZlrMx499o86164B7Q",
-       "title": "ĐAN NGUYÊN HOÀNG THỤC LINH - Song Ca Nhạc Bolero Hải Ngoại Vạn Người Mê nghe Là Khỏe Người",
-       "description": "ĐAN NGUYÊN HOÀNG THỤC LINH - Song Ca Nhạc Bolero Hải Ngoại Vạn Người Mê nghe Là Khỏe Người. ▻ Đan Nguyên Chọn lọc hay nhất sự nghiệp: ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/qhzMtZz8Yss/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/qhzMtZz8Yss/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/qhzMtZz8Yss/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Đan Nguyên Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Sv-PxPbd5L-HnY_aMz-89rxT_6o\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "NGq1jMhuafY"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-30T15:53:49.000Z",
-       "channelId": "UC7QjCKuO1ga6JK6wUweVapg",
-       "title": "Giọng Hát Để Đời Lính Rumba 1975 Tuyển Chọn | LK Nhạc Lính Xưa Hải Ngoại Chọn Lọc Làm Mê Mẩn",
-       "description": "Giọng Hát Để Đời Lính Rumba 1975 Tuyển Chọn | LK Nhạc Lính Xưa Hải Ngoại Chọn Lọc Làm Mê Mẩn Kênh Giọng Hát Để Đời (#gionghatdedoi) - Kênh ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/NGq1jMhuafY/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/NGq1jMhuafY/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/NGq1jMhuafY/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Giọng Hát Để Đời",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/elrEehDFdCFIGZ22zuQVIYB3v94\"",
       "id": {
        "kind": "youtube#video",
@@ -175,72 +76,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/40fjVErgFP_YDVbSOcGnMTlFZ2I\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "FKEGhK7I4IA"
-      },
-      "snippet": {
-       "publishedAt": "2019-08-03T23:00:00.000Z",
-       "channelId": "UCx-sTaFIts5bAGG81-ZhGcQ",
-       "title": "NHẠC LÍNH XƯA TIỀN CHIẾN - CHỌN LỌC 10 BÀI NHẠC LÍNH HẢI NGOẠI HAY NHẤT CỦA DUY KHÁNH, CHẾ LINH...",
-       "description": "Nhạc Vàng Hải Ngoại trân trọng giới thiệu NHẠC LÍNH XƯA TIỀN CHIẾN - CHỌN LỌC 10 BÀI NHẠC LÍNH HẢI NGOẠI HAY NHẤT CỦA DUY KHÁNH, CHẾ ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/FKEGhK7I4IA/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/FKEGhK7I4IA/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/FKEGhK7I4IA/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhạc Vàng Hải Ngoại",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Fuosw5vrMH9tTvV8TNBQ9StPGqg\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "pp8xlimNK2I"
-      },
-      "snippet": {
-       "publishedAt": "2020-05-01T22:00:44.000Z",
-       "channelId": "UCA8B5wn5qCFDRsFtVMFUXLQ",
-       "title": "Lời Tình Viết Vội, Chiều Tây Đô | LK Rumba Nhạc Lính Xưa Hải Ngoại Gái Xinh Đi Vào Lòng Người",
-       "description": "Lời Tình Viết Vội, Chiều Tây Đô | LK Rumba Nhạc Lính Xưa Hải Ngoại Gái Xinh Đi Vào Lòng Người ▻ Yêu Nhạc Bolero sẽ là kênh chính thức của các bản...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/pp8xlimNK2I/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/pp8xlimNK2I/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/pp8xlimNK2I/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Yêu Nhạc Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/eLUJtY5SKu5W2D2pooZW_jypM_s\"",
       "id": {
        "kind": "youtube#video",
@@ -274,39 +109,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/JX8VsRAE9dF0XTbh7ae0rt1hWaQ\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "izHXCs4-b6I"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-23T02:03:26.000Z",
-       "channelId": "UCytHocZlrMx499o86164B7Q",
-       "title": "Nhạc Lính Hải Ngoại ĐAN NGUYÊN Không Quảng Cáo - LK Đêm Buồn Tỉnh Lẻ Cực Sầu Khi Nghe Về Đêm",
-       "description": "Nhạc Lính Hải Ngoại ĐAN NGUYÊN Không Quảng Cáo - LK Đêm Buồn Tỉnh Lẻ Cực Sầu Khi Nghe Về Đêm. ▻ Đan Nguyên Chọn lọc hay nhất sự nghiệp: ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/izHXCs4-b6I/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/izHXCs4-b6I/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/izHXCs4-b6I/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Đan Nguyên Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/-CigitHdlNglpbTOP9j3hen0uno\"",
       "id": {
        "kind": "youtube#video",
@@ -335,39 +137,6 @@
         }
        },
        "channelTitle": "Kho Nhạc Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/izTL1RLgp3h2JHU7_lzS3Hl-rgQ\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "_GjqDhVbUm8"
-      },
-      "snippet": {
-       "publishedAt": "2020-03-13T11:00:14.000Z",
-       "channelId": "UCt5vPUQ5py2Xja7y2r2s4pg",
-       "title": "101 Bài Nhạc Lính Bolero Hải Ngoại Hay Nhất 2020 - LK Người Xa Về Thành Phố, Hận Tha La -Nghe Là Mê",
-       "description": "101 Bài Nhạc Lính Bolero Hải Ngoại Hay Nhất 2020 - LK Người Xa Về Thành Phố, Hận Tha La -Nghe Là Mê ▻: Đăng ký kênh chính thức của ca sỹ Đan ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/_GjqDhVbUm8/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/_GjqDhVbUm8/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/_GjqDhVbUm8/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Đan Phương Official",
        "liveBroadcastContent": "none"
       }
      },
@@ -439,39 +208,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/6_rpdlYF8FNfKnLlevTv7uNOIjQ\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "FddN-BbCLtM"
-      },
-      "snippet": {
-       "publishedAt": "2020-05-01T02:53:36.000Z",
-       "channelId": "UCytHocZlrMx499o86164B7Q",
-       "title": "Liên Khúc TẠ TỪ TRONG ĐÊM - Nhạc vàng hải ngoại ĐAN NGUYÊN Không Quảng Cáo Vạn Người Mê",
-       "description": "Liên Khúc TẠ TỪ TRONG ĐÊM - Nhạc vàng hải ngoại ĐAN NGUYÊN Không Quảng Cáo Vạn Người Mê. ▻ Đan Nguyên Chọn lọc hay nhất sự nghiệp: ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/FddN-BbCLtM/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/FddN-BbCLtM/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/FddN-BbCLtM/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Đan Nguyên Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/oIzw6yDUNDQ4azb9vEZiebKjuZw\"",
       "id": {
        "kind": "youtube#video",
@@ -538,39 +274,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/gIiAYaWAEUD-91OE33wkZrYAZew\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "d8-cqiDiTwY"
-      },
-      "snippet": {
-       "publishedAt": "2020-01-13T11:00:15.000Z",
-       "channelId": "UCt5vPUQ5py2Xja7y2r2s4pg",
-       "title": "Nhạc Lính Bolero Hải Ngoại Hay Nhất Mọi Thời Đại - Song Ca Hay Không Tưởng Ngô Quốc Linh Đan Phương",
-       "description": "Nhạc Lính Bolero Hải Ngoại Hay Nhất Mọi Thời Đại - Song Ca Hay Không Tưởng Ngô Quốc Linh Đan Phương ▻: Đăng ký kênh chính thức của ca sỹ Đan ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/d8-cqiDiTwY/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/d8-cqiDiTwY/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/d8-cqiDiTwY/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Đan Phương Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/QnDDF6J-Vxf-jKcwduoTYaYPvCU\"",
       "id": {
        "kind": "youtube#video",
@@ -599,39 +302,6 @@
         }
        },
        "channelTitle": "Trương Quân Bảo",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/x-7X_kN7Hqtxf0prP6oBBRAQHg8\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "nsA_EdzbAWs"
-      },
-      "snippet": {
-       "publishedAt": "2020-02-07T22:04:44.000Z",
-       "channelId": "UCA8B5wn5qCFDRsFtVMFUXLQ",
-       "title": "LK Nhạc Lính Rumba Hải Ngoại Người Mẫu Đẹp Như Tiên - 80 Bài Sến Xưa KHÔNG QUẢNG CÁO Cực Xót Xa",
-       "description": "Yêu Nhạc Bolero sẽ là kênh chính thức của các bản nhạc rumba bolero trữ tình. Bấm vào nút theo dõi ( subscribe ) để được cập nhật những sản phẩm...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/nsA_EdzbAWs/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/nsA_EdzbAWs/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/nsA_EdzbAWs/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Yêu Nhạc Bolero",
        "liveBroadcastContent": "none"
       }
      },
@@ -670,39 +340,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/CJA4x3tieRSJWLVBlehuHjFX-v4\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "IXi2oTSYLgg"
-      },
-      "snippet": {
-       "publishedAt": "2020-03-10T11:00:18.000Z",
-       "channelId": "UCt5vPUQ5py2Xja7y2r2s4pg",
-       "title": "Chiều Tây Đô, Lính Xa Nhà - Nhạc Lính Bolero Hải Ngoại Bất Hủ - Nghe Một Lần Là Nhớ Mãi Không Quên",
-       "description": "Chiều Tây Đô, Lính Xa Nhà - Nhạc Lính Bolero Hải Ngoại Bất Hủ - Nghe Một Lần Là Nhớ Mãi Không Quên ▻: Đăng ký kênh chính thức của ca sỹ Đan Phương:.",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/IXi2oTSYLgg/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/IXi2oTSYLgg/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/IXi2oTSYLgg/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Đan Phương Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/3WgfF9wiyVrhn6jcnXgyBy5HeUs\"",
       "id": {
        "kind": "youtube#video",
@@ -731,39 +368,6 @@
         }
        },
        "channelTitle": "Sơn Tuyền",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/P0jA1VC84USedn1bc42Ne5Gc1HU\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "ZB1Qf6Ty2KM"
-      },
-      "snippet": {
-       "publishedAt": "2017-12-13T06:39:51.000Z",
-       "channelId": "UC5XIV90zbOCCLlLG0gOh2Xw",
-       "title": "NHẠC LÍNH XƯA HẢI NGOẠI TRƯỚC 1975 | TUYỂN CHỌN CA KHÚC HAY NHẤT MỌI THỜI ĐẠI CỦA CÁC DANH CA BẤT HỦ",
-       "description": "NHAC LINH XUA ▻Cùng thưởng thức Liên Khúc NHẠC LÍNH XƯA HẢI NGOẠI TRƯỚC 1975 do DANH CA CHẾ LINH, TRƯỜNG VŨ, TUẤN VŨ, DUY KHÁNH, ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/ZB1Qf6Ty2KM/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/ZB1Qf6Ty2KM/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/ZB1Qf6Ty2KM/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Hải Ngoại Bolero",
        "liveBroadcastContent": "none"
       }
      },
@@ -835,39 +439,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/GjBWllWuXrjLWozUGY1_-UFFOCs\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "hLp0JBIeEBU"
-      },
-      "snippet": {
-       "publishedAt": "2019-05-15T03:59:34.000Z",
-       "channelId": "UCytHocZlrMx499o86164B7Q",
-       "title": "Một Mai Giã Từ Vũ Khí, Rừng Lá Thấp - Nhạc Lính ĐAN NGUYÊN TRƯỜNG VŨ Cấm Nghe Về Đêm Vì Quá Mùi",
-       "description": "Một Mai Giã Từ Vũ Khí, Rừng Lá Thấp - Nhạc Lính ĐAN NGUYÊN TRƯỜNG VŨ Cấm Nghe Về Đêm Vì Quá Mùi. ▻ Đan Nguyên Chọn lọc hay nhất sự nghiệp: ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/hLp0JBIeEBU/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/hLp0JBIeEBU/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/hLp0JBIeEBU/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Đan Nguyên Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/aXADxIJsYfJ25FalSkMubVE72KU\"",
       "id": {
        "kind": "youtube#video",
@@ -929,72 +500,6 @@
         }
        },
        "channelTitle": "Huỳnh kim phương.",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wv_FF0J_Trrxf2GLDq8IULarb_s\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "NJacc5mEez0"
-      },
-      "snippet": {
-       "publishedAt": "2020-01-03T02:37:48.000Z",
-       "channelId": "UC5XIV90zbOCCLlLG0gOh2Xw",
-       "title": "Nhạc Lính Để Đời - Trường Vũ | Liên Khúc Nhạc Lính Hải Ngoại Xưa Đi Cùng Năm Tháng",
-       "description": "Nhạc Lính Để Đời - Trường Vũ | Liên Khúc Nhạc Lính Hải Ngoại Xưa Đi Cùng Năm Tháng. Trường Vũ, tên thật là Huỳnh Văn Ngoảnh, sinh ngày 25 tháng 2 ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/NJacc5mEez0/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/NJacc5mEez0/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/NJacc5mEez0/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Hải Ngoại Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/F251S5hUcbQ6O4w0gqQeJ4L6Lc4\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "d49AkVdVUq4"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-30T23:00:13.000Z",
-       "channelId": "UCx-sTaFIts5bAGG81-ZhGcQ",
-       "title": "Nhịp Cầu Tri Âm - Tình Khúc Nhạc Vàng, Bolero Hải Ngoại Xưa Hay Nhất - Nhiều Kỷ Niệm",
-       "description": "Nhịp Cầu Tri Âm - Tình Khúc Nhạc Vàng, Bolero Hải Ngoại Xưa Hay Nhất - Nhiều Kỷ Niệm ĐĂNG KÝ KÊNH ĐỂ THEO DÕI : https://goo.gl/y9hur9 ◙ Track list: 01.",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/d49AkVdVUq4/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/d49AkVdVUq4/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/d49AkVdVUq4/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhạc Vàng Hải Ngoại",
        "liveBroadcastContent": "none"
       }
      },
@@ -1094,39 +599,6 @@
         }
        },
        "channelTitle": "SKYPRO MUSIC",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zbWqVh45uDiVfq0X3XWFjQaCfLw\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "y7MjxL0e9ss"
-      },
-      "snippet": {
-       "publishedAt": "2020-01-28T23:00:10.000Z",
-       "channelId": "UC5XIV90zbOCCLlLG0gOh2Xw",
-       "title": "Ngoại Ô Buồn, Lá Thư Đô Thị - 989 Nhạc Lính Xưa TRƯỜNG VŨ Hay Nhất - Nhạc Lính Buồn Cấm Nghe Về Đêm",
-       "description": "Ngoại Ô Buồn, Lá Thư Đô Thị - 989 Nhạc Lính Xưa TRƯỜNG VŨ Hay Nhất - Nhạc Lính Buồn Cấm Nghe Về Đêm. Trường Vũ, tên thật là Huỳnh Văn Ngoảnh, ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/y7MjxL0e9ss/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/y7MjxL0e9ss/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/y7MjxL0e9ss/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Hải Ngoại Bolero",
        "liveBroadcastContent": "none"
       }
      },
@@ -1330,39 +802,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zQoWAJxnJFn__TEttmqkpXqeIsg\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "gRnmvTBW-oM"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-29T02:52:52.000Z",
-       "channelId": "UCytHocZlrMx499o86164B7Q",
-       "title": "Liên khúc LINH HỒN TƯỢNG ĐÁ - Nhạc Vàng Đan Nguyên 2020 Hay Nhất KHÔNG 1 QUẢNG CÁO",
-       "description": "Liên khúc LINH HỒN TƯỢNG ĐÁ - Nhạc Vàng Đan Nguyên 2020 Hay Nhất KHÔNG 1 QUẢNG CÁO. ▻ Đan Nguyên Chọn lọc hay nhất sự nghiệp: ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/gRnmvTBW-oM/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/gRnmvTBW-oM/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/gRnmvTBW-oM/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Đan Nguyên Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/yJZ4Z-htLglzY6Qom0nk6YiqJ3k\"",
       "id": {
        "kind": "youtube#video",
@@ -1490,39 +929,6 @@
         }
        },
        "channelTitle": "Giọng Ca Để Đời",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/0vV7M5xTtXZaurNZbm1Acip3N6Q\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "-yZFfYdoprM"
-      },
-      "snippet": {
-       "publishedAt": "2020-03-29T03:17:20.000Z",
-       "channelId": "UCytHocZlrMx499o86164B7Q",
-       "title": "NHẠC LÍNH ĐAN NGUYÊN KHÔNG QUẢNG CÁO - Một Mai Giã Từ Vũ Khí - Nhạc Lính Xưa Nghe Là Nghiện",
-       "description": "NHẠC LÍNH ĐAN NGUYÊN KHÔNG QUẢNG CÁO - Một mai Giã Từ Vũ Khí - Nhạc Lính Xưa Nghe Là Nghiện. ▻ Đan Nguyên Chọn lọc hay nhất sự nghiệp: ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/-yZFfYdoprM/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/-yZFfYdoprM/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/-yZFfYdoprM/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Đan Nguyên Bolero",
        "liveBroadcastContent": "none"
       }
      },
