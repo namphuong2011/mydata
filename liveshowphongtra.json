@@ -109,39 +109,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ivA2c15idFW_Pzorzz9yD1vuQtw\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "YBz12TvYy7s"
-      },
-      "snippet": {
-       "publishedAt": "2016-02-23T09:43:09.000Z",
-       "channelId": "UCOx95nDddYsRxkypRXUZ4Gw",
-       "title": "Liveshow Nhạc Trịnh Khánh Ly - Tình Khúc Cho Em | Phòng Trà Đồng Dao [FULL HD]",
-       "description": "Liveshow Nhạc Trịnh Khánh Ly - Tình Khúc Cho Em | Phòng Trà Đồng Dao Tuyển Tập Trịnh Công Sơn Khánh Ly: https://goo.gl/R2Z7Yx Tuyển Tập Nhạc Hoài ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/YBz12TvYy7s/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/YBz12TvYy7s/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/YBz12TvYy7s/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Đồng Dao Music",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Cca46j6KXe6SNMQ06fdvPbLRgSY\"",
       "id": {
        "kind": "youtube#video",
