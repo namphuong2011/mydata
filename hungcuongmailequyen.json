@@ -1626,6 +1626,40 @@
       }
      },
      {
+        "kind": "youtube#searchResult",
+        "etag": "efKFSIEJFsYu57CROQ8o762azbM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "l0Azf-LHGGM"
+        },
+        "snippet": {
+          "publishedAt": "2020-02-10T15:23:58Z",
+          "channelId": "UCUbMe8JMeuOKgDfDuVeCFwQ",
+          "title": "Nhạc Hải Ngoại Âm Thanh Chất Lượng Mỹ Cực Hay - Những Bài Nhạc Vàng Xưa 1975 - Nay Chọn Lọc Công Phu",
+          "description": "Nhạc Việt Hải Ngoại sẽ là kênh chính thức của các bản nhạc: Nhạc Vàng, Nhạc Bolero, Tình Ca Xưa Hay Nhất. Bấm vào nút đăng ký ( subscribe ) để được...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/l0Azf-LHGGM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/l0Azf-LHGGM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/l0Azf-LHGGM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Việt Hải Ngoại",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-02-10T15:23:58Z"
+        }
+      },
+     {
       "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/DEx8U9qGUZYfZu5-vbCt4aa63FY\"",
       "id": {
