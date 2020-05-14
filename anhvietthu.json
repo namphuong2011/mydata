@@ -108,1556 +108,855 @@
       }
      },
      {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/6F_HOpzgermyYlZIa5Og5MYRkmk\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "vpemC0ehfoo"
-      },
-      "snippet": {
-       "publishedAt": "2016-09-18T21:35:08.000Z",
-       "channelId": "UCBkFPjWXUtQrlwbbRvqUV2Q",
-       "title": "Tuyển Tập &quot;Mùa Xuân Đó Có Em&quot; của Anh Việt Thu",
-       "description": "Tuyển Tập \"Mùa Xuân Đó Có Em\" Của Anh Việt Thu gồm 8 ca khúc đã được phát hành trước năm 1975. Trong clip này, xin giới thiệu 7 trong 8 ca khúc đó. Bản..",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/vpemC0ehfoo/default.jpg",
-         "width": 120,
-         "height": 90
+        "kind": "youtube#searchResult",
+        "etag": "6euA0XzjIpY8rXy5dkEpdQKjKv0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cKhMl_VGumM"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/vpemC0ehfoo/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/vpemC0ehfoo/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-08-19T19:41:56Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "50 bài nhạc vàng trước 1975 rất hay (tuyển chọn từ băng cối trước 1975)",
+          "description": "Tuyển chọn 50 ca khúc nhạc vàng bolero cực hay được thu âm trước 1975. Những bài nhạc nổi tiếng được chọn lọc với âm thanh có chất lượng tuyệt...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cKhMl_VGumM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cKhMl_VGumM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cKhMl_VGumM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-19T19:41:56Z"
         }
-       },
-       "channelTitle": "vanchus",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/TYSOPxeqzUfyPA-p290pKB5RiUg\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "l1Poi0jWqso"
       },
-      "snippet": {
-       "publishedAt": "2020-04-25T09:30:04.000Z",
-       "channelId": "UC0wnXxCjN9ws8f9OxyC6Gow",
-       "title": "Viết Từ BKC, Biệt Kinh Kỳ | Nhạc vàng Tuyển chọn danh ca hải ngoại Hương Lan",
-       "description": "Viết Từ BKC, Biệt Kinh Kỳ | Nhạc vàng Tuyển chọn danh ca hải ngoại Hương Lan Nhạc Vàng trữ tình mới: https://bit.ly/2Ojs6ZD LK Bolero hải ngoại 2020: ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/l1Poi0jWqso/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "v8fzQ5PcuVCPaLxUtexfGWEQ5QI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pXHFs_h5AWQ"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/l1Poi0jWqso/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/l1Poi0jWqso/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-05-21T07:03:58Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Duy Khánh - Tuyển Tập Nhạc Thu Âm Trước 1975 Hay Nhất (Phần 1)",
+          "description": "Tuyển chọn những bài nhạc thu âm trước 1975 của ca sĩ - nhạc sĩ Duy Khánh. Những ca khúc nhạc vàng hay nhất được thu âm vào nửa thế kỷ trước này...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pXHFs_h5AWQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pXHFs_h5AWQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pXHFs_h5AWQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-05-21T07:03:58Z"
         }
-       },
-       "channelTitle": "Kịch Sống Túy Hồng",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/HORo5w3IQjZ1_ngraPHHnUoz1yk\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "ME3ofkmL7VQ"
       },
-      "snippet": {
-       "publishedAt": "2018-08-12T06:54:56.000Z",
-       "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
-       "title": "Giáng Thu - Tuyển Chọn Nhạc Vàng Hay Nhất (Thu âm trước 1975 chất lượng cao)",
-       "description": "Tuyển chọn những ca khúc nhạc vàng thu âm trước 75 hay nhất của ca sĩ Giáng Thu. Góp mặt trong chương trình này còn có các nam danh ca Chế Linh, Giang ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/ME3ofkmL7VQ/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fMq0pUGoqvB4i_KBSmMeNKIYJU4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FwUYIoRlBo4"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/ME3ofkmL7VQ/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/ME3ofkmL7VQ/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-05-22T03:27:38Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Dạ Hương - Tuyển Tập Nhạc Thu Âm Trước 1975 Hay Nhất",
+          "description": "Tuyển chọn những bài nhạc thu âm trước 1975 của ca sĩ Dạ Hương. Những ca khúc nhạc vàng hay nhất được thu âm vào nửa thế kỷ trước này đã được...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FwUYIoRlBo4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FwUYIoRlBo4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FwUYIoRlBo4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-05-22T03:27:38Z"
         }
-       },
-       "channelTitle": "Nhạc Thu Âm Trước 1975",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/z3tjJYoNMrqS2JoZYH9Zsa8Zzj8\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "VVR2PImz5Kw"
       },
-      "snippet": {
-       "publishedAt": "2019-11-14T00:00:03.000Z",
-       "channelId": "UCkHASsLOHuddMTzARove3AA",
-       "title": "Nhạc Sĩ Anh Bằng &amp; 15 Tuyệt Phẩm Để Đời - Nhạc Sĩ Tiểu Biểu Dòng Nhạc Vàng, Nhạc Hải Ngoại",
-       "description": "Nhạc Sĩ Anh Bằng & 15 Tuyệt Phẩm Để Đời - Nhạc Sĩ Tiểu Biểu Dòng Nhạc Vàng, Nhạc Hải Ngoại Nhạc Vàng Bolero Hay Nhất : https://youtu.be/6l-thMw7XO4 ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/VVR2PImz5Kw/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6LoUqAl7_5S2EmrpW-8S6IcdM2U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mBUfRc5_G28"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/VVR2PImz5Kw/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/VVR2PImz5Kw/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-08-16T06:45:53Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Lệ Thu và 30 bài nhạc trữ tình hay nhất chọn lọc (thu âm trước 1975)",
+          "description": "Tuyển chọn 30 ca khúc nhạc trữ tình - tiền chiến hay và nổi tiếng nhất của tiếng hát Lệ Thu được thu âm trước năm 75 #lethu #thuamtruoc75.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mBUfRc5_G28/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mBUfRc5_G28/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mBUfRc5_G28/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-16T06:45:53Z"
         }
-       },
-       "channelTitle": "Asia Entertainment Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/pp-EvFIv-ML_zFzNrHf4gHl9Cuw\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "rcfcHzv75O4"
       },
-      "snippet": {
-       "publishedAt": "2015-12-31T04:43:33.000Z",
-       "channelId": "UCtyYdJ8jT56k4T8x5Az5kvQ",
-       "title": "Anh Bằng - Những Bài Hát Hay Nhất Anh Bằng - Nhạc Vàng Tuyển Chọn",
-       "description": "tuyển tập những bài hát hay nhất của ca sĩ \"Anh BANG\" tuyển tập nhạc vàng tuyển chọn hay nhất một thời của nhạc sĩ anh bằng. Danh Sách Bài Hát : 00:00...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/rcfcHzv75O4/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fDSgZ1eIz6ydNSmq7dJxptsv-d8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Uxyyy2pQfrc"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/rcfcHzv75O4/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/rcfcHzv75O4/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-08-02T00:25:55Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Tuyệt phẩm nhạc lính chọn lọc (thu âm trước 1975) - Trên 4 vùng chiến thuật",
+          "description": "Tuyển chọn những tuyệt phẩm nhạc lính trước 75 hay nhất viết về đời lính gian khổ, thu âm trước 1975 với các ca sĩ nhạc vàng huyền thoại.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Uxyyy2pQfrc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Uxyyy2pQfrc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Uxyyy2pQfrc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-02T00:25:55Z"
         }
-       },
-       "channelTitle": "Thủy Trúc",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ol6IU8rKX6JdVYpcA_FTtKNmRvg\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "ojhnWD1iz30"
       },
-      "snippet": {
-       "publishedAt": "2020-04-19T14:47:50.000Z",
-       "channelId": "UCWkcz9R8XE4Qid7FWF2ZFqA",
-       "title": "Tình Khúc Lam Phương Hay Nhất | Những Tình Khúc Để Đời Của Nhạc Sĩ Lam Phương | Dòng Nhạc Tình Ca",
-       "description": "Dòng Nhạc Tình Ca Productions sẽ là kênh chính thức của các bản nhạc: Nhạc Lính, Nhạc Vàng, Nhạc Bolero, Tình Ca Xưa Hay Nhất. Bấm vào nút đăng ký (...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/ojhnWD1iz30/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jBJRMSeNsL-_dv9ThzXAEvQuyUM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kAIWOYbLtQc"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/ojhnWD1iz30/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/ojhnWD1iz30/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-05-22T06:45:19Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Hà Thanh - Tuyển Tập Nhạc Thu Âm Trước 1975 Hay Nhất",
+          "description": "Tuyển chọn những bài nhạc thu âm trước 1975 của ca sĩ Hà Thanh. Những ca khúc nhạc vàng hay nhất được thu âm vào nửa thế kỷ trước này đã được...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kAIWOYbLtQc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kAIWOYbLtQc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kAIWOYbLtQc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-05-22T06:45:19Z"
         }
-       },
-       "channelTitle": "Dòng Nhạc Tình Ca",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/1HdK29Qt1m3QEvluobDxU4guzq0\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "A4mIR67p1I4"
       },
-      "snippet": {
-       "publishedAt": "2020-05-01T09:00:05.000Z",
-       "channelId": "UCh_PsuKN0pjuVYk2CQ46qiw",
-       "title": "LK Thao Thức Vì Anh &amp; Hương Tình Muộn | Bolero Trữ Tình Tuyển Chọn Cực Kỳ Hay",
-       "description": "LK Thao Thức Vì Anh & Hương Tình Muộn | Bolero Trữ Tình Tuyển Chọn Cực Kỳ Hay Bolero Nhạc Vàng Mới https://goo.gl/3KUWWX Nhạc Hải ngoại Sôi động ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/A4mIR67p1I4/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AJZglfh_8SMOjIxpmBNK4B3YPzc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XY1SOeQiyT4"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/A4mIR67p1I4/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/A4mIR67p1I4/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-07-31T12:31:25Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "20 Bài Nhạc Vàng Chọn Lọc Bất Tử - Thu Âm Trước 1975",
+          "description": "Tuyển chọn 20 bài nhạc vàng bất tử quen thuộc nhất đối với người yêu nhạc vàng. 20 bài hát chọn lọc được các ca sĩ nhạc vàng nổi tiếng thu âm...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XY1SOeQiyT4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XY1SOeQiyT4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XY1SOeQiyT4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-07-31T12:31:25Z"
         }
-       },
-       "channelTitle": "Đào Anh Thư",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/vVGPWwEI5FFznpnYlehVJ_P3Igo\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "Ro4JDwE7G7o"
       },
-      "snippet": {
-       "publishedAt": "2018-08-10T09:26:57.000Z",
-       "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
-       "title": "Anh Khoa - Tuyển Chọn Nhạc Vàng Hay Nhất (Thu âm trước 1975 chất lượng cao)",
-       "description": "Tuyển chọn những bài nhạc vàng và nhạc trữ tình hay nhất qua tiếng hát truyền cảm của danh ca Anh Khoa thu âm trước 1975 #anhkhoa #thuamtruoc75.",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/Ro4JDwE7G7o/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QSOz4uBSzVfSuTlwctvGB2dtlWI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DP8-HGL6dlk"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/Ro4JDwE7G7o/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/Ro4JDwE7G7o/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-07-31T00:06:02Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Hà Thanh - Tuyển Chọn Nhạc Vàng Hay Nhất (Thu âm trước 1975 chất lượng cao)",
+          "description": "Tuyển chọn tất cả những bài nhạc vàng hay nhất của cố ca sĩ Hà Thanh thu âm trước 1975 với âm thanh chất lượng cao #hathanh #thuamtruoc75.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DP8-HGL6dlk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DP8-HGL6dlk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DP8-HGL6dlk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-07-31T00:06:02Z"
         }
-       },
-       "channelTitle": "Nhạc Thu Âm Trước 1975",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/sVgXDe2dJNKfvYlostt4GM5DSY4\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "6m4b6pmosjU"
       },
-      "snippet": {
-       "publishedAt": "2019-12-12T21:48:26.000Z",
-       "channelId": "UCx0vjUW4qy3ujj-rij721hA",
-       "title": "Thư Cho Vợ Hiền, Ngõ Hồn Qua Đêm... Tuyển Tập LK Rumba Nhạc Lính Mới Gây Nghiện",
-       "description": "Đây là những ca khúc được độc quyền bởi CT Media. Đề nghị các tổ chức, cá nhân không reup sao chép dưới mọi hình thức. © Bản quyền thuộc về...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/6m4b6pmosjU/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yqa8WahOB4nFGXwnnFXsgjfLS_s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "breTICs2b44"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/6m4b6pmosjU/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/6m4b6pmosjU/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2019-10-09T01:28:48Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Thanh Tuyền HÁT Tân Cổ - Thu Âm Trước 1975",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/breTICs2b44/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/breTICs2b44/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/breTICs2b44/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-10-09T01:28:48Z"
         }
-       },
-       "channelTitle": "Khúc Nhạc Xưa",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/1X3iIvFOgYNVrSPFZ849nSgZnSs\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "KhAQUf2TAKY"
       },
-      "snippet": {
-       "publishedAt": "2019-10-13T20:42:59.000Z",
-       "channelId": "UC_iKKNq57ICxScyQgpVWuNg",
-       "title": "Tiếng Hát Trường Hải - Những Nhạc Phẩm Tuyển Chọn",
-       "description": "Ca Nhạc Sĩ Trường Hải - Tình Ca Người Đi Biển Anh nhớ trong xóm có một anh lớn biết đàn guitar và người này đã dạy cho anh những nốt nhạc đầu tiên....",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/KhAQUf2TAKY/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WrTn-AK79r94jxDNr5FX2Odh3hs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "C3o-nzGzeOY"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/KhAQUf2TAKY/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/KhAQUf2TAKY/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-07-24T02:19:42Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "120 bài nhạc vàng tuyển chọn từ băng cối hay nhất (thu âm trước 1975)",
+          "description": "Tuyển chon 120 bài nhạc vàng thu âm trước 1975 âm thanh chuẩn được chuyển từ băng cối, chất lượng cao.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/C3o-nzGzeOY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/C3o-nzGzeOY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/C3o-nzGzeOY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-07-24T02:19:42Z"
         }
-       },
-       "channelTitle": "Jeffrey Thai",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/F1WFwG3IQ3YKmyTw730Snx9O2_M\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "eClMgSQfnN4"
       },
-      "snippet": {
-       "publishedAt": "2018-05-11T09:05:06.000Z",
-       "channelId": "UCi1vp8Gkj7x31-rnyqL_14w",
-       "title": "SĨ PHÚ - TUYỂN TẬP NHỮNG CA KHÚC ĐỂ ĐỜI LÀM NÊN SỰ NGHIỆP CA HÁT LẪY LỪNG CỦA SĨ PHÚ",
-       "description": "SI PHU ▻Cùng thưởng thức Liên Khúc SĨ PHÚ - TUYỂN TẬP NHỮNG CA KHÚC ĐỂ ĐỜI LÀM NÊN SỰ NGHIỆP CA HÁT LẪY LỪNG CỦA SĨ PHÚ tại kênh ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/eClMgSQfnN4/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nBY0darm15CKHeRwGuhanNN9jAw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tpq8SN5bPY0"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/eClMgSQfnN4/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/eClMgSQfnN4/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-05-20T14:56:52Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Băng Nhạc Lệ Thu 1 - Tiếng Hát Lệ Thu - Tác Phẩm Để Đời – Thu Âm Trước 1975",
+          "description": "Băng nhạc Lệ Thu do chính ca sĩ Lệ Thu thực hiện trước năm 1975.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tpq8SN5bPY0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tpq8SN5bPY0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tpq8SN5bPY0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-05-20T14:56:52Z"
         }
-       },
-       "channelTitle": "Nhạc Trữ Tình Chọn Lọc",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/LfUHNDyBEIiYmJmnwYaRxoNLyW4\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "A9nSsS34tP8"
       },
-      "snippet": {
-       "publishedAt": "2019-03-25T13:00:04.000Z",
-       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
-       "title": "PBN Collection | Thu Phương &amp; Những Tình Khúc Tuyển Chọn Hay Nhất",
-       "description": "PBN Collection | Thu Phương & Những Tình Khúc Tuyển Chọn Hay Nhất 1. Trở Về Dòng Sông Tuổi Thơ (Hoàng Hiệp) PBN111 0:00 2. Hà Nội Mười Hai Mùa ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/A9nSsS34tP8/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-j0ddmd6nFrj8DI7vdti6Egs51g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ME3ofkmL7VQ"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/A9nSsS34tP8/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/A9nSsS34tP8/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-08-12T06:54:56Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Giáng Thu - Tuyển Chọn Nhạc Vàng Hay Nhất (Thu âm trước 1975 chất lượng cao)",
+          "description": "Tuyển chọn những ca khúc nhạc vàng thu âm trước 75 hay nhất của ca sĩ Giáng Thu. Góp mặt trong chương trình này còn có các nam danh ca Chế Linh, Giang ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ME3ofkmL7VQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ME3ofkmL7VQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ME3ofkmL7VQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-12T06:54:56Z"
         }
-       },
-       "channelTitle": "Thuy Nga",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/hkCeE_ANR5wR65QxC0bB4Um5_RA\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "xjpFhe0_KzY"
       },
-      "snippet": {
-       "publishedAt": "2020-04-30T23:01:28.000Z",
-       "channelId": "UCWIFrdu7Ctn-DWi2o6M9MVA",
-       "title": "Nhạc Vàng Hải Ngoại KHÔNG QUẢNG CÁO - 100 Bài Bolero Nhạc Vàng Xưa ĐẶC BIỆT Hay Tê Tái",
-       "description": "Nhạc Vàng Hải Ngoại KHÔNG QUẢNG CÁO - 100 Bài Bolero Nhạc Vàng Xưa ĐẶC BIỆT Hay Tê Tái ▻ Theo dõi kênh Nhạc Hay Việt Nam: ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/xjpFhe0_KzY/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nmV17Yi5L_A19blQiM-pmh003lg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yjE7o7saP-s"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/xjpFhe0_KzY/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/xjpFhe0_KzY/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-05-22T10:53:17Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Giao Linh - Tuyển Tập Nhạc Thu Âm Trước 1975 Hay Nhất",
+          "description": "Tuyển chọn những bài nhạc thu âm trước 1975 của ca sĩ Giao Linh. Những ca khúc nhạc vàng hay nhất được thu âm vào nửa thế kỷ trước này đã được...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yjE7o7saP-s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yjE7o7saP-s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yjE7o7saP-s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-05-22T10:53:17Z"
         }
-       },
-       "channelTitle": "Nhạc Hay Việt Nam",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/uM8bymy6wLDwRbvK2gAVuwcnaeA\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "OZqJ0VoCP8Y"
       },
-      "snippet": {
-       "publishedAt": "2017-11-10T02:57:10.000Z",
-       "channelId": "UCzLriAhuTyOISjU8RqL3JzA",
-       "title": "TRƯỜNG SƠN 8 | TRƯỜNG SƠN NHẠC TUYỂN | NHẠC VÀNG THÂU THANH TRƯỚC 75",
-       "description": "Kính thưa quý vị, Chúng tôi xin trân trọng giới thiệu băng nhạc Trường Sơn số 8 Băng nhạc được Duy Khánh và nhóm Trường Sơn thực hiện.",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/OZqJ0VoCP8Y/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2KkYZnorKUExOarL519bGG78O54",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TVhJHT3x-EE"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/OZqJ0VoCP8Y/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/OZqJ0VoCP8Y/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-08-10T12:30:17Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Thanh Thúy - Tuyển Chọn Nhạc Vàng Hay Nhất (Thu âm trước 1975 chất lượng cao)",
+          "description": "Tuyển chọn những bài nhạc vàng và nhạc trữ tình hay nhất qua tiếng hát Thanh Thúy được thu âm trước 1975 #thanhthuy #thuamtruoc75.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TVhJHT3x-EE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TVhJHT3x-EE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TVhJHT3x-EE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-10T12:30:17Z"
         }
-       },
-       "channelTitle": "Nhạc Vàng Thâu Thanh Trước 75",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/iL-Xtv5DlIkCl83zJjhwjNnSD5Y\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "zKxc-RmcCko"
       },
-      "snippet": {
-       "publishedAt": "2019-03-21T09:13:37.000Z",
-       "channelId": "UCkHASsLOHuddMTzARove3AA",
-       "title": "Nhạc sĩ LAM PHƯƠNG và Những Sáng Tác Bất Hủ - Tiếng hát Hoàng Oanh, Trường Vũ, Chế Linh",
-       "description": "Kỷ niệm sinh nhật tròn 82 tuổi của nhạc sĩ Lam Phương (20/03/1937). Nhạc sĩ LAM PHƯƠNG và Những Sáng Tác Bất Hủ - Tiếng hát Hoàng Oanh, Chế Linh, ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/zKxc-RmcCko/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "r0Hg6lRZU5QhIwgXDdrpMNGaMjw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mlFikMLVZ9Q"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/zKxc-RmcCko/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/zKxc-RmcCko/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-07-18T12:09:59Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "100 bài nhạc vàng thu âm trước 1975 tuyển chọn",
+          "description": "Tuyển chọn 100 bài nhạc vàng hay nhất thu âm trước 1975 với sự trình bày của các ca sĩ nổi tiếng.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mlFikMLVZ9Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mlFikMLVZ9Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mlFikMLVZ9Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-07-18T12:09:59Z"
         }
-       },
-       "channelTitle": "Asia Entertainment Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/bXE29m37BFDCrAB0ilfn95D9SVY\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "YSHb2XVEHro"
       },
-      "snippet": {
-       "publishedAt": "2018-01-12T09:12:30.000Z",
-       "channelId": "UC6-5nYNnXM8ewSBsndggEYA",
-       "title": "NGỌC LAN HAY NHẤT - Tuyển Chọn 20 Tình Khúc Hải Ngoại Hay Nhất Của Danh Ca Ngọc Lan",
-       "description": "NGỌC LAN HAY NHẤT - Tuyển Chọn 20 Tình Khúc Hải Ngoại Hay Nhất Của Danh Ca Ngọc Lan ▽ THEO DÕI : ♫ Google Plus : https://goo.gl/h48x3D ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/YSHb2XVEHro/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Qlo7yqpqmWuXtbir8EbM2k5Ik9E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JgTNISD9Hak"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/YSHb2XVEHro/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/YSHb2XVEHro/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-07-17T10:48:37Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Băng Nhạc Việt Nam Nhạc Tuyển 1 – Thu Âm Trước 1975",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JgTNISD9Hak/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JgTNISD9Hak/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JgTNISD9Hak/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-07-17T10:48:37Z"
         }
-       },
-       "channelTitle": "Quê Hương Việt Nam",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/fSS0LWO06HgTz2CkHP5JNskEt4E\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "_uL54AltvuI"
       },
-      "snippet": {
-       "publishedAt": "2020-05-02T01:16:02.000Z",
-       "channelId": "UCXzrGqvPeysA4xWIDcdgipg",
-       "title": "Liên Khúc Nhạc Trữ Tình Tuyển Chọn Hay Nhất Trong Dòng Nhạc Bolero Hiện Nay Đã Nghe Là Ghiền",
-       "description": "Liên Khúc Nhạc Trữ Tình Tuyển Chọn Hay Nhất Trong Dòng Nhạc Bolero Hiện Nay Đã Nghe Là Ghiền ♫ Danh Sách: Đôi Mắt Người Xưa - Quỳnh Trang Khuya ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/_uL54AltvuI/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "j0g9w1b_yYTgSzdp6hKYXkW8vKk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pPyYmenXTzM"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/_uL54AltvuI/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/_uL54AltvuI/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-08-16T05:34:26Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Thanh Lan và 30 bài nhạc trữ tình hay nhất chọn lọc (thu âm trước 1975)",
+          "description": "Tuyển chọn 30 ca khúc nhạc trữ tình - tiền chiến hay và nổi tiếng nhất của tiếng hát Thanh Lan được thu âm trước năm 75 #thanhlan #thuamtruoc75.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pPyYmenXTzM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pPyYmenXTzM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pPyYmenXTzM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-16T05:34:26Z"
         }
-       },
-       "channelTitle": "Nam Việt Trữ Tình 2",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/TMYpNmuKfD30gtfdSaNo8AoTAO4\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "AOsDBHJ7xRI"
       },
-      "snippet": {
-       "publishedAt": "2018-05-22T04:49:15.000Z",
-       "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
-       "title": "Hoàng Oanh - Tuyển Tập Nhạc Thu Âm Trước 1975 Hay Nhất (Phần 1)",
-       "description": "Tuyển chọn những bài nhạc thu âm trước 1975 của ca sĩ Hoàng Oanh. Những ca khúc nhạc vàng hay nhất được thu âm vào nửa thế kỷ trước này đã được...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/AOsDBHJ7xRI/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0BUgfqwuWI-LKBuialquVmOe_Ko",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jvdE09E9E4Q"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/AOsDBHJ7xRI/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/AOsDBHJ7xRI/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-05-18T03:58:38Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Băng Nhạc Hoàng Oanh 5 – Thu Âm Trước 1975",
+          "description": "Băng nhạc Hoàng Oanh số 5 gồm những bài hát nổi tiếng của ca sĩ Hoàng Oanh thu âm trước 75.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jvdE09E9E4Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jvdE09E9E4Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jvdE09E9E4Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-05-18T03:58:38Z"
         }
-       },
-       "channelTitle": "Nhạc Thu Âm Trước 1975",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/3FpmrfwGn3T34d3r8pLp0E83f8Q\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "6VJKoG0mmVI"
       },
-      "snippet": {
-       "publishedAt": "2018-04-04T09:34:16.000Z",
-       "channelId": "UCh_PsuKN0pjuVYk2CQ46qiw",
-       "title": "Nhạc Lính Hải Ngoại - Rừng Lá Thấp - Tuyển Tập Nhạc Lính Hải Ngoại Hay Nhất",
-       "description": "Nhac Lính Hải Ngoại - Rừng Lá Thấp - Tuyển Tập Nhạc Lính Hải Ngoại Hay Nhất 2018 Bolero Nhạc Vàng Mới https://goo.gl/zJZnvJ Nhạc Bolero Trữ Tình Hay ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/6VJKoG0mmVI/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "pXqNS4Ms76Putj7kMAFXL1KAUng",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "t7ozKB_Xd5w"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/6VJKoG0mmVI/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/6VJKoG0mmVI/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-08-19T07:36:39Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Những bài hát hay nhất về MẸ - Thu âm trước 1975",
+          "description": "Tuyển chọn những bài nhạc vàng hay nhất viết về mẹ, chọn lọc những ca khúc được thu âm trước năm 1975 #vulan #thuamtruoc75.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t7ozKB_Xd5w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t7ozKB_Xd5w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t7ozKB_Xd5w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-19T07:36:39Z"
         }
-       },
-       "channelTitle": "Đào Anh Thư",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/5azAxbsOr-nxPwIuyF7wkEgFaXI\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "pXHFs_h5AWQ"
       },
-      "snippet": {
-       "publishedAt": "2018-05-21T07:03:58.000Z",
-       "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
-       "title": "Duy Khánh - Tuyển Tập Nhạc Thu Âm Trước 1975 Hay Nhất (Phần 1)",
-       "description": "Tuyển chọn những bài nhạc thu âm trước 1975 của ca sĩ - nhạc sĩ Duy Khánh. Những ca khúc nhạc vàng hay nhất được thu âm vào nửa thế kỷ trước này...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/pXHFs_h5AWQ/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8sCfV2vwUprS3S6ThvDJvr_Vypw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7N44FRLkuPg"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/pXHFs_h5AWQ/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/pXHFs_h5AWQ/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-08-20T04:25:33Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Những bài nhạc vàng HAY những bị thất truyền và ít người biết (thu âm trước 1975)",
+          "description": "Tuyển chọn những bài nhạc vàng thu âm trước 1975 có có nội dung và giai điệu hay, nhưng sau 1975 bị thất truyền hoặc ít có ca sĩ nào hát lại #nhacvang...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7N44FRLkuPg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7N44FRLkuPg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7N44FRLkuPg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-20T04:25:33Z"
         }
-       },
-       "channelTitle": "Nhạc Thu Âm Trước 1975",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/KXi-1iqedZ-8LkG5mnv6pEKydoc\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "1Aik3S75WbQ"
       },
-      "snippet": {
-       "publishedAt": "2019-09-17T04:56:39.000Z",
-       "channelId": "UCr6cme5R7Yf5nObFpUF8boA",
-       "title": "Tiếng Hát Phi Nhung - Tuyển Tập Ca Khúc Bolero Trữ Tình Hay Nhất Của Phi Nhung 2019",
-       "description": "Tiếng Hát Phi Nhung - Tuyển Tập Ca Khúc Bolero Trữ Tình Hay Nhất Của Phi Nhung 2019 #phinhung #manhquynh #nhacvang #bolero ▻ Đăng kí kênh (miễn ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/1Aik3S75WbQ/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8hSZwBOToUCoVViidAD7h2S8f-8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UaHX-wkdM-Y"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/1Aik3S75WbQ/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/1Aik3S75WbQ/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-08-05T11:29:04Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Nhạc Vàng Trước 1975 Vol.52 - Chuyện Một Chiếc Cầu Đã Gãy (Hoàng Oanh)",
+          "description": "Đĩa nhạc tuyển chọn phần 52, tuyển chọn các bài nhạc được thu âm trước năm 1975 của ca sĩ Hoàng Oanh.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UaHX-wkdM-Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UaHX-wkdM-Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UaHX-wkdM-Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-05T11:29:04Z"
         }
-       },
-       "channelTitle": "Phi Nhung - Mạnh Quỳnh",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wyeO_DV8ZLXANba5TGO8ytNZywA\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "gnfebF5rOnA"
       },
-      "snippet": {
-       "publishedAt": "2018-01-03T11:09:04.000Z",
-       "channelId": "UCzLriAhuTyOISjU8RqL3JzA",
-       "title": "Nhạc tình tuyển chọn | Băng nhạc DIỄM CA 5 | Nhạc Vàng thâu thanh trước 75",
-       "description": "Thương quá là thương quê hương tháng ngày khói lửa tràn lan, người em thơ bé bỏng đêm đêm mong chờ một sáng thanh bình. Ơi mẹ ! Ơi cha ! Bốn cõi gió...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/gnfebF5rOnA/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rN8bSEgoD0UziGSXybsjVzh4IkA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bl2GVlYwrxo"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/gnfebF5rOnA/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/gnfebF5rOnA/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-05-21T08:02:25Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Băng Nhạc Bốn Phương - Tiếng Hát Phương Hồng Quế – Thu Âm Trước 1975",
+          "description": "Băng nhạc phát hành trước năm 1975 tuyển chọn những bài hát hay của TV chi bảo Phương Hồng Quế.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bl2GVlYwrxo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bl2GVlYwrxo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bl2GVlYwrxo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-05-21T08:02:25Z"
         }
-       },
-       "channelTitle": "Nhạc Vàng Thâu Thanh Trước 75",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/2wDXh9QtYokS-rVmcdoBUhPgyL8\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "xBjmQ11lG_0"
       },
-      "snippet": {
-       "publishedAt": "2016-10-14T01:09:45.000Z",
-       "channelId": "UCNH5_uklJlQnezV7R70JPJA",
-       "title": "Anh Thơ Việt Hoàn - Nhạc Đỏ Hay Nhất Tuyển Tập",
-       "description": "Anh Thơ Việt Hoàn - Nhạc Đỏ Hay Nhất Tuyển Tập ♪ Đừng quên Like, Share và Đăng Ký kênh để theo dõi những sản phẩm mới nhất của Anh Thơ nhé!",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/xBjmQ11lG_0/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uGxc1qzP7_GsDdrwyRt0faZlz4Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3bImcrIaqqM"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/xBjmQ11lG_0/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/xBjmQ11lG_0/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-08-17T09:12:52Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Băng Châu và 30 bài Nhạc Vàng hay nhất chọn lọc (thu âm trước 1975)",
+          "description": "Tuyển chọn 30 ca khúc nhạc vàng hay và nổi tiếng nhất của tiếng hát Băng Châu được thu âm trước năm 75 #bangchau #thuamtruoc75.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3bImcrIaqqM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3bImcrIaqqM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3bImcrIaqqM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-17T09:12:52Z"
         }
-       },
-       "channelTitle": "Anh Thơ Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/gbT6Im3WpGyZAeHRYDN5meLsSfg\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "ZvZF9_cZdQo"
       },
-      "snippet": {
-       "publishedAt": "2019-04-02T23:00:01.000Z",
-       "channelId": "UCGIBGer2vKaYa0WouTwidWQ",
-       "title": "Tuyển Tập Những Ca Khúc Hay Nhất Của Trịnh Công Sơn - 25 Bài Hát Hay Nhất Của Cố Nhạc Sĩ",
-       "description": "Thế Giới Giải Trí trân trọng giới thiệu: Tuyển Tập Những Ca Khúc Hay Nhất Của Trịnh Công Sơn - 25 Bài Hát Hay Nhất Của Cố Nhạc Sĩ #trinhcongson ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/ZvZF9_cZdQo/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WR1YEk-HX_UCvCUouRu3D4H1nUA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QFlstUb1DlQ"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/ZvZF9_cZdQo/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/ZvZF9_cZdQo/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-08-11T12:09:51Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Thanh Thúy Với Những Tình Khúc Trúc Phương (Thu âm trước 1975)",
+          "description": "Tiếng hát Thanh Thúy được biết đến nhiều nhất qua những ca khúc bolero bất tử của nhạc sĩ Trúc Phương. Tuyển chọn những ca khúc hay nhất của Trúc...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QFlstUb1DlQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QFlstUb1DlQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QFlstUb1DlQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-11T12:09:51Z"
         }
-       },
-       "channelTitle": "Thế Giới Giải Trí",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/5prwbTPNn0Zx-B1oqXW7Aodp-io\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "aGu6h0j6hhU"
       },
-      "snippet": {
-       "publishedAt": "2020-04-26T23:00:01.000Z",
-       "channelId": "UCzf1ZlrMSPHZwya7oJqGqHQ",
-       "title": "Album NHẠC SỐNG TUYỂN CHỌN Cực Hay - Thư Sinh Lâm Hoài Phong | KHÔNG QUẢNG CÁO",
-       "description": "Album Nhạc Sống Tuyển Chọn Cực Hay - Thư Sinh Lâm Hoài Phong Ca sĩ: Lâm Hoài Phong #lamhoaiphong #nhacvang1975 #tuyentapbolerotrutinh ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/aGu6h0j6hhU/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "L9imRS1NozATlMS-4jDih4EsY5M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4S_0FPzRlLQ"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/aGu6h0j6hhU/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/aGu6h0j6hhU/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2018-05-21T04:24:06Z",
+          "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
+          "title": "Băng Châu - Tuyển Tập Nhạc Thu Âm Trước 1975 Hay Nhất",
+          "description": "Tuyển chọn những bài nhạc thu âm trước 1975 của ca sĩ Băng Châu, những ca khúc nhạc vàng hay nhất được thu âm vào nửa thế kỷ trước này đã được...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4S_0FPzRlLQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4S_0FPzRlLQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4S_0FPzRlLQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thu Âm Trước 1975",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-05-21T04:24:06Z"
         }
-       },
-       "channelTitle": "Lâm Hoài Phong Official",
-       "liveBroadcastContent": "none"
       }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/mJ3iy5j8oNr9bf4qfxT8oKQZ-D8\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "j25GQi4YNO4"
-      },
-      "snippet": {
-       "publishedAt": "2019-03-16T11:30:04.000Z",
-       "channelId": "UCkHASsLOHuddMTzARove3AA",
-       "title": "THANH TUYỀN TUYỆT PHẨM - 15 Ca Khúc Nhạc Vàng Xưa Hay Nhất Tuyển Chọn Trước 1975",
-       "description": "THANH TUYỀN TUYỆT PHẨM - 15 Ca Khúc Nhạc Vàng Xưa Hay Nhất Tuyển Chọn Trước 1975 Trung tâm Asia là một trung tâm dẫn đầu trong nền âm nhạc ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/j25GQi4YNO4/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/j25GQi4YNO4/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/j25GQi4YNO4/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Asia Entertainment Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/4JMLqmLm67-g7iMIvMzIvngpOBg\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "p9rKdrx205M"
-      },
-      "snippet": {
-       "publishedAt": "2019-06-05T23:00:07.000Z",
-       "channelId": "UCkHASsLOHuddMTzARove3AA",
-       "title": "Liveshow Hải Ngoại ASIA 58 - Lá Thư Từ Chiến Trường (FULL SHOW)",
-       "description": "Liên khúc: Gửi về anh (Đỗ Thu) - Băng Tâm & Y Phụng; Nó và tôi (nhạc Song Ngọc, lời Vọng Châu) - Lâm Nhật Tiến & Đặng Thế Luân; - Viết từ KBC (Lê...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/p9rKdrx205M/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/p9rKdrx205M/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/p9rKdrx205M/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Asia Entertainment Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jVyjjTATen0Py0C5SKwfeVwHQDY\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "VXne_VN-4No"
-      },
-      "snippet": {
-       "publishedAt": "2018-05-03T02:30:21.000Z",
-       "channelId": "UCWIFrdu7Ctn-DWi2o6M9MVA",
-       "title": "Quang Dũng - Tuyển Tập Những Ca Khúc Trữ Tình Hay Nhất Của Quang Dũng",
-       "description": "Quang Dũng - Tuyển Tập Những Ca Khúc Trữ Tình Hay Nhất Của Quang Dũng ▻ Theo dõi kênh Nhạc Hay Việt Nam: https://goo.gl/u7F19L ▻ Facebook: ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/VXne_VN-4No/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/VXne_VN-4No/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/VXne_VN-4No/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhạc Hay Việt Nam",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/9J2I4WeF1FpDJmgRu2KB14PJbQY\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "mlFikMLVZ9Q"
-      },
-      "snippet": {
-       "publishedAt": "2018-07-18T12:09:59.000Z",
-       "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
-       "title": "100 bài nhạc vàng thu âm trước 1975 tuyển chọn",
-       "description": "Tuyển chọn 100 bài nhạc vàng hay nhất thu âm trước 1975 với sự trình bày của các ca sĩ nổi tiếng.",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/mlFikMLVZ9Q/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/mlFikMLVZ9Q/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/mlFikMLVZ9Q/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhạc Thu Âm Trước 1975",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/0ximu2sRuP3m1HSfur51EWxDmis\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "H-kJWekS8Nk"
-      },
-      "snippet": {
-       "publishedAt": "2019-10-02T03:12:34.000Z",
-       "channelId": "UCXzrGqvPeysA4xWIDcdgipg",
-       "title": "Nhạc Trữ Tình Hay Nhất Gây Nghiện 2019 ♫ Tuyển Tập Những Ca Khúc Trữ Tình Nức Lòng Người Nghe",
-       "description": "Nhạc Trữ Tình Hay Nhất Gây Nghiện 2019 ♫ Tuyển Tập Những Ca Khúc Trữ Tình Nức Lòng Người Nghe ▻ Đăng Kí Kênh: http://bit.ly/BoleroBatHu ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/H-kJWekS8Nk/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/H-kJWekS8Nk/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/H-kJWekS8Nk/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nam Việt Trữ Tình 2",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/1S5UdioJRan-zbTmgyWeW3EdswI\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "lqOWisd5PlI"
-      },
-      "snippet": {
-       "publishedAt": "2019-04-18T09:05:55.000Z",
-       "channelId": "UCkHASsLOHuddMTzARove3AA",
-       "title": "HOÀNG OANH - 15 Bài Nhạc Vàng Xưa Vượt Thời Gian Hay Nhất Của Hoàng Oanh",
-       "description": "HOÀNG OANH - 15 Bài Nhạc Vàng Xưa Vượt Thời Gian Hay Nhất Của Hoàng Oanh 0:00 Để Trả Lời Một Câu Hỏi (Trúc Phương) 5:54 Lk Nhớ Nhau Hoài ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/lqOWisd5PlI/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/lqOWisd5PlI/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/lqOWisd5PlI/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Asia Entertainment Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nyftPANXqtAT97A1me0TEyJ89r8\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "mg_vzBG_oiM"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-30T09:00:25.000Z",
-       "channelId": "UCh_PsuKN0pjuVYk2CQ46qiw",
-       "title": "Nhạc Trữ Tình Bolero Mới 2020 CÀNG NGHE CÀNG NGỌT - LK Bolero Hải Ngoại Hay Tê Tái",
-       "description": "Nhạc Trữ Tình Bolero Mới 2020 CÀNG NGHE CÀNG NGỌT - LK Bolero Hải Ngoại Hay Tê Tái Bolero Nhạc Vàng Mới https://goo.gl/3KUWWX Nhạc Hải ngoại ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/mg_vzBG_oiM/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/mg_vzBG_oiM/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/mg_vzBG_oiM/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Đào Anh Thư",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/y7CdQj4sLl5gG2BQHfWlk_ivQfU\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "9U4Rgx6R-RM"
-      },
-      "snippet": {
-       "publishedAt": "2020-05-01T09:33:12.000Z",
-       "channelId": "UC0Ujw9oEpuiB_c5roTEEsWg",
-       "title": "Ca Sĩ Trẻ Huỳnh Thật - Ý Linh - Hồng Quyên Song Ca Bolero Hay Tê Tái",
-       "description": "Theo dõi kênh Nhạc Vàng Trữ Tình: https://goo.gl/YN48d3 Kênh Nhạc Vàng Trữ Tình là kênh tuyển tập những bài hát hay về những thể loại: nhạc trữ tình,nhạc...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/9U4Rgx6R-RM/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/9U4Rgx6R-RM/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/9U4Rgx6R-RM/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhạc Vàng Trữ Tình",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/pHHLXmmd6hjXq2_HHQg2eewQ0fg\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "QHOILh9pjKw"
-      },
-      "snippet": {
-       "publishedAt": "2019-04-01T09:18:25.000Z",
-       "channelId": "UCkHASsLOHuddMTzARove3AA",
-       "title": "Kẻ Ở Miền Xa GIANG TỬ - Nhạc Vàng Hải Ngoại Xưa Hay Nhất Của Giang Tử",
-       "description": "Kẻ Ở Miền Xa GIANG TỬ - Nhạc Vàng Hải Ngoại Xưa Hay Nhất Của Giang Tử Danh sách bài hát: Kẻ ở miền xa Tình em biển rộng sông dài Đêm buồn tỉnh lẻ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/QHOILh9pjKw/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/QHOILh9pjKw/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/QHOILh9pjKw/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Asia Entertainment Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/l1cMPKsa2D5GJruNELGf-aqMbuk\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "ItzPBAi0SrM"
-      },
-      "snippet": {
-       "publishedAt": "2019-03-22T09:15:01.000Z",
-       "channelId": "UCkHASsLOHuddMTzARove3AA",
-       "title": "NHƯ QUỲNH và 20 Ca Khúc Nhạc Vàng Hải Ngoại Tuyển Chọn - Như Quỳnh Hay Nhất",
-       "description": "NHƯ QUỲNH và 20 Ca Khúc Nhạc Vàng Hải Ngoại Tuyển Chọn - Như Quỳnh Hay Nhất Trung tâm Asia là một trung tâm dẫn đầu trong nền âm nhạc Việt Nam, ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/ItzPBAi0SrM/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/ItzPBAi0SrM/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/ItzPBAi0SrM/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Asia Entertainment Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/DJWT7XTtADQBXFPO2RmFqYzlMjA\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "pJSTAXqw0RY"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-28T01:35:11.000Z",
-       "channelId": "UCXzrGqvPeysA4xWIDcdgipg",
-       "title": "Tuyệt Phẩm Song Ca Trữ Tình Nam Nữ Hay Nhất Tới Nay | Tuyển Chọn Những Ca Khúc Bolero Hay Tê Tái",
-       "description": "Tuyệt Phẩm Song Ca Trữ Tình Nam Nữ Hay Nhất Tới Nay | Tuyển Chọn Những Ca Khúc Bolero Hay Tê Tái __LIST__ Ngày Xưa Anh Nói - Huỳnh Thật ft ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/pJSTAXqw0RY/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/pJSTAXqw0RY/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/pJSTAXqw0RY/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nam Việt Trữ Tình 2",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_Qz2otxWFqmOpb7J6pLf9POWezs\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "A0F8r0CYh0I"
-      },
-      "snippet": {
-       "publishedAt": "2020-03-04T01:45:01.000Z",
-       "channelId": "UC6im6pHK7dVz5zSxn-FoynQ",
-       "title": "Tuyển Chọn 155 Tình Khúc Bất Hủ của Nhạc Sĩ Trịnh Công Sơn và Văn Cao",
-       "description": "nhactrinh #nhactrinhcongson #trinhcongson #nhactrutinh #nhacvangtrutinh #hongnhung #quangdung #ngoclan #camvan #trinhvinhtrinh #khanhly #vukhanh ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/A0F8r0CYh0I/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/A0F8r0CYh0I/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/A0F8r0CYh0I/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhạc Trịnh Công Sơn",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/644lhj2S91GREm_KTHYGHsgon9M\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "6BWEPuoLJBA"
-      },
-      "snippet": {
-       "publishedAt": "2018-12-12T11:08:40.000Z",
-       "channelId": "UC3QDTKVRFv_k0xC-xTHK5jw",
-       "title": "Nhạc Noel Xưa 2020 - Tuyển Chọn Nhạc Bolero Noel NGỌC NỮ BOLERO PHƯƠNG ANH Chào Mừng Giáng Sinh 2020",
-       "description": "Nhạc Noel Xưa 2020 - Tuyển Chọn Nhạc Bolero Noel NGỌC NỮ BOLERO PHƯƠNG ANH Chào Mừng Giáng Sinh 2020 ▻ Ca Sĩ : Phương Anh ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/6BWEPuoLJBA/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/6BWEPuoLJBA/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/6BWEPuoLJBA/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Dân Ca Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/GAgPbdwkzQ-woFt7i3MzpZA4PHY\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "iK-iDa32Bh8"
-      },
-      "snippet": {
-       "publishedAt": "2018-12-25T07:45:29.000Z",
-       "channelId": "UCytHocZlrMx499o86164B7Q",
-       "title": "ĐAN NGUYÊN - TUYỂN TẬP 30 CA KHÚC NHẠC VÀNG BOLERO, NHẠC LÍNH HAY NHẤT SỰ NGHIỆP - LK CHUYỆN HOA SIM",
-       "description": "ĐAN NGUYÊN - TUYỂN TẬP 30 CA KHÚC NHẠC VÀNG BOLERO, NHẠC LÍNH HAY NHẤT SỰ NGHIỆP - LK CHUYỆN HOA SIM. Đan Nguyên (tên thật Nguyễn ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/iK-iDa32Bh8/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/iK-iDa32Bh8/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/iK-iDa32Bh8/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Đan Nguyên Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/yuBKG69kEzomNRkagiiE8nbCOYs\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "CJHJzBkhSuI"
-      },
-      "snippet": {
-       "publishedAt": "2019-03-26T13:00:02.000Z",
-       "channelId": "UCyMTSaqGtzwEgQ7rQp_ogTQ",
-       "title": "Tuyển Tập Những Bài Hát Hay Nhất Của Thu Minh - Best Of Thu Minh",
-       "description": "Click Đăng Kí Để Xem Video Mới Nhất: http://yeah1.net/ThuMinhOfficial Tuyển Tập Những Bài Hát Hay Nhất Của Thu Minh - Best Of Thu Minh Track List: 1.",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/CJHJzBkhSuI/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/CJHJzBkhSuI/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/CJHJzBkhSuI/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Thu Minh",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Py-hz9VNM0v46NsjIOgkWi1Jg-M\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "WVvoW1loAOk"
-      },
-      "snippet": {
-       "publishedAt": "2019-07-03T09:15:02.000Z",
-       "channelId": "UCkHASsLOHuddMTzARove3AA",
-       "title": "Song Ca Về Tình Yêu Và Người Lính - Bóng Nhỏ Đường Chiều - Nhạc Lính Bolero Tuyển Chọn",
-       "description": "Song Ca Về Tình Yêu Và Người Lính - Bóng Nhỏ Đường Chiều - Nhạc Lính Bolero Tuyển Chọn ▻ Đăng Ký Kênh (miễn phí) tại ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/WVvoW1loAOk/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/WVvoW1loAOk/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/WVvoW1loAOk/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Asia Entertainment Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zQoWAJxnJFn__TEttmqkpXqeIsg\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "gRnmvTBW-oM"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-29T02:52:52.000Z",
-       "channelId": "UCytHocZlrMx499o86164B7Q",
-       "title": "Liên khúc LINH HỒN TƯỢNG ĐÁ - Nhạc Vàng Đan Nguyên 2020 Hay Nhất KHÔNG 1 QUẢNG CÁO",
-       "description": "Liên khúc LINH HỒN TƯỢNG ĐÁ - Nhạc Vàng Đan Nguyên 2020 Hay Nhất KHÔNG 1 QUẢNG CÁO. ▻ Đan Nguyên Chọn lọc hay nhất sự nghiệp: ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/gRnmvTBW-oM/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/gRnmvTBW-oM/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/gRnmvTBW-oM/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Đan Nguyên Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nduSmpm5LeyHxJMqeNpHjUIsQts\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "9GK8XbKExUU"
-      },
-      "snippet": {
-       "publishedAt": "2020-05-02T10:58:18.000Z",
-       "channelId": "UC0Ujw9oEpuiB_c5roTEEsWg",
-       "title": "Tôi Vẫn Nhớ - Chút Kỷ Niệm Buồn - Nhạc Trữ Tình Bolero Hay Tê Tái",
-       "description": "Theo dõi kênh Nhạc Vàng Trữ Tình: https://goo.gl/YN48d3 Kênh Nhạc Vàng Trữ Tình là kênh tuyển tập những bài hát hay về những thể loại: nhạc trữ tình,nhạc...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/9GK8XbKExUU/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/9GK8XbKExUU/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/9GK8XbKExUU/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhạc Vàng Trữ Tình",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/XLd9vhHzoNzuisYyABp8Yvddvf4\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "k7RvQSK68BQ"
-      },
-      "snippet": {
-       "publishedAt": "2019-05-03T13:00:16.000Z",
-       "channelId": "UCmtEmCzTmGmVLQYqr2XuaIw",
-       "title": "Dân Ca Xứ Nghệ Tuyển Chọn Nghe Là Ghiền | Tuyển Tập Lê Cường - Giọng Ca Vàng",
-       "description": "Tracklist: 1.Thương về xứ nghệ - Lê Cường 2.Giận mà thương - Lê Cường 3.Neo đậu bến quê - Lê Cường 4.Nhớ thương ví dặm - Lê Cường 5.Câu đợi câu...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/k7RvQSK68BQ/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/k7RvQSK68BQ/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/k7RvQSK68BQ/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "LÊ CƯỜNG OFFICIAL",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/kUEtHvzNrXHYtYYLR_Lr8i0vJqI\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "ukhs5ZsKzc8"
-      },
-      "snippet": {
-       "publishedAt": "2018-08-16T13:00:11.000Z",
-       "channelId": "UCeRu0iIRrZyNpUSEVMaZGow",
-       "title": "Tuấn Hưng - Phải Chia Tay Thôi &amp; Dối Lòng | Tuyển Tập Nhạc Trẻ Hay Nhất Về Tình Yêu",
-       "description": "Tuấn Hưng - Phải Chia Tay Thôi & Dối Lòng | Tuyển Tập Nhạc Trẻ Hay Nhất Về Tình Yêu Track list: 01. Phải Chia Tay Thôi 02. Dối Lòng 03. Thế Giới Và Em ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/ukhs5ZsKzc8/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/ukhs5ZsKzc8/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/ukhs5ZsKzc8/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Tuấn Hưng",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/BBv9DfHRc7mN53qA6lk7AP7KWBA\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "6CzOI7_MD7w"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-29T02:46:22.000Z",
-       "channelId": "UCTmrI40LPKPBZO7q0Jqd-kQ",
-       "title": "Tuyển Tập Nhạc Bolero Trữ Tình Gây Nghiện Của Ngọc Nữ Bolero Ý Linh - Càng Nghe Càng Mê",
-       "description": "Tuyển Tập Nhạc Bolero Trữ Tình Gây Nghiện Của Ngọc Nữ Bolero Ý Linh - Càng Nghe Càng Mê ▻Ca sĩ : Ý Linh (Thần Tượng Bolero 2017) ▻Thu âm & mix ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/6CzOI7_MD7w/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/6CzOI7_MD7w/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/6CzOI7_MD7w/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Ý Linh Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/uYiriKOJkGgs-9QsaPzMsx4_Bh4\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "Cqo6YPXBcl8"
-      },
-      "snippet": {
-       "publishedAt": "2020-05-01T09:30:02.000Z",
-       "channelId": "UCslZpvPV-sVRr2zjM-dFvIA",
-       "title": "SONG CA BOLERO ĐỈNH CAO Chấn Động Triệu Con Tim -  Hoàng Thuận Tuyển Chọn 2020 | Căn Nhà Màu Tím",
-       "description": "SONG CA BOLERO ĐỈNH CAO Chấn Động Triệu Con Tim - Hoàng Thuận Tuyển Chọn 2020 | Căn Nhà Màu Tím Bolero Mới Nhất 2019: https://bit.ly/2WtzJfM ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/Cqo6YPXBcl8/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/Cqo6YPXBcl8/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/Cqo6YPXBcl8/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Hello Bolero",
-       "liveBroadcastContent": "none"
-      }
-     }
     ]
    }
    
