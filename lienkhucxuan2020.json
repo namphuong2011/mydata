@@ -241,39 +241,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/In7uSY-DWqFbXiw9XR1wBXAvniM\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "kcROcmXPANc"
-      },
-      "snippet": {
-       "publishedAt": "2020-01-22T22:00:05.000Z",
-       "channelId": "UC0wnXxCjN9ws8f9OxyC6Gow",
-       "title": "Liên Khúc Xuân 2020 Đặc Sắc Đón Tết - LK Nhạc Tết 2020 Mừng Năm Mới Xuân Sang",
-       "description": "Liên Khúc Xuân 2020 Đặc Sắc Đón Tết - LK Nhạc Tết 2020 Mừng Năm Mới Xuân Sang ▻▻ Đăng ký kênh nghe nhạc hay mỗi ngày nhé!!",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/kcROcmXPANc/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/kcROcmXPANc/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/kcROcmXPANc/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Kịch Sống Túy Hồng",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/EsPkQQs92Lk5MQOUOJTJRLwgWYU\"",
       "id": {
        "kind": "youtube#video",
@@ -340,39 +307,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/80eekIkTLjS6yDLaqy3Hhx_Ld-g\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "NesVVYwwBC0"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-25T23:00:15.000Z",
-       "channelId": "UCWIFrdu7Ctn-DWi2o6M9MVA",
-       "title": "Liên Khúc Nhạc Lính Hải Ngoại Sôi Động MỚI ĐÉT 2020 - Nghe Càng Thêm Sung!",
-       "description": "Liên Khúc Nhạc Lính Hải Ngoại Sôi Động MỚI ĐÉT 2020 - Nghe Càng Thêm Sung! ▻ Theo dõi kênh Nhạc Hay Việt Nam: https://goo.gl/u7F19L ▻ Facebook: ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/NesVVYwwBC0/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/NesVVYwwBC0/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/NesVVYwwBC0/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhạc Hay Việt Nam",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Dfu2seq-1ROMhAdo4tEumaZ_9Ac\"",
       "id": {
        "kind": "youtube#video",
@@ -434,39 +368,6 @@
         }
        },
        "channelTitle": "Nhạc Hay",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/xo-YtiIV_Q851DqGHYRu9FOhrvk\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "ZdkWB2mauU8"
-      },
-      "snippet": {
-       "publishedAt": "2020-01-16T23:00:17.000Z",
-       "channelId": "UCVU6_YwKJJ5u3YzCq2djXGQ",
-       "title": "Liên Khúc Xuân 2020 - Nhiều Ca Sĩ | Khưu Huy Vũ, Hồng Phượng, Saka Trương Tuyền, Ngọc Hân",
-       "description": "Liên Khúc Xuân 2020 - Nhiều Ca Sĩ | Khưu Huy Vũ, Hồng Phượng, Saka Trương Tuyền, Ngọc Hân ♢ Đăng kí kênh để ủng hộ Khưu Huy Vũ nhé! Subscribe: ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/ZdkWB2mauU8/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/ZdkWB2mauU8/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/ZdkWB2mauU8/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Tình Khúc Vượt Thời Gian",
        "liveBroadcastContent": "none"
       }
      },
