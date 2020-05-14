@@ -10,204 +10,6 @@
     "items": [
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wPFuLo48ENE3HVBcXtc1OyXjCWc\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "LrW_2PNxpMY"
-      },
-      "snippet": {
-       "publishedAt": "2019-06-10T02:11:42.000Z",
-       "channelId": "UCGIBGer2vKaYa0WouTwidWQ",
-       "title": "Hùng Cường - Mai Lệ Huyền | Song Ca Nhạc Vàng Hải Ngoại Chọn Lọc Hay Nhất",
-       "description": "Thế Giới Giải Trí trân trọng giới thiệu: Hùng Cường - Mai Lệ Huyền | Song Ca Nhạc Vàng Hải Ngoại Chọn Lọc Hay Nhất #hungcuong,#mailehuyen ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/LrW_2PNxpMY/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/LrW_2PNxpMY/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/LrW_2PNxpMY/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Thế Giới Giải Trí",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/qnRdLXqmUzaz-ywYhNB5S9349IM\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "1EG_02TnfCQ"
-      },
-      "snippet": {
-       "publishedAt": "2019-06-14T23:00:01.000Z",
-       "channelId": "UCGIBGer2vKaYa0WouTwidWQ",
-       "title": "Thiên Duyên Tiền Định - Hùng Cường, Mai Lệ Huyền Song Ca - Nhạc Vàng Hải Ngoại Song Ca Sôi Động Nhất",
-       "description": "Thế Giới Giải Trí trân trọng giới thiệu: Thiên Duyên Tiền Định - Hùng Cường, Mai Lệ Huyền Song Ca - Nhạc Vàng Hải Ngoại Song Ca Sôi Động Nhất ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/1EG_02TnfCQ/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/1EG_02TnfCQ/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/1EG_02TnfCQ/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Thế Giới Giải Trí",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Cyx7xKZU194vmsvedlG5Z_BUtUE\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "3TfINsKLei0"
-      },
-      "snippet": {
-       "publishedAt": "2019-06-12T07:43:00.000Z",
-       "channelId": "UCGIBGer2vKaYa0WouTwidWQ",
-       "title": "Hùng Cường Mai Lệ Huyền Song Ca Xưa Hay Nhất - Nhạc Vàng Hải Ngoại Song Ca Hay Nhất",
-       "description": "Thế Giới Giải Trí trân trọng giới thiệu: Hùng Cường Mai Lệ Huyền Song Ca Xưa Hay Nhất - Nhạc Vàng Hải Ngoại Song Ca Hay Nhất #hungcuong,#mailehuyen ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/3TfINsKLei0/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/3TfINsKLei0/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/3TfINsKLei0/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Thế Giới Giải Trí",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/aZXt6Zhv8HXly6ANDBk-d-VLv0o\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "EfUcR0Z__R8"
-      },
-      "snippet": {
-       "publishedAt": "2019-07-18T23:30:00.000Z",
-       "channelId": "UCGIBGer2vKaYa0WouTwidWQ",
-       "title": "Hùng Cường Mai Lệ Huyền | Tuyệt Phẩm Nhạc Vàng Hải Ngoại Song Ca Hay Nhất Hùng Cường Mai Lệ Huyền",
-       "description": "Thế Giới Giải Trí trân trọng giới thiệu: Hùng Cường Mai Lệ Huyền | Tuyệt Phẩm Nhạc Vàng Hải Ngoại Song Ca Hay Nhất Hùng Cường Mai Lệ Huyền ◙ ĐĂNG...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/EfUcR0Z__R8/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/EfUcR0Z__R8/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/EfUcR0Z__R8/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Thế Giới Giải Trí",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/44TIU_vqWuS1UIPmzU9xudIFnfQ\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "mJgScvtZNRg"
-      },
-      "snippet": {
-       "publishedAt": "2019-06-10T23:00:03.000Z",
-       "channelId": "UCGIBGer2vKaYa0WouTwidWQ",
-       "title": "Hai Trái Tim Vàng - Hùng Cường Mai Lệ Huyền Song Ca | Nhạc Vàng Hải Ngoại Song Ca Đặc Biệt Nhất",
-       "description": "Thế Giới Giải Trí trân trọng giới thiệu: Hai Trái Tim Vàng - Hùng Cường Mai Lệ Huyền Song Ca | Nhạc Vàng Hải Ngoại Song Ca Đặc Biệt Nhất #hungcuong ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/mJgScvtZNRg/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/mJgScvtZNRg/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/mJgScvtZNRg/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Thế Giới Giải Trí",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/AO-YjClvcToK-58DcEcYQ9DK_d8\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "LBFP8rTdmSY"
-      },
-      "snippet": {
-       "publishedAt": "2018-03-01T03:03:35.000Z",
-       "channelId": "UCpKbKbV1DP-rko5PomQmuqw",
-       "title": "HÙNG CƯỜNG, MAI LỆ HUYỀN - NHẠC VÀNG TRỮ TÌNH HẢI NGOẠI THẬP NIÊN 90 SONG CA ĐẶC BIỆT - NGHE LÀ MÊ",
-       "description": "Thúy Anh Productions sẽ là kênh chính thức của các bản nhạc xưa, nhạc vàng, nhạc lính, nhạc bolero của các danh ca hải ngoại bất hủ để đời. Bấm...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/LBFP8rTdmSY/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/LBFP8rTdmSY/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/LBFP8rTdmSY/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Thuy Anh Productions",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/2vfh-c0FwE2JtLLfC5U7Ylv0v3g\"",
       "id": {
        "kind": "youtube#video",
@@ -274,39 +76,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/hAYX6HoVMuQRkZ8mkiYltNm9Gmo\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "ASlff-q92CE"
-      },
-      "snippet": {
-       "publishedAt": "2018-12-26T10:09:02.000Z",
-       "channelId": "UC_F5SmFKP-xw77UF9IwheHA",
-       "title": "Liên Khúc Cha Cha Cha | Nhạc Sôi Động Hải Ngoại 2019 | LK Hải Ngoại Hay Nhất",
-       "description": "Liên Khúc Cha Cha Cha | Nhạc Sôi Động Hải Ngoại 2019 | LK Hải Ngoại Hay Nhất *Đăng ký kênh: https://goo.gl/ZsYcnQ *Tuyển Tập Nhạc Trữ Tình Hải Ngoại ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/ASlff-q92CE/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/ASlff-q92CE/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/ASlff-q92CE/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Remix Nhạc Vàng Trữ Tình",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/X7MQekwEzfLOFgOiLoSRqhSwl0U\"",
       "id": {
        "kind": "youtube#video",
@@ -335,39 +104,6 @@
         }
        },
        "channelTitle": "Trust Media Network",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_cXsYDbSY0pRqzvg2dWuEcANoIM\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "doLx1F6etVk"
-      },
-      "snippet": {
-       "publishedAt": "2019-08-01T09:15:00.000Z",
-       "channelId": "UC8rskuDKEFoPN7_bbnB-e3w",
-       "title": "Hờn anh giận em, Cưới em -  Liên Khúc Nhạc Trữ Tình Hải Ngoại Sôi Động Triệu Người Say Mê",
-       "description": "Hờn anh giận em, Cưới em - Liên Khúc Nhạc Trữ Tình Hải Ngoại Sôi Động Triệu Người Say Mê ▻ Đăng Ký Kênh: http://bit.ly/BoleroVuotThoiGian ▻ Album ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/doLx1F6etVk/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/doLx1F6etVk/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/doLx1F6etVk/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Bolero Vượt Thời Gian",
        "liveBroadcastContent": "none"
       }
      },
@@ -533,39 +269,6 @@
         }
        },
        "channelTitle": "Nhạc Thu Âm Trước 1975",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/oNP1gpdkGKg5wcF9jfyrdih6bUk\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "Kqkqs7-dQuw"
-      },
-      "snippet": {
-       "publishedAt": "2018-08-11T00:30:00.000Z",
-       "channelId": "UCWNbJW-2YROIDJYww-yXC2g",
-       "title": "SONG CA NHẠC VÀNG - HÙNG CƯỜNG ft MAI LỆ HUYỀN | TUYỆT ĐỈNH NHẠC VÀNG BOLERO XƯA TỨ TRỤ HAY NHẤT",
-       "description": "SONG CA NHẠC VÀNG - HÙNG CƯỜNG ft MAI LỆ HUYỀN | TUYỆT ĐỈNH NHẠC VÀNG BOLERO XƯA TỨ TRỤ HAY NHẤT. SONG CA NHẠC VÀNG - HÙNG ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/Kqkqs7-dQuw/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/Kqkqs7-dQuw/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/Kqkqs7-dQuw/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "bao quoc",
        "liveBroadcastContent": "none"
       }
      },
@@ -835,39 +538,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/BT93kcP-USXtTbFkS_cP9BKJlaU\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "0kGbgte09Jw"
-      },
-      "snippet": {
-       "publishedAt": "2020-02-14T08:55:51.000Z",
-       "channelId": "UCq9Uvnz2RFAf58PwnKF5yhQ",
-       "title": "MNK 021 - LÍNH DÙ LÊN ĐIỂM (Hùng Cường &amp; Mai Lệ Huyền)",
-       "description": "Kênh NHẠC XƯA BẤT HỦ với mong muốn góp nhặt các Album ca nhạc Hải ngoại đã từng vang bóng một thời với những tình khúc bất hủ trong thập niên 80s...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/0kGbgte09Jw/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/0kGbgte09Jw/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/0kGbgte09Jw/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "NHẠC XƯA BẤT HỦ",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/GGUsNxjGzn-Yh8iKwVlLXOY-9hA\"",
       "id": {
        "kind": "youtube#video",
@@ -1033,39 +703,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/UDBkIzXOM0R5dEbIrLqQEvyglew\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "UHyXH4kIX5U"
-      },
-      "snippet": {
-       "publishedAt": "2019-11-23T12:31:31.000Z",
-       "channelId": "UCq9Uvnz2RFAf58PwnKF5yhQ",
-       "title": "MNK 075 - 100 PHẦN 100 (Hùng Cường)",
-       "description": "Kênh NHẠC XƯA BẤT HỦ với mong muốn góp nhặt các Album ca nhạc Hải ngoại đã từng vang bóng một thời với những tình khúc bất hủ trong thập niên 80s...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/UHyXH4kIX5U/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/UHyXH4kIX5U/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/UHyXH4kIX5U/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "NHẠC XƯA BẤT HỦ",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/xCyuynnWTVgygXvqBMe1XLd7M0s\"",
       "id": {
        "kind": "youtube#video",
@@ -1127,39 +764,6 @@
         }
        },
        "channelTitle": "Cảm Ơn Âm Nhạc",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zP-c6rOT7JXKBzL2T-C9UqB4rEU\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "JWWX5OJ70yo"
-      },
-      "snippet": {
-       "publishedAt": "2019-10-23T08:35:53.000Z",
-       "channelId": "UCq9Uvnz2RFAf58PwnKF5yhQ",
-       "title": "MNK 017 - DẮT NHAU VÀO MỘNG (Hùng Cường &amp; Mai Lệ Huyền)",
-       "description": "Kênh NHẠC XƯA BẤT HỦ với mong muốn góp nhặt các Album ca nhạc Hải ngoại đã từng vang bóng một thời với những tình khúc bất hủ trong thập niên 80s...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/JWWX5OJ70yo/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/JWWX5OJ70yo/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/JWWX5OJ70yo/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "NHẠC XƯA BẤT HỦ",
        "liveBroadcastContent": "none"
       }
      },
