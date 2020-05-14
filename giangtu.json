@@ -1,1664 +1,864 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/a4chme99r2bWmRRXRs5v17B2L1M\"",
-    "nextPageToken": "CDIQAA",
+    "etag": "wQFDXdWkk0tAAmv2AcVMAqTS5GQ",
+    "nextPageToken": "CBkQAA",
     "regionCode": "VN",
     "pageInfo": {
-     "totalResults": 321910,
-     "resultsPerPage": 50
+      "totalResults": 416,
+      "resultsPerPage": 25
     },
     "items": [
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/pHHLXmmd6hjXq2_HHQg2eewQ0fg\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "QHOILh9pjKw"
-      },
-      "snippet": {
-       "publishedAt": "2019-04-01T09:18:25.000Z",
-       "channelId": "UCkHASsLOHuddMTzARove3AA",
-       "title": "Kẻ Ở Miền Xa GIANG TỬ - Nhạc Vàng Hải Ngoại Xưa Hay Nhất Của Giang Tử",
-       "description": "Kẻ Ở Miền Xa GIANG TỬ - Nhạc Vàng Hải Ngoại Xưa Hay Nhất Của Giang Tử Danh sách bài hát: Kẻ ở miền xa Tình em biển rộng sông dài Đêm buồn tỉnh lẻ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/QHOILh9pjKw/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hpWizoCVZ04t2TYGvZftqzMbOUw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QHOILh9pjKw"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/QHOILh9pjKw/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/QHOILh9pjKw/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2019-04-01T09:18:25Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Kẻ Ở Miền Xa GIANG TỬ - Nhạc Vàng Hải Ngoại Xưa Hay Nhất Của Giang Tử",
+          "description": "Kẻ Ở Miền Xa GIANG TỬ - Nhạc Vàng Hải Ngoại Xưa Hay Nhất Của Giang Tử Danh sách bài hát: Kẻ ở miền xa Tình em biển rộng sông dài Đêm buồn tỉnh lẻ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QHOILh9pjKw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QHOILh9pjKw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QHOILh9pjKw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-04-01T09:18:25Z"
         }
-       },
-       "channelTitle": "Asia Entertainment Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/aKx8i_tQDS6HYJ0bns4DWqsxdT0\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "Z_6koG2HKQU"
       },
-      "snippet": {
-       "publishedAt": "2019-07-09T23:30:00.000Z",
-       "channelId": "UCkHASsLOHuddMTzARove3AA",
-       "title": "Chế Linh, Giang Tử, Duy Khánh, Trường Vũ - Nhạc Lính Xưa Hải Ngoại Cực Hay Một Thời",
-       "description": "Chế Linh, Giang Tử, Duy Khánh, Trường Vũ - Nhạc Lính Xưa Hải Ngoại Cực Hay Một Thời ▻ Đăng Ký Kênh (miễn phí) tại ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/Z_6koG2HKQU/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "s3JWuKycM0Ha-FN11u16SleTSmo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Z_6koG2HKQU"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/Z_6koG2HKQU/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/Z_6koG2HKQU/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2019-07-09T23:30:00Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Chế Linh, Giang Tử, Duy Khánh, Trường Vũ - Nhạc Lính Xưa Hải Ngoại Cực Hay Một Thời",
+          "description": "Chế Linh, Giang Tử, Duy Khánh, Trường Vũ - Nhạc Lính Xưa Hải Ngoại Cực Hay Một Thời ▻ Đăng Ký Kênh (miễn phí) tại ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Z_6koG2HKQU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Z_6koG2HKQU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Z_6koG2HKQU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-07-09T23:30:00Z"
         }
-       },
-       "channelTitle": "Asia Entertainment Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/BD3Yr2Gl2zV0wwgXrXt6RUfdW50\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "9zHfQ7laF5k"
       },
-      "snippet": {
-       "publishedAt": "2017-09-18T22:05:27.000Z",
-       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
-       "title": "Giang Tử - Paris By Night Collection",
-       "description": "Giang Tử - Paris By Night Collection 1. Kẻ Ở Miền Xa (Trúc Phương) Paris By Night 107 - Nguyễn Ngọc Ngạn 20 Năm Sân Khấu 2. Bông Cỏ May (Trúc ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/9zHfQ7laF5k/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "A5df6uYZYuqC_yrhL87SFFyKF_4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wgZNClli-No"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/9zHfQ7laF5k/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/9zHfQ7laF5k/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2020-02-16T00:25:38Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Giang Tử &amp; Trung Chỉnh &amp; Hoàng Oanh - 15 Bài Hát Nhạc Lính Hải Ngoại Bất Hủ",
+          "description": "Giang Tử & Trung Chỉnh & Hoàng Oanh - 15 Bài Hát Nhạc Lính Hải Ngoại Bất Hủ Nhạc Vàng Bolero Bất Hủ : https://youtu.be/6l-thMw7XO4 Nhạc Lính Hải ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wgZNClli-No/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wgZNClli-No/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wgZNClli-No/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-02-16T00:25:38Z"
         }
-       },
-       "channelTitle": "Thuy Nga",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nYhszEFxPziY8HfeJhi8b-dBD_Q\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "dHjNCMovRZ4"
       },
-      "snippet": {
-       "publishedAt": "2017-05-23T15:26:40.000Z",
-       "channelId": "UC6-5nYNnXM8ewSBsndggEYA",
-       "title": "Tuyển Tập Giang Tử | Những Ca Khúc Nhạc Vàng Bolero Hải Ngoại Hay Nhất Của Giang Tử",
-       "description": "Tuyển Tập Giang Tử | Những Ca Khúc Nhạc Vàng Bolero Hải Ngoại Hay Nhất Của Giang Tử Quê Hương Việt Nam ▽ THEO DÕI : ♫ Google Plus : ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/dHjNCMovRZ4/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SQU0HBQJXwcqHNDaA1iVDQYAs7E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "l5fE_6P1os0"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/dHjNCMovRZ4/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/dHjNCMovRZ4/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2020-02-17T00:00:05Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "9 Bài Hát Nhạc Vàng Bolero Hay Nhất của Giang Tử - Giọt Buồn Không Tên",
+          "description": "9 Bài Hát Nhạc Vàng Bolero Hay Nhất của Giang Tử - Giọt Buồn Không Tên Nhạc Vàng Bolero Bất Hủ : https://youtu.be/6l-thMw7XO4 Nhạc Lính Hải Ngoại: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/l5fE_6P1os0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/l5fE_6P1os0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/l5fE_6P1os0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-02-17T00:00:05Z"
         }
-       },
-       "channelTitle": "Quê Hương Việt Nam",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/hB32OADqcnl_-mO5MTgt8jYqVfs\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "sy0jjcGPFtU"
       },
-      "snippet": {
-       "publishedAt": "2018-10-01T12:09:14.000Z",
-       "channelId": "UC_ZKc2EFK41g__yVqICWOlw",
-       "title": "NHẠC XƯA BẤT HỦ - Giang Tử, Phương Hồng Quế || Tuyển Chọn Nhạc Vàng Hay Nhất Của Danh Ca Hải Ngoại",
-       "description": "Siêu Thị Nhạc Xưa sẽ là kênh chính thức của các bản nhạc xưa, nhạc vàng, nhạc lính, nhạc bolero của các danh ca hải ngoại bất hủ để đời. Bấm...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/sy0jjcGPFtU/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hZqYGZIYv0MigxsxVypYGprJYcE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3Sz1DIr7H2Y"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/sy0jjcGPFtU/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/sy0jjcGPFtU/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2019-07-20T11:30:00Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Lá Thư Trần Thế - 10 Bài Nhạc Lính Hải Ngoại Hay Nhất | Giang Tử, Đan Nguyên, Đặng Thế Luân",
+          "description": "Đăng Ký Kênh (miễn phí) tại : https://www.youtube.com/user/TrungTamAsiaChannel?sub_confirmation=1 ▻ Quý vị order DVD/CD qua trang nhà ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3Sz1DIr7H2Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3Sz1DIr7H2Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3Sz1DIr7H2Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-07-20T11:30:00Z"
         }
-       },
-       "channelTitle": "Siêu Thị Nhạc Xưa",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_2-ipi9KN0bn2yrDpGAKJWa6Soo\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "sDswZoHiwYU"
       },
-      "snippet": {
-       "publishedAt": "2017-05-29T09:44:05.000Z",
-       "channelId": "UC6-5nYNnXM8ewSBsndggEYA",
-       "title": "GIANG TỬ Tuyển Tập | Những Ca Khúc Nhạc Vàng Hải Ngoại Hay Nhất Của GIANG TỬ",
-       "description": "GIANG TỬ Tuyển Tập | Những Ca Khúc Nhạc Vàng Hải Ngoại Hay Nhất Của GIANG TỬ Quê Hương Việt Nam ▽ THEO DÕI : ♫ Google Plus ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/sDswZoHiwYU/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "p7v7CchD5hwWASo__rzB_W5RztI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "raP4Q0bBOLM"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/sDswZoHiwYU/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/sDswZoHiwYU/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2019-10-30T23:30:01Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Album Nhạc Lính Để Đời - Kẻ Ở Miền Xa, Thành Phố Sau Lưng - Giang Tử Hay Nhất",
+          "description": "Album Nhạc Lính Để Đời - Kẻ Ở Miền Xa, Thành Phố Sau Lưng - Giang Tử Hay Nhất Nhạc Vàng Bolero Hay Nhất : https://youtu.be/6l-thMw7XO4 Nhạc Lính Hải ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/raP4Q0bBOLM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/raP4Q0bBOLM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/raP4Q0bBOLM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-10-30T23:30:01Z"
         }
-       },
-       "channelTitle": "Quê Hương Việt Nam",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/hKVeEjokJIsBwVH6Kdnmbm15vd8\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "pzoijCyUg28"
       },
-      "snippet": {
-       "publishedAt": "2018-08-29T23:00:04.000Z",
-       "channelId": "UCx-sTaFIts5bAGG81-ZhGcQ",
-       "title": "Nhạc Xưa Bất Hủ Duy Khánh Giang Tử | Tuyển Tập Nhạc Vàng Hải Ngoại Hay Nhất  Của 2 Giọng Ca Để Đời",
-       "description": "Nhạc Xưa Bất Hủ Duy Khánh Giang Tử | Tuyển Tập Nhạc Vàng Hải Ngoại Hay Nhất Của 2 Giọng Ca Để Đời,#duykhanhgiangtu,#nhacvanghaingoai ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/pzoijCyUg28/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_WXWw7Z94ug5AR0cwoRBXKTg-bM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "l6-9Cpk5r60"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/pzoijCyUg28/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/pzoijCyUg28/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2011-07-12T02:39:43Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Asia Channel: Tam Doan &amp; Giang Tu  [full show]",
+          "description": "Asia DVD 68: \"Sàigòn, Nỗi Nhớ\" sẽ được phát hành vào ngày 24, tháng 6, năm 2011!!! Asia DVD 68 will be released on June 24th on DVD and Bluray! ORDER ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/l6-9Cpk5r60/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/l6-9Cpk5r60/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/l6-9Cpk5r60/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2011-07-12T02:39:43Z"
         }
-       },
-       "channelTitle": "Nhạc Vàng Hải Ngoại",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/GM4rQWuGk7xnWuG_XzuDuljqkN4\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "wgZNClli-No"
       },
-      "snippet": {
-       "publishedAt": "2020-02-16T00:25:38.000Z",
-       "channelId": "UCkHASsLOHuddMTzARove3AA",
-       "title": "Giang Tử &amp; Trung Chỉnh &amp; Hoàng Oanh - 15 Bài Hát Nhạc Lính Hải Ngoại Bất Hủ",
-       "description": "Giang Tử & Trung Chỉnh & Hoàng Oanh - 15 Bài Hát Nhạc Lính Hải Ngoại Bất Hủ Nhạc Vàng Bolero Bất Hủ : https://youtu.be/6l-thMw7XO4 Nhạc Lính Hải ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/wgZNClli-No/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iu8hAjEdPgrkh2aOd82x9c9bjkg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kEThDsqR2GI"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/wgZNClli-No/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/wgZNClli-No/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2019-06-12T08:58:00Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Nhạc Lính &quot;Tôi ở Miền Xa Trời Quen Đất Lạ&quot; - LK Nhạc Lính Hải Ngoại Hay Nhất &quot;Một Mai Giã Từ Vũ Khí&quot;",
+          "description": "Nhạc Lính \"Tôi ở Miền Xa Trời Quen Đất Lạ\" -LK Nhạc Lính Hải Ngoại Hay Nhất \"Một Mai Giã Từ Vũ Khí\" Tôi ở Miền Xa Trời Quen Đất Lạ - LK Nhạc Lính...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kEThDsqR2GI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kEThDsqR2GI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kEThDsqR2GI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-06-12T08:58:00Z"
         }
-       },
-       "channelTitle": "Asia Entertainment Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/polM3rmTC4mqkv8APpnTWmTtleI\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "fV7Ll9AkgJI"
       },
-      "snippet": {
-       "publishedAt": "2020-04-15T16:48:59.000Z",
-       "channelId": "UCWkcz9R8XE4Qid7FWF2ZFqA",
-       "title": "TUYỆT PHẨM GIANG TỬ - Nhạc Vàng, Nhạc Lính Hay Nhất Của Giang Tử Tuyển Chọn - Dòng Nhạc Tình Ca",
-       "description": "Dòng Nhạc Tình Ca Productions sẽ là kênh chính thức của các bản nhạc: Nhạc Lính, Nhạc Vàng, Nhạc Bolero, Tình Ca Xưa Hay Nhất. Bấm vào nút đăng ký (...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/fV7Ll9AkgJI/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_dgjHdE6lF6l8E9aqLy-5W0t8-c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kMhojlji2cQ"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/fV7Ll9AkgJI/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/fV7Ll9AkgJI/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2019-05-19T11:30:00Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Bảo Tuấn Tuyển Chọn - Những Bài Nhạc Vàng Xưa Hay Nhất Của Bảo Tuấn",
+          "description": "Bảo Tuấn Tuyển Chọn - Những Bài Nhạc Vàng Xưa Hay Nhất Của Bảo Tuấn 1. Hai mùa mưa 2. Tím cả chiều hoang 3. Tâm sự người lính trẻ 4. Nó 5. Loan mắt.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kMhojlji2cQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kMhojlji2cQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kMhojlji2cQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-05-19T11:30:00Z"
         }
-       },
-       "channelTitle": "Dòng Nhạc Tình Ca",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/c8--Ci9RVSYMnPKkgN0avclzJLU\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "N85nkv1-BF4"
       },
-      "snippet": {
-       "publishedAt": "2019-06-24T16:55:15.000Z",
-       "channelId": "UC1tjMwvaFcOww1NEG0F8eyg",
-       "title": "GIANG TỬ | Tuyển tập những ca khúc nhạc xưa hay nhất",
-       "description": "",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/N85nkv1-BF4/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HtQ1N03qbTtAmhOlfknZiwKrPyM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ktUeNhctclY"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/N85nkv1-BF4/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/N85nkv1-BF4/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2019-05-23T23:03:55Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Liveshow Đêm Tâm Sự - Băng Tâm &amp; Đặng Thế Luân | Liveshow Bolero Hải Ngoại Hay Nhất (FULL)",
+          "description": "Liveshow Đêm Tâm Sự - Băng Tâm & Đặng Thế Luân | Liveshow Bolero Hải Ngoại Hay Nhất (FULL) 1. Lá Thư Trần Thế(Hoài Linh) - Băng Tâm, Đặng Thế ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ktUeNhctclY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ktUeNhctclY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ktUeNhctclY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-05-23T23:03:55Z"
         }
-       },
-       "channelTitle": "ÂM NHẠC",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/GYqavt4puRRAiI5wwC334WpLNHA\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "VHuHIEALY9o"
       },
-      "snippet": {
-       "publishedAt": "2017-05-25T00:44:04.000Z",
-       "channelId": "UC6-5nYNnXM8ewSBsndggEYA",
-       "title": "Tuyển Tập Giang Tử 2018 | Tuyệt Phẩm Nhạc Vàng Bolero Hải Ngoại Hay Nhất Của Giang Tử",
-       "description": "Tuyển Tập Giang Tử 2018 | Tuyệt Phẩm Nhạc Vàng Bolero Hải Ngoại Hay Nhất Của Giang Tử Quê Hương Việt Nam ▽ THEO DÕI : ♫ Google Plus ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/VHuHIEALY9o/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ttl0jvgbsdrOTOC6Wt8mWB5yBIk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pINkHR1AeYg"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/VHuHIEALY9o/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/VHuHIEALY9o/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2019-04-16T09:11:46Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Nhạc Lính Hải Ngoại - Một Mai Giã Từ Vũ Khí - Tuyển Tập Nhạc Lính Hải Ngoại Hay Nhất",
+          "description": "Đan Nguyên, Trường Vũ, Tuấn Vũ, Nhạc Lính Hải Ngoại - Một Mai Giã Từ Vũ Khí - Tuyển Tập Nhạc Lính Hải Ngoại Hay Nhất Trung tâm Asia là một trung tâm...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pINkHR1AeYg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pINkHR1AeYg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pINkHR1AeYg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-04-16T09:11:46Z"
         }
-       },
-       "channelTitle": "Quê Hương Việt Nam",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/mJWftIP2HS0rk26eY4VU2FPc_9g\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "4kuzjjN-LBY"
       },
-      "snippet": {
-       "publishedAt": "2016-08-19T15:50:30.000Z",
-       "channelId": "UCEZVrowh250INHAEiAT6IHw",
-       "title": "Những tình khúc hay nhất của ca sĩ Giang Tử - Tuyển tập số 2",
-       "description": "Những tình khúc hay nhất của ca sĩ Giang Tử - Tuyển tập số 2 http://casgiangtu.blogspot.com/ 01. Căn Nhà Màu Tím Giang Tử, Phương Hồng Quế 02.",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/4kuzjjN-LBY/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "at7_MkiAGkR4TAt6BCP4l88p7rU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "WVvoW1loAOk"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/4kuzjjN-LBY/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/4kuzjjN-LBY/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2019-07-03T09:15:02Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Song Ca Về Tình Yêu Và Người Lính - Bóng Nhỏ Đường Chiều - Nhạc Lính Bolero Tuyển Chọn",
+          "description": "Song Ca Về Tình Yêu Và Người Lính - Bóng Nhỏ Đường Chiều - Nhạc Lính Bolero Tuyển Chọn ▻ Đăng Ký Kênh (miễn phí) tại ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WVvoW1loAOk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WVvoW1loAOk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WVvoW1loAOk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-07-03T09:15:02Z"
         }
-       },
-       "channelTitle": "Nhạc Việt Nam",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/UTAsU0nG2Pk8b3i6UJB2Kv4wdos\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "23YUrrR7aAE"
       },
-      "snippet": {
-       "publishedAt": "2015-09-21T13:35:32.000Z",
-       "channelId": "UCD58AisUSqmWLngrMjtl7og",
-       "title": "Giang Tử Tuyển Chọn Các Bài Hát Trữ Tình Hay Nhất 2015 ( Live )",
-       "description": "Giang Tử Tuyển Chọn Các Bài Hát Trữ Tình Hay Nhất 2015 ( Live ),nhạc vàng hải ngoại mới 2015,album Giang Tử tuyển chọn hay nhất,các bài hát nhạc vàng ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/23YUrrR7aAE/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hmzqEv6d_otFhLgledAQPGrDfEY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Q_f_CJbKdYw"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/23YUrrR7aAE/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/23YUrrR7aAE/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2020-01-04T09:15:00Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Nhạc Vàng Xưa Trước Năm 1975 - Song Ca Nhạc Vàng Thời Chinh Chiến Bất Hủ | Nhiều Ca Sĩ",
+          "description": "Nhạc Vàng Xưa Trước Năm 1975 - Song Ca Nhạc Vàng Thời Chinh Chiến Bất Hủ | Nhiều Ca Sĩ Nhạc Xuân Tết 2020 Mới Nhất : https://youtu.be/h70SgiZXAVQ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q_f_CJbKdYw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q_f_CJbKdYw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q_f_CJbKdYw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-01-04T09:15:00Z"
         }
-       },
-       "channelTitle": "Nhạc Vàng Production",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/v7OlYXlRyFvbxPAm9skmhkj-hoM\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "08HaLs_4Prk"
       },
-      "snippet": {
-       "publishedAt": "2020-04-13T03:39:15.000Z",
-       "channelId": "UCWkcz9R8XE4Qid7FWF2ZFqA",
-       "title": "GIANG TỬ  TUYỆT PHẨM ĐỂ ĐỜI HAY NHẤT - Những Tình Khúc Để Đời Qua Giọng Hát Độc Đáo Duy Nhất",
-       "description": "Dòng Nhạc Tình Ca Productions sẽ là kênh chính thức của các bản nhạc: Nhạc Lính, Nhạc Vàng, Nhạc Bolero, Tình Ca Xưa Hay Nhất. Bấm vào nút đăng ký (...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/08HaLs_4Prk/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ddih_M7VtswkQBk2zh5P0eHXu4M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "l_I829OIfgo"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/08HaLs_4Prk/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/08HaLs_4Prk/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2020-01-28T09:00:17Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Tâm Đoan - 99 Ca Khúc Không Quảng Cáo Nhạc Vàng, Nhạc Bolero Hay Nhất của Tâm Đoan",
+          "description": "Tâm Đoan - 99 Ca Khúc Không Quảng Cáo Nhạc Vàng, Nhạc Bolero Hay Nhất của Tâm Đoan Nhạc Xuân Tết 2020 Mới Nhất : https://youtu.be/h70SgiZXAVQ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/l_I829OIfgo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/l_I829OIfgo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/l_I829OIfgo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-01-28T09:00:17Z"
         }
-       },
-       "channelTitle": "Dòng Nhạc Tình Ca",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/H91ciF9JI1IqZkIRyB1DyT-H0zY\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "TA35mf3um6g"
       },
-      "snippet": {
-       "publishedAt": "2017-05-25T12:06:36.000Z",
-       "channelId": "UC6-5nYNnXM8ewSBsndggEYA",
-       "title": "Tuyển Tập Giang Tử 2017 | Liên Khúc Nhạc Vàng Bolero Hải Ngoại Hay Nhất Của Giang Tử",
-       "description": "Tuyển Tập Giang Tử 2017 | Liên Khúc Nhạc Vàng Bolero Hải Ngoại Hay Nhất Của Giang Tử Quê Hương Việt Nam ▽ THEO DÕI : ♫ Google Plus...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/TA35mf3um6g/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VVrU4iMfxcBp1gSsJPmIPG-piN8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FroiD_QO-Oo"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/TA35mf3um6g/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/TA35mf3um6g/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2019-11-06T08:33:26Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Chế Linh, Trường Vũ, Tuấn Vũ - Nhạc Lính Xưa Trước 1975 Để Đời Càng nghe càng thấm",
+          "description": "Chế Linh, Trường Vũ, Tuấn Vũ - Nhạc Lính Xưa Trước 1975 Để Đời Càng nghe càng thấm Nhạc Vàng Bolero Hay Nhất : https://youtu.be/6l-thMw7XO4 Nhạc ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FroiD_QO-Oo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FroiD_QO-Oo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FroiD_QO-Oo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-11-06T08:33:26Z"
         }
-       },
-       "channelTitle": "Quê Hương Việt Nam",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/pizZsy0dAnuB7zqwl1RhILCFefs\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "wcnxPuTYVRU"
       },
-      "snippet": {
-       "publishedAt": "2020-03-01T07:08:28.000Z",
-       "channelId": "UCdcKe79B53hW67CRX-1309g",
-       "title": "TUYỂN CHỌN NHẠC LÍNH HẢI NGOẠI - GIANG TỬ BEST COLLECTION",
-       "description": "Thanks for watching! - Please subscribe and follow me!",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/wcnxPuTYVRU/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "aK23bpFewpG2ReXANtH68vlqUWU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cq89pxVJuRs"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/wcnxPuTYVRU/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/wcnxPuTYVRU/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2020-03-10T00:00:07Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Tuyệt Phẩm Nhạc Lính Hải Ngoại Không Quảng Cáo Hay Nhất - LK Rừng Láp Thấp, Một Mai giã Từ Vũ Khí",
+          "description": "Tuyệt Phẩm Nhạc Lính Hải Ngoại Không Quảng Cáo Hay Nhất - LK Rừng Láp Thấp, Một Mai giã Từ Vũ Khí Nhạc Vàng Bolero Bất Hủ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cq89pxVJuRs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cq89pxVJuRs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cq89pxVJuRs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-10T00:00:07Z"
         }
-       },
-       "channelTitle": "30 PHÚT THƯ GIÃN",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/HORo5w3IQjZ1_ngraPHHnUoz1yk\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "ME3ofkmL7VQ"
       },
-      "snippet": {
-       "publishedAt": "2018-08-12T06:54:56.000Z",
-       "channelId": "UC1cwbqoYTs9FfEA620OWNmw",
-       "title": "Giáng Thu - Tuyển Chọn Nhạc Vàng Hay Nhất (Thu âm trước 1975 chất lượng cao)",
-       "description": "Tuyển chọn những ca khúc nhạc vàng thu âm trước 75 hay nhất của ca sĩ Giáng Thu. Góp mặt trong chương trình này còn có các nam danh ca Chế Linh, Giang ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/ME3ofkmL7VQ/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rsmgPnkwwehUwgLJ7-l5zK7EO0g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "q-emtxG6nG4"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/ME3ofkmL7VQ/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/ME3ofkmL7VQ/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2019-03-15T11:28:19Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Tuyệt đỉnh Nhạc Vàng Xưa Hải Ngoại Bất Hủ - Hoàng Oanh, Duy Khánh, Thanh Tuyền",
+          "description": "Tuyệt đỉnh Nhạc Vàng Xưa Hải Ngoại Bất Hủ - Hoàng Oanh, Duy Khánh, Thanh Tuyền Trung tâm Asia là một trung tâm dẫn đầu trong nền âm nhạc Việt Nam, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/q-emtxG6nG4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/q-emtxG6nG4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/q-emtxG6nG4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-03-15T11:28:19Z"
         }
-       },
-       "channelTitle": "Nhạc Thu Âm Trước 1975",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/rkwQzbtnHWp1M1HvDyyi_Exvkhc\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "pLAdzE2XnUg"
       },
-      "snippet": {
-       "publishedAt": "2017-05-28T12:08:52.000Z",
-       "channelId": "UC6-5nYNnXM8ewSBsndggEYA",
-       "title": "Tuyển Tập GIANG TỬ | Liên Khúc Nhạc Vàng Bolero Hải Ngoại Hay Nhất của GIANG TỬ 2017",
-       "description": "Tuyển Tập GIANG TỬ | Liên Khúc Nhạc Vàng Bolero Hải Ngoại Hay Nhất của GIANG TỬ 2017 Quê Hương Việt Nam ▽ THEO DÕI : ♫ Google ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/pLAdzE2XnUg/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AqYncoTDDBx4ln9T4uQ4WOP04P0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_ElKSWkI-9U"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/pLAdzE2XnUg/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/pLAdzE2XnUg/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2019-04-23T09:06:37Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Đôi Song Ca Vàng Tuấn Vũ Phương Hồng Quế - Nhạc Vàng Xưa Song Ca Tuyển Chọn",
+          "description": "Đôi Song Ca Vàng Tuấn Vũ Phương Hồng Quế - Nhạc Vàng Xưa Song Ca Tuyển Chọn Trung tâm Asia là một trung tâm dẫn đầu trong nền âm nhạc Việt Nam, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_ElKSWkI-9U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_ElKSWkI-9U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_ElKSWkI-9U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-04-23T09:06:37Z"
         }
-       },
-       "channelTitle": "Quê Hương Việt Nam",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/LuTHL49brByVXXx2so_vojxX-RU\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "3Sz1DIr7H2Y"
       },
-      "snippet": {
-       "publishedAt": "2019-07-20T11:30:00.000Z",
-       "channelId": "UCkHASsLOHuddMTzARove3AA",
-       "title": "Lá Thư Trần Thế - 10 Bài Nhạc Lính Hải Ngoại Hay Nhất | Giang Tử, Đan Nguyên, Đặng Thế Luân",
-       "description": "Đăng Ký Kênh (miễn phí) tại : https://www.youtube.com/user/TrungTamAsiaChannel?sub_confirmation=1 ▻ Quý vị order DVD/CD qua trang nhà ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/3Sz1DIr7H2Y/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YIBa-2SrOOkoysJh7bmmdFaeXBY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XHC-uge2G-Y"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/3Sz1DIr7H2Y/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/3Sz1DIr7H2Y/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2019-07-30T23:00:02Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Tuyển chọn Nhạc Lính Xưa Hay Nhất Mọi Thời Đại - Hoàng Oanh, Chế Linh, Trường Vũ, Tuấn Vũ",
+          "description": "Tuyển chọn Nhạc Lính Xưa Hay Nhất Mọi Thời Đại - Hoàng Oanh, Chế Linh, Trường Vũ, Tuấn Vũ Đan Nguyên Bolero Hay Nhất: https://youtu.be/Dj3xtFKtFKI ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XHC-uge2G-Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XHC-uge2G-Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XHC-uge2G-Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-07-30T23:00:02Z"
         }
-       },
-       "channelTitle": "Asia Entertainment Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jRK04BZDZLAoLVDgm2q7Jzq2RuI\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "hbRI5rdPkXk"
       },
-      "snippet": {
-       "publishedAt": "2018-07-16T14:50:37.000Z",
-       "channelId": "UCx-sTaFIts5bAGG81-ZhGcQ",
-       "title": "Nhạc Lính Bất Hủ Giang Tử,Duy Khánh Tuyển Tập Các Ca Khúc Hay Nhất Về Người Lính",
-       "description": "Nhạc Lính Bất Hủ Giang Tử,Duy Khánh Tuyển Tập Các Ca Khúc Hay Nhất Về Người Lính ĐĂNG KÝ KÊNH ĐỂ THEO DÕI : https://goo.gl/i3YtUC ◙ Track list: ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/hbRI5rdPkXk/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BX75zEu0d3t6dHUxB6MSqcQixz8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AZsvas2X7Xk"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/hbRI5rdPkXk/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/hbRI5rdPkXk/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2019-08-17T08:00:02Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "LK Trường Cũ Tình Xưa &amp; Bóng Nhỏ Đường Chiều - Đặng Thế Luân, Tâm Đoan, Y Phụng",
+          "description": "LK Trường Cũ Tình Xưa & Bóng Nhỏ Đường Chiều - Đặng Thế Luân, Tâm Đoan, Y Phụng Đan Nguyên Bolero Hay Nhất: https://youtu.be/Dj3xtFKtFKI Trường ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AZsvas2X7Xk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AZsvas2X7Xk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AZsvas2X7Xk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-08-17T08:00:02Z"
         }
-       },
-       "channelTitle": "Nhạc Vàng Hải Ngoại",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ddTVJ3T8ji7STswt4NKuNfCDzXI\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "-WxfF4LpE8g"
       },
-      "snippet": {
-       "publishedAt": "2019-02-10T23:00:00.000Z",
-       "channelId": "UC6-5nYNnXM8ewSBsndggEYA",
-       "title": "Tình Ca Đặc Biệt | Tuyển Chọn Ca Khúc Hải Ngoại Ngọt Ngào, Hội Tụ Danh Ca Xưa Ngọc Lan, Tuấn Ngọc...",
-       "description": "Tình Ca Đặc Biệt | Tuyển Chọn Ca Khúc Hải Ngoại Ngọt Ngào, Hội Tụ Danh Ca Xưa Ngọc Lan, Tuấn Ngọc, Vũ Khanh #tinhcahaingoai, #tinhkhuc, ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/-WxfF4LpE8g/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wqCmxa7KSEBwShGEYuOh9lfsZqU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4fQ1mOvXAKg"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/-WxfF4LpE8g/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/-WxfF4LpE8g/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2019-06-21T23:30:00Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Hái Hoa Rừng Cho Em - Song Ca Về Tình Yêu Thời Lính Chiến - Nhạc Lính Bolero Song Ca Hay Nhất",
+          "description": "Hái Hoa Rừng Cho Em - Song Ca Về Tình Yêu Thời Lính Chiến - Nhạc Lính Bolero Song Ca Hay Nhất Hái Hoa Rừng Cho Em(Trương Hoàng Xuân) - Thiên ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4fQ1mOvXAKg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4fQ1mOvXAKg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4fQ1mOvXAKg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-06-21T23:30:00Z"
         }
-       },
-       "channelTitle": "Quê Hương Việt Nam",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/NO_HenAk2IG3XoxhxdIT3V4AnBI\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "1tm7g06HuQM"
       },
-      "snippet": {
-       "publishedAt": "2018-08-29T11:00:01.000Z",
-       "channelId": "UCx-sTaFIts5bAGG81-ZhGcQ",
-       "title": "Nhạc Lính Bất Hủ Duy Khánh Giang Tử | Tuyển Tập Nhạc Lính Hải Ngoại Hay Nhất - Nhạc Vàng Xưa Để Đời",
-       "description": "Nhạc Lính Bất Hủ Duy Khánh Giang Tử | Tuyển Tập Nhạc Lính Hải Ngoại Hay Nhất - Nhạc Vàng Xưa Để Đời,#duykhanhgiangtu,#nhaclinh,#nhacvanghaingoai ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/1tm7g06HuQM/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qSMLtyvIm6VfPAYO30TM8prt8bU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-GD4enjS0GM"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/1tm7g06HuQM/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/1tm7g06HuQM/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2020-03-04T12:00:11Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Album Nhạc Lính Xưa Không Quảng Cáo - Những Tình Khúc Thời Chinh Chiến Bất Hủ Hay Nhất",
+          "description": "Album Nhạc Lính Xưa Không Quảng Cáo - Những Tình Khúc Thời Chinh Chiến Bất Hủ Hay Nhất Nhạc Vàng Bolero Bất Hủ : https://youtu.be/6l-thMw7XO4 Nhạc ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-GD4enjS0GM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-GD4enjS0GM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-GD4enjS0GM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-04T12:00:11Z"
         }
-       },
-       "channelTitle": "Nhạc Vàng Hải Ngoại",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/NlyZn5jFFA7DL5l4GDTLiOhjRoY\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "pDyOVxGAwuE"
       },
-      "snippet": {
-       "publishedAt": "2018-11-13T12:12:58.000Z",
-       "channelId": "UC_ZKc2EFK41g__yVqICWOlw",
-       "title": "NHẠC XƯA BẤT HỦ - Giang Tử, Phương Hồng Quế || Tuyển Chọn Nhạc Vàng  Hay Nhất Của Danh Ca Hải Ngoại",
-       "description": "Siêu Thị Nhạc Xưa sẽ là kênh chính thức của các bản nhạc xưa, nhạc vàng, nhạc lính, nhạc bolero của các danh ca hải ngoại bất hủ để đời. Bấm...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/pDyOVxGAwuE/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RJIlL-OF1IDAIO8ryO-bWUv9nQ0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UPHrfsn5gV0"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/pDyOVxGAwuE/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/pDyOVxGAwuE/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2020-01-14T08:00:08Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Trung Chỉnh Hoàng Oanh Tuyển Chọn - Cặp Đôi Song Ca Hay Nhất Mọi Thời Đại",
+          "description": "Trung Chỉnh Hoàng Oanh Tuyển Chọn - Cặp Đôi Song Ca Hay Nhất Mọi Thời Đại Nhạc Xuân Tết 2020 Mới Nhất : https://youtu.be/h70SgiZXAVQ Nhạc giáng ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UPHrfsn5gV0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UPHrfsn5gV0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UPHrfsn5gV0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-01-14T08:00:08Z"
         }
-       },
-       "channelTitle": "Siêu Thị Nhạc Xưa",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/h3BtjON958q1tR4JvcfvmwBgEyg\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "v6sD4SJle3A"
       },
-      "snippet": {
-       "publishedAt": "2017-08-03T09:47:46.000Z",
-       "channelId": "UCF0IJUUq2oY014_cNZ71FSg",
-       "title": "GIANG TỬ BẬC THẦY NHẠC XƯA || Liên Khúc Nhạc Vàng Bất Hủ Tuyển Chọn Của Danh Ca Giang Tử",
-       "description": "GIANG TỬ - BẬC THẦY NHẠC XƯA || Những Ca Khúc Nhạc Vàng Bất Hủ Tuyển Chọn Của Danh Ca Giang Tử ----- Lối Thu Xưa Giọt Buồn Không Tên Kẻ Ở ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/v6sD4SJle3A/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "y551OhY3rQtFWNHwsh8WHzLP-vI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Dc2Ia5PTeA4"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/v6sD4SJle3A/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/v6sD4SJle3A/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2019-12-07T23:00:02Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "Nhạc giáng Sinh Xưa Thời Loạn | Lá Thư Trần Thế | Nhạc Noel Hải Ngoại Bất Hủ Hay Nhất (CD ASIA 301 )",
+          "description": "Nhạc giáng Sinh Xưa Thời Loạn | Lá Thư Trần Thế | Nhạc Noel Hải Ngoại Bất Hủ Hay Nhất (CD ASIA 301 ) Nhạc Vàng Bolero Hay Nhất ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Dc2Ia5PTeA4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Dc2Ia5PTeA4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Dc2Ia5PTeA4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-12-07T23:00:02Z"
         }
-       },
-       "channelTitle": "Wayne Curry",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/680pLbn0_g_IYi8bu2s3NaryO4c\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "3laj9fVC1zM"
       },
-      "snippet": {
-       "publishedAt": "2014-10-19T17:38:36.000Z",
-       "channelId": "UC2MloyNI8zm7114n6HMjwSg",
-       "title": "Giang Tử l Những tuyệt phẩm hay nhất",
-       "description": "",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/3laj9fVC1zM/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RtkC75mI9oF3NodkeCo29mhh2AU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xHYYk9KwO9A"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/3laj9fVC1zM/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/3laj9fVC1zM/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2019-05-25T03:11:18Z",
+          "channelId": "UCkHASsLOHuddMTzARove3AA",
+          "title": "CHẾ LINH - Những Ca Khúc Nhạc Vàng Xưa Bất Hủ Hay Nhất Của Chế Linh",
+          "description": "CHẾ LINH - Những Ca Khúc Nhạc Vàng Xưa Bất Hủ Hay Nhất Của Chế Linh 1. LK Đừng nói xa nhau - Chế Linh & Thanh Tuyền 2. Liên Khúc Duy Khánh(Lối về ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xHYYk9KwO9A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xHYYk9KwO9A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xHYYk9KwO9A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asia Entertainment Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-05-25T03:11:18Z"
         }
-       },
-       "channelTitle": "VAPS Entertainment & Arts",
-       "liveBroadcastContent": "none"
       }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/naUgPIxM4EMg-3HVpPwLQRn8A0I\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "-BFDKDsg3YI"
-      },
-      "snippet": {
-       "publishedAt": "2018-08-27T10:57:46.000Z",
-       "channelId": "UCx-sTaFIts5bAGG81-ZhGcQ",
-       "title": "Góc Nhạc Vàng Hải Ngoại DUY KHÁNH GIANG TỬ | Tuyển Chọn Liên Khúc Nhạc Xưa Bất Hủ Hay Nhất",
-       "description": "Góc Nhạc Vàng Hải Ngoại DUY KHÁNH GIANG TỬ | Tuyển Chọn Liên Khúc Nhạc Xưa Bất Hủ Hay Nhất,#duykhanhgiangtu,#nhacvanghaingoai,#nhacxua ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/-BFDKDsg3YI/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/-BFDKDsg3YI/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/-BFDKDsg3YI/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhạc Vàng Hải Ngoại",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/hkCeE_ANR5wR65QxC0bB4Um5_RA\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "xjpFhe0_KzY"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-30T23:01:28.000Z",
-       "channelId": "UCWIFrdu7Ctn-DWi2o6M9MVA",
-       "title": "Nhạc Vàng Hải Ngoại KHÔNG QUẢNG CÁO - 100 Bài Bolero Nhạc Vàng Xưa ĐẶC BIỆT Hay Tê Tái",
-       "description": "Nhạc Vàng Hải Ngoại KHÔNG QUẢNG CÁO - 100 Bài Bolero Nhạc Vàng Xưa ĐẶC BIỆT Hay Tê Tái ▻ Theo dõi kênh Nhạc Hay Việt Nam: ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/xjpFhe0_KzY/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/xjpFhe0_KzY/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/xjpFhe0_KzY/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhạc Hay Việt Nam",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/LOrttzDjgajHC--9YeevWZQRY5c\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "XvKF1XxkcH0"
-      },
-      "snippet": {
-       "publishedAt": "2018-10-13T12:06:19.000Z",
-       "channelId": "UC_ZKc2EFK41g__yVqICWOlw",
-       "title": "NHẠC XƯA BẤT HỦ - Giang Tử, Hồng Trúc || Tuyển Chọn Nhạc Vàng Hay Nhất Của Danh Ca Hải Ngoại",
-       "description": "Siêu Thị Nhạc Xưa sẽ là kênh chính thức của các bản nhạc xưa, nhạc vàng, nhạc lính, nhạc bolero của các danh ca hải ngoại bất hủ để đời. Bấm...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/XvKF1XxkcH0/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/XvKF1XxkcH0/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/XvKF1XxkcH0/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Siêu Thị Nhạc Xưa",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/s1bGb8OoaeS_i2cacsiTKe7ZOfA\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "i7Bs9Iqald0"
-      },
-      "snippet": {
-       "publishedAt": "2018-08-30T01:55:39.000Z",
-       "channelId": "UCFqAUeZhUlieYuELrQOCZpQ",
-       "title": "HƯƠNG LAN TRƯỚC 1975 - Tuyển tập nhạc vàng xưa hay nhất Sài Thành Một thời",
-       "description": "HƯƠNG LAN TRƯỚC 1975 - Tuyển tập nhạc vàng xưa hay nhất Sài Thành Một thời. ✪ #huonglan #truoc1975 #nhacvangxua #haynhatsaithanh ✪ Danh sách ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/i7Bs9Iqald0/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/i7Bs9Iqald0/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/i7Bs9Iqald0/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Giọng Ca Hải Ngoại",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/KNfAc3n8QEldi_0DolIQGBZeeXo\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "s-mhEjkHdZY"
-      },
-      "snippet": {
-       "publishedAt": "2017-10-23T05:55:39.000Z",
-       "channelId": "UC_ZKc2EFK41g__yVqICWOlw",
-       "title": "Nhạc Giang Tử - Tuyển Chọn Nhạc Bolero Xưa Hải Ngoại Hay Tê Tái | Âm Nhạc Quê Hương",
-       "description": "Siêu Thị Nhạc Xưa sẽ là kênh chính thức của các bản nhạc xưa, nhạc vàng, nhạc lính, nhạc bolero của các danh ca hải ngoại bất hủ để đời. Bấm...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/s-mhEjkHdZY/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/s-mhEjkHdZY/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/s-mhEjkHdZY/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Siêu Thị Nhạc Xưa",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/WLoICh2q3CcWELTBECH8QXOTQ48\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "mDqQ3VlkOpE"
-      },
-      "snippet": {
-       "publishedAt": "2018-08-03T13:25:40.000Z",
-       "channelId": "UC_ZKc2EFK41g__yVqICWOlw",
-       "title": "TUYỂN TẬP GIANG TỬ - TUYỆT PHẨM NHẠC VÀNG BOLERO HAY NHẤT CỦA GIANG TỬ",
-       "description": "Siêu Thị Nhạc Xưa sẽ là kênh chính thức của các bản nhạc xưa, nhạc vàng, nhạc lính, nhạc bolero của các danh ca hải ngoại bất hủ để đời. Bấm...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/mDqQ3VlkOpE/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/mDqQ3VlkOpE/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/mDqQ3VlkOpE/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Siêu Thị Nhạc Xưa",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/dwJ7NcVSFWTiX6KtmLeDunBm490\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "UBoR0EiWb3s"
-      },
-      "snippet": {
-       "publishedAt": "2018-08-31T10:00:06.000Z",
-       "channelId": "UCx-sTaFIts5bAGG81-ZhGcQ",
-       "title": "Duy Khánh Thanh Tuyền Chế Linh Giang Tử | Tuyển Chọn Nhạc Vàng Hải Ngoại Giọng Ca Xưa Để Đời",
-       "description": "Duy Khánh Thanh Tuyền Chế Linh Giang Tử | Tuyển Chọn Nhạc Vàng Hải Ngoại Giọng Ca Xưa Để Đời,#duykhanh,#giangtu,#chelinhthanhtuyen ĐĂNG KÝ ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/UBoR0EiWb3s/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/UBoR0EiWb3s/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/UBoR0EiWb3s/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhạc Vàng Hải Ngoại",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/FhtIVr7q0UiigQT9ICReLkm6FuI\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "4qgfyuMaP6o"
-      },
-      "snippet": {
-       "publishedAt": "2020-03-16T15:26:46.000Z",
-       "channelId": "UCWkcz9R8XE4Qid7FWF2ZFqA",
-       "title": "Duy Khánh Trường Vũ Đan Nguyên Giang Tử Tuyển Chọn Những Bản Nhạc Lính Để Đời Hay Nhất",
-       "description": "Dòng Nhạc Tình Ca Productions sẽ là kênh chính thức của các bản nhạc: Nhạc Lính, Nhạc Vàng, Nhạc Bolero, Tình Ca Xưa Hay Nhất. Bấm vào nút đăng ký (...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/4qgfyuMaP6o/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/4qgfyuMaP6o/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/4qgfyuMaP6o/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Dòng Nhạc Tình Ca",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/7RZIL7QvKIIKKyQVgyI_ekIJR3A\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "hO1-FnBbFVk"
-      },
-      "snippet": {
-       "publishedAt": "2018-12-02T09:36:51.000Z",
-       "channelId": "UCKCF7hDAm5YNj_pdgHvFIng",
-       "title": "NHẠC XƯA GIANG TỬ | GIANG TỬ - TUYỂN CHỌN NHẠC VÀNG XƯA VƯỢT THỜI GIAN",
-       "description": "NHẠC XƯA GIANG TỬ | GIANG TỬ - TUYỂN CHỌN NHẠC VÀNG XƯA VƯỢT THỜI GIAN ◙ ĐĂNG KÝ KÊNH ĐỂ THEO DÕI: https://goo.gl/qA3QUG ◙ Track list: ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/hO1-FnBbFVk/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/hO1-FnBbFVk/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/hO1-FnBbFVk/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Bolero Trữ Tình",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/eZLfnZ6lYOW1DpI6nFHkBlwdYBY\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "k0x707v0kSQ"
-      },
-      "snippet": {
-       "publishedAt": "2018-08-26T23:00:02.000Z",
-       "channelId": "UCx-sTaFIts5bAGG81-ZhGcQ",
-       "title": "Giang Tử Duy Khánh | Góc Nhạc Vàng Để Đời - Tuyển Tập Nhạc Vàng Xưa Hay Nhất Đã Đi Cùng Năm Tháng",
-       "description": "Giang Tử Duy Khánh | Góc Nhạc Vàng Để Đời - Tuyển Tập Nhạc Vàng Xưa Hay Nhất Đã Đi Cùng Năm Tháng,#giangtuduykhanh,#gocnhacvang,#duykhanh ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/k0x707v0kSQ/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/k0x707v0kSQ/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/k0x707v0kSQ/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhạc Vàng Hải Ngoại",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nAw0xZmk27CWomVoQ6Ci3VN6bh0\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "ChjarvTzC3Y"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-30T12:00:16.000Z",
-       "channelId": "UCkHASsLOHuddMTzARove3AA",
-       "title": "Trish Thùy Trang, ASIA 4, Chế Linh, Phương Vũ - Liên Khúc Tình Thư Của Lính, Rừng Lá Thấp",
-       "description": "Trish Thùy Trang, ASIA 4, Chế Linh, Phương Vũ - Liên Khúc Tình Thư Của Lính, Rừng Lá Thấp Nhạc Vàng Bolero Bất Hủ : https://youtu.be/6l-thMw7XO4 Nhạc ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/ChjarvTzC3Y/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/ChjarvTzC3Y/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/ChjarvTzC3Y/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Asia Entertainment Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/TwCKsPrk37-j_iKS0nwb2AdInck\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "62z2RGFWaAc"
-      },
-      "snippet": {
-       "publishedAt": "2019-06-13T23:00:01.000Z",
-       "channelId": "UCx-sTaFIts5bAGG81-ZhGcQ",
-       "title": "Nhạc Vàng Hải Ngoại Tuyển Chọn Đặc Biệt Hay Nhất - Duy Khánh, Chế Linh, Trường Vũ, Đan Nguyên",
-       "description": "Nhạc Vàng Hải Ngoại trân trọng giới thiệu Nhạc Vàng Hải Ngoại Tuyển Chọn Đặc Biệt Hay Nhất - Duy Khánh, Chế Linh, Trường Vũ, Đan Nguyên #duykhanh ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/62z2RGFWaAc/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/62z2RGFWaAc/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/62z2RGFWaAc/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhạc Vàng Hải Ngoại",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/6LTbCCPVcHQ31g_jO3liEarTWPg\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "Bz3wD_P9xjY"
-      },
-      "snippet": {
-       "publishedAt": "2019-02-10T05:21:28.000Z",
-       "channelId": "UCQAwqmCFwiPimSX0xwZhELg",
-       "title": "Song Ca Nhạc Vàng Bất Hủ Trước 1975 - Tuyển chọn những đôi song ca huyền thoại trước năm 75",
-       "description": "Những đôi song ca nhạc vàng huyền thoại nổi tiếng từ trước năm 75: Giang Tử & Giáng Thu, Chế Linh & Thanh Tuyền, Hoàng Oanh & Trung Chỉnh, Duy Khánh ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/Bz3wD_P9xjY/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/Bz3wD_P9xjY/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/Bz3wD_P9xjY/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhạc Trước 1975 Production",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/gA2ATGZkgTpVdj5vp86HxrclEns\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "cQ7ayxK7XTU"
-      },
-      "snippet": {
-       "publishedAt": "2018-07-10T23:00:05.000Z",
-       "channelId": "UCx-sTaFIts5bAGG81-ZhGcQ",
-       "title": "Duy Khánh Giang Tử | Bậc Thầy Nhạc Vàng - Nhạc Vàng Xưa Tuyển Chọn Hay Nhất Chấn Động Triệu Con Tim",
-       "description": "Duy Khánh Giang Tử | Bậc Thầy Nhạc Vàng - Nhạc Vàng Xưa Tuyển Chọn Hay Nhất Chấn Động Triệu Con Tim ĐĂNG KÝ KÊNH ĐỂ THEO DÕI ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/cQ7ayxK7XTU/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/cQ7ayxK7XTU/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/cQ7ayxK7XTU/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhạc Vàng Hải Ngoại",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/1B5mEoT0MLFhgYA6E66xvp_X8O0\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "QSPXiaC2w7M"
-      },
-      "snippet": {
-       "publishedAt": "2017-10-20T23:30:00.000Z",
-       "channelId": "UCGIBGer2vKaYa0WouTwidWQ",
-       "title": "20 CA KHÚC NHẠC VÀNG HẢI NGOẠI TUYỂN CHỌN HAY NHẤT | LK NHỮNG CA KHÚC NHẠC VÀNG XƯA TRƯỚC NĂM 1975",
-       "description": "NHAC VANG HAI NGOAI - NHAC VANG - 20 CA KHÚC NHẠC VÀNG HẢI NGOẠI TUYỂN CHỌN HAY NHẤT | LK NHỮNG CA KHÚC NHẠC VÀNG XƯA ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/QSPXiaC2w7M/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/QSPXiaC2w7M/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/QSPXiaC2w7M/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Thế Giới Giải Trí",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/xphxD1ORG0ERfZvDVNL3AsrVj3M\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "Bgot4x4Tl6M"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-15T02:41:13.000Z",
-       "channelId": "UCWkcz9R8XE4Qid7FWF2ZFqA",
-       "title": "Dòng Nhạc Tình Ca Không Bao Giờ Quên Lãng | Album Nhạc Lính Xưa Hải Ngoại Tuyển Chọn Triệu Người Mê",
-       "description": "Dòng Nhạc Tình Ca Productions sẽ là kênh chính thức của các bản nhạc: Nhạc Lính, Nhạc Vàng, Nhạc Bolero, Tình Ca Xưa Hay Nhất. Bấm vào nút đăng ký (...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/Bgot4x4Tl6M/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/Bgot4x4Tl6M/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/Bgot4x4Tl6M/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Dòng Nhạc Tình Ca",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/gKwlO9_RWFsLZnkRoc3Tm5umX2Q\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "q-emtxG6nG4"
-      },
-      "snippet": {
-       "publishedAt": "2019-03-15T11:28:19.000Z",
-       "channelId": "UCkHASsLOHuddMTzARove3AA",
-       "title": "Tuyệt đỉnh Nhạc Vàng Xưa Hải Ngoại Bất Hủ - Hoàng Oanh, Duy Khánh, Thanh Tuyền",
-       "description": "Tuyệt đỉnh Nhạc Vàng Xưa Hải Ngoại Bất Hủ - Hoàng Oanh, Duy Khánh, Thanh Tuyền Trung tâm Asia là một trung tâm dẫn đầu trong nền âm nhạc Việt Nam, ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/q-emtxG6nG4/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/q-emtxG6nG4/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/q-emtxG6nG4/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Asia Entertainment Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/aXADxIJsYfJ25FalSkMubVE72KU\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "PQQvxl4rTOM"
-      },
-      "snippet": {
-       "publishedAt": "2017-07-30T02:57:42.000Z",
-       "channelId": "UCGIBGer2vKaYa0WouTwidWQ",
-       "title": "Nhạc Lính Hải Ngoại | Tuyển Chọn Hay Nhất | Nhạc Vàng Bolero Về Lính Xưa Tuyển Chọn",
-       "description": "Nhạc Lính Hải Ngoại | Tuyển Chọn Hay Nhất | Nhạc Vàng Bolero Về Lính Xưa Tuyển Chọn Thế Giới Giải Trí là kênh giải trí âm nhạc với những bài nhạc...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/PQQvxl4rTOM/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/PQQvxl4rTOM/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/PQQvxl4rTOM/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Thế Giới Giải Trí",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/7NjxmQnS15CESmbAevM2zgktbW4\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "Wykz8i_9qvs"
-      },
-      "snippet": {
-       "publishedAt": "2018-12-30T17:25:39.000Z",
-       "channelId": "UCMDdc8ZvTpqCHsyxQ1XJuVw",
-       "title": "Tuyển tập nhạc vàng đan nguyên ,giang tử ,duy khánh",
-       "description": "",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/Wykz8i_9qvs/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/Wykz8i_9qvs/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/Wykz8i_9qvs/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhạc Bolero Hay Số 1",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/9a6IDvIdBzpsvHn-nzHnZ_YoMC8\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "ixIeBEgUs6w"
-      },
-      "snippet": {
-       "publishedAt": "2019-03-16T18:55:58.000Z",
-       "channelId": "UCcQ0fkt2MIMRrgOdkgYcsAA",
-       "title": "Giang Tử Nhạc Lính - Nhạc Vàng Chọn Lọc (Music Pro Bolero)",
-       "description": "musicprovn #bolero #giangtu #nhaclinh #nhacxua #nhacvang.",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/ixIeBEgUs6w/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/ixIeBEgUs6w/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/ixIeBEgUs6w/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Music Pro Việt Nam",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/P0jA1VC84USedn1bc42Ne5Gc1HU\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "ZB1Qf6Ty2KM"
-      },
-      "snippet": {
-       "publishedAt": "2017-12-13T06:39:51.000Z",
-       "channelId": "UC5XIV90zbOCCLlLG0gOh2Xw",
-       "title": "NHẠC LÍNH XƯA HẢI NGOẠI TRƯỚC 1975 | TUYỂN CHỌN CA KHÚC HAY NHẤT MỌI THỜI ĐẠI CỦA CÁC DANH CA BẤT HỦ",
-       "description": "NHAC LINH XUA ▻Cùng thưởng thức Liên Khúc NHẠC LÍNH XƯA HẢI NGOẠI TRƯỚC 1975 do DANH CA CHẾ LINH, TRƯỜNG VŨ, TUẤN VŨ, DUY KHÁNH, ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/ZB1Qf6Ty2KM/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/ZB1Qf6Ty2KM/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/ZB1Qf6Ty2KM/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Hải Ngoại Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/EMWG2LDy67lAdy0psEFoCuNFBdE\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "XHC-uge2G-Y"
-      },
-      "snippet": {
-       "publishedAt": "2019-07-30T23:00:02.000Z",
-       "channelId": "UCkHASsLOHuddMTzARove3AA",
-       "title": "Tuyển chọn Nhạc Lính Xưa Hay Nhất Mọi Thời Đại - Hoàng Oanh, Chế Linh, Trường Vũ, Tuấn Vũ",
-       "description": "Tuyển chọn Nhạc Lính Xưa Hay Nhất Mọi Thời Đại - Hoàng Oanh, Chế Linh, Trường Vũ, Tuấn Vũ Đan Nguyên Bolero Hay Nhất: https://youtu.be/Dj3xtFKtFKI ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/XHC-uge2G-Y/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/XHC-uge2G-Y/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/XHC-uge2G-Y/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Asia Entertainment Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ryZa0ZOQch1CVZRNCkFWVEnyKz8\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "_hH8lcdJIYo"
-      },
-      "snippet": {
-       "publishedAt": "2019-11-24T23:30:01.000Z",
-       "channelId": "UCkHASsLOHuddMTzARove3AA",
-       "title": "61 Ca Khúc Nhạc Vàng Xưa Tuyển chọn Hay Nhất của Phương Hồng Quế",
-       "description": "61 Ca Khúc Nhạc Vàng Xưa Tuyển chọn Hay Nhất của Phương Hồng Quế Nhạc Vàng Bolero Hay Nhất : https://youtu.be/6l-thMw7XO4 Nhạc Lính Hải Ngoại: ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/_hH8lcdJIYo/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/_hH8lcdJIYo/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/_hH8lcdJIYo/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Asia Entertainment Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/yRiAIRHJr8e0--GITN-bmSQM3rY\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "Q_f_CJbKdYw"
-      },
-      "snippet": {
-       "publishedAt": "2020-01-04T09:15:00.000Z",
-       "channelId": "UCkHASsLOHuddMTzARove3AA",
-       "title": "Nhạc Vàng Xưa Trước Năm 1975 - Song Ca Nhạc Vàng Thời Chinh Chiến Bất Hủ | Nhiều Ca Sĩ",
-       "description": "Nhạc Vàng Xưa Trước Năm 1975 - Song Ca Nhạc Vàng Thời Chinh Chiến Bất Hủ | Nhiều Ca Sĩ Nhạc Xuân Tết 2020 Mới Nhất : https://youtu.be/h70SgiZXAVQ ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/Q_f_CJbKdYw/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/Q_f_CJbKdYw/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/Q_f_CJbKdYw/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Asia Entertainment Official",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/JMxrcUlOoniHJHomXLQ-_r6nknI\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "6l-thMw7XO4"
-      },
-      "snippet": {
-       "publishedAt": "2019-04-04T09:24:03.000Z",
-       "channelId": "UCkHASsLOHuddMTzARove3AA",
-       "title": "Tuyệt Phẩm Nhạc Vàng Xưa Song Ca Nghe Là Mê - CHẾ LINH THANH TUYỀN - Con Đường Mang Tên Em",
-       "description": "Tuyệt Phẩm Nhạc Vàng Xưa Song Ca Nghe Là Mê - CHẾ LINH THANH TUYỀN - Con Đường Mang Tên Em 1. Con đường mang tên em - Song ca 2. LK Mai lỡ ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/6l-thMw7XO4/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/6l-thMw7XO4/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/6l-thMw7XO4/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Asia Entertainment Official",
-       "liveBroadcastContent": "none"
-      }
-     }
     ]
-   }
-   
-   
+  }
+  
+  
