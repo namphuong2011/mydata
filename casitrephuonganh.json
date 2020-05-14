@@ -76,72 +76,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/y7CdQj4sLl5gG2BQHfWlk_ivQfU\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "9U4Rgx6R-RM"
-      },
-      "snippet": {
-       "publishedAt": "2020-05-01T09:33:12.000Z",
-       "channelId": "UC0Ujw9oEpuiB_c5roTEEsWg",
-       "title": "Ca Sĩ Trẻ Huỳnh Thật - Ý Linh - Hồng Quyên Song Ca Bolero Hay Tê Tái",
-       "description": "Theo dõi kênh Nhạc Vàng Trữ Tình: https://goo.gl/YN48d3 Kênh Nhạc Vàng Trữ Tình là kênh tuyển tập những bài hát hay về những thể loại: nhạc trữ tình,nhạc...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/9U4Rgx6R-RM/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/9U4Rgx6R-RM/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/9U4Rgx6R-RM/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhạc Vàng Trữ Tình",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/MtB6kzaFubbnROo-YdHWodAMtDg\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "7mkZiUbVecY"
-      },
-      "snippet": {
-       "publishedAt": "2020-01-19T23:00:03.000Z",
-       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
-       "title": "Ca Sĩ Trẻ Vạn Người Mê PHƯƠNG ANH - Lk Nhạc Bolero Trữ Tình Hay Nhất 2020 Chào Xuân Canh Tý",
-       "description": "Mix - master : Võ Hoàng Studio Produced by Võ Hoàng Entertainment Nhịp Cầu Bolero là kênh âm nhạc với những sản phẩm chất lượng của những ca sĩ thuộc ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/7mkZiUbVecY/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/7mkZiUbVecY/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/7mkZiUbVecY/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhịp Cầu Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_9eAy9M5x2htHawVxAG1EXwfbm0\"",
       "id": {
        "kind": "youtube#video",
@@ -170,39 +104,6 @@
         }
        },
        "channelTitle": "Bolero Ngôi Sao Trẻ",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/0qShCqtvZtZeVaoEzCoXGlekoAA\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "e6qu0jUehZA"
-      },
-      "snippet": {
-       "publishedAt": "2020-01-24T23:00:07.000Z",
-       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
-       "title": "Nhạc Xuân 2020 Ca Sĩ Trẻ - Phương Anh, Quỳnh Trang, Ý Linh, Như Ý, Hồ Phương Liên",
-       "description": "Nhạc Xuân 2020 Ca Sĩ Trẻ - Phương Anh, Quỳnh Trang, Ý Linh, Như Ý, Hồ Phương Liên Mix - master : Võ Hoàng Studio Produced by Võ Hoàng Entertainment ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/e6qu0jUehZA/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/e6qu0jUehZA/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/e6qu0jUehZA/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhịp Cầu Bolero",
        "liveBroadcastContent": "none"
       }
      },
@@ -274,39 +175,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/VKFsTt0wd4Wm3CdGmIWHWONWgCU\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "fhlgA2yF1Is"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-21T10:07:20.000Z",
-       "channelId": "UC0Ujw9oEpuiB_c5roTEEsWg",
-       "title": "Ca Sĩ Trẻ Song Ca Bolero Đi Vào Lòng Người - Huỳnh Thật, Ý Linh, Hồng Quyên",
-       "description": "Ca Sĩ Trẻ Song Ca Bolero Đi Vào Lòng Người - Huỳnh Thật, Ý Linh, Hồng Quyên ▻ Theo dõi kênh Nhạc Vàng Trữ Tình: https://goo.gl/YN48d3 Kênh Nhạc Vàng ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/fhlgA2yF1Is/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/fhlgA2yF1Is/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/fhlgA2yF1Is/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhạc Vàng Trữ Tình",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/7874N6tN22TZeN6AfAO1zVKQ2dY\"",
       "id": {
        "kind": "youtube#video",
@@ -335,105 +203,6 @@
         }
        },
        "channelTitle": "POPS MUSIC",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/4Ooi654wvcEjypcuxXCSeuZpYVI\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "1NTfF1FzVxQ"
-      },
-      "snippet": {
-       "publishedAt": "2020-02-06T09:08:01.000Z",
-       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
-       "title": "Phương Anh Bolero 2020 - Ca Sĩ Trẻ Xinh Đẹp Cuốn Hút Người Nghe | Lk Tàu Đêm Năm Cũ",
-       "description": "Phương Anh Bolero 2020 - Ca Sĩ Trẻ Xinh Đẹp Cuốn Hút Người Nghe | Lk Tàu Đêm Năm Cũ Mix - master : Võ Hoàng Studio Produced by Võ Hoàng ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/1NTfF1FzVxQ/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/1NTfF1FzVxQ/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/1NTfF1FzVxQ/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhịp Cầu Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/eYRXZu9ywEZuoaGyTXOxxCrIJrY\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "BadCYPREvcE"
-      },
-      "snippet": {
-       "publishedAt": "2020-05-01T09:30:42.000Z",
-       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
-       "title": "Xa Vắng - Nửa Đêm Ngoài Phố - Ngọc Nữ Bolero Như Ý Làm Đốn Tim Triệu Người Nghe",
-       "description": "Mix - master : Võ Hoàng Studio Produced by Võ Hoàng Entertainment Nhịp Cầu Bolero là kênh âm nhạc với những sản phẩm chất lượng của những ca sĩ thuộc ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/BadCYPREvcE/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/BadCYPREvcE/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/BadCYPREvcE/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhịp Cầu Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/5L3Busc3pqQBUOnuZtiK-X68kCQ\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "PnbD8LCXKrE"
-      },
-      "snippet": {
-       "publishedAt": "2017-05-24T12:10:28.000Z",
-       "channelId": "UCsQjfGkO4p7sI4rgZP2XfIA",
-       "title": "Ca Sĩ Trẻ Hát Bolero Hay Nhức Nhối - Phương Anh 2017",
-       "description": "Album Bolero Hot Của Ca Sĩ Phương Anh . Được Tạo Lúc 18:00 24/05/2017.",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/PnbD8LCXKrE/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/PnbD8LCXKrE/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/PnbD8LCXKrE/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Kieu Anh Mobile",
        "liveBroadcastContent": "none"
       }
      },
@@ -472,39 +241,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/uIag8xoHQ20uHuRVitjGnlQ8XCk\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "97sjo_MsRfA"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-11T23:00:02.000Z",
-       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
-       "title": "Tê Tái Với Giọng Hát Ca Sĩ Trẻ Xinh Đẹp Hát Bolero Ngọt Lịm Tim - Hoa Tím Người Xưa",
-       "description": "Mix - master : Võ Hoàng Studio Produced by Võ Hoàng Entertainment Nhịp Cầu Bolero là kênh âm nhạc với những sản phẩm chất lượng của những ca sĩ thuộc ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/97sjo_MsRfA/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/97sjo_MsRfA/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/97sjo_MsRfA/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhịp Cầu Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/cKa4pBkUf423tCEOLPqkZIarEWc\"",
       "id": {
        "kind": "youtube#video",
@@ -538,72 +274,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/9yds-neCRSThgKiRcevnIu46Xqo\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "8VnVtFhGcqw"
-      },
-      "snippet": {
-       "publishedAt": "2017-11-18T09:29:40.000Z",
-       "channelId": "UC2dI6K1H1dIzVUdATwW34SA",
-       "title": "Ca Sĩ Trẻ Xinh Đẹp Hát Bolero Mới Nhất 2017   Phương Ái, Quỳnh Trang, Phương Anh, Lưu Trúc Ly",
-       "description": "",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/8VnVtFhGcqw/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/8VnVtFhGcqw/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/8VnVtFhGcqw/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "DB Tuan",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/mqUJwCWNk3rZQE31hycW37s8R2w\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "PAigSPBSGlA"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-30T09:48:56.000Z",
-       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
-       "title": "Trả Nhẫn Kim Cương - Giọt Lệ Đài Trang - Ca Sĩ Trẻ Xinh Đẹp Hát Bolero Buồn Tê Tái",
-       "description": "Mix - master : Võ Hoàng Studio Produced by Võ Hoàng Entertainment Nhịp Cầu Bolero là kênh âm nhạc với những sản phẩm chất lượng của những ca sĩ thuộc ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/PAigSPBSGlA/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/PAigSPBSGlA/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/PAigSPBSGlA/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhịp Cầu Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/78J9RBTss-mJG1gnc-QXqefna2s\"",
       "id": {
        "kind": "youtube#video",
@@ -632,138 +302,6 @@
         }
        },
        "channelTitle": "Bolero Ngôi Sao Trẻ",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ycgllg4KdWCCrv2LbQRqeG2Ie08\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "qd7IYu-0xNk"
-      },
-      "snippet": {
-       "publishedAt": "2020-03-25T09:44:29.000Z",
-       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
-       "title": "Tuyệt Đỉnh Bolero Ca Sĩ Trẻ Hay Nhất 2020 - Nhạc Trữ Tình Bolero Mới Nhất 2020",
-       "description": "Tuyệt Đỉnh Bolero Ca Sĩ Trẻ Hay Nhất 2020 - Nhạc Trữ Tình Bolero Mới Nhất 2020 Mix - master : Võ Hoàng Studio Produced by Võ Hoàng Entertainment Nhịp ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/qd7IYu-0xNk/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/qd7IYu-0xNk/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/qd7IYu-0xNk/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhịp Cầu Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/9hUZX7jLZX3ZUNS3llC7XwE0XKo\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "TSgOf5joXpo"
-      },
-      "snippet": {
-       "publishedAt": "2018-09-10T23:00:02.000Z",
-       "channelId": "UC5fY1uWRbu8KbRAIJj-Q1GA",
-       "title": "Ca Sỹ Trẻ Mới Nhất 2018 Hát Bolero Cực Ngọt Làm Triệu Con Tim Tan Chảy - LK Nhạc Vàng Tuyển Chọn",
-       "description": "Ca Sỹ Trẻ Mới Nhất 2018 Hát Bolero Cực Ngọt Làm Triệu Con Tim Tan Chảy - LK Nhạc Vàng Tuyển Chọn ▻ Đăng ký kênh Bolero: http://goo.gl/NEdXbI ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/TSgOf5joXpo/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/TSgOf5joXpo/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/TSgOf5joXpo/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "meMUSIC",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/vEleT94FTHJVXtSKO__JjWc5A2s\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "0GJEj91xezQ"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-05T09:50:14.000Z",
-       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
-       "title": "Ca Sĩ Trẻ Xinh Đẹp hát Bolero Mới Đét 2020 - Quỳnh Trang, Ý Linh, Như Ý, Hồ Phương Liên, Hoàng Hải",
-       "description": "Ca Sĩ Trẻ Xinh Đẹp hát Bolero Mới Đét 2020 - Quỳnh Trang, Ý Linh, Như Ý, Hồ Phương Liên, Hoàng Hải Mix - master : Võ Hoàng Studio Produced by Võ Hoàng ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/0GJEj91xezQ/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/0GJEj91xezQ/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/0GJEj91xezQ/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhịp Cầu Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/X6COIIlqsGU0QmI4ymxhjdskQYE\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "DPwC0_bMEBo"
-      },
-      "snippet": {
-       "publishedAt": "2017-08-16T11:53:41.000Z",
-       "channelId": "UCT1itaXX8NA9ngEXSN0O2jg",
-       "title": "Người đẹp hát hay nhạc bolero ca sỹ trẻ PHƯƠNG ANH",
-       "description": "Người đẹp hát hay nhạc bolero ca sỹ trẻ PHƯƠNG ANH.",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/DPwC0_bMEBo/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/DPwC0_bMEBo/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/DPwC0_bMEBo/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Hoang Loc",
        "liveBroadcastContent": "none"
       }
      },
@@ -868,105 +406,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/KMLHWf_p9VO6MO9DPE7Fr6hs1yc\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "psbudMQRirU"
-      },
-      "snippet": {
-       "publishedAt": "2020-02-21T23:00:24.000Z",
-       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
-       "title": "Bolero Ca Sĩ Trẻ Xinh Đẹp Hay Nhất 2020 - Hoàng Hải Bolero",
-       "description": "Mix - master : Võ Hoàng Studio Produced by Võ Hoàng Entertainment Nhịp Cầu Bolero là kênh âm nhạc với những sản phẩm chất lượng của những ca sĩ thuộc ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/psbudMQRirU/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/psbudMQRirU/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/psbudMQRirU/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhịp Cầu Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/1HdK29Qt1m3QEvluobDxU4guzq0\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "A4mIR67p1I4"
-      },
-      "snippet": {
-       "publishedAt": "2020-05-01T09:00:05.000Z",
-       "channelId": "UCh_PsuKN0pjuVYk2CQ46qiw",
-       "title": "LK Thao Thức Vì Anh &amp; Hương Tình Muộn | Bolero Trữ Tình Tuyển Chọn Cực Kỳ Hay",
-       "description": "LK Thao Thức Vì Anh & Hương Tình Muộn | Bolero Trữ Tình Tuyển Chọn Cực Kỳ Hay Bolero Nhạc Vàng Mới https://goo.gl/3KUWWX Nhạc Hải ngoại Sôi động ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/A4mIR67p1I4/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/A4mIR67p1I4/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/A4mIR67p1I4/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Đào Anh Thư",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/swyQZ4TV97jf71AZAEfLDNhhq70\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "t_ZEne2pxHk"
-      },
-      "snippet": {
-       "publishedAt": "2020-02-23T23:00:12.000Z",
-       "channelId": "UCddGOcCVTtjY240yyEG2p_g",
-       "title": "Ca Sĩ Trẻ Xinh Đẹp Hát Nhạc Trữ Tình 2020 Hay Nhất - Đỉnh Cao Nhạc Vàng Bolero | Lk Nhạc Trữ Tình",
-       "description": "Ca Sĩ Trẻ Xinh Đẹp Hát Nhạc Trữ Tình 2020 Hay Nhất - Đỉnh Cao Nhạc Vàng Bolero | Lk Nhạc Trữ Tình #skybolero, #lknhactrutinh, #nhacvangsky 1. Xa vắng 2.",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/t_ZEne2pxHk/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/t_ZEne2pxHk/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/t_ZEne2pxHk/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "SKY Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_gN9pNV6Q1ja63ahcbjEe_5UN_k\"",
       "id": {
        "kind": "youtube#video",
@@ -995,138 +434,6 @@
         }
        },
        "channelTitle": "POPS MUSIC",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/TkKAHjWZMszze7C8M-UkGoiXXXc\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "ZuAA-t62sic"
-      },
-      "snippet": {
-       "publishedAt": "2020-01-18T23:00:09.000Z",
-       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
-       "title": "Ca Sĩ Trẻ Xinh Đẹp Hát Bolero Mới Nhất 2020 - Hồ Phương Liên Bolero",
-       "description": "Mix - master : Võ Hoàng Studio Produced by Võ Hoàng Entertainment Nhịp Cầu Bolero là kênh âm nhạc với những sản phẩm chất lượng của những ca sĩ thuộc ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/ZuAA-t62sic/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/ZuAA-t62sic/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/ZuAA-t62sic/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhịp Cầu Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/GQwZIJkpQ-aDPHHZ9dIZSVGPNL0\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "YQLiPVj0mBM"
-      },
-      "snippet": {
-       "publishedAt": "2019-12-27T12:00:26.000Z",
-       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
-       "title": "BOLERO CA SĨ TRẺ 2020 - 9 Bài Hát Nhạc Vàng Bolero Hay Mới Nhất 2020",
-       "description": "BOLERO CA SĨ TRẺ 2020 - 9 Bài Hát Nhạc Vàng Bolero Hay Mới Nhất 2020 Mix - master : Võ Hoàng Studio Produced by Võ Hoàng Entertainment Nhịp Cầu ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/YQLiPVj0mBM/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/YQLiPVj0mBM/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/YQLiPVj0mBM/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhịp Cầu Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/BWoct0ZCo9gAw_tBgepPGod5Zac\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "asxF2lg2-3M"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-29T23:00:00.000Z",
-       "channelId": "UCWIFrdu7Ctn-DWi2o6M9MVA",
-       "title": "Nhạc Trữ Tình Bolero Nghe Cực Đã MỚI ĐÉT 2020 - Bolero Nhạc Vàng Nghe Nức Lòng",
-       "description": "Nhạc Trữ Tình Bolero Nghe Cực Đã MỚI ĐÉT 2020 - Bolero Nhạc Vàng Nghe Nức Lòng ▻ Theo dõi kênh Nhạc Hay Việt Nam: https://goo.gl/u7F19L ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/asxF2lg2-3M/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/asxF2lg2-3M/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/asxF2lg2-3M/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhạc Hay Việt Nam",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ZrrLhFAAPxqEt8HcHe3TXLBLIDM\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "AvRUNDV5Mm0"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-15T09:38:33.000Z",
-       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
-       "title": "5 Ca Sĩ Trẻ Xinh Đẹp Hát Bolero Gây Nghiện - Quỳnh Trang, Ý Linh, Hoàng Hải, Hồ Phương Liên, Như Ý",
-       "description": "5 Ca Sĩ Trẻ Xinh Đẹp Hát Bolero Gây Nghiện - Quỳnh Trang, Ý Linh, Hoàng Hải, Hồ Phương Liên, Như Ý Mix - master : Võ Hoàng Studio Produced by Võ ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/AvRUNDV5Mm0/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/AvRUNDV5Mm0/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/AvRUNDV5Mm0/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhịp Cầu Bolero",
        "liveBroadcastContent": "none"
       }
      },
@@ -1231,72 +538,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/QHZR6yZL4M88LirKYgY-1KDU7v8\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "gtpnC7CMPlM"
-      },
-      "snippet": {
-       "publishedAt": "2020-01-23T23:00:20.000Z",
-       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
-       "title": "Ca Sĩ Trẻ Hát Nhạc Xuân 2020 Hay Nhất - Lk Nhạc Xuân Trữ Tình 2020 Đón Tết Canh Tý",
-       "description": "Ca Sĩ Trẻ Hát Nhạc Xuân 2020 Hay Nhất - Lk Nhạc Xuân Trữ Tình 2020 Đón Tết Canh Tý Mix - master : Võ Hoàng Studio Produced by Võ Hoàng Entertainment ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/gtpnC7CMPlM/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/gtpnC7CMPlM/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/gtpnC7CMPlM/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhịp Cầu Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/RBagje7HKfopmkqEuWVgOyi5-Rg\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "L5BfvZqUjQw"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-18T00:00:04.000Z",
-       "channelId": "UC-iHhg7KYWTna3mELvp7nSA",
-       "title": "Tuyệt Đỉnh Song Ca Bolero Nam Nữ Những Cặp Đôi Trẻ Hay Nhất 2020",
-       "description": "Tuyệt Đỉnh Song Ca Bolero Nam Nữ Những Cặp Đôi Trẻ Hay Nhất 2020 ------------------------------------------------------------------------------------------------ 1. Tình...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/L5BfvZqUjQw/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/L5BfvZqUjQw/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/L5BfvZqUjQw/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "NhacPro - Song Ca Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/G_3yopOOIIwyfw2kkjbWQAcqtKU\"",
       "id": {
        "kind": "youtube#video",
@@ -1396,39 +637,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/r4TZb1a6xfW4EQ7SusLx9NFi3-E\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "1WvH_7OF6_I"
-      },
-      "snippet": {
-       "publishedAt": "2020-03-18T09:47:49.000Z",
-       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
-       "title": "Bolero Ca Sĩ Trẻ Xinh Đẹp 2020 - Lk Bolero Hải Ngoại Chọn Lọc Hay Nhất 2020",
-       "description": "Bolero Ca Sĩ Trẻ Xinh Đẹp 2020 - Lk Bolero Hải Ngoại Chọn Lọc Hay Nhất 2020 Mix - master : Võ Hoàng Studio Produced by Võ Hoàng Entertainment Nhịp ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/1WvH_7OF6_I/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/1WvH_7OF6_I/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/1WvH_7OF6_I/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhịp Cầu Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ACCSGXRaHzEklMyxayIrQPzi3q0\"",
       "id": {
        "kind": "youtube#video",
@@ -1495,72 +703,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/0Kojt9UJpEv6FI35Vrm4dfNvwHk\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "LDDOWdLuAuk"
-      },
-      "snippet": {
-       "publishedAt": "2020-03-31T09:18:54.000Z",
-       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
-       "title": "2 Ca Sĩ Trẻ Đầy Tiềm Năng Hát Bolero Hay Ngây Ngất - Nhạc Trữ Tình Bolero Hay Nhất 2020",
-       "description": "2 Ca Sĩ Trẻ Đầy Tiềm Năng Hát Bolero Hay Ngây Ngất - Nhạc Trữ Tình Bolero Hay Nhất 2020 Mix - master : Võ Hoàng Studio Produced by Võ Hoàng ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/LDDOWdLuAuk/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/LDDOWdLuAuk/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/LDDOWdLuAuk/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhịp Cầu Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/qMmEu_d6KHBbBr2e2MGct5cI4EU\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "NldytkY0378"
-      },
-      "snippet": {
-       "publishedAt": "2020-05-01T04:42:11.000Z",
-       "channelId": "UCN6xQuF_K9yW96lKc_ubIKA",
-       "title": "4 Chàng Ca Sĩ Trẻ Điển Trai Với Chất Giọng Ngọt Ngào Khiến Triệu Fan Nữ Say Đắm - Em Cứ Theo Người",
-       "description": "01. Những ngày xưa thân ái 02. Thành phố sau lưng 03. Hai chuyến tàu đêm 04. Huyền thoại một chiều mưa 05. Lối thu xưa 06. Trăng tàn trên hè phố 07. Hai vì ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/NldytkY0378/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/NldytkY0378/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/NldytkY0378/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "X-PRO BOLERO",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/cVDgwi5Ryra3_SeCneqSKkH09zs\"",
       "id": {
        "kind": "youtube#video",
@@ -1593,71 +735,855 @@
       }
      },
      {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/qNkOv5EBPx0N1XJqJwyRlHfNlH8\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "hmuEKWV64Os"
-      },
-      "snippet": {
-       "publishedAt": "2020-03-06T09:21:25.000Z",
-       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
-       "title": "BOLERO MỚI ĐÉT 2020 - Ca Sĩ Trẻ Xinh Đẹp hát Bolero Hay Mê Mẩn",
-       "description": "BOLERO MỚI ĐÉT 2020 - Ca Sĩ Trẻ Xinh Đẹp hát Bolero Hay Mê Mẩn Mix - master : Võ Hoàng Studio Produced by Võ Hoàng Entertainment Nhịp Cầu Bolero là ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/hmuEKWV64Os/default.jpg",
-         "width": 120,
-         "height": 90
+        "kind": "youtube#searchResult",
+        "etag": "pIrMn01T2H4CaozJ_08eqdqh-vU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dmNjMODpak8"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/hmuEKWV64Os/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/hmuEKWV64Os/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2019-06-27T11:59:30Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Tổng Hợp Ca Sĩ Trẻ Xinh Đẹp Hát Bolero Đỉnh Nhất 2019 - Chiều Sân Ga &amp; Chuyện Tình Không Dĩ Vãng",
+          "description": "01. Chiều sân ga 02. Chuyện tình không dĩ vãng 03. Ba tháng tạ từ 04. Người đi ngoài phố 05. Đừng nhắc chuyện lòng 06. Trăng tàn trên hè phố 07. Yêu một...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dmNjMODpak8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dmNjMODpak8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dmNjMODpak8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-06-27T11:59:30Z"
         }
-       },
-       "channelTitle": "Nhịp Cầu Bolero",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/aBeSjDnfy9fUnf-1OSNGflVCoE4\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "MfXCMbasLDQ"
       },
-      "snippet": {
-       "publishedAt": "2020-02-20T09:25:52.000Z",
-       "channelId": "UCCgKB3CPS2EMKhrv-GzJ30w",
-       "title": "Lk Đêm Tâm Sự - Nhiều Ca Sĩ Trẻ Xinh Đẹp | Liên Khúc Nhạc Trữ Tình Bolero Hay Nhất 2020",
-       "description": "Lk Đêm Tâm Sự - Nhiều Ca Sĩ Trẻ Xinh Đẹp | Liên Khúc Nhạc Trữ Tình Bolero Hay Nhất 2020 Mix - master : Võ Hoàng Studio Produced by Võ Hoàng ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/MfXCMbasLDQ/default.jpg",
-         "width": 120,
-         "height": 90
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SsBP8tJ1Epbou1WQetuArX-lsDE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "g9_1PQlk7iE"
         },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/MfXCMbasLDQ/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/MfXCMbasLDQ/hqdefault.jpg",
-         "width": 480,
-         "height": 360
+        "snippet": {
+          "publishedAt": "2017-03-22T02:35:44Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Ca Sĩ Trẻ Hát Bolero Hay Nhất 2017 │Tâm Sự Đời Tôi - Cho Vừa Lòng Em │Nhiều Ca Sĩ",
+          "description": "Ca Sĩ Trẻ Hát Bolero Hay Nhất 2017 │Thiên Quang - Quỳnh Trang - Lưu Trúc Ly - Phương Anh Click Subscribe để theo dõi những video mới nhất của NGÔI ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/g9_1PQlk7iE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/g9_1PQlk7iE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/g9_1PQlk7iE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-03-22T02:35:44Z"
         }
-       },
-       "channelTitle": "Nhịp Cầu Bolero",
-       "liveBroadcastContent": "none"
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "il9DLCVhjgGWkTJC35JnLdWWLTI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "IuADGZHCerc"
+        },
+        "snippet": {
+          "publishedAt": "2017-11-12T04:56:57Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Quỳnh Trang &amp; Phương Anh 2017 │Hai Giọng Hát Trẻ Có Sức Lôi Cuốn Lạ Kỳ Khiến Bao Trái Tim Loạn Nhịp",
+          "description": "Quỳnh Trang & Phương Anh 2017 │Hai Giọng Hát Trẻ Có Sức Lôi Cuốn Lạ Kỳ Khiến Bao Trái Tim Loạn Nhịp Video by Võ Hoàng Entertainment Email ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IuADGZHCerc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IuADGZHCerc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IuADGZHCerc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-11-12T04:56:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "O6eA8Oopnru-0GAuRkNBB7ecAPU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oPochtf9Dt4"
+        },
+        "snippet": {
+          "publishedAt": "2017-03-15T08:12:03Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Ca Sĩ Trẻ Xinh Đẹp Hát Bolero Hay Nhất 2017 │Quỳnh Trang - Phương Anh - Lưu Trúc Ly",
+          "description": "Top 3 Ca Sĩ Thế Hệ 9X Trẻ Đẹp Hát Bolero Hay Nhất Hiện Nay Ca Sĩ : Quỳnh Trang - Phương Anh - Lưu Trúc Ly Click Subscribe để theo dõi những video mới ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oPochtf9Dt4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oPochtf9Dt4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oPochtf9Dt4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-03-15T08:12:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Mgy2xdi2AlkXcPvCvyH8dLwP2TQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9bJT5ODFA9A"
+        },
+        "snippet": {
+          "publishedAt": "2018-12-22T03:33:38Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Tuyển Chọn Những Ca Sĩ Trẻ Xinh Đẹp Hát Bolero Cực Mùi | Biển Tình - Quán Nửa Khuya",
+          "description": "Tuyển Chọn Những Ca Sĩ Trẻ Xinh Đẹp Hát Bolero Cực Mùi | Biển Tình - Quán Nửa Khuya ▻Produced by VO HOANG ENTERTAINMENT ▻Facebook ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9bJT5ODFA9A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9bJT5ODFA9A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9bJT5ODFA9A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-12-22T03:33:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jfA6pEcuSPjyevg7umvNgg6rLtI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "peUlcDinLhw"
+        },
+        "snippet": {
+          "publishedAt": "2017-05-21T06:21:34Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Ca Sĩ Trẻ Xinh Đẹp Hát Bolero Hay Nhất 2017 - Tuyệt Phẩm Bolero Đặc Sắc Nhất Của Quỳnh Trang",
+          "description": "Ca Sĩ Trẻ Xinh Đẹp Hát Bolero Hay Nhất 2017 - Tuyệt Phẩm Bolero Đặc Sắc Nhất Của Quỳnh Trang Click Subscribe để theo dõi những video mới nhất của ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/peUlcDinLhw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/peUlcDinLhw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/peUlcDinLhw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-05-21T06:21:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UGLywHhvbj_sV9LrIO_wJ_C440s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZtuHNgWt-Ks"
+        },
+        "snippet": {
+          "publishedAt": "2017-06-26T02:13:47Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Tuyển Tập Ca Sĩ Trẻ Xinh Đẹp Hát Bolero Hay Nhất 2017 - Liên Khúc Trữ Tình Đặc Sắc Nhất 2017",
+          "description": "Tuyển Tập Ca Sĩ Trẻ Xinh Đẹp Hát Bolero Hay Nhất 2017 - Liên Khúc Trữ Tình Đặc Sắc Nhất 2017 Click Subscribe để theo dõi những video mới nhất của NGÔI ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZtuHNgWt-Ks/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZtuHNgWt-Ks/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZtuHNgWt-Ks/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-06-26T02:13:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "pStb5jNuBoIhyE6_a9QBHH3bBrU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QwjbZyUXa0E"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-13T00:00:08Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Quán Quân Bolero Như Ý Đốn Tim Triệu Fan Bằng Tuyệt Phẩm Trữ Tình Quá Hay - Bóng Nhỏ Đường Chiều",
+          "description": "01. Bóng nhỏ đường chiều 02. Nửa đêm ngoài phố 03. Đêm tâm sự 04. Chuyến tàu hoàng hôn 05. Đêm tóc rối 06. Đổi thay 07. Đừng nhắc chuyện lòng 08.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QwjbZyUXa0E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QwjbZyUXa0E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QwjbZyUXa0E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-13T00:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "CeMNqP7UkkkVZVX22k8RT9FWcOU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "m4yJWCVx420"
+        },
+        "snippet": {
+          "publishedAt": "2018-06-13T08:11:59Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Thiếu Nữ 17 Tuổi gốc Tiền Giang xinh đẹp dịu dàng trong ca khúc nổi tiếng Vùng Lá Me Bay",
+          "description": "Thiếu Nữ 17 Tuổi gốc Tiền Giang xinh đẹp dịu dàng trong ca khúc nổi tiếng Vùng Lá Me Bay ▻Producted by VO HOANG ENTERTAINMENT ▻Facebook ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m4yJWCVx420/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m4yJWCVx420/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m4yJWCVx420/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-06-13T08:11:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "x69GDHSYkVXPSgzGsyALE50YEFQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XBjvCg5gOUE"
+        },
+        "snippet": {
+          "publishedAt": "2017-11-09T03:01:33Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Liên Khúc Nhạc Vàng Đặc Sắc Nhất Của Thiên Quang 2017 - Đừng Trách Anh Tội Nghiệp &amp; Đoạn Tuyệt",
+          "description": "Liên Khúc Nhạc Vàng Đặc Sắc Nhất Của Thiên Quang 2017 - Đừng Trách Anh Tội Nghiệp & Đoạn Tuyệt Video by Võ Hoàng Entertainment Email ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XBjvCg5gOUE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XBjvCg5gOUE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XBjvCg5gOUE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-11-09T03:01:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "B0YjKUmT_gCF0CiRfK1S-tovo5s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HkNkAyxv66Y"
+        },
+        "snippet": {
+          "publishedAt": "2020-02-04T12:00:04Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Nợ Nhau Kiếp Này - Tuyệt Phẩm Bolero Rung Động Triệu Con Tim 2020 | Mỹ Nhân Bolero Quang Như Ý",
+          "description": "01. Nợ nhau kiếp này 02. Người thương kẻ nhớ 03. Tuổi học trò 04. Chiều sân ga 05. Hoa nở về đêm 06. Một chuyến xe hoa 07. Hoa tím người xưa 08. Hai vì...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HkNkAyxv66Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HkNkAyxv66Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HkNkAyxv66Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-02-04T12:00:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wtnSll_Z_O-e-ukFZKKCoo8pQfQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vjxX7LEgkPc"
+        },
+        "snippet": {
+          "publishedAt": "2019-03-24T23:00:08Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Quán Quân Solo Cùng Bolero 2018 - Như Ý Tiếp Tục Gây Sốt Với Tuyệt Phẩm Trữ Tình Đầy Cảm Xúc",
+          "description": "Quán Quân Solo Cùng Bolero 2018 - Như Ý Tiếp Tục Gây Sốt Với Tuyệt Phẩm Trữ Tình Đầy Cảm Xúc Track list : 01. Đổi Thay (Hoa Linh Bảo) 02. Đêm mưa ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vjxX7LEgkPc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vjxX7LEgkPc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vjxX7LEgkPc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-03-24T23:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0pa5453GL64Fm3pGMsa_1IJM-Nk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RO4QGCKB32I"
+        },
+        "snippet": {
+          "publishedAt": "2018-06-07T03:49:58Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Cô ca sĩ xứ Thanh khoe vóc dáng ngọc ngà và giọng hát trong trẻo như họa mi trong MV mới",
+          "description": "Cô ca sĩ xứ Thanh khoe vóc dáng ngọc ngà và giọng hát trong trẻo như họa mi trong MV mới ▻Producted by VO HOANG ENTERTAINMENT ▻Facebook ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RO4QGCKB32I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RO4QGCKB32I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RO4QGCKB32I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-06-07T03:49:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "K1kQY54FqHc-OJwGXlhfEprytMU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "U7LcHWJIiEI"
+        },
+        "snippet": {
+          "publishedAt": "2019-08-01T23:30:02Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Quán Quân Bolero Như Ý Trổ Tài Hát Nhạc Dân Ca Nam Bộ Khiến Mọi Con Tim Tan Chảy - Quá Ngọt Ngào",
+          "description": "01. Nhớ người tình xa 02. Chuyến tàu hoàng hôn 03. Đồi thông hai mộ 2 04. Đừng nhắc chuyện lòng 05. Đêm mưa nhớ mẹ 06. Giọng ca dĩ vãng 07. Hai kỷ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/U7LcHWJIiEI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/U7LcHWJIiEI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/U7LcHWJIiEI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-08-01T23:30:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-HNLkWbS0FRVR64MXlfs_Ni6l5o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zyzSCUNkmd0"
+        },
+        "snippet": {
+          "publishedAt": "2018-08-13T12:06:02Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Thần Đồng Bolero 12 Tuổi Kim Chi Đốn Tim Triệu Fan Với Giọng Hát Vô Cùng Chững Chạc Và Chuyên Nghiệp",
+          "description": "Thần Đồng Bolero 12 Tuổi Kim Chi Đốn Tim Triệu Fan Với Giọng Hát Vô Cùng Chững Chạc Và Chuyên Nghiệp ▻Producted by VO HOANG ENTERTAINMENT ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zyzSCUNkmd0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zyzSCUNkmd0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zyzSCUNkmd0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-13T12:06:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jPWN6d8WNKk2WXShIL8hp5n_ERE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "T4mtxC6XjsU"
+        },
+        "snippet": {
+          "publishedAt": "2019-12-17T23:43:53Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Nhạc Xuân Chào Mừng Tết Canh Tí 2020 Hay Nhất - Nghe Mà Nao Nức Đón Xuân Về | Phương Anh &amp; Phương Ý",
+          "description": "01. Cánh thiệp đầu xuân 02. Ước nguyện đầu xuân 03. Nếu xuân này vắng anh 04. Câu chuyện đầu năm 05. Chiều xuân xa nhà 06. Đoản ca xuân 07.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/T4mtxC6XjsU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/T4mtxC6XjsU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/T4mtxC6XjsU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-12-17T23:43:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "20uae5mHAeNtZZPtiUGx4a07FO0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pnxGv1AOk-8"
+        },
+        "snippet": {
+          "publishedAt": "2020-02-15T12:00:09Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Búp Bê Bolero Ý Linh &amp; Những Tuyệt Phẩm Bolero Để Đời Làm Thổn Thức Triệu Khán Giả - Yêu Một Mình",
+          "description": "01. Yêu một mình 02. Cánh hoa yêu 03. Quán nửa khuya 04. Ngày sau sẽ ra sao 05. Hai kỷ niệm một chuyến đi 06. Khuya nay anh đi rồi 07. Một phút suy tư 08.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pnxGv1AOk-8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pnxGv1AOk-8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pnxGv1AOk-8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-02-15T12:00:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QIS8XHiqevJqiTMk-bc5p8Y7J1E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DAHTi7U4Kyg"
+        },
+        "snippet": {
+          "publishedAt": "2017-06-03T01:55:26Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Tuyệt Phẩm Trữ Tình Bolero Mới Nhất 2017 │ Nếu Anh Đừng Hẹn &amp; Đoạn Tuyệt │ Nhiều Ca Sĩ Trẻ",
+          "description": "Tuyệt Phẩm Trữ Tình Bolero Mới Nhất 2017 │ Nếu Anh Đừng Hẹn & Đoạn Tuyệt │ Phương Anh, Quỳnh Trang, Thiên Quang, Lưu Trúc Ly Click Subscribe để ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DAHTi7U4Kyg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DAHTi7U4Kyg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DAHTi7U4Kyg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-06-03T01:55:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VxSokdxTxHhhh97kzsZtfxhtt2I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ptC2VlhPhCU"
+        },
+        "snippet": {
+          "publishedAt": "2019-10-07T10:16:43Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Không Bao Giờ Quên Anh - Đêm Tóc Rối | Tuyệt Phẩm Bolero Mới Nhất 2019 - Quán Quân Bolero Như Ý",
+          "description": "01. Không bao giờ quên anh 02. Đêm tóc rối 03. Phải lòng con gái Bến Tre 04. Chuyến tàu hoàng hôn 05. Đồi thông hai mộ 2 06. Nhớ người tình xa 07. Đừng...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ptC2VlhPhCU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ptC2VlhPhCU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ptC2VlhPhCU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-10-07T10:16:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Qq7of5YBR4JocnOHexNlqwI6yL0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Qg8tS5gmzME"
+        },
+        "snippet": {
+          "publishedAt": "2017-04-23T04:44:48Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Tuyển Tập Ca Sĩ Trẻ Đẹp Hát Bolero Hay Nhất 2017 │ Hoa Nở Về Đêm &amp; Người Đã Như Mơ │ Nhiều Ca Sĩ",
+          "description": "Tuyển Tập Ca Sĩ Trẻ Hát Bolero Hay Nhất 2017 - Hoa Nở Về Đêm & Người Đã Như Mơ - Nhiều Ca Sĩ Click Subscribe để theo dõi những video mới nhất của ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Qg8tS5gmzME/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Qg8tS5gmzME/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Qg8tS5gmzME/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-04-23T04:44:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ERu0osBC7UsZT1-bKOqT3tue4Fw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Do0sFa6WN4g"
+        },
+        "snippet": {
+          "publishedAt": "2017-06-27T03:50:15Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Lưu Trúc Ly 2017 - Ca Sĩ Trẻ Xinh Đẹp Hát Bolero Hay Nhất 2017 - Hoa Nở Về Đêm &amp; Duyên Phận",
+          "description": "Lưu Trúc Ly 2017 - Ca Sĩ Trẻ Xinh Đẹp Hát Bolero Hay Nhất 2017 - Hoa Nở Về Đêm List song: 01. Hoa Nở Về Đêm 02. Trang Nhật Ký 03. Duyên Phận 04.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Do0sFa6WN4g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Do0sFa6WN4g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Do0sFa6WN4g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-06-27T03:50:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Xn6_dSpABmSXlBWas-m5Z6FulcY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CElyvQBFj0g"
+        },
+        "snippet": {
+          "publishedAt": "2018-06-11T11:26:45Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Thiên Thần Bolero Quỳnh Trang trổ tài đọc rap quá bá đạo trong MV mang âm hưởng dân ca Bắc Bộ",
+          "description": "Thiên Thần Bolero Quỳnh Trang trổ tài đọc rap quá bá đạo trong MV mang âm hưởng dân ca Bắc Bộ ▻Producted by VO HOANG ENTERTAINMENT ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CElyvQBFj0g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CElyvQBFj0g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CElyvQBFj0g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-06-11T11:26:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fRFDzRaA0mLuAneTbAoBOgxPvUQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hA6XyD7qmdU"
+        },
+        "snippet": {
+          "publishedAt": "2017-10-05T00:35:07Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Ca Sĩ Trẻ Xinh Đẹp Hát Bolero Hay Nhất 2017 - Phương Anh, Quỳnh Trang, Đam San, Lưu Trúc Ly",
+          "description": "Ca Sĩ Trẻ Xinh Đẹp Hát Bolero Hay Nhất 2017 - Phương Anh, Quỳnh Trang, Đam San, Lưu Trúc Ly, Sương Sương, Phương Ái... Video by Võ Hoàng ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hA6XyD7qmdU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hA6XyD7qmdU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hA6XyD7qmdU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-10-05T00:35:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5ECbHVo2brA4Rwf6zNz0SUOawJg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ne4yfKqi-4g"
+        },
+        "snippet": {
+          "publishedAt": "2019-06-15T10:41:52Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Hồ Phương Liên Lấy Nước Mắt Khán Giả Với Tuyệt Phẩm Bolero Cực Hay - Nghe Mà Thổn Thức Con Tim",
+          "description": "01. Trả nhẫn kim cương 02. Yêu một mình 03. LK Ai cho tôi tình yêu 04. Ai khổ vì ai 05. Chuyện chúng mình 06. Nếu anh đừng hẹn 07. Tiễn biệt 08. Mưa nửa ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ne4yfKqi-4g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ne4yfKqi-4g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ne4yfKqi-4g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-06-15T10:41:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Jq2IsORKfodGVpvFTzFlBpy8bac",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uXOBd89mHTA"
+        },
+        "snippet": {
+          "publishedAt": "2017-05-18T10:42:35Z",
+          "channelId": "UCBZGP9UDDe9kVnLWTeBZu6w",
+          "title": "Tuyệt Phẩm Trữ Tình Bolero Hay Nhất 2017 │ Nhiều Ca Sĩ Trẻ Xinh Đẹp Giọng Hát Cực Ngọt │ Duyên Phận",
+          "description": "Tuyệt Phẩm Trữ Tình Bolero Hay Nhất 2017 │ Nhiều Ca Sĩ Trẻ Xinh Đẹp Giọng Hát Cực Ngọt │ Duyên Phận Click Subscribe để theo dõi những video mới ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uXOBd89mHTA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uXOBd89mHTA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uXOBd89mHTA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bolero Ngôi Sao Trẻ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-05-18T10:42:35Z"
+        }
       }
-     }
     ]
    }
    
