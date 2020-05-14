@@ -76,39 +76,6 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/eLUJtY5SKu5W2D2pooZW_jypM_s\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "iBPGSlAdqPA"
-      },
-      "snippet": {
-       "publishedAt": "2020-05-01T17:41:04.000Z",
-       "channelId": "UC7QjCKuO1ga6JK6wUweVapg",
-       "title": "Giọng Hát Để Đời Lính Rumba 1975 Tuyển Chọn | LK Nhạc Lính Xưa Hải Ngoại Chọn Lọc Làm Mê Mẩn",
-       "description": "Giọng Hát Để Đời Lính Rumba 1975 Tuyển Chọn | LK Nhạc Lính Xưa Hải Ngoại Chọn Lọc Làm Mê Mẩn Kênh Giọng Hát Để Đời (#gionghatdedoi) - Kênh ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/iBPGSlAdqPA/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/iBPGSlAdqPA/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/iBPGSlAdqPA/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Giọng Hát Để Đời",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/-CigitHdlNglpbTOP9j3hen0uno\"",
       "id": {
        "kind": "youtube#video",
