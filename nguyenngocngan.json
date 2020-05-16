@@ -1,665 +1,38 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nxjPnG3v_-fj_ljNUhyIBu4CKlU\"",
+    "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/iqnNtVs5f9Ulm3KIxo5Qa1gsgoI\"",
     "nextPageToken": "CDIQAA",
     "regionCode": "VN",
     "pageInfo": {
-     "totalResults": 221716,
+     "totalResults": 165,
      "resultsPerPage": 50
     },
     "items": [
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/8QEdnpZ9haWKyFMoCRD_GYgjqR4\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/VdfJJAHmQbJ48EGjhvBk4ScsubA\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "QhHooNXchiE"
+       "videoId": "1NMA3PNAjDg"
       },
       "snippet": {
-       "publishedAt": "2020-02-25T09:33:03.000Z",
-       "channelId": "UCU567U5vrl-7BWVyIEGcjLQ",
-       "title": "Truyện Cười Nguyễn Ngọc Ngạn | Nguyễn Ngọc Ngạn 2020",
-       "description": "Truyền cười Nguyễn Ngọc Ngạn 2020.",
+       "publishedAt": "2019-04-11T23:07:54.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn Truyện Ma | Căn Nhà Số 24 (Audio Book 80)",
+       "description": "Audio Book 80 - Căn Nhà Số 24 Truyện Ma: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn, Nguyễn Cao Kỳ Duyên & Hồng Đào #thuynga #audiobook ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/QhHooNXchiE/default.jpg",
+         "url": "https://i.ytimg.com/vi/1NMA3PNAjDg/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/QhHooNXchiE/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/1NMA3PNAjDg/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/QhHooNXchiE/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Thái Thạch - Social Media Marketing [ Offical ]",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ioTV-UaoakBLAf9nu7qIMtgTiKg\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "PLjhjt5pls8"
-      },
-      "snippet": {
-       "publishedAt": "2015-11-26T10:57:36.000Z",
-       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
-       "title": "Nguyễn Ngọc Ngạn &amp; Kỳ Duyên - Chuyện Cười Paris By Night (Part 1)",
-       "description": "Nguyễn Ngọc Ngạn & Kỳ Duyên - Chuyện Cười Paris By Night (Part 1) ©2012 published by Thuy Nga under license **Các video trên Thuy Nga Youtube ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/PLjhjt5pls8/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/PLjhjt5pls8/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/PLjhjt5pls8/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Thuy Nga",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/y6oQlkNOJtTk4i-xGVBPF8NOxXg\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "rLfjOezQAPg"
-      },
-      "snippet": {
-       "publishedAt": "2019-12-31T01:21:45.000Z",
-       "channelId": "UCU567U5vrl-7BWVyIEGcjLQ",
-       "title": "Truyện cười tổng hợp Nguyễn Ngọc Ngạn",
-       "description": "nguyenngocngan #asia #truyencuoi Truyện cười tổng hợp Nguyễn Ngọc Ngạn.",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/rLfjOezQAPg/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/rLfjOezQAPg/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/rLfjOezQAPg/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Thái Thạch - Social Media Marketing [ Offical ]",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Ygbbe-WX17dNTOk4a66NJ-UoRt0\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "D73doOkuErk"
-      },
-      "snippet": {
-       "publishedAt": "2017-09-15T02:18:46.000Z",
-       "channelId": "UCyKhYpCjUGPVIYYt95nSy5w",
-       "title": "Truyện Cười Hay Nhất Việt Nam 2017  - Tuyển Tập Truyện Cười Vỡ Bụng Mới Nhất",
-       "description": "Truyện cười Nguyễn Ngọc Ngạn full những câu truyện cười của Nguyễn Ngọc Ngạn cũng rất hay và hấp dẫn, mời các bạn cùng lắng nghe ... Nguyễn Ngọc...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/D73doOkuErk/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/D73doOkuErk/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/D73doOkuErk/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Truyện Ngắn Hay",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/iY5LXaYurLfrYCjcSMmll3AWBeQ\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "XgXjrvAoQx4"
-      },
-      "snippet": {
-       "publishedAt": "2018-11-03T18:09:35.000Z",
-       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
-       "title": "Bóng Ma Bên Cửa - Truyện Ma Nguyễn Ngọc Ngạn",
-       "description": "Audio Book 69 Bóng Ma Bên Cửa - Truyện Ma Nguyễn Ngọc Ngạn #thuynga #nguyenngocngan #truyenma ©2018 published by Thuy Nga under license **Các ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/XgXjrvAoQx4/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/XgXjrvAoQx4/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/XgXjrvAoQx4/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Thuy Nga",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/xeKdUf5hUY4Yykm1tmcp1oGI_Co\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "sXMlqI76ZVw"
-      },
-      "snippet": {
-       "publishedAt": "2020-01-20T11:28:52.000Z",
-       "channelId": "UCgUMg4BM4Sy1P2llGa1kPEg",
-       "title": "Truyện Cười Nguyễn Ngọc Ngạn Mới Nhất",
-       "description": "TruyệnCườiNguyễnNgọcNgạnMớiNhất #NguyễnNgọcNgạn Truyện cười Nguyễn Ngọc Ngạn mới nhất, không thể không nghe... Hãy thư giản và cùng cười ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/sXMlqI76ZVw/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/sXMlqI76ZVw/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/sXMlqI76ZVw/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Anh Ba Hưng",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/YW7TMYEXWcpls7V0xJAHiwAogBc\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "D1S6Pya9Y5k"
-      },
-      "snippet": {
-       "publishedAt": "2014-09-01T08:52:58.000Z",
-       "channelId": "UC2RQa8J77fOYGmX5ntNokrQ",
-       "title": "Nguyễn Ngọc Ngạn chém gió truyện cười",
-       "description": "Nguyễn Ngọc Ngạn chém gió truyện cười Đôi nét về Nguyễn Ngọc Ngạn Nguyễn Ngọc Ngạn sinh tại Sơn Tây (nay thuộc Hà Nội), là con thứ ba trong gia đình...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/D1S6Pya9Y5k/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/D1S6Pya9Y5k/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/D1S6Pya9Y5k/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "An Phil",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/AagO5Fs-PYq-NAq7atCu38xFlPU\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "I0FkwwB1F4I"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-22T17:40:19.000Z",
-       "channelId": "UCUaIz293NgE8bKTdmrpvJAw",
-       "title": "Tuyển tập truyện cười Nguyễn Ngọc Ngạn và Cao Kỳ Duyên ❤️ Paris By Night mới nhất 2020",
-       "description": "Tuyển tập truyện cười Nguyễn Ngọc Ngạn và Nguyễn Cao Kỳ Duyên ❤️ Paris By Night mới nhất 2020 Đọc chuyện đêm khuya Paris By Night là một...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/I0FkwwB1F4I/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/I0FkwwB1F4I/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/I0FkwwB1F4I/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "VnTim™ Trái Tim Việt Nam",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/-XwfgmCT8dTFKqVn6UiHwLHTf6M\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "_ZYwytqt-ok"
-      },
-      "snippet": {
-       "publishedAt": "2015-11-26T10:58:10.000Z",
-       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
-       "title": "Nguyễn Ngọc Ngạn &amp; Kỳ Duyên - Chuyện Cười Paris By Night (Part 2)",
-       "description": "Nguyễn Ngọc Ngạn & Kỳ Duyên - Chuyện Cười Paris By Night (Part 2) ©2012 published by Thuy Nga under license **Các video trên Thuy Nga Youtube ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/_ZYwytqt-ok/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/_ZYwytqt-ok/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/_ZYwytqt-ok/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Thuy Nga",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/T7olXMykOXNK1Hp3yFxOCrvFjgY\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "vBAa4y-mrmw"
-      },
-      "snippet": {
-       "publishedAt": "2019-04-14T23:30:01.000Z",
-       "channelId": "UCE-sM85mWsNovALr1pAXDGA",
-       "title": "Ma cười-Tập 1-Truyện dài 2019-Nguyễn Ngọc Ngạn, Hồng Đào mới nhất-Up by NgheDocTruyen",
-       "description": "Ma cười-Tập 1-Truyện dài 2019-Nguyễn Ngọc Ngạn, Hồng Đào mới nhất-Up by NgheDocTruyen - Hãy Đăng Ký – Subscribe http://bit.ly/2SBZFYE. - NGHE ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/vBAa4y-mrmw/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/vBAa4y-mrmw/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/vBAa4y-mrmw/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "NgheDoc Truyen",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/m-Tst3xO4vSUkRCrTJwXSJvDx-k\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "-85y4g1hBZE"
-      },
-      "snippet": {
-       "publishedAt": "2019-04-15T23:30:00.000Z",
-       "channelId": "UCE-sM85mWsNovALr1pAXDGA",
-       "title": "Ma cười-Tập 2-Truyện dài 2019-Nguyễn Ngọc Ngạn, Hồng Đào mới nhất-Up by NgheDocTruyen",
-       "description": "Ma cười-Tập 2-Truyện dài 2019-Nguyễn Ngọc Ngạn, Hồng Đào mới nhất-Up by NgheDocTruyen - Hãy Đăng Ký – Subscribe http://bit.ly/2SBZFYE. - NGHE ...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/-85y4g1hBZE/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/-85y4g1hBZE/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/-85y4g1hBZE/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "NgheDoc Truyen",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/b7s1FcOOggXHkGOr5djJYST1gq8\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "2GAXSnzbm9k"
-      },
-      "snippet": {
-       "publishedAt": "2019-05-17T18:55:57.000Z",
-       "channelId": "UCUaIz293NgE8bKTdmrpvJAw",
-       "title": "Tuyển tập Truyện cười Ngắn hay vỡ bụng Việt Nam vô đối ❤️ Truyện Cười Người Lớn Kể chuyện đêm khuya",
-       "description": "Tuyển tập Truyện Cười Người Lớn Kể chuyện đêm khuya. Truyện cười Ngắn hay vỡ bụng Việt Nam vô đối nghe dễ ngủ Được đọc với phong cách...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/2GAXSnzbm9k/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/2GAXSnzbm9k/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/2GAXSnzbm9k/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "VnTim™ Trái Tim Việt Nam",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/kGWIQYsMwwp23b5t2Ugk3jF9Vwc\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "5SOXIs4THxA"
-      },
-      "snippet": {
-       "publishedAt": "2020-03-26T19:18:21.000Z",
-       "channelId": "UCUaIz293NgE8bKTdmrpvJAw",
-       "title": "Tuyển tập Truyện Cười Ngắn 📢 Trung Ruồi Yến Xôi ❤️ Kể Chuyện Đêm Khuya 💤",
-       "description": "Tuyển tập Truyện Cười Ngắn Trung Ruồi Yến Xôi ❤️ Kể Chuyện Đêm Khuya VnTim™ Hy vọng sẽ đem lại cho các bạn những Câu chuyện vô cùng...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/5SOXIs4THxA/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/5SOXIs4THxA/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/5SOXIs4THxA/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "VnTim™ Trái Tim Việt Nam",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/NRqeeb07dSvuZoBmkzOIGYTgffI\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "YD5_YiH6-uE"
-      },
-      "snippet": {
-       "publishedAt": "2018-08-16T08:46:55.000Z",
-       "channelId": "UCBctS8QRNECtoh_26nhkeEw",
-       "title": "Nguyễn Ngọc Ngạn kể chuyện cười - xem là mê",
-       "description": "Nghe Nguyễn Ngọc Ngạn kể chuyện cười Audio mp3 nguyễn ngọc ngạn kể chuyện thật hài hước, giải trí lúc rảnh rỗi.",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/YD5_YiH6-uE/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/YD5_YiH6-uE/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/YD5_YiH6-uE/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "auto Davids",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/WmI-S6jkD0hB2ox49A5RNs3lRko\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "TYGz-CPp_aI"
-      },
-      "snippet": {
-       "publishedAt": "2019-02-11T13:56:35.000Z",
-       "channelId": "UCUaIz293NgE8bKTdmrpvJAw",
-       "title": "Nghe đọc truyện cười Trạng Quỳnh Full ❤️ Kể chuyện đêm khuya dễ ngủ",
-       "description": "Truyện Cười Dân Gian: Trạng Quỳnh Trạng Lợn ☀ Truyện cổ tích Việt Nam Đọc truyện đêm khuya dễ ngủ   1 Giới thiệu nhận vật Trạng Quỳnh...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/TYGz-CPp_aI/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/TYGz-CPp_aI/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/TYGz-CPp_aI/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "VnTim™ Trái Tim Việt Nam",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/FcLHdt8P8mYYgXpQ5xtXAUtNc6Y\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "I44E8gHsoLg"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-11T07:00:01.000Z",
-       "channelId": "UC7WfujYVjE6XSYTxqTHyFRg",
-       "title": "Nguyễn Ngọc Ngạn || Tuyển Tập Truyện Cười Vỡ Bụng || Truyện Cười Chọn Lọc Mới Nhất",
-       "description": "Nguyễn Ngọc Ngạn || Tuyển Tập Truyện Cười Vỡ Bụng || Truyện Cười Chọn Lọc Mới Nhất Nguyễn Ngọc Ngạn || Tuyển Tập Truyện Cười Vỡ Bụng || Truyện...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/I44E8gHsoLg/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/I44E8gHsoLg/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/I44E8gHsoLg/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Nhân Tài Đại Việt",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/C06OM1B_yXsyNMvoxyw8WKjqCqU\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "LOTvsX3QcvQ"
-      },
-      "snippet": {
-       "publishedAt": "2020-04-18T14:34:59.000Z",
-       "channelId": "UC49VNhIa6ij-x_OzZvA08vg",
-       "title": "Nguyễn Ngọc Ngạn KỂ CHUYỆN CƯỜI | Nghe Mà Đau Hết Cả Bụng",
-       "description": "Nguyễn Ngọc Ngạn KỂ CHUYỆN CƯỜI | Nghe Mà Đau Hết Cả Bụng Nguyễn Ngọc Ngạn KỂ CHUYỆN CƯỜI | Nghe Mà Đau Hết Cả Bụng.",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/LOTvsX3QcvQ/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/LOTvsX3QcvQ/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/LOTvsX3QcvQ/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "999 NP",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/cfXW8m3U71tp7FyhgQv2rPVjpME\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "9JNIXmM_9q4"
-      },
-      "snippet": {
-       "publishedAt": "2018-02-26T14:23:38.000Z",
-       "channelId": "UCWHXXG-H6VTx3Dneh7kcWbw",
-       "title": "Truyện Cười Người Lớn Cười Vỡ Bụng P73 | Truyện Cười Việt Nam || Cười Xả Xì Chét",
-       "description": "Truyện Cười Xả Xì Chét là nơi mang lại cho bạn phút giây thư giãn cười sảng khoái,Truyện Cười ,Truyện cười người lớn hay và mới nhất được cập...",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/9JNIXmM_9q4/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/9JNIXmM_9q4/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/9JNIXmM_9q4/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "Xả Xì Chét",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zAuSnRaLCfjuFAUIQ8Dp8p0jYR0\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "g1hmu1MK7Rg"
-      },
-      "snippet": {
-       "publishedAt": "2017-07-13T16:23:56.000Z",
-       "channelId": "UCsvqSi7HIZiRKnMsHZI3swA",
-       "title": "Nguyễn Ngọc Ngạn- Tuyển tập truyện cười mới nhất 2017",
-       "description": "Những câu truyện cười hấp dẫn,giải trí,xả stressssss mới nhất 2017.",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/g1hmu1MK7Rg/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/g1hmu1MK7Rg/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/g1hmu1MK7Rg/hqdefault.jpg",
-         "width": 480,
-         "height": 360
-        }
-       },
-       "channelTitle": "PKQ SECRET",
-       "liveBroadcastContent": "none"
-      }
-     },
-     {
-      "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/yLFdJdzHhKB1dvV9HPnGZaWILPA\"",
-      "id": {
-       "kind": "youtube#video",
-       "videoId": "gXbWd9DWSpI"
-      },
-      "snippet": {
-       "publishedAt": "2017-06-06T01:00:01.000Z",
-       "channelId": "UCVIfSEMetFC3VriCz_QaXSg",
-       "title": "Nguyễn ngọc Ngạn Kể Truyện MA | Cười đến chết | Truyện ma có thật đêm khuya",
-       "description": "",
-       "thumbnails": {
-        "default": {
-         "url": "https://i.ytimg.com/vi/gXbWd9DWSpI/default.jpg",
-         "width": 120,
-         "height": 90
-        },
-        "medium": {
-         "url": "https://i.ytimg.com/vi/gXbWd9DWSpI/mqdefault.jpg",
-         "width": 320,
-         "height": 180
-        },
-        "high": {
-         "url": "https://i.ytimg.com/vi/gXbWd9DWSpI/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/1NMA3PNAjDg/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
@@ -670,991 +43,1618 @@
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wEnMAXY0TcSjI0dgI_33Ko6_TtI\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/cedlTRS45B-HxLJTVzPNQgAG8jo\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "WRnSYxtE01Q"
+       "videoId": "bJuug7ou0RQ"
       },
       "snippet": {
-       "publishedAt": "2019-08-01T10:59:01.000Z",
-       "channelId": "UCFemVU_5yTILj7fYlCoVvtA",
-       "title": "Nguyễn Ngọc Ngạn KỂ CHUYỆN CƯỜI !",
-       "description": "Nguyễn Ngọc Ngạn KỂ CHUYỆN CƯỜI !",
+       "publishedAt": "2019-04-23T23:19:31.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn Truyện Ma | Đêm Trong Căn Nhà Hoang (Audio Book 51)",
+       "description": "Audio Book 51 - Đêm Trong Căn Nhà Hoang Truyện Ma: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/WRnSYxtE01Q/default.jpg",
+         "url": "https://i.ytimg.com/vi/bJuug7ou0RQ/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/WRnSYxtE01Q/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/bJuug7ou0RQ/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/WRnSYxtE01Q/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/bJuug7ou0RQ/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Bậc TV",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/L9_x2qjpWWjjjY-ybIFZTleEmJ8\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ZMGsGtn-4Qo9cIqgji8Fh16lVRU\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "geScDSc2eEo"
+       "videoId": "st-ls5BTSpI"
       },
       "snippet": {
-       "publishedAt": "2020-04-27T01:21:01.000Z",
-       "channelId": "UChRshNN7V_KbFWf3YegRXVw",
-       "title": "Truyện Ma Có Thật ||  Chung Thủy Với Ma ||  Nguyễn Ngọc Ngạn, Hồng Đào Mới Nhất 2020",
-       "description": "Truyện Ma Có Thật || Chung Thủy Với Ma || Nguyễn Ngọc Ngạn, Hồng Đào Mới Nhất 2020.",
+       "publishedAt": "2019-04-11T23:12:04.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn Truyện Ma | Bãi Đát Hoang Sau Nhà (Audio Book 52)",
+       "description": "Audio Book 52 - Bãi Đát Hoang Sau Nhà Truyện Ma: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/geScDSc2eEo/default.jpg",
+         "url": "https://i.ytimg.com/vi/st-ls5BTSpI/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/geScDSc2eEo/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/st-ls5BTSpI/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/geScDSc2eEo/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/st-ls5BTSpI/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Việt Sử Giai Thoại!",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/mx_LoVxSNt1BFYFe3fIteUxRhbM\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wHLexTmXarMn1EX8Wo-T9OEc-H0\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "zfKlT59cjko"
+       "videoId": "-h2boaVcEmc"
       },
       "snippet": {
-       "publishedAt": "2016-06-26T23:35:12.000Z",
-       "channelId": "UCDub9YOEM-5wLS3by1BkxmA",
-       "title": "Truyện Cười | Truyện Cổ Tích Chế P94 -99 | Tạp Chí Dép Tổ Ong",
-       "description": "Tạp Chí Dép Tổ Ong - Tập hợp các loại truyện cười ngắn được đọc với phong cách hài hước dí dỏm, hi vọng sẽ mang lại 1 khoảng thời gian thư giãn...",
+       "publishedAt": "2019-05-14T18:45:50.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn Truyện Ma | Ngôi Mộ Mới Đắp (Audio Book 53)",
+       "description": "Audio Book 53 - Ngôi Mộ Mới Đắp Truyện Ma: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/zfKlT59cjko/default.jpg",
+         "url": "https://i.ytimg.com/vi/-h2boaVcEmc/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/zfKlT59cjko/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/-h2boaVcEmc/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/zfKlT59cjko/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/-h2boaVcEmc/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Tạp chí Dép Tổ Ong - Truyện",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/7vqWlfbkRhYU5Vghuu-aQggV058\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/izPT-sH2XrQH9bBJIHu50aws4dM\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "ujU0io2y3RA"
+       "videoId": "B0kAq2HxdmE"
       },
       "snippet": {
-       "publishedAt": "2020-02-12T16:23:36.000Z",
-       "channelId": "UCqjl0NV0Aq8tEgHSZlly9GA",
-       "title": "Tuyển tập 200 mẫu truyện cười ngắn",
-       "description": "Tuyển tập Truyện Cười Người Lớn Kể chuyện đêm khuya. Truyện cười Ngắn hay vỡ bụng Việt Nam vô đối nghe dễ ngủ Được đọc với phong cách...",
+       "publishedAt": "2019-05-14T18:47:30.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn Truyện Ma | Đêm Không Trăng (Audiobook 67)",
+       "description": "Audio Book 67 - Đêm Không Trăng Truyện Ma: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/ujU0io2y3RA/default.jpg",
+         "url": "https://i.ytimg.com/vi/B0kAq2HxdmE/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/ujU0io2y3RA/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/B0kAq2HxdmE/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/ujU0io2y3RA/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/B0kAq2HxdmE/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "hoach huynh cao",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/PQ550ZZ8AxXG5lxTnofIDAEBteM\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/oEOZu9hGTAJPy8s20Jm4eRODjB4\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "OtfUUquTr4s"
+       "videoId": "UiCX6QdMnXk"
       },
       "snippet": {
-       "publishedAt": "2019-01-18T20:00:02.000Z",
-       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
-       "title": "PBN 76 | Nhà Văn Nguyễn Ngọc Ngạn Nói Về Phong Tục Ngày Tết",
-       "description": "Nhà Văn Nguyễn Ngọc Ngạn Nói Về Phong Tục Ngày Tết (PBN76) #thuynga #parisbynight #nguyenngocngan ©2005 published by Thuy Nga under license ...",
+       "publishedAt": "2019-05-14T18:48:47.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn Truyện Ma | Bóng Người Dưới Trăng (Audiobook 56)",
+       "description": "Audio Book 56 - Bóng Người Dưới Trăng Truyện Ma: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/OtfUUquTr4s/default.jpg",
+         "url": "https://i.ytimg.com/vi/UiCX6QdMnXk/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/OtfUUquTr4s/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/UiCX6QdMnXk/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/OtfUUquTr4s/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/UiCX6QdMnXk/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Thuy Nga",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/PITiA3umhN--iH9c5g1HOcVLE8U\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/5XUf9LgR7gnK9dNik_zrlXg0Ic8\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "ZsCo3vsq3zs"
+       "videoId": "Pe0dzW-OzHc"
       },
       "snippet": {
-       "publishedAt": "2019-05-18T19:01:39.000Z",
-       "channelId": "UCUaIz293NgE8bKTdmrpvJAw",
-       "title": "Tuyển Tập Truyện Cười Ngắn Hỏi Xoáy Đáp Xoay ❤️ Truyện Cười Tiếu Lâm siêu ngắn",
-       "description": "Tuyển tập Truyện Cười Người Lớn Kể chuyện đêm khuya. Truyện cười Ngắn hay vỡ bụng Việt Nam vô đối nghe dễ ngủ Được đọc với phong cách...",
+       "publishedAt": "2019-05-14T22:01:33.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn Truyện Ma | Tiếng Quạ Réo Vong Hồn (Audio Book 50)",
+       "description": "Audio Book 50 - Tiếng Quạ Réo Vong Hồn Truyện Ma: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/ZsCo3vsq3zs/default.jpg",
+         "url": "https://i.ytimg.com/vi/Pe0dzW-OzHc/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/ZsCo3vsq3zs/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/Pe0dzW-OzHc/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/ZsCo3vsq3zs/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/Pe0dzW-OzHc/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "VnTim™ Trái Tim Việt Nam",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/esBQHc1mOS3Frml-z7QkU48_cic\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/NlBNfR_vZ0UNcqXj3yI5q4qQ5wg\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "SmqkpezIKhc"
+       "videoId": "ML7N3N7IrSQ"
       },
       "snippet": {
-       "publishedAt": "2016-09-27T02:31:54.000Z",
-       "channelId": "UCDub9YOEM-5wLS3by1BkxmA",
-       "title": "Truyện cười 16+ Phần 2 | Truyện cười ngắn",
-       "description": "Tạp Chí Dép Tổ Ong - Tập hợp các loại truyện cười ngắn được đọc với phong cách hài hước dí dỏm, hi vọng sẽ mang lại 1 khoảng thời gian thư giãn...",
+       "publishedAt": "2019-12-24T12:00:10.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "TRUYỆN MA - NGUYỄN NGỌC NGẠN - TỪ THẾ GIỚI BÊN KIA",
+       "description": "Truyện ma: Từ Thế Giới Bên Kia Truyện Ma: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ©2019 ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/SmqkpezIKhc/default.jpg",
+         "url": "https://i.ytimg.com/vi/ML7N3N7IrSQ/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/SmqkpezIKhc/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/ML7N3N7IrSQ/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/SmqkpezIKhc/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/ML7N3N7IrSQ/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Tạp chí Dép Tổ Ong - Truyện",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/G9PMZ9vpjaKOTaMeF8JdrI5bb4M\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/oFTTAiUAoyMLYQ2XxnGYv22hXsw\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "6YqHYE-g4YU"
+       "videoId": "S5uM_klPSGs"
       },
       "snippet": {
-       "publishedAt": "2014-03-17T15:00:36.000Z",
-       "channelId": "UC-9s_qZ3kE4bStePwi7dssQ",
-       "title": "truyện cười Nguyễn Ngọc Ngạn",
-       "description": "chú Nguyễn Ngọc Ngạn ngoài tài kể chuyện ma thì tài kể chuyện cười cũng rất hay.",
+       "publishedAt": "2019-04-05T18:19:48.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn Truyện Ma | Ngôi Mộ Bên Sông (Audio Book 93)",
+       "description": "Audio Book 93 - Ngôi Mộ Bên Sông Truyện Ma: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/6YqHYE-g4YU/default.jpg",
+         "url": "https://i.ytimg.com/vi/S5uM_klPSGs/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/6YqHYE-g4YU/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/S5uM_klPSGs/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/6YqHYE-g4YU/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/S5uM_klPSGs/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "trinh tung",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Q5xDwIPG7h16BiKLtLm5iDmMR4w\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/cdYrDoEhogmNS9f5pWMr4Y5_kGA\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "Sl8OC3CTH5o"
+       "videoId": "L0UGO4KfTaU"
       },
       "snippet": {
-       "publishedAt": "2020-04-26T15:31:00.000Z",
-       "channelId": "UCbR37VdG-VEr9ry6jqYHhZw",
-       "title": "Nghe truyện ma Nguyễn Ngọc Ngạn mới nhất Thế Giới Bên Kia",
-       "description": "Đăng ký kênh để xem nhiều video hơn.",
+       "publishedAt": "2019-04-11T23:10:33.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Giấc Mơ - Phần 2 (Audiobook 90)",
+       "description": "Audio Book 90 - Giấc Mơ (Phần 2) Truyện Dài: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/Sl8OC3CTH5o/default.jpg",
+         "url": "https://i.ytimg.com/vi/L0UGO4KfTaU/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/Sl8OC3CTH5o/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/L0UGO4KfTaU/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/Sl8OC3CTH5o/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/L0UGO4KfTaU/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "MIỀN NÚI VIỆT NAM",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/2u5dUF_Lh8Kqg5hf5vdwpFsfWuY\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/O9Iz4rx-Jvl_81FwhfG0oPtxyzY\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "pFBTIjQ8QLk"
+       "videoId": "KgxWziSHQP8"
       },
       "snippet": {
-       "publishedAt": "2017-09-05T17:37:28.000Z",
-       "channelId": "UCYvMzNAmdFPycBCYDvLR7Kg",
-       "title": "TRUYỆN AUDIO | Truyện cười Nguyễn Ngọc Ngạn tổng hợp Full hay nhất",
-       "description": "TRUYỆN AUDIO | Truyện cười Nguyễn Ngọc Ngạn tổng hợp Full hay nhất Hãy bấm THÍCH để tạo động lực cho chúng tôi phát triển kênh. Hãy bấm ĐĂNG KÍ...",
+       "publishedAt": "2019-04-11T23:12:04.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn Truyện Ma | Cõi Âm (Audio Book 61)",
+       "description": "Audio Book 61 - Cõi Âm Truyện Ma: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ©2019 ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/pFBTIjQ8QLk/default.jpg",
+         "url": "https://i.ytimg.com/vi/KgxWziSHQP8/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/pFBTIjQ8QLk/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/KgxWziSHQP8/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/pFBTIjQ8QLk/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/KgxWziSHQP8/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "TRUYỆN AUDIO",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/8DtopBsylTUV22kw_X4qNKPro5c\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/KcKRPPl0Iri9_6cUy8hpqX4SLRA\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "030J8p5TkLs"
+       "videoId": "BIp0848DZb0"
       },
       "snippet": {
-       "publishedAt": "2016-02-26T13:14:01.000Z",
-       "channelId": "UC8tvqMeHXhYpq53a7-loWNw",
-       "title": "99 Truyện cười dân gian Việt Nam hay và hài hước nhất",
-       "description": "Tổng hợp 99 câu truyện cười dân gian Việt Nam hay và hài hước nhất Cám ơn bạn đã nghe truyện, hãy Like Video và Subscribe Channel nếu bạn thấy hay để.",
+       "publishedAt": "2020-02-01T03:21:58.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Đường Vào Xã Hội Đen (Phần 1)",
+       "description": "Đường Vào Xã Hội Đen (Phần 1) Tác Giả: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ©2020 ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/030J8p5TkLs/default.jpg",
+         "url": "https://i.ytimg.com/vi/BIp0848DZb0/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/030J8p5TkLs/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/BIp0848DZb0/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/030J8p5TkLs/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/BIp0848DZb0/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Người Đọc Truyện Ma [GocAudio]",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/UpHEIq8uQdqzIrycgkCBo5hf9kg\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ivb6RSE20BYbgZ-OcqqT3jkCn5A\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "QP5Gn3NpCoQ"
+       "videoId": "ciDM9wuM-eI"
       },
       "snippet": {
-       "publishedAt": "2019-02-18T00:07:57.000Z",
-       "channelId": "UCUaIz293NgE8bKTdmrpvJAw",
-       "title": "Tuyển tập Truyện cười Ngắn hay vỡ bụng Việt Nam vô đối Vova ❤️ Kể chuyện đêm khuya",
-       "description": "Tuyển tập truyện cười ngắn hay, được đọc với phong cách hài hước dí dỏm, hi vọng sẽ mang lại khoảng thời gian thư giãn nhẹ nhàng cho bạn! Kể...",
+       "publishedAt": "2019-04-11T23:07:54.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Bùa Yêu (Audiobook 70)",
+       "description": "Audio Book 70 - Bùa Yêu Truyện Tình Cảm Xã Hội: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/QP5Gn3NpCoQ/default.jpg",
+         "url": "https://i.ytimg.com/vi/ciDM9wuM-eI/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/QP5Gn3NpCoQ/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/ciDM9wuM-eI/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/QP5Gn3NpCoQ/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/ciDM9wuM-eI/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "VnTim™ Trái Tim Việt Nam",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jglIC9S5fYRjbmKXkXJ0Vr6wBFI\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/y3eHOXVy3cc8nu_UdM-chz9csSg\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "YRXHWBu_cEA"
+       "videoId": "NxypuZIAXbQ"
       },
       "snippet": {
-       "publishedAt": "2018-11-29T12:00:06.000Z",
-       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
-       "title": "Paris By Night 107 - Nguyễn Ngọc Ngạn 20 Năm Sân Khấu (Full Program)",
-       "description": "Paris By Night 107 - Nguyễn Ngọc Ngạn 20 Năm Sân Khấu (Full Program) 01. Phần Mở Đầu 0:00 02. Lột Xác (Nguyễn Hải Phong) Tóc Tiên & Mai Tiến Dũng ...",
+       "publishedAt": "2019-04-11T23:10:33.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Giấc Mơ (Audiobook 89)",
+       "description": "Audio Book 89 - Giấc Mơ Truyện Ngắn: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ©2019 ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/YRXHWBu_cEA/default.jpg",
+         "url": "https://i.ytimg.com/vi/NxypuZIAXbQ/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/YRXHWBu_cEA/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/NxypuZIAXbQ/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/YRXHWBu_cEA/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/NxypuZIAXbQ/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Thuy Nga",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ZJW9gN3PkMQ-Wt7fmYzU2NMcr6E\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/fD9VW9R1pV_KMv24gnCPcmB2U0E\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "lM78qpKVfqg"
+       "videoId": "ZoXmufTJrHs"
       },
       "snippet": {
-       "publishedAt": "2020-01-15T15:35:35.000Z",
-       "channelId": "UCruSGxr9OyNL-6N1ONXLcUA",
-       "title": "Truyện cười Việt Nam và thế giới _ Cười lăn lộn, cười vỡ bụng với truyện cười lớn nhất và mới nhất !",
-       "description": "Trang Đọc Truyện Online Việt Nam -- Luôn cập nhật truyện mới nhất và nhanh nhất ... ĐĂNG KÝ (SUBSCRIBE) NGAY ĐỂ CẬP NHẬT VIDEO MỚI NHẤT ...",
+       "publishedAt": "2019-04-11T23:12:05.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Thời Vận (Audiobook 42)",
+       "description": "Audio Book 42 - Thời Vận Truyện Ngắn: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ©2019 ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/lM78qpKVfqg/default.jpg",
+         "url": "https://i.ytimg.com/vi/ZoXmufTJrHs/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/lM78qpKVfqg/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/ZoXmufTJrHs/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/lM78qpKVfqg/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/ZoXmufTJrHs/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Truyện Audio",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_bjxZ7n88hEf05a6tOadSVbt1ek\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/DZvH8GwCyEA8UrEEoU7Kkq_KMcs\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "roFy1X7Yvrc"
+       "videoId": "SvmGIpwdFzo"
       },
       "snippet": {
-       "publishedAt": "2017-11-01T18:00:57.000Z",
-       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
-       "title": "Đêm Trong Căn Nhà Hoang - Phim Truyện Dài Nguyễn Ngọc Ngạn  (Full Movie)",
-       "description": "Đêm Trong Căn Nhà Hoang Based on the novel by: Nguyễn Ngọc Ngạn Produced by: Thuy Nga Director: Ken Nguyen Starring: Huỳnh Thi - Dr. Loc Mona Lisa ...",
+       "publishedAt": "2019-07-23T03:41:42.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nhà Văn Nguyễn Ngọc Ngạn kể truyện ma - Livestream July 22, 2019",
+       "description": "Nhà Văn Nguyễn Ngọc Ngạn kể truyện ma - Livestream July 22, 2019.",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/roFy1X7Yvrc/default.jpg",
+         "url": "https://i.ytimg.com/vi/SvmGIpwdFzo/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/roFy1X7Yvrc/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/SvmGIpwdFzo/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/roFy1X7Yvrc/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/SvmGIpwdFzo/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Thuy Nga",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/pTV2l8QtqMp6ReKi3QPS_faIFzg\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/S7YTi-Z97g3NKJBO1UeZhcKrl18\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "SIKWb1Vg0RA"
+       "videoId": "WCNTvY7HEdI"
       },
       "snippet": {
-       "publishedAt": "2018-03-18T12:50:01.000Z",
-       "channelId": "UCJRS2vsgKK_qXVo9Sag9zpg",
-       "title": "Nguyễn Ngọc Ngạn 2017 _ Tuyển Tập Truyện Cười Vỡ Bụng - Truyện Cười Chọn Lọc Mới Nhất",
-       "description": "Nguyễn Ngọc Ngạn 2017 _ Tuyển Tập Truyện Cười Vỡ Bụng - Truyện Cười Chọn Lọc Mới Nhất. ▻Đăng kí theo dõi kênh ...",
+       "publishedAt": "2019-04-11T23:10:33.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Đêm Dài Vô Tận (Audiobook 91)",
+       "description": "Audio Book 91 - Đêm Dài Vô Tận Truyện Ngắn: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/SIKWb1Vg0RA/default.jpg",
+         "url": "https://i.ytimg.com/vi/WCNTvY7HEdI/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/SIKWb1Vg0RA/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/WCNTvY7HEdI/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/SIKWb1Vg0RA/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/WCNTvY7HEdI/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Truyện ma Nguyễn Ngọc Ngạn P",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Hq_HSXioFSePKShOI6Sc16af9R4\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/RdPlTeWfTLw0HLCPWxZn8AeZ4W8\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "YQwFEwVKXqY"
+       "videoId": "S5G244m_bqc"
       },
       "snippet": {
-       "publishedAt": "2018-06-26T08:02:04.000Z",
-       "channelId": "UCQ8xBcxpGNot1kzsQqyl-ZQ",
-       "title": "Chém gió truyện cười Nguyễn Ngọc Ngạn",
-       "description": "",
+       "publishedAt": "2019-04-18T22:20:29.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Hồng Nhan - Phần 1 (Audiobook 87)",
+       "description": "Audio Book 87 - Hồng Nhan (Phần 1) Truyện Dài: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/YQwFEwVKXqY/default.jpg",
+         "url": "https://i.ytimg.com/vi/S5G244m_bqc/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/YQwFEwVKXqY/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/S5G244m_bqc/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/YQwFEwVKXqY/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/S5G244m_bqc/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "TRUNG NHI",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/-pilNc6aqrfPOCpab_U6qcbQX3I\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/SH6ZKzBeonUr0TfMiNxcWzBbPmc\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "FaOmCkFIdgk"
+       "videoId": "F3JqSDuyLJs"
       },
       "snippet": {
-       "publishedAt": "2020-04-19T07:16:19.000Z",
-       "channelId": "UCEwkhaa400Y03DRyiBX--_Q",
-       "title": "Truyện Cười Nguyễn Ngọc Ngạn Mới Nhất",
-       "description": "Truyện Cười Nguyễn Ngọc Ngạn Mới Nhất Truyện Cười Nguyễn Ngọc Ngạn Mới Nhất.",
+       "publishedAt": "2020-02-07T12:00:10.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Đường Vào Xã Hội Đen (Phần 2)",
+       "description": "Đường Vào Xã Hội Đen (Phần 2) Tác Giả: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ©2020 ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/FaOmCkFIdgk/default.jpg",
+         "url": "https://i.ytimg.com/vi/F3JqSDuyLJs/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/FaOmCkFIdgk/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/F3JqSDuyLJs/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/FaOmCkFIdgk/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/F3JqSDuyLJs/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "999 Vlogs",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/z-GOB8mIrFmeC4Q2Gpwg5RBZHaU\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/dtZ03AQjJGp97Px1CQ6okvOWo_k\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "FRy71uF6x-k"
+       "videoId": "T4LZCsDedoU"
       },
       "snippet": {
-       "publishedAt": "2020-04-12T00:47:50.000Z",
-       "channelId": "UC8mpGEdquHVMWDEy39esM1Q",
-       "title": "Truyện Cười Nguyễn Ngọc Ngạn || Nguyễn Ngọc Ngạn, Kỳ Duyên Hay Nhất, Cười Vỡ Bụng",
-       "description": "Truyện Cười Nguyễn Ngọc Ngạn || Nguyễn Ngọc Ngạn, Kỳ Duyên Hay Nhất, Cười Vỡ Bụng Truyện Cười Nguyễn Ngọc Ngạn || Nguyễn Ngọc Ngạn, Kỳ Duyên.",
+       "publishedAt": "2019-12-06T12:30:12.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Sau Lần Cửa Khép (Audiobook 34)",
+       "description": "Audio Book 34 - Sau Lần Cửa Khép (Phần 1) Truyện Dài: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/FRy71uF6x-k/default.jpg",
+         "url": "https://i.ytimg.com/vi/T4LZCsDedoU/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/FRy71uF6x-k/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/T4LZCsDedoU/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/FRy71uF6x-k/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/T4LZCsDedoU/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Truyện Đêm Khuya 79",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/8o7HOgOoom9lJCsI2sDccOxgtaM\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/PyvYl0SAq8_Pfv1td4gwHhTROu0\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "_i4dTkNHSh4"
+       "videoId": "f6BjygooN2I"
       },
       "snippet": {
-       "publishedAt": "2016-07-27T03:00:07.000Z",
-       "channelId": "UCDub9YOEM-5wLS3by1BkxmA",
-       "title": "Truyện Cười | P117 Lính và bộ đội hài hước | Tạp Chí Dép Tổ Ong",
-       "description": "Tạp Chí Dép Tổ Ong - Tập hợp các loại truyện cười ngắn được đọc với phong cách hài hước dí dỏm, hi vọng sẽ mang lại 1 khoảng thời gian thư giãn...",
+       "publishedAt": "2019-04-18T22:19:19.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Hồng Nhan - Phần 2 (Audiobook 87)",
+       "description": "Audio Book 87 - Hồng Nhan (Phần 2) Truyện Dài: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/_i4dTkNHSh4/default.jpg",
+         "url": "https://i.ytimg.com/vi/f6BjygooN2I/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/_i4dTkNHSh4/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/f6BjygooN2I/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/_i4dTkNHSh4/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/f6BjygooN2I/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Tạp chí Dép Tổ Ong - Truyện",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/FENVzyGeS7OizAGcqGxQ0LaDLtk\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Q0hhQWsHPWVQYdJyk8YnMOGi9OY\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "tnXybBalmJg"
+       "videoId": "sAEp_5DAGDM"
       },
       "snippet": {
-       "publishedAt": "2017-05-02T20:33:50.000Z",
-       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
-       "title": "Nguyễn Ngọc Ngạn nói về CD Đọc Truyện dài &quot;Đức Mẹ Đến Với Thế Gian&quot;",
-       "description": "Nguyễn Ngọc Ngạn nói về CD Đọc Truyện dài \"Đức Mẹ Đến Với Thế Gian\" CD Đã Phát Hành Order tại thuyngashop.com 714-894-5811.",
+       "publishedAt": "2019-04-11T23:07:54.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Đêm Vắng (Audiobook 63)",
+       "description": "Audio Book 63 - Đêm Vắng Truyện Tình Cảm Xã Hội: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/tnXybBalmJg/default.jpg",
+         "url": "https://i.ytimg.com/vi/sAEp_5DAGDM/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/tnXybBalmJg/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/sAEp_5DAGDM/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/tnXybBalmJg/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/sAEp_5DAGDM/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Thuy Nga",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wAGfUgb4zRgHquYJwhufM4kuWls\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nvaqkTrRRpS2muJV755GTJU0nls\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "hur45B1SANA"
+       "videoId": "FlJv1CI3AdY"
       },
       "snippet": {
-       "publishedAt": "2020-04-19T05:18:22.000Z",
-       "channelId": "UC3-md04K4zOwLQzBk8qYhbg",
-       "title": "Truyện Cười Nguyễn Ngọc Ngạn Mới Nhất",
-       "description": "Truyện Cười Nguyễn Ngọc Ngạn Mới Nhất Truyện Cười Nguyễn Ngọc Ngạn Mới Nhất.",
+       "publishedAt": "2019-03-28T19:30:30.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Kể Một Chuyện Tình (Audiobook 24)",
+       "description": "Audio Book 24 - Kể Một Chuyện Tình Truyện Ngắn: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Thanh Lan #thuynga #audiobook #nguyenngocngan ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/hur45B1SANA/default.jpg",
+         "url": "https://i.ytimg.com/vi/FlJv1CI3AdY/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/hur45B1SANA/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/FlJv1CI3AdY/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/hur45B1SANA/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/FlJv1CI3AdY/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Remix Vn",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ljzJCjvnE1TRPng0BTaPELe9HEo\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/51n26rXKYoP3nOb7U8cEI9UWv6k\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "WAf3nzgAEEg"
+       "videoId": "9ViPtIKeAIs"
       },
       "snippet": {
-       "publishedAt": "2019-10-12T04:49:00.000Z",
-       "channelId": "UCNvb-cv5sZ7j8D47bN0-cjg",
-       "title": "Trích Tuyển Chuyện Cười Chú Nguyễn Ngọc Ngạn part 1",
-       "description": "CÁC BẠN ỦNG HỘ KÊNH BẰNG CÁCH HÃY ĐĂNG KÝ KÊNH VÀ ĐỪNG QUÊN CHIA SẺ. https://www.youtube.com/channel/UCNvb-cv5sZ7j8D47bN0-cjg/ ...",
+       "publishedAt": "2019-04-11T23:07:54.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Việt Kiều (Audiobook 68)",
+       "description": "Audio Book 68 - Việt Kiều Truyện Tình Cảm Xã Hội: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/WAf3nzgAEEg/default.jpg",
+         "url": "https://i.ytimg.com/vi/9ViPtIKeAIs/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/WAf3nzgAEEg/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/9ViPtIKeAIs/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/WAf3nzgAEEg/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/9ViPtIKeAIs/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Vlog Duy Trinh Official",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/TuVyDs9jJpEGEeZ9iucuuUMqZcg\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/d2ZkisLUNbf1GRxGlJzcVBiyVfk\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "DtCEZUSTHZ0"
+       "videoId": "9aN3ezOLUYs"
       },
       "snippet": {
-       "publishedAt": "2017-08-26T02:04:17.000Z",
-       "channelId": "UCekciTSRY7YZzfvIExSOQHw",
-       "title": "Truyện Người  Lớn  Cười Vỡ  Bụng  p43 / Truyện Cười Việt Nam Mới Nhất 2017",
-       "description": "'Truyện Cười viet nam' mang lại cho bạn những giây phút thư giãn giải tri cười sảng khoái với các video Truyện Cười ,Truyện cười người lớn. Truyện...",
+       "publishedAt": "2019-04-11T23:07:55.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Người Khách Lạ (Audiobook 88)",
+       "description": "Audio Book 88 - Người Khách Lạ Truyện Dài: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/DtCEZUSTHZ0/default.jpg",
+         "url": "https://i.ytimg.com/vi/9aN3ezOLUYs/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/DtCEZUSTHZ0/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/9aN3ezOLUYs/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/DtCEZUSTHZ0/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/9aN3ezOLUYs/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Truyện Cười Việt Nam",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_15IVSDWqBIOC_f7Q7wQ_R-_KR8\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/r1OAzW-_0NQ_EiL-FHBHBTmOpEM\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "QV2Daxd1360"
+       "videoId": "oJFB_J5Py7o"
       },
       "snippet": {
-       "publishedAt": "2017-11-16T09:38:37.000Z",
-       "channelId": "UCWHXXG-H6VTx3Dneh7kcWbw",
-       "title": "Cười Xả Xì Chét P51 | Tuyển Tập Truyện Cười Chém Gió Đặc Sắc Cười Vỡ Bụng",
-       "description": "Tập hợp các loại truyện cười ngắn được đọc với phong cách hài hước dí dỏm, hi vọng sẽ mang lại 1 khoảng thời gian thư giãn nhẹ nhàng cho bạn!...",
+       "publishedAt": "2019-04-11T23:07:54.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Casino (Audiobook 81)",
+       "description": "Audio Book 81 - Casino Truyện Dài: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ©2019 ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/QV2Daxd1360/default.jpg",
+         "url": "https://i.ytimg.com/vi/oJFB_J5Py7o/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/QV2Daxd1360/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/oJFB_J5Py7o/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/QV2Daxd1360/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/oJFB_J5Py7o/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Xả Xì Chét",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/-uR3Sz440DeuXpXeJHNGdymod44\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/yh9WaAWWeZBARpLRM9stl_D9jcM\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "nJWg8u3jcds"
+       "videoId": "5l1sWTLPTvQ"
       },
       "snippet": {
-       "publishedAt": "2020-04-19T05:40:13.000Z",
-       "channelId": "UCGp8KQ0PpxmBZtgJft5mTCA",
-       "title": "Truyện Cười Nguyễn Ngọc Ngạn - Nghe Mà Không Ngậm Được Mồm",
-       "description": "Truyện Cười Nguyễn Ngọc Ngạn - Nghe Mà Không Ngậm Được Mồm Truyện Cười Nguyễn Ngọc Ngạn - Nghe Mà Không Ngậm Được Mồm.",
+       "publishedAt": "2019-04-11T23:07:54.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn Truyện Ma | Bóng Ma Bên Cửa (Audio Book 69)",
+       "description": "Audio Book 69 - Bóng Ma Bên Cửa Truyện Ma: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/nJWg8u3jcds/default.jpg",
+         "url": "https://i.ytimg.com/vi/5l1sWTLPTvQ/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/nJWg8u3jcds/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/5l1sWTLPTvQ/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/nJWg8u3jcds/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/5l1sWTLPTvQ/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Remix Vn1",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/F-6viLJB7Mg9Tl6POA3ixZSgTC8\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/rCJLniZ9jDN3gs_uIbO_N-Cme1E\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "rnF2PZi5Xes"
+       "videoId": "wpBJYOv7nP8"
       },
       "snippet": {
-       "publishedAt": "2015-12-19T10:59:43.000Z",
-       "channelId": "UC7nMrW3baKp0dA5Tz9ulVYQ",
-       "title": "Gloria 1 | Cao Cung Len (Full Program)",
-       "description": "Paris By Night Gloria Part Full Program. Thâu hình ngày 13 tháng 12 năm 2013 tại St. Barbara Catholic Church. MC Nguyễn Ngọc Ngạn. Singers: Bằng Kiều, ...",
+       "publishedAt": "2019-06-17T19:23:20.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Phòng Mạch (Audiobook 12)",
+       "description": "Audio Book 12 - Phòng Mạch Truyện Ngắn: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ©2019 ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/rnF2PZi5Xes/default.jpg",
+         "url": "https://i.ytimg.com/vi/wpBJYOv7nP8/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/rnF2PZi5Xes/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/wpBJYOv7nP8/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/rnF2PZi5Xes/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/wpBJYOv7nP8/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Thuy Nga",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Ot3arvDrJfhq0HF09BKAQa-eMwo\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/11zhEiCd3xwaFiiuBC7H6kREaLQ\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "-YehFUO40fY"
+       "videoId": "PMiXXz1WxVU"
       },
       "snippet": {
-       "publishedAt": "2016-06-26T01:33:46.000Z",
-       "channelId": "UCDub9YOEM-5wLS3by1BkxmA",
-       "title": "Truyện Cười | Binladen và Bóng đá P100-104 | Tạp Chí Dép Tổ Ong",
-       "description": "Tạp Chí Dép Tổ Ong - Tập hợp các loại truyện cười ngắn được đọc với phong cách hài hước dí dỏm, hi vọng sẽ mang lại 1 khoảng thời gian thư giãn...",
+       "publishedAt": "2019-04-11T23:07:55.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | May Mà Có Em (Audiobook 86)",
+       "description": "Audio Book 86 - May Mà Có Em Truyện Dài: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ©2019 ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/-YehFUO40fY/default.jpg",
+         "url": "https://i.ytimg.com/vi/PMiXXz1WxVU/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/-YehFUO40fY/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/PMiXXz1WxVU/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/-YehFUO40fY/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/PMiXXz1WxVU/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Tạp chí Dép Tổ Ong - Truyện",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/t_btZwJgIIY7UVyiaFwsxupw-64\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/i5j5qDyBEgCt75RQJuM2pYqFNrQ\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "ZUXSRlfjFdw"
+       "videoId": "pI7B58f4olM"
       },
       "snippet": {
-       "publishedAt": "2020-05-01T04:00:17.000Z",
-       "channelId": "UCLdFEfnY0XtRaNGcrK9X9qw",
-       "title": "2 Thánh Giả Giọng NGUYỄN NGỌC NGẠN Gặp Nhau Trong PUBG Mobile Thì Game Hóa PHIM HÀI | PUBG Mobile",
-       "description": "2 Thánh Giả Giọng NGUYỄN NGỌC NGẠN Gặp Nhau Trong PUBG Mobile Thì Game Hóa PHIM HÀI | PUBG Mobile ✅Đăng Ký Kênh: ...",
+       "publishedAt": "2019-04-20T18:15:13.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Tình Muộn (Audiobook 16)",
+       "description": "Audio Book 16 - Tình Muộn Truyện Xã Hội: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ©2019 ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/ZUXSRlfjFdw/default.jpg",
+         "url": "https://i.ytimg.com/vi/pI7B58f4olM/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/ZUXSRlfjFdw/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/pI7B58f4olM/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/ZUXSRlfjFdw/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/pI7B58f4olM/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "KhánhZumBa Gamming",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      },
      {
       "kind": "youtube#searchResult",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ox2Fc2bj3kV8h4inXanCO3D5yYs\"",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/q4Vcfwuj-bKxvtrAGPatKNNZ5vI\"",
       "id": {
        "kind": "youtube#video",
-       "videoId": "8QpEcUe9t_4"
+       "videoId": "qcS4EEiv-7Q"
       },
       "snippet": {
-       "publishedAt": "2016-12-18T01:00:00.000Z",
-       "channelId": "UCekciTSRY7YZzfvIExSOQHw",
-       "title": "Truyện Cười -  Truyện cười người lớn  -  Truyện cười việt nam mới nhất 2016 - p2",
-       "description": "Truyện Cười viet nam là nơi mang lai cho ban phut giay thu gian cuoi sang khoai,Truyện Cười ,Truyện cười người lớn hay và mới nhất được cập nhật hàng ...",
+       "publishedAt": "2019-04-11T23:12:04.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Xóm Đạo - Phần 1 (Audiobook 54-2)",
+       "description": "Audio Book 54-2 - Xóm Đạo (Phần 1) Truyện Dài: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ...",
        "thumbnails": {
         "default": {
-         "url": "https://i.ytimg.com/vi/8QpEcUe9t_4/default.jpg",
+         "url": "https://i.ytimg.com/vi/qcS4EEiv-7Q/default.jpg",
          "width": 120,
          "height": 90
         },
         "medium": {
-         "url": "https://i.ytimg.com/vi/8QpEcUe9t_4/mqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/qcS4EEiv-7Q/mqdefault.jpg",
          "width": 320,
          "height": 180
         },
         "high": {
-         "url": "https://i.ytimg.com/vi/8QpEcUe9t_4/hqdefault.jpg",
+         "url": "https://i.ytimg.com/vi/qcS4EEiv-7Q/hqdefault.jpg",
          "width": 480,
          "height": 360
         }
        },
-       "channelTitle": "Truyện Cười Việt Nam",
+       "channelTitle": "Nguyễn Ngọc Ngạn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/vtPe22KFHnHqRDKS8lsbZ07s6iE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "FCxDaJ7S--Y"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-11T23:07:54.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Đợi Ngày Ly Hôn (Audiobook 83)",
+       "description": "Audio Book 83 - Đợi Ngày Ly Hôn Truyện Dài: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/FCxDaJ7S--Y/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/FCxDaJ7S--Y/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/FCxDaJ7S--Y/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Ngọc Ngạn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/78n4N13Jly6TgEWPG51HgOUSwrI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "qEi05najAb8"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-11T23:07:54.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Gà Trống Nuôi Con (Audiobook 78)",
+       "description": "Audio Book 78 - Gà Trống Nuôi Con Truyện Tình Cảm Xã Hội: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/qEi05najAb8/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/qEi05najAb8/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/qEi05najAb8/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Ngọc Ngạn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/JG5oEm3fzvZrVeZaxKLIgdeKCUs\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "pNhVd18Whzk"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-11T23:12:04.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Bên Hành Lang Tòa Án (Audiobook 43)",
+       "description": "Audio Book 43 - Bên Hành Lang Tòa Án Truyện Ngắn: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/pNhVd18Whzk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/pNhVd18Whzk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/pNhVd18Whzk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Ngọc Ngạn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/0KvytmCIgdDMjGw0pSYdhOH9axE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "RDOjp7PPdNE"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-11T23:07:54.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Dòng Mực Củ - Phần 2 (Audiobook 72)",
+       "description": "Audio Book 72 - Dòng Mực Củ (Phần 2) Truyện Dài: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/RDOjp7PPdNE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/RDOjp7PPdNE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/RDOjp7PPdNE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Ngọc Ngạn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/XamQ2OlLl_ucko0zPIELZE7CS1E\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Oib38csUcf0"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-11T23:12:05.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Đa Thê (Audiobook 60)",
+       "description": "Audio Book 60 - Đa Thê Truyện Ngắn: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ©2019 ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Oib38csUcf0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Oib38csUcf0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Oib38csUcf0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Ngọc Ngạn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/XmKdB4nAyAkG0QMlwJ2HLIWPqiI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "uYjZ_yK9_1k"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-11T23:07:54.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Nỗi Sầu Sâu Kín (Audiobook 65)",
+       "description": "Audio Book 65 - Nỗi Sầu Sâu Kín Truyện Ngắn: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/uYjZ_yK9_1k/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/uYjZ_yK9_1k/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/uYjZ_yK9_1k/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Ngọc Ngạn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/13EF9Ob6rSRJb49aWLiH6Fqwpak\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "H5CpHo947Tk"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-11T23:07:54.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Nước Mắt Đàn Ông (Audiobook 82)",
+       "description": "Audio Book 82 - Nước Mắt Đàn Ông Truyện Dài: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/H5CpHo947Tk/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/H5CpHo947Tk/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/H5CpHo947Tk/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Ngọc Ngạn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/BqpiHRlENKszfjfP0gFphpdMEUU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "fq42DT4k6NE"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-11T23:10:33.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Cõi Đêm - Phần 1 (Audiobook 27)",
+       "description": "Audio Book 27 - Cõi Đêm (Phần 1) Truyện Tình Cảm Xã Hội: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/fq42DT4k6NE/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/fq42DT4k6NE/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/fq42DT4k6NE/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Ngọc Ngạn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/XxUnO4kW7OLZ2cGOH4C0cxpGW_U\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "BqyUlXKJ6kQ"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-11T23:10:33.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Dốc Đứng (Audiobook 33)",
+       "description": "Audio Book 33 - Dốc Đứng Truyện Ngắn: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ©2019 ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/BqyUlXKJ6kQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/BqyUlXKJ6kQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/BqyUlXKJ6kQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Ngọc Ngạn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/MLzSUc37eYcqXM61knV5j40wcK4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "jBO4Q8pKfgQ"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-11T23:12:04.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Gặp Gỡ Lần Đầu (Audiobook 35)",
+       "description": "Audio Book 35 - Gặp Gỡ Lần Đầu Truyện Ngắn: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Ái Vân #thuynga #audiobook #nguyenngocngan ©2019 ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/jBO4Q8pKfgQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/jBO4Q8pKfgQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/jBO4Q8pKfgQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Ngọc Ngạn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ePubDaOnSZ2tFwTJKhbQAn7GPmg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "A2nFfOcO140"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-11T23:07:54.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Khúc Quanh Một Chuyện Tình (Audiobook 85)",
+       "description": "Audio Book 85 - Khúc Quanh Một Chuyện Tình Truyện Dài: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/A2nFfOcO140/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/A2nFfOcO140/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/A2nFfOcO140/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Ngọc Ngạn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/TYQu_qBW7aEUFpJX1dt972pMppE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "oTE3_XJMNtM"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-11T23:07:54.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Hồn Về Trong Gió (Audiobook 64)",
+       "description": "Audio Book 64 -Hồn Về Trong Gió Truyện Ma: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/oTE3_XJMNtM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/oTE3_XJMNtM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/oTE3_XJMNtM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Ngọc Ngạn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/AndExohnVG_asa5ST44sKUtuGxo\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "8Tu9sN6dBqY"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-11T23:10:33.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Ven Rừng (Audiobook 7)",
+       "description": "Audio Book 7 - Ven Rừng Truyện Ngắn: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ©2019 ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/8Tu9sN6dBqY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/8Tu9sN6dBqY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/8Tu9sN6dBqY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Ngọc Ngạn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/kk4GoFArX4XT2bFgQWh3iU7j5qM\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "H8Ded9faV7A"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-11T23:07:54.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Ngôi Nhà Phong Thủy (Audiobook 77)",
+       "description": "Audio Book 77 - Ngôi Nhà Phong Thủy Truyện Ngắn: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn, Hồng Đào & Nguyễn Cao Kỳ Duyên #thuynga ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/H8Ded9faV7A/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/H8Ded9faV7A/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/H8Ded9faV7A/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Ngọc Ngạn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wMZ_Oghf7TdO04-1S7NoD_9v3oE\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "QQyxCGrYTbo"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-11T23:07:54.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Nghề Tay Trái (Audiobook 84)",
+       "description": "Audio Book 84 - Nghề Tay Trái Truyện Dài: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ©2019 ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/QQyxCGrYTbo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/QQyxCGrYTbo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/QQyxCGrYTbo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Ngọc Ngạn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/iQ6Vnq9bVR522HxmtMgJjgltkKA\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "lI_I1xz-RJw"
+      },
+      "snippet": {
+       "publishedAt": "2019-05-21T20:23:25.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Nước Đục - Phần 1 (Audiobook 59)",
+       "description": "Audio Book 59 - Nước Đục (Phần 1) Truyện Dài: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn, Hồng Đào & Chí Tài #thuynga #audiobook ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/lI_I1xz-RJw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/lI_I1xz-RJw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/lI_I1xz-RJw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Ngọc Ngạn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/H80zga35rqtYNByND4Gg6cfeucQ\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "2qTlq6nH6uw"
+      },
+      "snippet": {
+       "publishedAt": "2019-12-05T01:45:45.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn - Đếm Những Mảnh Tình  (Audiobook 31)",
+       "description": "Truyện Dài: Nguyễn Ngọc Ngạn Đếm Những Mảnh Tình (Audiobook 31) Giọng Đọc: Nguyễn Ngọc Ngạn, Thanh Lan, & Ái Vân #thuynga #audiobook ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/2qTlq6nH6uw/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/2qTlq6nH6uw/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/2qTlq6nH6uw/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Ngọc Ngạn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/FLG79i_OyyhKQLyakScNukt9iE4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "sWPTA7gRE5M"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-23T23:21:41.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Cây Trứng Cá (Audiobook 21)",
+       "description": "Audio Book 21 - Cây Trứng Cá Truyện Ngắn: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Ái Vân #thuynga #audiobook #nguyenngocngan ©2019 ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/sWPTA7gRE5M/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/sWPTA7gRE5M/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/sWPTA7gRE5M/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Ngọc Ngạn",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/fmAZtzKKFElD6xqJ-zmlHtAGdN4\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "Me1pL-fXdSY"
+      },
+      "snippet": {
+       "publishedAt": "2019-04-11T23:12:04.000Z",
+       "channelId": "UCbQFf_LKQcgCZW1LoVICnZg",
+       "title": "Nguyễn Ngọc Ngạn | Khu Phố Chợ Trời (Audiobook 47)",
+       "description": "Audio Book 47 - Khu Phố Chợ Trời Truyện Ngắn: Nguyễn Ngọc Ngạn Giọng Đọc: Nguyễn Ngọc Ngạn & Hồng Đào #thuynga #audiobook #nguyenngocngan ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Me1pL-fXdSY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Me1pL-fXdSY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Me1pL-fXdSY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Nguyễn Ngọc Ngạn",
        "liveBroadcastContent": "none"
       }
      }
