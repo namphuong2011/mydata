@@ -1,0 +1,338 @@
+{"title":"Nhạc Bolero",
+  "bannner1":"1",
+  "bannner":"0",
+  "inter":"1",
+  "functions":[
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/recent",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Góp ý",
+          "bgcolor":"0x33691e",
+          "function":"rate",
+          "urlComment":"https://www.facebook.com/nhacvangmuonthuo.ios/posts/261386361181528",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=karaoke+bolero&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
+          ]
+      }],
+  "tabs":[
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/anhtukhanhha.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Anh Tú & Khánh Hà hải ngoại",
+          "bgcolor":"0x673ab7",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "tuy%E1%BB%83n%20t%E1%BA%ADp%20h%E1%BA%A3i%20ngo%E1%BA%A1i%20anh%20t%C3%BA%20kh%C3%A1nh%20h%C3%A0"}
+              
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/mrdam.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Mr Đàm",
+          "bgcolor":"0x673ab7",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "%C4%91%C3%A0m%20v%C4%A9nh%20h%C6%B0ng%20tuy%E1%BB%83n%20t%E1%BA%ADp%20nh%E1%BB%AFng%20b%C3%A0i%20h%C3%A1t%20hay%20nh%E1%BA%A5t"},
+              {"value": "tuy%E1%BB%83n%20ch%E1%BB%8Dn%20%C4%91%C3%A0m%20v%C4%A9nh%20h%C6%B0ng"}
+              
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/lequen.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Lệ Quyên hay nhất",
+          "bgcolor":"0xe64a19",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=l%E1%BB%87+quy%C3%AAn+hay+nh%E1%BA%A5t&type=video&videoDuration=long&key=AIzaSyDTxncdtB5fcgTz1nq2P-J6VIqy5Vyv1ws"},
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=tuy%E1%BB%83n%20ch%E1%BB%8Dn%20l%E1%BB%87%20quy%C3%AAn%20bolero&type=video&videoDuration=long&key=AIzaSyCcov2m-cMIeuR1REO4oUcmipAmIAnDS1U"}
+              
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/nhaclinhbolero.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Nhạc lính bolero song ca",
+          "bgcolor":"0x004d40",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nhac+linh+bolero+song+ca&key=AIzaSyB0fnQzK5IlX1RyJv4-pWhIOuaNIFDGdTI"}
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/dannguyen.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Đan Nguyên",
+          "bgcolor":"0xffca28",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=%C4%91an+nguy%C3%AAn+bolero&type=video&videoDuration=long&videoDefinition=high&key=AIzaSyB0fnQzK5IlX1RyJv4-pWhIOuaNIFDGdTI"}
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/nguyenngocngan.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Nguyễn Ngọc Ngạn",
+          "bgcolor":"0x33691e",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&channelId=UCbQFf_LKQcgCZW1LoVICnZg&q=nguy%E1%BB%85n+ng%E1%BB%8Dc+ng%E1%BA%A1n&key=AIzaSyD4rLpdk2sE4Z9NNgYuVbaZSp-tJSRX69w"}
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/liveshowphongtra.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Liveshow phòng trà",
+          "bgcolor":"0x8e24aa",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=live+show+ph%C3%B2ng+tr%C3%A0&key=AIzaSyD4rLpdk2sE4Z9NNgYuVbaZSp-tJSRX69w"}
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/cdnhacxua.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "CD Nhạc xưa",
+          "bgcolor":"0xAA8739",
+          "txtcolor":"0xfafafa",
+          "urlComment":"https://www.facebook.com/nhacvangmuonthuo.ios/posts/323016138351883",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&videoEmbeddable=true&videoSyndicated=true&q=cd+nh%E1%BA%A1c+x%C6%B0a+asia+lossless+bolero+vi%E1%BB%87t+nam&type=video&videoDuration=long&key=AIzaSyB0fnQzK5IlX1RyJv4-pWhIOuaNIFDGdTI"}
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/hohoangyen.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Hồ Hoàng Yến",
+          "bgcolor":"0xe91e63",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=h%E1%BB%93+ho%C3%A0ng+y%E1%BA%BFn+asia+live+show&key=AIzaSyCOlYEJvxSiASSxV33iB2C1gONbjqbIlZc"}
+          ]
+      },
+      
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/casitrephuonganh.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Ca sĩ trẻ bolero 1",
+          "bgcolor":"0x673ab7",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nhac+bolero+tr%E1%BA%BB+tr%C6%B0%C6%A1ng+nh%C6%B0+%C3%BD&key=AIzaSyB0fnQzK5IlX1RyJv4-pWhIOuaNIFDGdTI"}
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/parisbyn-ight.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Paris By Night",
+          "bgcolor":"0x651fff",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=h%C3%A0nh+tr%C3%ACnh+35+n%C4%83m+c%C3%B9ng+thu%C3%BD+nga+paris+by+night&type=video&videoDuration=long&key=AIzaSyD4rLpdk2sE4Z9NNgYuVbaZSp-tJSRX69w"}
+              
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/tinhcanamthang.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Tình ca năm tháng",
+          "bgcolor":"0x651fff",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&videoEmbeddable=true&videoSyndicated=true&channelId=UCddGOcCVTtjY240yyEG2p_g&q=song+ca&type=video&videoDuration=long&key=AIzaSyAssrlq4Gtk69ubfH7vkTNU7FfYvHQqjNU"}
+          ]
+      },
+      
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/tuyenchonsongca.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Tuyển song ca",
+          "bgcolor":"0x03a9f4",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=L%C3%AA+Sang%2C+L%C6%B0u+%C3%81nh+Loan%2C+Randy%2C+Gi%C3%A1ng+Ti%C3%AAn+-+Tuy%E1%BB%83n+T%E1%BA%ADp+Nh%E1%BA%A1c+Song+Ca+Tr%E1%BB%AF+T%C3%ACnh+Bolero+M%E1%BB%9Bi+V%C3%A0+Hay+Nh%E1%BA%A5t&key=AIzaSyAssrlq4Gtk69ubfH7vkTNU7FfYvHQqjNU"}
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/nhacthinhphong.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Nhạc Thính Phòng",
+          "urlComment":"https://www.facebook.com/nhacvangmuonthuo.ios/posts/300783263908504",
+          "bgcolor":"0xb71685",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&videoEmbeddable=true&videoSyndicated=true&q=nh%E1%BA%A1c+s%C4%A9+tu%E1%BA%A5n+khanh+paris+by+night&type=video&videoDuration=long&key=AIzaSyCOlYEJvxSiASSxV33iB2C1gONbjqbIlZc"}
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/lienkhucxuan2020.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Liên khúc xuân 2019 kỷ hợi",
+          "bgcolor":"0xe53935",
+          "txtcolor":"0xfafafa",
+          "urlComment":"https://www.facebook.com/nhacvangmuonthuo.ios/posts/261386361181528",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyAssrlq4Gtk69ubfH7vkTNU7FfYvHQqjNU"}
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/giangtu.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Giọng ca dĩ vãng 2",
+          "bgcolor":"0x673ab7",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+bolero+giang+t%E1%BB%AD&key=AIzaSyDxz_fjtOO0pbsMnGrjjyGQgWk2E0waB9I"}
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/casitrehattanco.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Ca sĩ trẻ tân cổ",
+          "bgcolor":"0xec407a",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=ca+s%C4%A9+tr%E1%BA%BB+h%C3%A1t+t%C3%A2n+c%E1%BB%95&key=AIzaSyDxz_fjtOO0pbsMnGrjjyGQgWk2E0waB9I"}
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/tinhca.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Tình ca trữ tình trẻ",
+          "bgcolor":"0xffca28",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&channelId=UCFQoQdXRFAkd3OeVhKKAhrA&q=t%C3%ACnh+ca&type=video&videoDuration=long&videoDefinition=high&key=AIzaSyCl52I9t0gONdiUko0Ddtr5EkAzFe8xxWo"}
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/daiphuongtrang.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Nỗi buồn gác trọ",
+          "bgcolor":"0xf4511e",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=nh%E1%BA%A1c+s%C4%A9+m%E1%BA%A1nh+ph%C3%A1t&type=video&videoDuration=long&key=AIzaSyDxz_fjtOO0pbsMnGrjjyGQgWk2E0waB9I"}
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/thanhthuy.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Tiếng hát liêu trai",
+          "bgcolor":"0x00897b",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=tuy%E1%BB%83n+t%E1%BA%ADp+thanh+thu%C3%BD+h%E1%BA%A3i+ngo%E1%BA%A1i&key=AIzaSyDxz_fjtOO0pbsMnGrjjyGQgWk2E0waB9I"}
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/anhvietthu.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Đa Tạ",
+          "bgcolor":"0xf4511e",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=nh%E1%BA%A1c+s%C4%A9+anh+vi%E1%BB%87t+thu&type=video&videoDuration=long&key=AIzaSyDxz_fjtOO0pbsMnGrjjyGQgWk2E0waB9I"}
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/hungcuongmailequyen.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Hùng Cường Mai Lệ Huyền",
+          "bgcolor":"0xe91e63",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=mai+l%E1%BB%87+huy%E1%BB%81n+h%C3%B9ng+c%C6%B0%E1%BB%9Dng&type=video&videoDuration=long&key=AIzaSyBrAaFFoJZItEfTWi0KNm3BZlDpJy44PVc"}
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/trucphuong.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Trúc phương",
+          "bgcolor":"0x9575cd",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+tr%C3%BAc+ph%C6%B0%C6%A1ng&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+              
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/muadong.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Mùa Đông",
+          "bgcolor":"0x8d6e63",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+m%C3%B9a+%C4%91%C3%B4ng&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+              
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/contuoinaochoem.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Còn tuổi nào cho em",
+          "bgcolor":"0xab47bc",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+li%C3%AAn+kh%C3%BAc+cha+cha+cha&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+              
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/nhactapgym.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Nhạc Tập Gym",
+          "bgcolor":"0xff5722",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+t%E1%BA%ADp+gym&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+              
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/lamviectaptrung.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Làm việc tập trung",
+          "bgcolor":"0xff3d00",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+nghe+t%E1%BA%ADp+trung+l%C3%A0m+vi%E1%BB%87c&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+              
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/karaokenhacsoong.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Karaoke Trữ Tình",
+          "bgcolor":"0x4caf50",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=karaoke+hi%E1%BA%BFu+organ&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=karaoke+%C4%91a%E1%BB%8B+nghi%E1%BB%87p&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+              
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/vuthanhan.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Vũ Thành An",
+          "bgcolor":"0x7c4dff",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=v%C5%A9+th%C3%A0nh+an&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+          ]
+      },
+      {
+          "id":"https://raw.githubusercontent.com/namphuong2011/mydata/test/tango.json",
+          "thumblink":"https://www.youtube.com/watch?v=v5_7QAOKJgg",
+          "header": "Tango hay nhất",
+          "bgcolor":"0xff3d00",
+          "txtcolor":"0xfafafa",
+          "items": [
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=tuy%E1%BB%83n+t%E1%BA%ADp+tango+hay+nh%E1%BA%A5t&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"},
+              {"value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=tango+li%C3%AAn+kh%C3%BAc&key=AIzaSyCMV4UkQzuG2kvXGfu_4FqNvFtrX5lRV1A"}
+          ]
+      }]
+}
